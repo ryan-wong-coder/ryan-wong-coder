@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ea7ab22e0c4ebf33be3388084fe2a24c59d1cf70">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-71907f2f9d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-71907f2f9d-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate inline stream chunk bytes" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-71907f2f9d-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/24e4a548b2df2bbc47d86bdaabbf3d50f9495a1b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-5e486853da-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-5e486853da-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate normalized package paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-5e486853da-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/5b5f6cc79df82fbc2606bee2f3a954b291d8faeb">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-c59a318be6-dark.svg" />
@@ -44,24 +62,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-4936dedad4-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-4936dedad4-light.svg" />
     <img alt="COMMIT: fix(plugins): validate stream credit limits" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-4936dedad4-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/4d5e489f19d1ca63c5bd2a2af79d25efcf15dd96">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d5e489-7f011bd450-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d5e489-7f011bd450-light.svg" />
-    <img alt="COMMIT: fix(plugins): inspect validated stdio frames" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d5e489-7f011bd450-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/5c8e932060f6a4ccc1d45c8007eec919424c59b3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-de5c00715c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-de5c00715c-light.svg" />
-    <img alt="COMMIT: fix(plugins): bound wire protocol integers" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-de5c00715c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
