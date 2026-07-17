@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f980fd9433c0a18a0785967b21089e9d2d9bf0f6">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f980fd9-22a0f958c2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f980fd9-22a0f958c2-light.svg" />
+    <img alt="COMMIT: fix(plugins): expose opaque secret references" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f980fd9-22a0f958c2-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3120045cba67785428fdbc7613d30d87725ef94b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3120045-a5ae948a37-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3120045-a5ae948a37-light.svg" />
+    <img alt="COMMIT: fix(plugins): cap manifest reads before loading" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3120045-a5ae948a37-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/b27b285c599de16c6ab682e21fae3082c5ee3ef7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b27b285-95826a6559-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b27b285-95826a6559-light.svg" />
+    <img alt="COMMIT: fix(plugins): bound protocol JSON complexity" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b27b285-95826a6559-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/1311ecd69c2c7c612234794fbb05cc346d7796a8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1311ecd-3ba97bbe3d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1311ecd-3ba97bbe3d-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden package archive identity" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1311ecd-3ba97bbe3d-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/24b3f129d7b53c7a0f056fec006a560bce698a2b">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24b3f12-f83dfcbf9a-dark.svg" />
@@ -30,47 +66,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/2048d610d811d92dbf439a3105b26c7a11395724">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2048d61-a46cb239b6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2048d61-a46cb239b6-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden RPC and transfer validation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2048d61-a46cb239b6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/4d19754376bc8013e9eb6280184a923cfea6cac5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d19754-3a37945f6a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d19754-3a37945f6a-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden stream transport boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d19754-3a37945f6a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ff35efa9f2e906189b70dcc762b92f60df40b12a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ff35efa-54133c8922-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ff35efa-54133c8922-light.svg" />
-    <img alt="COMMIT: fix(plugins): complete foundational plugin contract" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ff35efa-54133c8922-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/binaricat/Netcatty/issues/2288">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-924c342c7a-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-924c342c7a-light.svg" />
     <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-924c342c7a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/1174b5cec512a7bc1de52dbeacadc11626e76a49">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-22a4c7d7cb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-22a4c7d7cb-light.svg" />
-    <img alt="COMMIT: fix(plugins): reject duplicate companion paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-22a4c7d7cb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
