@@ -10,6 +10,7 @@ import os
 import re
 import textwrap
 import urllib.error
+import urllib.parse
 import urllib.request
 from collections import Counter
 from datetime import datetime, timedelta, timezone
@@ -19,6 +20,15 @@ from zoneinfo import ZoneInfo
 
 USERNAME = os.getenv("PROFILE_USERNAME", "ryan-wong-coder")
 TOKEN = os.getenv("GITHUB_TOKEN", "")
+COMMIT_AUTHORS = tuple(
+    dict.fromkeys(
+        author.strip()
+        for author in os.getenv(
+            "PROFILE_COMMIT_AUTHORS", f"{USERNAME},Siyuan-Wong"
+        ).split(",")
+        if author.strip()
+    )
+)
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
 ACTIVITY_CARDS = ASSETS / "activity-cards"
@@ -242,6 +252,15 @@ def truncate(value: str, length: int) -> str:
     return value[: length - 1].rstrip() + "…"
 
 
+def compact_number(value: int) -> str:
+    number = int(value or 0)
+    for threshold, suffix in ((1_000_000, "M"), (1_000, "K")):
+        if number >= threshold:
+            compact = f"{number / threshold:.1f}".rstrip("0").rstrip(".")
+            return f"{compact}{suffix}"
+    return str(number)
+
+
 def activity_is_excluded(repository: str, title: str = "") -> bool:
     repository_name = repository.rsplit("/", 1)[-1]
     if repository_name in EXCLUDED_REPOSITORIES:
@@ -372,6 +391,156 @@ def recent_activity(events: list[dict]) -> list[dict]:
 
     items.sort(key=lambda item: item["created_at"], reverse=True)
     return items[:12]
+
+
+def enrich_activity_repositories(items: list[dict]) -> list[dict]:
+    repositories: dict[str, dict] = {}
+    for repository in dict.fromkeys(item["repository"] for item in items):
+        detail = github_get(f"/repos/{repository}")
+        repositories[repository] = detail if isinstance(detail, dict) else {}
+
+    for item in items:
+        detail = repositories.get(item["repository"], {})
+        upstream_detail = detail.get("source") or detail.get("parent") or {}
+        upstream = upstream_detail.get("full_name")
+        item["repository_stars"] = int(detail.get("stargazers_count") or 0)
+        item["repository_forks"] = int(detail.get("forks_count") or 0)
+        item["repository_language"] = detail.get("language") or "Mixed"
+        item["repository_is_fork"] = bool(detail.get("fork"))
+        item["repository_upstream"] = upstream or ""
+        item["repository_upstream_stars"] = int(
+            upstream_detail.get("stargazers_count") or 0
+        )
+        item["repository_upstream_forks"] = int(upstream_detail.get("forks_count") or 0)
+    return items
+
+
+def search_all(endpoint: str, query: str, sort: str, limit: int = 500) -> list[dict]:
+    items: list[dict] = []
+    page = 1
+    while len(items) < limit and page <= 10:
+        params = urllib.parse.urlencode(
+            {
+                "q": query,
+                "sort": sort,
+                "order": "desc",
+                "per_page": 100,
+                "page": page,
+            }
+        )
+        result = github_get(f"/search/{endpoint}?{params}")
+        if not isinstance(result, dict):
+            break
+        batch = result.get("items") or []
+        if not isinstance(batch, list) or not batch:
+            break
+        items.extend(batch)
+        if len(batch) < 100:
+            break
+        page += 1
+    return items[:limit]
+
+
+def activity_archive(limit: int = 500) -> list[dict]:
+    archive: list[dict] = []
+    seen: set[tuple[str, str]] = set()
+
+    commits = []
+    for author in COMMIT_AUTHORS:
+        commits.extend(search_all("commits", f"author:{author}", "author-date", limit))
+    for item in commits:
+        repository = (item.get("repository") or {}).get("full_name", "")
+        title = ((item.get("commit") or {}).get("message") or "").splitlines()[0]
+        sha = item.get("sha") or ""
+        created_at = (
+            ((item.get("commit") or {}).get("author") or {}).get("date")
+            or ((item.get("commit") or {}).get("committer") or {}).get("date")
+            or ""
+        )
+        url = item.get("html_url") or (f"https://github.com/{repository}/commit/{sha}" if repository and sha else "")
+        key = ("commit", url)
+        if not repository or not title or not created_at or not url or key in seen:
+            continue
+        if activity_is_excluded(repository, title):
+            continue
+        archive.append(
+            {
+                "kind": "commit",
+                "action": "COMMIT",
+                "created_at": created_at,
+                "repository": repository,
+                "title": title,
+                "url": url,
+                "reference": sha[:7],
+                "context": "authored commit",
+            }
+        )
+        seen.add(key)
+
+    pull_requests = search_all("issues", f"author:{USERNAME} is:pr", "created", limit)
+    for item in pull_requests:
+        repository_url = item.get("repository_url") or ""
+        repository = "/".join(repository_url.rstrip("/").split("/")[-2:])
+        title = item.get("title") or ""
+        number = str(item.get("number") or "")
+        pull_request = item.get("pull_request") or {}
+        merged_at = pull_request.get("merged_at")
+        state = (item.get("state") or "open").lower()
+        action = "merged" if merged_at else state
+        created_at = merged_at or item.get("closed_at") or item.get("created_at") or ""
+        url = item.get("html_url") or pull_request.get("html_url") or ""
+        key = ("pr", url)
+        if not repository or not title or not number or not created_at or not url or key in seen:
+            continue
+        if activity_is_excluded(repository, title):
+            continue
+        archive.append(
+            {
+                "kind": "pr",
+                "action": f"PR {action.upper()}",
+                "created_at": created_at,
+                "repository": repository,
+                "title": title,
+                "url": url,
+                "reference": f"#{number}",
+                "context": action,
+            }
+        )
+        seen.add(key)
+
+    issues = search_all("issues", f"author:{USERNAME} is:issue", "created", limit)
+    for item in issues:
+        repository_url = item.get("repository_url") or ""
+        repository = "/".join(repository_url.rstrip("/").split("/")[-2:])
+        title = item.get("title") or ""
+        number = str(item.get("number") or "")
+        state = (item.get("state") or "open").lower()
+        created_at = item.get("closed_at") or item.get("created_at") or ""
+        url = item.get("html_url") or ""
+        key = ("issue", url)
+        if not repository or not title or not number or not created_at or not url or key in seen:
+            continue
+        if activity_is_excluded(repository, title):
+            continue
+        archive.append(
+            {
+                "kind": "issue",
+                "action": f"ISSUE {state.upper()}",
+                "created_at": created_at,
+                "repository": repository,
+                "title": title,
+                "url": url,
+                "reference": f"#{number}",
+                "context": state,
+            }
+        )
+        seen.add(key)
+
+    def sort_key(item: dict) -> datetime:
+        return datetime.fromisoformat(item["created_at"].replace("Z", "+00:00")).astimezone(timezone.utc)
+
+    archive.sort(key=sort_key, reverse=True)
+    return archive[:limit]
 
 
 def month_keys(now: datetime) -> list[str]:
@@ -615,10 +784,13 @@ def parse_event_time(value: str) -> datetime:
 
 
 def activity_markdown(items: list[dict]) -> str:
+    counts = Counter(item["kind"] for item in items)
     lines = [
         "# Recent public GitHub activity",
         "",
-        "> Automatically generated from GitHub's public Events API. Times use Asia/Shanghai (UTC+8).",
+        "> Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).",
+        "",
+        f'**{len(items)} entries** · {counts["commit"]} commits · {counts["pr"]} pull requests · {counts["issue"]} issues · newest first · maximum 500',
         "",
         "| Time | Type | Repository | Activity |",
         "| --- | --- | --- | --- |",
@@ -696,36 +868,53 @@ def activity_card_svg(item: dict, mode: str) -> str:
     c = THEMES[mode]
     color = {"commit": c["blue"], "pr": c["purple"], "issue": c["orange"]}[item["kind"]]
     event_time = parse_event_time(item["created_at"])
-    title = truncate(item["title"], 94)
-    metadata = f'{item["repository"]}  ·  {item["reference"]}  ·  {truncate(item["context"], 38)}'
+    project = truncate(item["repository"], 56)
+    title = truncate(item["title"], 106)
+    language = truncate(str(item.get("repository_language") or "Mixed").upper(), 18)
+    upstream = item.get("repository_upstream") or ""
+    if item.get("repository_is_fork") and upstream:
+        stars = compact_number(item.get("repository_upstream_stars", 0))
+        forks = compact_number(item.get("repository_upstream_forks", 0))
+        metrics = f"UPSTREAM STARS {stars}  ·  FORKS {forks}  ·  {language}"
+        provenance = f"FORK  ·  UPSTREAM // {truncate(upstream, 58)}"
+    else:
+        stars = compact_number(item.get("repository_stars", 0))
+        forks = compact_number(item.get("repository_forks", 0))
+        metrics = f"STARS {stars}  ·  FORKS {forks}  ·  {language}"
+        provenance = "ORIGINAL REPOSITORY"
+    activity_meta = f'{item["reference"]}  ·  {truncate(item["context"], 32)}'
     shape = (
-        f'<circle cx="58" cy="65" r="10" fill="{color}"/>'
+        f'<circle cx="55" cy="82" r="10" fill="{color}"/>'
         if item["kind"] == "commit"
-        else f'<rect x="49" y="56" width="18" height="18" rx="3" fill="{color}" transform="rotate(45 58 65)"/>'
+        else f'<rect x="46" y="73" width="18" height="18" rx="3" fill="{color}" transform="rotate(45 55 82)"/>'
         if item["kind"] == "pr"
-        else f'<rect x="49" y="56" width="18" height="18" rx="4" fill="{color}"/>'
+        else f'<rect x="46" y="73" width="18" height="18" rx="4" fill="{color}"/>'
     )
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title desc">
+    action_width = max(92, 25 + len(item["action"]) * 7.2)
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" role="img" aria-labelledby="title desc">
 <title id="title">{escape(item['action'])}: {escape(item['title'])}</title>
-<desc id="desc">{escape(metadata)}</desc>
+<desc id="desc">{escape(item['repository'])}; {escape(metrics)}; {escape(provenance)}</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="{c['panel']}"/><stop offset="1" stop-color="{c['panel2']}"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop stop-color="{color}"/><stop offset="1" stop-color="{c['pink']}"/></linearGradient>
   <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="{c['grid']}" stroke-width="1"/></pattern>
   <style>text{{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}}</style>
 </defs>
-<rect width="1200" height="130" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="130" rx="18" fill="url(#grid)" opacity=".48"/>
-<rect x="1" y="1" width="1198" height="128" rx="17" fill="none" stroke="{c['line']}"/>
-<rect width="7" height="130" rx="3.5" fill="url(#accent)"/>
+<rect width="1200" height="164" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="164" rx="20" fill="url(#grid)" opacity=".48"/>
+<rect x="1" y="1" width="1198" height="162" rx="19" fill="none" stroke="{c['line']}"/>
+<rect width="8" height="164" rx="4" fill="url(#accent)"/>
 {shape}
-<rect x="91" y="25" width="{max(92, 25 + len(item['action']) * 7.2):.1f}" height="27" rx="13.5" fill="{color}" opacity=".16"/>
-<text x="{91 + max(92, 25 + len(item['action']) * 7.2) / 2:.1f}" y="43" fill="{color}" font-size="11" font-weight="700" text-anchor="middle">{escape(item['action'])}</text>
-<text x="91" y="81" fill="{c['text']}" font-size="18" font-weight="700">{escape(title)}</text>
-<text x="91" y="105" fill="{c['muted']}" font-size="12">{escape(metadata)}</text>
+<rect x="88" y="18" width="{action_width:.1f}" height="25" rx="12.5" fill="{color}" opacity=".16"/>
+<text x="{88 + action_width / 2:.1f}" y="35" fill="{color}" font-size="11" font-weight="700" text-anchor="middle">{escape(item['action'])}</text>
 <text x="1162" y="34" fill="{c['muted']}" font-size="11" text-anchor="end">{event_time.strftime('%Y-%m-%d · %H:%M UTC+8')}</text>
-<text x="1137" y="101" fill="{color}" font-size="12" font-weight="700" text-anchor="end">OPEN</text>
-<path d="M1148 94h12v12M1148 106l12-12" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="88" y="76" fill="{c['text']}" font-size="23" font-weight="700">{escape(project)}</text>
+<text x="1162" y="72" fill="{color}" font-size="12" font-weight="700" text-anchor="end">{escape(metrics)}</text>
+<text x="88" y="108" fill="{c['muted']}" font-size="15">{escape(title)}</text>
+<text x="88" y="139" fill="{color}" font-size="11" font-weight="700">{escape(provenance)}</text>
+<text x="958" y="139" fill="{c['muted']}" font-size="11" text-anchor="end">{escape(activity_meta)}</text>
+<text x="1137" y="139" fill="{color}" font-size="12" font-weight="700" text-anchor="end">OPEN ACTIVITY</text>
+<path d="M1148 132h12v12M1148 144l12-12" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>'''
 
 
@@ -895,13 +1084,14 @@ def header_svg(mode: str) -> str:
 def main() -> None:
     ASSETS.mkdir(parents=True, exist_ok=True)
     data = prepare(graphql())
-    activity = recent_activity(fetch_public_events())
+    activity = enrich_activity_repositories(recent_activity(fetch_public_events()))
+    archive = activity_archive(500)
     discussions = published_discussions()
     generate_clickable_cards(activity, discussions)
     for mode in ("dark", "light"):
         (ASSETS / f"header-{mode}.svg").write_text(header_svg(mode), encoding="utf-8")
         (ASSETS / f"dashboard-{mode}.svg").write_text(dashboard_svg(data, mode), encoding="utf-8")
-    ACTIVITY_LOG.write_text(activity_markdown(activity), encoding="utf-8")
+    ACTIVITY_LOG.write_text(activity_markdown(archive), encoding="utf-8")
     DISCUSSIONS_LOG.write_text(discussions_markdown(discussions), encoding="utf-8")
     readme = README_PATH.read_text(encoding="utf-8")
     readme = replace_readme_section(readme, "ACTIVITY_FEED", activity_feed_html(activity))
@@ -920,6 +1110,8 @@ def main() -> None:
                 "languages": [name for name, _ in data["languages"]],
                 "activity_items": len(activity),
                 "activity_mix": dict(Counter(item["kind"] for item in activity)),
+                "archive_items": len(archive),
+                "archive_mix": dict(Counter(item["kind"] for item in archive)),
                 "discussions": len(discussions),
             },
             ensure_ascii=False,
