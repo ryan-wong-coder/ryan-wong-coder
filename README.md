@@ -23,54 +23,54 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/ea7ab22e0c4ebf33be3388084fe2a24c59d1cf70">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-69f42c2018-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-69f42c2018-light.svg" />
-    <img alt="COMMIT: fix(plugins): validate inline stream chunk bytes" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-69f42c2018-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-5d371799cb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-5d371799cb-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate inline stream chunk bytes" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ea7ab22-5d371799cb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/24e4a548b2df2bbc47d86bdaabbf3d50f9495a1b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-4633d1558c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-4633d1558c-light.svg" />
-    <img alt="COMMIT: fix(plugins): validate normalized package paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-4633d1558c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-8c920ec475-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-8c920ec475-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate normalized package paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24e4a54-8c920ec475-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/5b5f6cc79df82fbc2606bee2f3a954b291d8faeb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-650ec1cb76-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-650ec1cb76-light.svg" />
-    <img alt="COMMIT: test(plugins): lock archive inflation guard" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-650ec1cb76-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-e02fb99f3e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-e02fb99f3e-light.svg" />
+    <img alt="COMMIT: test(plugins): lock archive inflation guard" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-e02fb99f3e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/ca1eb4dd4121e9d0153d5a1a06044b057d1fd126">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-53a529e64d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-53a529e64d-light.svg" />
-    <img alt="COMMIT: fix(plugins): validate complete stream frames" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-53a529e64d-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-bbe91113af-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-bbe91113af-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate complete stream frames" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-bbe91113af-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/f9c3200aa4d171cfce941cee7a9ce6de623d2841">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-89cbb70b37-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-89cbb70b37-light.svg" />
-    <img alt="COMMIT: fix(plugins): validate stream credit limits" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-89cbb70b37-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-26b2af8ec3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-26b2af8ec3-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate stream credit limits" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-26b2af8ec3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/binaricat/Netcatty/issues/2288">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-469e2dc263-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-469e2dc263-light.svg" />
-    <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-469e2dc263-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-22674c5ac0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-22674c5ac0-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-22674c5ac0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
