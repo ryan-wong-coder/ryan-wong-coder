@@ -42,7 +42,20 @@ models into reliable products — from wire format and SDK to desktop interface.
   </picture>
 </p>
 
-## `02 // ENGINEERING TOPOLOGY`
+## `02 // RECENT WORK STREAM`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-timeline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-timeline-light.svg" />
+  <img alt="Recent commits, pull requests and issues arranged as a timeline" src="./assets/activity-timeline-light.svg" width="100%" />
+</picture>
+
+<p align="center">
+  <sub>Public activity · newest first · refreshed every six hours</sub><br />
+  <a href="./RECENT_ACTIVITY.md">Open the clickable activity log →</a>
+</p>
+
+## `03 // ENGINEERING TOPOLOGY`
 
 ```mermaid
 flowchart LR
@@ -62,7 +75,7 @@ flowchart LR
 | **Product surfaces** | Go SDKs, CLIs, Electron/React, Vue/Wails, Vite and IPC bridges |
 | **Operations** | Prometheus, structured logging, CI, integration tests and performance benchmarks |
 
-## `03 // PROOF OF WORK`
+## `04 // PROOF OF WORK`
 
 <table>
   <tr>
@@ -86,7 +99,7 @@ flowchart LR
   </tr>
 </table>
 
-## `04 // WORKBENCH`
+## `05 // WORKBENCH`
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
