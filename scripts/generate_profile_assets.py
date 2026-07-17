@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import html
+import hashlib
 import json
 import math
 import os
@@ -855,13 +856,51 @@ def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-") or "item"
 
 
+def card_fingerprint(payload: dict) -> str:
+    serialized = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(serialized.encode()).hexdigest()[:10]
+
+
 def activity_card_name(item: dict) -> str:
-    return slugify(f'{item["kind"]}-{item["repository"]}-{item["reference"]}')
+    fingerprint = card_fingerprint(
+        {
+            "schema": 2,
+            "kind": item["kind"],
+            "action": item["action"],
+            "created_at": item["created_at"],
+            "repository": item["repository"],
+            "title": item["title"],
+            "reference": item["reference"],
+            "context": item["context"],
+            "stars": item.get("repository_stars", 0),
+            "forks": item.get("repository_forks", 0),
+            "language": item.get("repository_language", ""),
+            "is_fork": item.get("repository_is_fork", False),
+            "upstream": item.get("repository_upstream", ""),
+            "upstream_stars": item.get("repository_upstream_stars", 0),
+            "upstream_forks": item.get("repository_upstream_forks", 0),
+        }
+    )
+    return slugify(
+        f'{item["kind"]}-{item["repository"]}-{item["reference"]}-{fingerprint}'
+    )
 
 
 def discussion_card_name(discussion: dict) -> str:
     identifier = discussion["url"].rstrip("/").rsplit("/", 1)[-1]
-    return slugify(f'discussion-{discussion["repository"]}-{identifier}')
+    fingerprint = card_fingerprint(
+        {
+            "schema": 2,
+            "title": discussion["title"],
+            "created_at": discussion["created_at"],
+            "excerpt": discussion["excerpt"],
+            "upvotes": discussion["upvotes"],
+            "comments": discussion["comments"],
+            "repository": discussion["repository"],
+            "category": discussion["category"],
+        }
+    )
+    return slugify(f'discussion-{discussion["repository"]}-{identifier}-{fingerprint}')
 
 
 def activity_card_svg(item: dict, mode: str) -> str:
