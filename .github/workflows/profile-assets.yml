@@ -2,7 +2,8 @@ name: Refresh profile telemetry
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    # Check every 10 minutes, offset from minute 0 to reduce scheduler congestion.
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
 
 permissions:

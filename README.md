@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/ryan-wong-coder/pull/5">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/1174b5cec512a7bc1de52dbeacadc11626e76a49">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-ryan-wong-coder-5-f29a781d2f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-ryan-wong-coder-5-f29a781d2f-light.svg" />
-    <img alt="PR MERGED: Expand activity archive and enrich project cards" src="./assets/activity-cards/pr-ryan-wong-coder-ryan-wong-coder-5-f29a781d2f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-73e84a6885-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-73e84a6885-light.svg" />
+    <img alt="COMMIT: fix(plugins): reject duplicate companion paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-73e84a6885-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/binaricat/Netcatty/pull/2259">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/0326dd5eb441fdfe6d35ba8877debd5c41927566">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2259-ac9e62f7aa-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2259-ac9e62f7aa-light.svg" />
-    <img alt="PR MERGED: feat(sync): integrate convergent multi-device sync" src="./assets/activity-cards/pr-binaricat-netcatty-2259-ac9e62f7aa-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0326dd5-bd512370fd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0326dd5-bd512370fd-light.svg" />
+    <img alt="COMMIT: fix(plugins): reject in-tree package outputs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0326dd5-bd512370fd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/702f0d5f141fb85592bfc7346d05e52362dda095">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/848a5f53db7ae9401f359fd7c5d001fe19a13664">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-702f0d5-63f2c39b38-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-702f0d5-63f2c39b38-light.svg" />
-    <img alt="COMMIT: fix(sync): seed legacy downgrade baselines" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-702f0d5-63f2c39b38-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-848a5f5-9a289bbcd9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-848a5f5-9a289bbcd9-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve nested runtime dependencies" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-848a5f5-9a289bbcd9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/b951ca88213e8960bd942d73bed38e2f375eab49">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/0f94156a18a2ee7ef499c8c06efb7ff9ae618740">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b951ca8-d164ebf65a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b951ca8-d164ebf65a-light.svg" />
-    <img alt="COMMIT: fix(sync): open empty convergent startup gate" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b951ca8-d164ebf65a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0f94156-ea562c4dcc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0f94156-ea562c4dcc-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden scaffold and cancellation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0f94156-ea562c4dcc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/67e0e066d314169944c71e9dc41922333424994a">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ab2ab4b1b29a093516b4d926c71106a80e989d2b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-67e0e06-b4f4353606-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-67e0e06-b4f4353606-light.svg" />
-    <img alt="COMMIT: fix(sync): commit merged replicas after apply" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-67e0e06-b4f4353606-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ab2ab4b-ea28b436a2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ab2ab4b-ea28b436a2-light.svg" />
+    <img alt="COMMIT: fix(plugins): reject package path prefix collisions" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ab2ab4b-ea28b436a2-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/30efa8e6a427aa7ab6e4ed7d7ff2f41e27e380a3">
+<a href="https://github.com/binaricat/Netcatty/pull/2276">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-30efa8e-230bcf2beb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-30efa8e-230bcf2beb-light.svg" />
-    <img alt="COMMIT: fix(sync): preserve convergent recovery safeguards" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-30efa8e-230bcf2beb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-7405339578-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-7405339578-light.svg" />
+    <img alt="PR OPENED: feat(plugins): add plugin contract and SDK" src="./assets/activity-cards/pr-binaricat-netcatty-2276-7405339578-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/25c4f5c5047feff35bc29b087be9a535ce3dddbd">
+<a href="https://github.com/binaricat/Netcatty/issues/2269">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-25c4f5c-13e4ed28ab-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-25c4f5c-13e4ed28ab-light.svg" />
-    <img alt="COMMIT: fix(sync): avoid no-op convergent writes" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-25c4f5c-13e4ed28ab-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-87c2d9593e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-87c2d9593e-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Add a secure, production-grade plugin platform" src="./assets/activity-cards/issue-binaricat-netcatty-2269-87c2d9593e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/202">
+<a href="https://github.com/ryan-wong-coder/ryan-wong-coder/pull/6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-202-c14a806a38-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-202-c14a806a38-light.svg" />
-    <img alt="PR MERGED: ci: update GitHub Actions runtimes" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-202-c14a806a38-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-ryan-wong-coder-6-7911dd4b42-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-ryan-wong-coder-6-7911dd4b42-light.svg" />
+    <img alt="PR MERGED: Refresh generated cards with cache-safe URLs" src="./assets/activity-cards/pr-ryan-wong-coder-ryan-wong-coder-6-7911dd4b42-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -104,9 +104,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- DISCUSSIONS_FEED:START -->
 <a href="https://github.com/binaricat/Netcatty/discussions/2261">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-binaricat-netcatty-2261-a431100064-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/discussion-binaricat-netcatty-2261-a431100064-light.svg" />
-    <img alt="Discussion: Netcatty 多设备 CRDT 同步：从“为什么会丢数据”到“怎样证明一定收敛”" src="./assets/discussion-cards/discussion-binaricat-netcatty-2261-a431100064-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-binaricat-netcatty-2261-334203b2e3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/discussion-binaricat-netcatty-2261-334203b2e3-light.svg" />
+    <img alt="Discussion: Netcatty 多设备 CRDT 同步：从“为什么会丢数据”到“怎样证明一定收敛”" src="./assets/discussion-cards/discussion-binaricat-netcatty-2261-334203b2e3-light.svg" width="100%" />
   </picture>
 </a>
 <br />

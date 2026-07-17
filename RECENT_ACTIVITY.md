@@ -2,10 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**360 entries** · 271 commits · 40 pull requests · 49 issues · newest first · maximum 500
+**365 entries** · 273 commits · 42 pull requests · 50 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-17 13:37 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add plugin contract and SDK](https://github.com/binaricat/Netcatty/pull/2276) |
+| 2026-07-17 11:39 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Add a secure, production-grade plugin platform](https://github.com/binaricat/Netcatty/issues/2269) |
+| 2026-07-17 10:35 | `PR MERGED` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh generated cards with cache-safe URLs](https://github.com/ryan-wong-coder/ryan-wong-coder/pull/6) |
+| 2026-07-17 10:34 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Bust caches for generated profile cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/960b3ef32fccd1cd2e3fe5641a77e1f662be055e) |
 | 2026-07-17 10:30 | `PR MERGED` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Expand activity archive and enrich project cards](https://github.com/ryan-wong-coder/ryan-wong-coder/pull/5) |
 | 2026-07-17 10:28 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Expand activity archive and enrich project cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/015b42ecb96684d78a2ab050df728e6c03398155) |
 | 2026-07-17 10:11 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Replace feed tables with clickable modern cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/b64d8e67712dfbb3130be6d7f870e060b95c4fdb) |
@@ -13,6 +17,7 @@
 | 2026-07-17 09:48 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Add auto-updating recent activity timeline](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/aaa258ca59fe8afab0c91f782b21693e475b4148) |
 | 2026-07-17 09:41 | `ISSUE CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Add convergent multi-device sync with CRDT](https://github.com/binaricat/Netcatty/issues/2245) |
 | 2026-07-17 09:41 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/binaricat/Netcatty/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
+| 2026-07-17 09:41 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/DrOlu/Sensor/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
 | 2026-07-17 09:41 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): integrate convergent multi-device sync](https://github.com/binaricat/Netcatty/pull/2259) |
 | 2026-07-17 01:27 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [ci: update GitHub Actions runtimes (#202)](https://github.com/ryan-wong-coder/trustdb/commit/a2db96dee5b2f608a3150e2a18f23fbfddd702d2) |
 | 2026-07-17 01:27 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [ci: update GitHub Actions runtimes](https://github.com/ryan-wong-coder/trustdb/pull/202) |
@@ -367,4 +372,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Last refreshed: 2026-07-17 02:33 UTC_
+_Latest indexed activity: 2026-07-17 05:37 UTC · checked automatically every 10 minutes_
