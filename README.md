@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/24b3f129d7b53c7a0f056fec006a560bce698a2b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24b3f12-f83dfcbf9a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24b3f12-f83dfcbf9a-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate JSON framing values" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-24b3f12-f83dfcbf9a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/2048d610d811d92dbf439a3105b26c7a11395724">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2048d61-a46cb239b6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2048d61-a46cb239b6-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden RPC and transfer validation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2048d61-a46cb239b6-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/4d19754376bc8013e9eb6280184a923cfea6cac5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d19754-3a37945f6a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d19754-3a37945f6a-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden stream transport boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d19754-3a37945f6a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ff35efa9f2e906189b70dcc762b92f60df40b12a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ff35efa-54133c8922-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ff35efa-54133c8922-light.svg" />
+    <img alt="COMMIT: fix(plugins): complete foundational plugin contract" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ff35efa-54133c8922-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/binaricat/Netcatty/issues/2288">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-2e1e045c21-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-2e1e045c21-light.svg" />
-    <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-2e1e045c21-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-924c342c7a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-924c342c7a-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-924c342c7a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/1174b5cec512a7bc1de52dbeacadc11626e76a49">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-3ea2bce94f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-3ea2bce94f-light.svg" />
-    <img alt="COMMIT: fix(plugins): reject duplicate companion paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-3ea2bce94f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/0326dd5eb441fdfe6d35ba8877debd5c41927566">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0326dd5-efc29a51e2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0326dd5-efc29a51e2-light.svg" />
-    <img alt="COMMIT: fix(plugins): reject in-tree package outputs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0326dd5-efc29a51e2-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/848a5f53db7ae9401f359fd7c5d001fe19a13664">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-848a5f5-3d0d46652f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-848a5f5-3d0d46652f-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve nested runtime dependencies" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-848a5f5-3d0d46652f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/0f94156a18a2ee7ef499c8c06efb7ff9ae618740">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0f94156-0c04f0c183-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0f94156-0c04f0c183-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden scaffold and cancellation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0f94156-0c04f0c183-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ab2ab4b1b29a093516b4d926c71106a80e989d2b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ab2ab4b-b9cb6d3be8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ab2ab4b-b9cb6d3be8-light.svg" />
-    <img alt="COMMIT: fix(plugins): reject package path prefix collisions" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ab2ab4b-b9cb6d3be8-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-22a4c7d7cb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-22a4c7d7cb-light.svg" />
+    <img alt="COMMIT: fix(plugins): reject duplicate companion paths" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-1174b5c-22a4c7d7cb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/binaricat/Netcatty/pull/2276">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-0d0b4f8c15-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-0d0b4f8c15-light.svg" />
-    <img alt="PR OPENED: feat(plugins): add plugin contract and SDK" src="./assets/activity-cards/pr-binaricat-netcatty-2276-0d0b4f8c15-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-5c75d1a2ea-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-5c75d1a2ea-light.svg" />
+    <img alt="PR OPENED: feat(plugins): add plugin contract and SDK" src="./assets/activity-cards/pr-binaricat-netcatty-2276-5c75d1a2ea-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/binaricat/Netcatty/issues/2269">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-ab86eb287b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-ab86eb287b-light.svg" />
-    <img alt="ISSUE OPENED: [Feature] Add a secure, production-grade plugin platform" src="./assets/activity-cards/issue-binaricat-netcatty-2269-ab86eb287b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-950a299cf1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-950a299cf1-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Add a secure, production-grade plugin platform" src="./assets/activity-cards/issue-binaricat-netcatty-2269-950a299cf1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
