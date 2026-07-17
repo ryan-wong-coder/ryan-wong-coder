@@ -624,7 +624,7 @@ def prepare(user: dict) -> dict:
         "language_colors": language_colors,
         "language_total": total_language_bytes,
         "monthly": list(monthly.items()),
-        "updated": now.strftime("%Y-%m-%d %H:%M UTC"),
+        "updated": "AUTO REFRESH · 10 MIN CHECK",
     }
 
 
@@ -786,6 +786,13 @@ def parse_event_time(value: str) -> datetime:
 
 def activity_markdown(items: list[dict]) -> str:
     counts = Counter(item["kind"] for item in items)
+    latest_activity = (
+        max(parse_event_time(item["created_at"]) for item in items)
+        .astimezone(timezone.utc)
+        .strftime("%Y-%m-%d %H:%M UTC")
+        if items
+        else "not available"
+    )
     lines = [
         "# Recent public GitHub activity",
         "",
@@ -811,7 +818,7 @@ def activity_markdown(items: list[dict]) -> str:
     lines.extend(
         [
             "",
-            f'_Last refreshed: {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")}_',
+            f"_Latest indexed activity: {latest_activity} · checked automatically every 10 minutes_",
             "",
         ]
     )
@@ -819,6 +826,13 @@ def activity_markdown(items: list[dict]) -> str:
 
 
 def discussions_markdown(discussions: list[dict]) -> str:
+    latest_publication = (
+        max(parse_event_time(item["created_at"]) for item in discussions)
+        .astimezone(timezone.utc)
+        .strftime("%Y-%m-%d %H:%M UTC")
+        if discussions
+        else "not available"
+    )
     lines = [
         "# Published GitHub discussions",
         "",
@@ -845,7 +859,7 @@ def discussions_markdown(discussions: list[dict]) -> str:
         [
             "---",
             "",
-            f'_Last refreshed: {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")}_',
+            f"_Latest publication: {latest_publication} · checked automatically every 10 minutes_",
             "",
         ]
     )
