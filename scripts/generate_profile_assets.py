@@ -7,6 +7,8 @@ import html
 import json
 import math
 import os
+import re
+import textwrap
 import urllib.error
 import urllib.request
 from collections import Counter
@@ -19,6 +21,8 @@ USERNAME = os.getenv("PROFILE_USERNAME", "ryan-wong-coder")
 TOKEN = os.getenv("GITHUB_TOKEN", "")
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
+ACTIVITY_CARDS = ASSETS / "activity-cards"
+DISCUSSION_CARDS = ASSETS / "discussion-cards"
 README_PATH = ROOT / "README.md"
 ACTIVITY_LOG = ROOT / "RECENT_ACTIVITY.md"
 DISCUSSIONS_LOG = ROOT / "DISCUSSIONS.md"
@@ -675,30 +679,134 @@ def discussions_markdown(discussions: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def slugify(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-") or "item"
+
+
+def activity_card_name(item: dict) -> str:
+    return slugify(f'{item["kind"]}-{item["repository"]}-{item["reference"]}')
+
+
+def discussion_card_name(discussion: dict) -> str:
+    identifier = discussion["url"].rstrip("/").rsplit("/", 1)[-1]
+    return slugify(f'discussion-{discussion["repository"]}-{identifier}')
+
+
+def activity_card_svg(item: dict, mode: str) -> str:
+    c = THEMES[mode]
+    color = {"commit": c["blue"], "pr": c["purple"], "issue": c["orange"]}[item["kind"]]
+    event_time = parse_event_time(item["created_at"])
+    title = truncate(item["title"], 94)
+    metadata = f'{item["repository"]}  ·  {item["reference"]}  ·  {truncate(item["context"], 38)}'
+    shape = (
+        f'<circle cx="58" cy="65" r="10" fill="{color}"/>'
+        if item["kind"] == "commit"
+        else f'<rect x="49" y="56" width="18" height="18" rx="3" fill="{color}" transform="rotate(45 58 65)"/>'
+        if item["kind"] == "pr"
+        else f'<rect x="49" y="56" width="18" height="18" rx="4" fill="{color}"/>'
+    )
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title desc">
+<title id="title">{escape(item['action'])}: {escape(item['title'])}</title>
+<desc id="desc">{escape(metadata)}</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="{c['panel']}"/><stop offset="1" stop-color="{c['panel2']}"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop stop-color="{color}"/><stop offset="1" stop-color="{c['pink']}"/></linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="{c['grid']}" stroke-width="1"/></pattern>
+  <style>text{{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}}</style>
+</defs>
+<rect width="1200" height="130" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="130" rx="18" fill="url(#grid)" opacity=".48"/>
+<rect x="1" y="1" width="1198" height="128" rx="17" fill="none" stroke="{c['line']}"/>
+<rect width="7" height="130" rx="3.5" fill="url(#accent)"/>
+{shape}
+<rect x="91" y="25" width="{max(92, 25 + len(item['action']) * 7.2):.1f}" height="27" rx="13.5" fill="{color}" opacity=".16"/>
+<text x="{91 + max(92, 25 + len(item['action']) * 7.2) / 2:.1f}" y="43" fill="{color}" font-size="11" font-weight="700" text-anchor="middle">{escape(item['action'])}</text>
+<text x="91" y="81" fill="{c['text']}" font-size="18" font-weight="700">{escape(title)}</text>
+<text x="91" y="105" fill="{c['muted']}" font-size="12">{escape(metadata)}</text>
+<text x="1162" y="34" fill="{c['muted']}" font-size="11" text-anchor="end">{event_time.strftime('%Y-%m-%d · %H:%M UTC+8')}</text>
+<text x="1137" y="101" fill="{color}" font-size="12" font-weight="700" text-anchor="end">OPEN</text>
+<path d="M1148 94h12v12M1148 106l12-12" fill="none" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>'''
+
+
+def wrap_excerpt(value: str, width: int = 90, limit: int = 2) -> list[str]:
+    value = value or "Open the discussion to read the full article."
+    lines = textwrap.wrap(value, width=width, break_long_words=True, break_on_hyphens=False)
+    if len(lines) > limit:
+        lines = lines[:limit]
+        lines[-1] = truncate(lines[-1], max(20, width - 2)) + "…"
+    return lines or ["Open the discussion to read the full article."]
+
+
+def discussion_card_svg(discussion: dict, mode: str) -> str:
+    c = THEMES[mode]
+    created = parse_event_time(discussion["created_at"])
+    excerpt_lines = wrap_excerpt(discussion["excerpt"])
+    second_line = excerpt_lines[1] if len(excerpt_lines) > 1 else ""
+    category = truncate(discussion["category"].upper(), 28)
+    category_width = max(102, 27 + len(category) * 7.2)
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<title id="title">{escape(discussion['title'])}</title>
+<desc id="desc">{escape(truncate(discussion['excerpt'], 220))}</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="{c['panel']}"/><stop offset="1" stop-color="{c['panel2']}"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop stop-color="{c['purple']}"/><stop offset="1" stop-color="{c['pink']}"/></linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="{c['grid']}" stroke-width="1"/></pattern>
+  <style>text{{font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}}</style>
+</defs>
+<rect width="1200" height="210" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="210" rx="20" fill="url(#grid)" opacity=".48"/>
+<rect x="1" y="1" width="1198" height="208" rx="19" fill="none" stroke="{c['line']}"/>
+<rect width="8" height="210" rx="4" fill="url(#accent)"/>
+<rect x="38" y="26" width="{category_width:.1f}" height="28" rx="14" fill="{c['purple']}" opacity=".16"/>
+<text x="{38 + category_width / 2:.1f}" y="45" fill="{c['purple']}" font-size="11" font-weight="700" text-anchor="middle">{escape(category)}</text>
+<text x="1162" y="44" fill="{c['muted']}" font-size="11" text-anchor="end">PUBLISHED {created.strftime('%Y-%m-%d')}</text>
+<text x="38" y="92" fill="{c['text']}" font-size="20" font-weight="700">{escape(truncate(discussion['title'], 96))}</text>
+<text x="38" y="126" fill="{c['muted']}" font-size="13">{escape(excerpt_lines[0])}</text>
+<text x="38" y="149" fill="{c['muted']}" font-size="13">{escape(second_line)}</text>
+<text x="38" y="184" fill="{c['blue']}" font-size="12" font-weight="700">{escape(discussion['repository'])}</text>
+<text x="920" y="184" fill="{c['muted']}" font-size="12" text-anchor="end">UPVOTES {discussion['upvotes']}  /  COMMENTS {discussion['comments']}</text>
+<text x="1137" y="184" fill="{c['purple']}" font-size="12" font-weight="700" text-anchor="end">READ ARTICLE</text>
+<path d="M1148 177h12v12M1148 189l12-12" fill="none" stroke="{c['purple']}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>'''
+
+
+def refresh_card_directory(path: Path) -> None:
+    path.mkdir(parents=True, exist_ok=True)
+    for existing in path.glob("*.svg"):
+        existing.unlink()
+
+
+def generate_clickable_cards(activity: list[dict], discussions: list[dict]) -> None:
+    refresh_card_directory(ACTIVITY_CARDS)
+    refresh_card_directory(DISCUSSION_CARDS)
+    for item in activity[:8]:
+        name = activity_card_name(item)
+        for mode in ("dark", "light"):
+            (ACTIVITY_CARDS / f"{name}-{mode}.svg").write_text(activity_card_svg(item, mode), encoding="utf-8")
+    for discussion in discussions[:4]:
+        name = discussion_card_name(discussion)
+        for mode in ("dark", "light"):
+            (DISCUSSION_CARDS / f"{name}-{mode}.svg").write_text(discussion_card_svg(discussion, mode), encoding="utf-8")
+
+
 def activity_feed_html(items: list[dict]) -> str:
-    rows = ["<table>"]
-    icons = {"commit": "🔵", "pr": "🟣", "issue": "🟠"}
-    for item in items[:10]:
-        event_time = parse_event_time(item["created_at"])
-        repository = escape(item["repository"])
-        title = escape(item["title"])
-        action = escape(item["action"])
-        reference = escape(item["reference"])
+    rows = []
+    for item in items[:8]:
+        name = activity_card_name(item)
         rows.extend(
             [
-                "  <tr>",
-                '    <td width="20%" valign="top">',
-                f'      <code>{event_time.strftime("%b %d · %H:%M").upper()}</code><br />',
-                f'      <sub>{icons[item["kind"]]} {action}</sub>',
-                "    </td>",
-                '    <td valign="top">',
-                f'      <a href="{escape(item["url"])}"><strong>{title}</strong></a><br />',
-                f'      <sub><a href="https://github.com/{repository}">{repository}</a> · {reference}</sub>',
-                "    </td>",
-                "  </tr>",
+                f'<a href="{escape(item["url"])}">',
+                "  <picture>",
+                f'    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/{name}-dark.svg" />',
+                f'    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/{name}-light.svg" />',
+                f'    <img alt="{escape(item["action"])}: {escape(item["title"])}" src="./assets/activity-cards/{name}-light.svg" width="100%" />',
+                "  </picture>",
+                "</a>",
+                "<br />",
+                "",
             ]
         )
-    rows.append("</table>")
     if not items:
         rows = ["> No recent public activity found."]
     rows.extend(
@@ -713,25 +821,22 @@ def activity_feed_html(items: list[dict]) -> str:
 
 
 def discussions_feed_html(discussions: list[dict]) -> str:
-    rows = ["<table>"]
+    rows = []
     for discussion in discussions[:4]:
-        created = parse_event_time(discussion["created_at"]).strftime("%Y-%m-%d")
-        repository = escape(discussion["repository"])
-        title = escape(discussion["title"])
-        category = escape(discussion["category"])
-        excerpt = escape(truncate(discussion["excerpt"] or "Open the discussion to read the full article.", 360))
+        name = discussion_card_name(discussion)
         rows.extend(
             [
-                "  <tr>",
-                '    <td valign="top">',
-                f'      <h3><a href="{escape(discussion["url"])}">{title}</a></h3>',
-                f'      <p>{excerpt}</p>',
-                f'      <sub><a href="https://github.com/{repository}">{repository}</a> · {category} · {created} · ▲ {discussion["upvotes"]} · {discussion["comments"]} comments</sub>',
-                "    </td>",
-                "  </tr>",
+                f'<a href="{escape(discussion["url"])}">',
+                "  <picture>",
+                f'    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/{name}-dark.svg" />',
+                f'    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/{name}-light.svg" />',
+                f'    <img alt="Discussion: {escape(discussion["title"])}" src="./assets/discussion-cards/{name}-light.svg" width="100%" />',
+                "  </picture>",
+                "</a>",
+                "<br />",
+                "",
             ]
         )
-    rows.append("</table>")
     if not discussions:
         rows = ["> No public Discussions found. New articles will appear here automatically."]
     rows.extend(
@@ -792,6 +897,7 @@ def main() -> None:
     data = prepare(graphql())
     activity = recent_activity(fetch_public_events())
     discussions = published_discussions()
+    generate_clickable_cards(activity, discussions)
     for mode in ("dark", "light"):
         (ASSETS / f"header-{mode}.svg").write_text(header_svg(mode), encoding="utf-8")
         (ASSETS / f"dashboard-{mode}.svg").write_text(dashboard_svg(data, mode), encoding="utf-8")
