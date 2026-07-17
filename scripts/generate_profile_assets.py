@@ -19,7 +19,9 @@ USERNAME = os.getenv("PROFILE_USERNAME", "ryan-wong-coder")
 TOKEN = os.getenv("GITHUB_TOKEN", "")
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
+README_PATH = ROOT / "README.md"
 ACTIVITY_LOG = ROOT / "RECENT_ACTIVITY.md"
+DISCUSSIONS_LOG = ROOT / "DISCUSSIONS.md"
 LOCAL_TIMEZONE = ZoneInfo("Asia/Shanghai")
 EXCLUDED_REPOSITORIES = {
     "aura",
@@ -65,6 +67,29 @@ query ProfileTelemetry($login: String!, $from: DateTime!, $to: DateTime!) {
         weeks {
           contributionDays { contributionCount date }
         }
+      }
+    }
+  }
+}
+"""
+
+
+DISCUSSIONS_QUERY = """
+query PublishedDiscussions($query: String!) {
+  search(query: $query, type: DISCUSSION, first: 20) {
+    discussionCount
+    nodes {
+      ... on Discussion {
+        title
+        url
+        createdAt
+        updatedAt
+        bodyText
+        upvoteCount
+        comments { totalCount }
+        repository { nameWithOwner }
+        category { name }
+        author { login }
       }
     }
   }
@@ -130,20 +155,13 @@ def github_get(path_or_url: str) -> object:
         raise
 
 
-def graphql() -> dict:
+def graphql_request(query: str, variables: dict) -> dict:
     if not TOKEN:
         raise SystemExit("GITHUB_TOKEN is required")
-
-    now = datetime.now(timezone.utc)
-    start = now - timedelta(days=364)
     payload = json.dumps(
         {
-            "query": QUERY,
-            "variables": {
-                "login": USERNAME,
-                "from": start.isoformat(),
-                "to": now.isoformat(),
-            },
+            "query": query,
+            "variables": variables,
         }
     ).encode()
     request = urllib.request.Request(
@@ -159,7 +177,58 @@ def graphql() -> dict:
         result = json.load(response)
     if result.get("errors"):
         raise SystemExit(json.dumps(result["errors"], indent=2))
-    return result["data"]["user"]
+    return result["data"]
+
+
+def graphql() -> dict:
+    now = datetime.now(timezone.utc)
+    start = now - timedelta(days=364)
+    data = graphql_request(
+        QUERY,
+        {
+            "login": USERNAME,
+            "from": start.isoformat(),
+            "to": now.isoformat(),
+        },
+    )
+    return data["user"]
+
+
+def published_discussions() -> list[dict]:
+    data = graphql_request(
+        DISCUSSIONS_QUERY,
+        {"query": f"author:{USERNAME} sort:created-desc"},
+    )
+    nodes = data.get("search", {}).get("nodes", [])
+    discussions = []
+    for node in nodes:
+        if not isinstance(node, dict):
+            continue
+        author = (node.get("author") or {}).get("login")
+        repository = (node.get("repository") or {}).get("nameWithOwner", "")
+        title = node.get("title") or ""
+        if author != USERNAME or not repository or not title:
+            continue
+        if activity_is_excluded(repository, title):
+            continue
+        body = " ".join((node.get("bodyText") or "").split())
+        if body.startswith(title):
+            body = body[len(title) :].lstrip(" ：:-—")
+        discussions.append(
+            {
+                "title": title,
+                "url": node.get("url") or "",
+                "created_at": node.get("createdAt") or "",
+                "updated_at": node.get("updatedAt") or "",
+                "excerpt": body,
+                "upvotes": node.get("upvoteCount") or 0,
+                "comments": (node.get("comments") or {}).get("totalCount", 0),
+                "repository": repository,
+                "category": (node.get("category") or {}).get("name") or "Discussion",
+            }
+        )
+    discussions.sort(key=lambda item: item["created_at"], reverse=True)
+    return discussions[:12]
 
 
 def truncate(value: str, length: int) -> str:
@@ -541,94 +610,6 @@ def parse_event_time(value: str) -> datetime:
     return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(LOCAL_TIMEZONE)
 
 
-def timeline_svg(items: list[dict], mode: str) -> str:
-    c = THEMES[mode]
-    width = 1200
-    row_height = 82
-    height = max(280, 116 + row_height * len(items))
-    line_x = 190
-    colors = {"commit": c["blue"], "pr": c["purple"], "issue": c["orange"]}
-    parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
-        f'<title id="title">{escape(USERNAME)} recent GitHub activity timeline</title>',
-        '<desc id="desc">A chronological timeline of recent public commits, pull requests, and issues.</desc>',
-        "<defs>",
-        f'<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="{c["bg"]}"/><stop offset="1" stop-color="{c["panel2"]}"/></linearGradient>',
-        f'<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="{c["grid"]}" stroke-width="1"/></pattern>',
-        '<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}</style>',
-        "</defs>",
-        f'<rect width="{width}" height="{height}" rx="22" fill="url(#bg)"/>',
-        f'<rect width="{width}" height="{height}" rx="22" fill="url(#grid)" opacity=".62"/>',
-        f'<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="21" fill="none" stroke="{c["line"]}"/>',
-        text(34, 43, "RECENT ACTIVITY // UTC+8", 17, c["blue"], 700),
-        text(1166, 43, datetime.now(timezone.utc).strftime("REFRESHED %Y-%m-%d %H:%M UTC"), 12, c["muted"], 400, "end"),
-    ]
-
-    legend = [("commit", "COMMIT"), ("pr", "PULL REQUEST"), ("issue", "ISSUE")]
-    legend_x = 34
-    for kind, label in legend:
-        color = colors[kind]
-        parts.extend(
-            [
-                f'<circle cx="{legend_x+6}" cy="70" r="5" fill="{color}"/>',
-                text(legend_x + 18, 74, label, 11, c["muted"], 700),
-            ]
-        )
-        legend_x += 118 if kind != "pr" else 155
-
-    if not items:
-        parts.extend(
-            [
-                f'<line x1="{line_x}" y1="104" x2="{line_x}" y2="226" stroke="{c["line"]}" stroke-width="2"/>',
-                f'<circle cx="{line_x}" cy="165" r="7" fill="{c["panel"]}" stroke="{c["muted"]}" stroke-width="2"/>',
-                text(226, 159, "NO RECENT PUBLIC ACTIVITY", 16, c["text"], 700),
-                text(226, 184, "The next scheduled refresh will check again.", 12, c["muted"]),
-            ]
-        )
-        parts.append("</svg>")
-        return "".join(parts)
-
-    first_y = 112
-    last_y = first_y + (len(items) - 1) * row_height
-    parts.append(f'<line x1="{line_x}" y1="{first_y}" x2="{line_x}" y2="{last_y}" stroke="{c["line"]}" stroke-width="3"/>')
-
-    for index, item in enumerate(items):
-        event_time = parse_event_time(item["created_at"])
-        y = first_y + index * row_height
-        kind = item["kind"]
-        color = colors[kind]
-        action = item["action"]
-        tag_width = max(92, 22 + len(action) * 7.2)
-
-        parts.extend(
-            [
-                text(34, y - 5, event_time.strftime("%b %d").upper(), 13, c["text"], 700),
-                text(34, y + 16, event_time.strftime("%H:%M"), 11, c["muted"]),
-            ]
-        )
-
-        if kind == "commit":
-            parts.append(f'<circle cx="{line_x}" cy="{y}" r="8" fill="{color}" stroke="{c["bg"]}" stroke-width="4"/>')
-        elif kind == "pr":
-            parts.append(f'<rect x="{line_x-7}" y="{y-7}" width="14" height="14" rx="2" fill="{color}" stroke="{c["bg"]}" stroke-width="3" transform="rotate(45 {line_x} {y})"/>')
-        else:
-            parts.append(f'<rect x="{line_x-7}" y="{y-7}" width="14" height="14" rx="3" fill="{color}" stroke="{c["bg"]}" stroke-width="3"/>')
-
-        parts.extend(
-            [
-                f'<rect x="224" y="{y-22}" width="{tag_width:.1f}" height="25" rx="12.5" fill="{color}" opacity=".16"/>',
-                text(224 + tag_width / 2, y - 5, action, 10, color, 700, "middle"),
-                text(224 + tag_width + 18, y - 5, truncate(item["title"], 82), 15, c["text"], 700),
-                text(224, y + 22, f'{item["repository"]}  ·  {item["reference"]}  ·  {truncate(item["context"], 34)}', 11, c["muted"]),
-            ]
-        )
-        if index < len(items) - 1:
-            parts.append(f'<line x1="224" y1="{y+39}" x2="1164" y2="{y+39}" stroke="{c["line"]}"/>')
-
-    parts.append("</svg>")
-    return "".join(parts)
-
-
 def activity_markdown(items: list[dict]) -> str:
     lines = [
         "# Recent public GitHub activity",
@@ -658,6 +639,120 @@ def activity_markdown(items: list[dict]) -> str:
         ]
     )
     return "\n".join(lines)
+
+
+def discussions_markdown(discussions: list[dict]) -> str:
+    lines = [
+        "# Published GitHub discussions",
+        "",
+        "> Automatically generated from public Discussions authored by `ryan-wong-coder` across repositories.",
+        "",
+    ]
+    if not discussions:
+        lines.extend(["No public discussions found.", ""])
+    for discussion in discussions:
+        created = parse_event_time(discussion["created_at"]).strftime("%Y-%m-%d")
+        title = discussion["title"].replace("[", "\\[").replace("]", "\\]")
+        excerpt = truncate(discussion["excerpt"] or "Open the discussion to read the full article.", 320)
+        lines.extend(
+            [
+                f'## [{title}]({discussion["url"]})',
+                "",
+                f'`{discussion["repository"]}` · {discussion["category"]} · {created} · ▲ {discussion["upvotes"]} · {discussion["comments"]} comments',
+                "",
+                excerpt,
+                "",
+            ]
+        )
+    lines.extend(
+        [
+            "---",
+            "",
+            f'_Last refreshed: {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")}_',
+            "",
+        ]
+    )
+    return "\n".join(lines)
+
+
+def activity_feed_html(items: list[dict]) -> str:
+    rows = ["<table>"]
+    icons = {"commit": "🔵", "pr": "🟣", "issue": "🟠"}
+    for item in items[:10]:
+        event_time = parse_event_time(item["created_at"])
+        repository = escape(item["repository"])
+        title = escape(item["title"])
+        action = escape(item["action"])
+        reference = escape(item["reference"])
+        rows.extend(
+            [
+                "  <tr>",
+                '    <td width="20%" valign="top">',
+                f'      <code>{event_time.strftime("%b %d · %H:%M").upper()}</code><br />',
+                f'      <sub>{icons[item["kind"]]} {action}</sub>',
+                "    </td>",
+                '    <td valign="top">',
+                f'      <a href="{escape(item["url"])}"><strong>{title}</strong></a><br />',
+                f'      <sub><a href="https://github.com/{repository}">{repository}</a> · {reference}</sub>',
+                "    </td>",
+                "  </tr>",
+            ]
+        )
+    rows.append("</table>")
+    if not items:
+        rows = ["> No recent public activity found."]
+    rows.extend(
+        [
+            "",
+            '<p align="center"><sub>Public activity · newest first · refreshed every six hours</sub><br />',
+            '  <a href="./RECENT_ACTIVITY.md">Open the complete activity log →</a>',
+            "</p>",
+        ]
+    )
+    return "\n".join(rows)
+
+
+def discussions_feed_html(discussions: list[dict]) -> str:
+    rows = ["<table>"]
+    for discussion in discussions[:4]:
+        created = parse_event_time(discussion["created_at"]).strftime("%Y-%m-%d")
+        repository = escape(discussion["repository"])
+        title = escape(discussion["title"])
+        category = escape(discussion["category"])
+        excerpt = escape(truncate(discussion["excerpt"] or "Open the discussion to read the full article.", 360))
+        rows.extend(
+            [
+                "  <tr>",
+                '    <td valign="top">',
+                f'      <h3><a href="{escape(discussion["url"])}">{title}</a></h3>',
+                f'      <p>{excerpt}</p>',
+                f'      <sub><a href="https://github.com/{repository}">{repository}</a> · {category} · {created} · ▲ {discussion["upvotes"]} · {discussion["comments"]} comments</sub>',
+                "    </td>",
+                "  </tr>",
+            ]
+        )
+    rows.append("</table>")
+    if not discussions:
+        rows = ["> No public Discussions found. New articles will appear here automatically."]
+    rows.extend(
+        [
+            "",
+            '<p align="center"><sub>Long-form Discussions published across public repositories</sub><br />',
+            '  <a href="./DISCUSSIONS.md">Browse every article →</a>',
+            "</p>",
+        ]
+    )
+    return "\n".join(rows)
+
+
+def replace_readme_section(document: str, marker: str, content: str) -> str:
+    start = f"<!-- {marker}:START -->"
+    end = f"<!-- {marker}:END -->"
+    if start not in document or end not in document:
+        raise SystemExit(f"README markers missing for {marker}")
+    prefix, remainder = document.split(start, 1)
+    _, suffix = remainder.split(end, 1)
+    return f"{prefix}{start}\n{content.rstrip()}\n{end}{suffix}"
 
 
 def header_svg(mode: str) -> str:
@@ -696,11 +791,16 @@ def main() -> None:
     ASSETS.mkdir(parents=True, exist_ok=True)
     data = prepare(graphql())
     activity = recent_activity(fetch_public_events())
+    discussions = published_discussions()
     for mode in ("dark", "light"):
         (ASSETS / f"header-{mode}.svg").write_text(header_svg(mode), encoding="utf-8")
         (ASSETS / f"dashboard-{mode}.svg").write_text(dashboard_svg(data, mode), encoding="utf-8")
-        (ASSETS / f"activity-timeline-{mode}.svg").write_text(timeline_svg(activity, mode), encoding="utf-8")
     ACTIVITY_LOG.write_text(activity_markdown(activity), encoding="utf-8")
+    DISCUSSIONS_LOG.write_text(discussions_markdown(discussions), encoding="utf-8")
+    readme = README_PATH.read_text(encoding="utf-8")
+    readme = replace_readme_section(readme, "ACTIVITY_FEED", activity_feed_html(activity))
+    readme = replace_readme_section(readme, "DISCUSSIONS_FEED", discussions_feed_html(discussions))
+    README_PATH.write_text(readme, encoding="utf-8")
     print(
         json.dumps(
             {
@@ -714,6 +814,7 @@ def main() -> None:
                 "languages": [name for name, _ in data["languages"]],
                 "activity_items": len(activity),
                 "activity_mix": dict(Counter(item["kind"] for item in activity)),
+                "discussions": len(discussions),
             },
             ensure_ascii=False,
         )

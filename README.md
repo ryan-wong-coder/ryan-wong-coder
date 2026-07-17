@@ -18,7 +18,136 @@ Backend and systems engineer turning protocols, storage primitives and concurren
 models into reliable products — from wire format and SDK to desktop interface.
 ```
 
-## `01 // LIVE TELEMETRY`
+## `01 // RECENT WORK STREAM`
+
+<!-- ACTIVITY_FEED:START -->
+<table>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 09:41</code><br />
+      <sub>🟣 PR MERGED</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/binaricat/Netcatty/pull/2259"><strong>feat(sync): integrate convergent multi-device sync</strong></a><br />
+      <sub><a href="https://github.com/binaricat/Netcatty">binaricat/Netcatty</a> · #2259</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 04:35</code><br />
+      <sub>🔵 COMMIT</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/Netcatty/commit/702f0d5f141fb85592bfc7346d05e52362dda095"><strong>fix(sync): seed legacy downgrade baselines</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/Netcatty">ryan-wong-coder/Netcatty</a> · 702f0d5</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 04:16</code><br />
+      <sub>🔵 COMMIT</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/Netcatty/commit/b951ca88213e8960bd942d73bed38e2f375eab49"><strong>fix(sync): open empty convergent startup gate</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/Netcatty">ryan-wong-coder/Netcatty</a> · b951ca8</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 04:02</code><br />
+      <sub>🔵 COMMIT</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/Netcatty/commit/67e0e066d314169944c71e9dc41922333424994a"><strong>fix(sync): commit merged replicas after apply</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/Netcatty">ryan-wong-coder/Netcatty</a> · 67e0e06</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 03:42</code><br />
+      <sub>🔵 COMMIT</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/Netcatty/commit/30efa8e6a427aa7ab6e4ed7d7ff2f41e27e380a3"><strong>fix(sync): preserve convergent recovery safeguards</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/Netcatty">ryan-wong-coder/Netcatty</a> · 30efa8e</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 03:26</code><br />
+      <sub>🔵 COMMIT</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/Netcatty/commit/25c4f5c5047feff35bc29b087be9a535ce3dddbd"><strong>fix(sync): avoid no-op convergent writes</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/Netcatty">ryan-wong-coder/Netcatty</a> · 25c4f5c</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 01:27</code><br />
+      <sub>🟣 PR MERGED</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/trustdb/pull/202"><strong>ci: update GitHub Actions runtimes</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/trustdb">ryan-wong-coder/trustdb</a> · #202</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 17 · 01:20</code><br />
+      <sub>🟣 PR MERGED</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/trustdb/pull/201"><strong>fix: update vulnerable Go dependencies</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/trustdb">ryan-wong-coder/trustdb</a> · #201</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 16 · 23:41</code><br />
+      <sub>🟣 PR MERGED</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryan-wong-coder/trustdb/pull/200"><strong>fix: constrain filesystem access</strong></a><br />
+      <sub><a href="https://github.com/ryan-wong-coder/trustdb">ryan-wong-coder/trustdb</a> · #200</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <code>JUL 16 · 10:30</code><br />
+      <sub>🟠 ISSUE OPENED</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/binaricat/Netcatty/issues/2245"><strong>[Feature] Add convergent multi-device sync with CRDT</strong></a><br />
+      <sub><a href="https://github.com/binaricat/Netcatty">binaricat/Netcatty</a> · #2245</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Public activity · newest first · refreshed every six hours</sub><br />
+  <a href="./RECENT_ACTIVITY.md">Open the complete activity log →</a>
+</p>
+<!-- ACTIVITY_FEED:END -->
+
+## `02 // FIELD NOTES`
+
+<!-- DISCUSSIONS_FEED:START -->
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/binaricat/Netcatty/discussions/2261">Netcatty 多设备 CRDT 同步：从“为什么会丢数据”到“怎样证明一定收敛”</a></h3>
+      <p>本文面向普通开发者，介绍 CRDT 的基本原理，并讲解 Netcatty convergent sync v2 的具体实现。 阅读本文无需分布式系统基础。“半格”“偏序”“向量时钟”等概念，均结合多设备管理 SSH 主机的实际问题说明。文章先解释三件事：传统云同步为何覆盖修改，删除为何可能重新出现，Provider 的处理次序为何会改变结果。 厘清这些问题之后，再引入 CRDT。dot、version vector、MV-Register 和 tombstone 各有明确用途，并非孤立的术语。 后文还会说明这些概念在 Netcatty 代码、云文件协议、迁移流程、恢复机制、冲突界面和测试体系中的对应关系。 阅读方式 全文分为十个篇章，另外附有术语表和阅读检查。 第一篇梳理旧同步的问题；第二篇解释 CRDT 的…</p>
+      <sub><a href="https://github.com/binaricat/Netcatty">binaricat/Netcatty</a> · Show and tell · 2026-07-17 · ▲ 1 · 0 comments</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Long-form Discussions published across public repositories</sub><br />
+  <a href="./DISCUSSIONS.md">Browse every article →</a>
+</p>
+<!-- DISCUSSIONS_FEED:END -->
+
+## `03 // LIVE TELEMETRY`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard-dark.svg" />
@@ -26,7 +155,7 @@ models into reliable products — from wire format and SDK to desktop interface.
   <img alt="GitHub engineering telemetry dashboard" src="./assets/dashboard-light.svg" width="100%" />
 </picture>
 
-<p align="center"><sub>Generated from the GitHub GraphQL API and refreshed automatically every day.</sub></p>
+<p align="center"><sub>Generated from the GitHub GraphQL API and refreshed automatically every six hours.</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ryan-wong-coder&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Signal" />
@@ -42,20 +171,7 @@ models into reliable products — from wire format and SDK to desktop interface.
   </picture>
 </p>
 
-## `02 // RECENT WORK STREAM`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-timeline-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-timeline-light.svg" />
-  <img alt="Recent commits, pull requests and issues arranged as a timeline" src="./assets/activity-timeline-light.svg" width="100%" />
-</picture>
-
-<p align="center">
-  <sub>Public activity · newest first · refreshed every six hours</sub><br />
-  <a href="./RECENT_ACTIVITY.md">Open the clickable activity log →</a>
-</p>
-
-## `03 // ENGINEERING TOPOLOGY`
+## `04 // ENGINEERING TOPOLOGY`
 
 ```mermaid
 flowchart LR
@@ -75,7 +191,7 @@ flowchart LR
 | **Product surfaces** | Go SDKs, CLIs, Electron/React, Vue/Wails, Vite and IPC bridges |
 | **Operations** | Prometheus, structured logging, CI, integration tests and performance benchmarks |
 
-## `04 // PROOF OF WORK`
+## `05 // PROOF OF WORK`
 
 <table>
   <tr>
@@ -99,7 +215,7 @@ flowchart LR
   </tr>
 </table>
 
-## `05 // WORKBENCH`
+## `06 // WORKBENCH`
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
