@@ -21,74 +21,56 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/5b5f6cc79df82fbc2606bee2f3a954b291d8faeb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-c59a318be6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-c59a318be6-light.svg" />
+    <img alt="COMMIT: test(plugins): lock archive inflation guard" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5b5f6cc-c59a318be6-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ca1eb4dd4121e9d0153d5a1a06044b057d1fd126">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-d59c490e8c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-d59c490e8c-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate complete stream frames" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ca1eb4d-d59c490e8c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f9c3200aa4d171cfce941cee7a9ce6de623d2841">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-4936dedad4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-4936dedad4-light.svg" />
+    <img alt="COMMIT: fix(plugins): validate stream credit limits" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f9c3200-4936dedad4-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/4d5e489f19d1ca63c5bd2a2af79d25efcf15dd96">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d5e489-7f011bd450-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d5e489-7f011bd450-light.svg" />
+    <img alt="COMMIT: fix(plugins): inspect validated stdio frames" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-4d5e489-7f011bd450-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/5c8e932060f6a4ccc1d45c8007eec919424c59b3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-643431a1f7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-643431a1f7-light.svg" />
-    <img alt="COMMIT: fix(plugins): bound wire protocol integers" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-643431a1f7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/47e6f1ca36a812bfb9c4c80849d2f81e9ab2ab4c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-47e6f1c-9142b12262-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-47e6f1c-9142b12262-light.svg" />
-    <img alt="COMMIT: chore(ci): retrigger checks" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-47e6f1c-9142b12262-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/6da543aaecf88a9e8d218d19215c883f2b8f09e7">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-6da543a-bae2d64de7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-6da543a-bae2d64de7-light.svg" />
-    <img alt="COMMIT: docs(plugins): fix example CLI commands" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-6da543a-bae2d64de7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/0a7bd1a45e27dd284792ba0b2863e2f680adc969">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0a7bd1a-52d301b09c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0a7bd1a-52d301b09c-light.svg" />
-    <img alt="COMMIT: fix(plugins): bind validated package sources" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-0a7bd1a-52d301b09c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f980fd9433c0a18a0785967b21089e9d2d9bf0f6">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f980fd9-a0ecc14c16-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f980fd9-a0ecc14c16-light.svg" />
-    <img alt="COMMIT: fix(plugins): expose opaque secret references" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f980fd9-a0ecc14c16-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-de5c00715c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-de5c00715c-light.svg" />
+    <img alt="COMMIT: fix(plugins): bound wire protocol integers" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5c8e932-de5c00715c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/binaricat/Netcatty/issues/2288">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-f7b99cb5fa-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-f7b99cb5fa-light.svg" />
-    <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-f7b99cb5fa-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/binaricat/Netcatty/pull/2276">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-99288fc7ea-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-99288fc7ea-light.svg" />
-    <img alt="PR OPENED: feat(plugins): add plugin contract and SDK" src="./assets/activity-cards/pr-binaricat-netcatty-2276-99288fc7ea-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/binaricat/Netcatty/issues/2269">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-2c8ce0f283-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2269-2c8ce0f283-light.svg" />
-    <img alt="ISSUE OPENED: [Feature] Add a secure, production-grade plugin platform" src="./assets/activity-cards/issue-binaricat-netcatty-2269-2c8ce0f283-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-d0462ff8db-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-binaricat-netcatty-2288-d0462ff8db-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Make the main process authoritative for port forwarding runtime state" src="./assets/activity-cards/issue-binaricat-netcatty-2288-d0462ff8db-light.svg" width="100%" />
   </picture>
 </a>
 <br />
