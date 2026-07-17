@@ -2,10 +2,12 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**365 entries** · 273 commits · 42 pull requests · 50 issues · newest first · maximum 500
+**360 entries** · 267 commits · 42 pull requests · 51 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-17 16:58 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Make the main process authoritative for port forwarding runtime state](https://github.com/binaricat/Netcatty/issues/2288) |
+| 2026-07-17 15:12 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh profile data every ten minutes](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/08550187e5e052fb1f53a8e2e453f0d6d20add4d) |
 | 2026-07-17 13:37 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add plugin contract and SDK](https://github.com/binaricat/Netcatty/pull/2276) |
 | 2026-07-17 11:39 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Add a secure, production-grade plugin platform](https://github.com/binaricat/Netcatty/issues/2269) |
 | 2026-07-17 10:35 | `PR MERGED` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh generated cards with cache-safe URLs](https://github.com/ryan-wong-coder/ryan-wong-coder/pull/6) |
@@ -211,13 +213,6 @@
 | 2026-04-07 19:06 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 导出 WatchButton 组件供所有手表页面使用](https://github.com/JunZ-0122/help-project/commit/d8b36af97d805e7fa7d2510743fe1b47a76a539e) |
 | 2026-04-07 19:01 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [添加手表端圆屏适配+功能迁移实施计划](https://github.com/JunZ-0122/help-project/commit/7c3e35f8ab673e34fbc8f27a5a4802d09eac0030) |
 | 2026-04-07 18:47 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [添加手表端圆屏适配+功能迁移设计文档](https://github.com/JunZ-0122/help-project/commit/28a749653a9311b2e226974a0bc62ef279add45c) |
-| 2026-03-23 16:18 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [chore: 补充 amap_flutter_location gradle wrapper 配置](https://github.com/ryan-wong-coder/jewelry/commit/62a80b913387c365c04daa3b019984f204cd40bc) |
-| 2026-03-23 16:12 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [chore: 补充 Android Gradle Wrapper 构建文件](https://github.com/ryan-wong-coder/jewelry/commit/c052e18e06579a26a51cf413b7aa952b29cda3c1) |
-| 2026-03-23 16:08 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [fix(ios): 补全 iOS 打包所需资源与配置](https://github.com/ryan-wong-coder/jewelry/commit/a398ca8123b4e21d980d90bfa2e1b78cd46ac7fb) |
-| 2026-03-23 15:32 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [配置](https://github.com/ryan-wong-coder/jewelry/commit/30be606d57952995f84493f5af3cab86e021a786) |
-| 2026-03-23 15:32 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [配置](https://github.com/ryan-wong-coder/jewelry/commit/d20ef79a9dc9e30686990a91a52a73a549109c72) |
-| 2026-03-23 15:26 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [chore: remove compiled binaries from tracking](https://github.com/ryan-wong-coder/jewelry/commit/4d4161b63f4ede2f2978b2145e9a2f64c8b1fb95) |
-| 2026-03-23 15:24 | `COMMIT` | [ryan-wong-coder/jewelry](https://github.com/ryan-wong-coder/jewelry) | [Initial commit](https://github.com/ryan-wong-coder/jewelry/commit/f8b54a1748bd62f989af5a9366800ea03b326de4) |
 | 2026-03-09 14:17 | `COMMIT` | [ryan-wong-coder/majiang](https://github.com/ryan-wong-coder/majiang) | [Initial commit for the Mahjong client and server.](https://github.com/ryan-wong-coder/majiang/commit/f331f37c043f55e000d750365347aec828d4a49e) |
 | 2025-12-09 17:40 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复 group_member_manage_page 中的类型错误](https://github.com/beingakashyadav/didi/commit/3228f6d864f31be65af7820475d98468554d54ca) |
 | 2025-12-09 17:37 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 创建选择好友页面并修复创建群组选择成员功能](https://github.com/beingakashyadav/didi/commit/feea123d4ca780448ceb7854cb5055955a958d73) |
@@ -372,4 +367,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-07-17 05:37 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-17 08:58 UTC · checked automatically every 10 minutes_
