@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/9e329276edfcbaf1dec43a0e82345113ad5e4359">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-9e32927-578fcbb1ae-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-9e32927-578fcbb1ae-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden runtime lifecycle boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-9e32927-578fcbb1ae-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/bda96873363e02d1e521a8bc27051bef1d9e010d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-bda9687-10cb608910-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-bda9687-10cb608910-light.svg" />
+    <img alt="COMMIT: fix(plugins): close runtime recovery gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-bda9687-10cb608910-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/5ebf70ab2940723629d4a9756c778224a0888a2a">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-5ebf70a-7cb2188f53-dark.svg" />
@@ -44,24 +62,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d34474f-85ad0fcdcf-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d34474f-85ad0fcdcf-light.svg" />
     <img alt="COMMIT: fix(plugins): harden runtime extension boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d34474f-85ad0fcdcf-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/c68f3e030bbe3e83692ad7e429e426a59f5506c4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c68f3e0-8059102501-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c68f3e0-8059102501-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden runtime lifecycle and recovery" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c68f3e0-8059102501-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f6f3c608b0a5f537821a6c0e969cc97e19268c12">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f6f3c60-3b08f8d468-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f6f3c60-3b08f8d468-light.svg" />
-    <img alt="COMMIT: test(plugins): build runtime dependencies before tests" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f6f3c60-3b08f8d468-light.svg" width="100%" />
   </picture>
 </a>
 <br />
