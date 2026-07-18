@@ -2,13 +2,45 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**360 entries** · 267 commits · 42 pull requests · 51 issues · newest first · maximum 500
+**392 entries** · 297 commits · 44 pull requests · 51 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-18 10:43 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add plugin contract and SDK](https://github.com/binaricat/Netcatty/pull/2276) |
+| 2026-07-18 10:43 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(sync): apply cloud settings on initial merge](https://github.com/binaricat/Netcatty/pull/2298) |
+| 2026-07-18 10:32 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(sync): honor cloud setting map resets](https://github.com/binaricat/Netcatty/commit/4a2ff2e728ef23ce78432e06192e71df06296459) |
+| 2026-07-18 10:15 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Fix proof level parsing and clarify comments (#203)](https://github.com/ryan-wong-coder/trustdb/commit/1f36ff5347bd4e416b75443a60495781f9126d5b) |
+| 2026-07-18 10:15 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Fix proof level parsing and clarify comments](https://github.com/ryan-wong-coder/trustdb/pull/203) |
+| 2026-07-18 10:13 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(sync): apply cloud settings on initial merge](https://github.com/binaricat/Netcatty/commit/7e572eb64970fcf018bdb3c4652e071e9b70c6c5) |
+| 2026-07-18 00:37 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate inline stream chunk bytes](https://github.com/binaricat/Netcatty/commit/ea7ab22e0c4ebf33be3388084fe2a24c59d1cf70) |
+| 2026-07-17 23:49 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate normalized package paths](https://github.com/binaricat/Netcatty/commit/24e4a548b2df2bbc47d86bdaabbf3d50f9495a1b) |
+| 2026-07-17 23:31 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [test(plugins): lock archive inflation guard](https://github.com/binaricat/Netcatty/commit/5b5f6cc79df82fbc2606bee2f3a954b291d8faeb) |
+| 2026-07-17 23:12 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate complete stream frames](https://github.com/binaricat/Netcatty/commit/ca1eb4dd4121e9d0153d5a1a06044b057d1fd126) |
+| 2026-07-17 22:44 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate stream credit limits](https://github.com/binaricat/Netcatty/commit/f9c3200aa4d171cfce941cee7a9ce6de623d2841) |
+| 2026-07-17 22:24 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): inspect validated stdio frames](https://github.com/binaricat/Netcatty/commit/4d5e489f19d1ca63c5bd2a2af79d25efcf15dd96) |
+| 2026-07-17 21:58 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound wire protocol integers](https://github.com/binaricat/Netcatty/commit/5c8e932060f6a4ccc1d45c8007eec919424c59b3) |
+| 2026-07-17 21:32 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [chore(ci): retrigger checks](https://github.com/binaricat/Netcatty/commit/47e6f1ca36a812bfb9c4c80849d2f81e9ab2ab4c) |
+| 2026-07-17 20:41 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): fix example CLI commands](https://github.com/binaricat/Netcatty/commit/6da543aaecf88a9e8d218d19215c883f2b8f09e7) |
+| 2026-07-17 20:23 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bind validated package sources](https://github.com/binaricat/Netcatty/commit/0a7bd1a45e27dd284792ba0b2863e2f680adc969) |
+| 2026-07-17 20:10 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): expose opaque secret references](https://github.com/binaricat/Netcatty/commit/f980fd9433c0a18a0785967b21089e9d2d9bf0f6) |
+| 2026-07-17 20:10 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound packaged manifest reads](https://github.com/binaricat/Netcatty/commit/83b786373de0b8cb51b824c2674404c2f9a55eb8) |
+| 2026-07-17 19:47 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): cap manifest reads before loading](https://github.com/binaricat/Netcatty/commit/3120045cba67785428fdbc7613d30d87725ef94b) |
+| 2026-07-17 19:46 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): keep stdio framing linear](https://github.com/binaricat/Netcatty/commit/5c1d8e4f41c2b70bf4f37c749f3d3ff40e1a4445) |
+| 2026-07-17 19:26 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound protocol JSON complexity](https://github.com/binaricat/Netcatty/commit/e9a3ab593660d155a04a51cdf6d813432d86e1a9) |
+| 2026-07-17 19:05 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden package archive identity](https://github.com/binaricat/Netcatty/commit/7d0a3100787804459f8af612a22c26049d518d07) |
+| 2026-07-17 18:53 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate JSON framing values](https://github.com/binaricat/Netcatty/commit/6a609554a9604e5631c6c7962df3d232fd547b70) |
+| 2026-07-17 18:42 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden RPC and transfer validation](https://github.com/binaricat/Netcatty/commit/9a4f00049387bd813c26128212e0c494b49fc534) |
+| 2026-07-17 18:28 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden stream transport boundaries](https://github.com/binaricat/Netcatty/commit/fb541414df538ecd5c1261a3ab0bea3babb701d7) |
+| 2026-07-17 18:08 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete foundational plugin contract](https://github.com/binaricat/Netcatty/commit/225b5cbba6148069912a9c2f7ad1581df6cf969e) |
 | 2026-07-17 16:58 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Make the main process authoritative for port forwarding runtime state](https://github.com/binaricat/Netcatty/issues/2288) |
 | 2026-07-17 15:12 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh profile data every ten minutes](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/08550187e5e052fb1f53a8e2e453f0d6d20add4d) |
-| 2026-07-17 13:37 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add plugin contract and SDK](https://github.com/binaricat/Netcatty/pull/2276) |
+| 2026-07-17 14:57 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject duplicate companion paths](https://github.com/binaricat/Netcatty/commit/9d3eabb593647756b605e4d98b0f2f78d443b296) |
+| 2026-07-17 14:42 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject in-tree package outputs](https://github.com/binaricat/Netcatty/commit/fc535b95b1490a3a785f5a0b1a95dcd24c17c8e8) |
+| 2026-07-17 14:27 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve nested runtime dependencies](https://github.com/binaricat/Netcatty/commit/4ca3e22aa7a1c3b328f4de6fed646c9daf650cb2) |
+| 2026-07-17 14:12 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden scaffold and cancellation](https://github.com/binaricat/Netcatty/commit/0b1d08733f03a8f678d777582370e9a29a0bf2aa) |
+| 2026-07-17 14:00 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject package path prefix collisions](https://github.com/binaricat/Netcatty/commit/e958a464ad9626a1cddaebe0c11082bd85af3ff3) |
+| 2026-07-17 13:51 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): align package path contract validation](https://github.com/binaricat/Netcatty/commit/ce3bde5ee49ffef1a6e495dcb79d78a2d6ba747b) |
+| 2026-07-17 13:31 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add plugin contract and SDK](https://github.com/binaricat/Netcatty/commit/2a8dba481818fefb4a77de752c9c554124c187cc) |
 | 2026-07-17 11:39 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Add a secure, production-grade plugin platform](https://github.com/binaricat/Netcatty/issues/2269) |
 | 2026-07-17 10:35 | `PR MERGED` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh generated cards with cache-safe URLs](https://github.com/ryan-wong-coder/ryan-wong-coder/pull/6) |
 | 2026-07-17 10:34 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Bust caches for generated profile cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/960b3ef32fccd1cd2e3fe5641a77e1f662be055e) |
@@ -367,4 +399,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-07-17 08:58 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-18 02:43 UTC · checked automatically every 10 minutes_
