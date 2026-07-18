@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/d34474fd70534bfce093858d25cb0aa3ac1b6151">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d34474f-360978f4d1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d34474f-360978f4d1-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden runtime extension boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d34474f-360978f4d1-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/c68f3e030bbe3e83692ad7e429e426a59f5506c4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c68f3e0-51188e334c-dark.svg" />
@@ -80,15 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f36ff5-4e6f00b8f1-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f36ff5-4e6f00b8f1-light.svg" />
     <img alt="COMMIT: Fix proof level parsing and clarify comments (#203)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f36ff5-4e6f00b8f1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/203">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-203-c1bd9c5ee1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-203-c1bd9c5ee1-light.svg" />
-    <img alt="PR MERGED: Fix proof level parsing and clarify comments" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-203-c1bd9c5ee1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
