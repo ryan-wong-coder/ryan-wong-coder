@@ -2,10 +2,12 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**448 entries** · 350 commits · 47 pull requests · 51 issues · newest first · maximum 500
+**450 entries** · 350 commits · 49 pull requests · 51 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-19 21:59 | `PR CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/binaricat/Netcatty/pull/2325) |
+| 2026-07-19 21:27 | `PR CLOSED` | [ryan-wong-coder/Netcatty](https://github.com/ryan-wong-coder/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/ryan-wong-coder/Netcatty/pull/1) |
 | 2026-07-19 19:58 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
 | 2026-07-19 18:31 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission and security boundary](https://github.com/binaricat/Netcatty/pull/2315) |
 | 2026-07-19 18:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): align companion runtime selection](https://github.com/binaricat/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
@@ -455,4 +457,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-07-19 11:58 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-19 13:59 UTC · checked automatically every 10 minutes_
