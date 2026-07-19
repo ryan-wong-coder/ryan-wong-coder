@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/fe4f2837b2087025db5e491b6ef05211ef1984fa">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-light.svg" />
+    <img alt="COMMIT: feat(website): expand planned release assets" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/d357e06804dfebf76f14d23e6dcd21c34161abbc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d357e06-f662221433-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d357e06-f662221433-light.svg" />
+    <img alt="COMMIT: refactor(website): focus performance page on headline qps" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d357e06-f662221433-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/a9cdcb41f4ade4f2c6896f318f323f38f637cc03">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a9cdcb4-7f499175ad-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a9cdcb4-7f499175ad-light.svg" />
+    <img alt="COMMIT: feat(ui): expand website and polish desktop client" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a9cdcb4-7f499175ad-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/907932e8b1da5c789eddfd7e188e7e148fe3744c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-light.svg" />
+    <img alt="COMMIT: fix(plugins): enforce contribution ownership boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/7f598f77789ff6fa3d9026e906877210da7278eb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-a350697b65-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-a350697b65-light.svg" />
-    <img alt="COMMIT: fix(plugin-ui): harden contribution contexts and view state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-a350697b65-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/447141465f32bada9ae879482ad72f7e0de7824c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4471414-b25b71cc41-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4471414-b25b71cc41-light.svg" />
-    <img alt="COMMIT: fix(ui): remove global dot and scan masks" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4471414-b25b71cc41-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/cf175173acba1366ee239249ab9c2374e40c692d">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cf17517-6eeea8e4e2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cf17517-6eeea8e4e2-light.svg" />
-    <img alt="COMMIT: Merge remote-tracking branch &#x27;origin/main&#x27; into feat/ui" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cf17517-6eeea8e4e2-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/c6a62edcc6d130e686c9a881c357d270fda5c9ea">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-c6a62ed-7f1f15e90d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-c6a62ed-7f1f15e90d-light.svg" />
-    <img alt="COMMIT: test(ui): target visible admin batch row" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-c6a62ed-7f1f15e90d-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/b83c483dd26a09585260b01de7326a5a285076ed">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b83c483-747928013f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b83c483-747928013f-light.svg" />
-    <img alt="COMMIT: test(ui): align admin e2e with dashboard" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b83c483-747928013f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-cd4a47ab78-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-cd4a47ab78-light.svg" />
+    <img alt="COMMIT: fix(plugin-ui): harden contribution contexts and view state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-cd4a47ab78-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -77,18 +77,18 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/binaricat/Netcatty/pull/2325">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-dca377098c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-dca377098c-light.svg" />
-    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-binaricat-netcatty-2325-dca377098c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-6f1c42545c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-6f1c42545c-light.svg" />
+    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-binaricat-netcatty-2325-6f1c42545c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/pull/1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-e9f2677e93-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-e9f2677e93-light.svg" />
-    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-e9f2677e93-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-667811c653-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-667811c653-light.svg" />
+    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-667811c653-light.svg" width="100%" />
   </picture>
 </a>
 <br />
