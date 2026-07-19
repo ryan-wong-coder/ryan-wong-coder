@@ -21,6 +21,33 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/e5c271f47e8d605f41659e45b6cb417bfdbcc1ee">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e5c271f-14b21b3788-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e5c271f-14b21b3788-light.svg" />
+    <img alt="COMMIT: fix(release): generate Windows certificate with OpenSSL" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e5c271f-14b21b3788-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/44ac433480b24dbb65cba25c158e32fc206e829b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-44ac433-45217813bc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-44ac433-45217813bc-light.svg" />
+    <img alt="COMMIT: fix(release): avoid Windows PKI signing hang" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-44ac433-45217813bc-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/205">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-205-654253a142-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-205-654253a142-light.svg" />
+    <img alt="PR OPENED: build(release): 发布 1.0.0-beta 全平台产物" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-205-654253a142-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/0de1f78eb551320a9bc179225fd2a39fd0852e9a">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-dark.svg" />
@@ -57,38 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/a9cdcb41f4ade4f2c6896f318f323f38f637cc03">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a9cdcb4-7f499175ad-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a9cdcb4-7f499175ad-light.svg" />
-    <img alt="COMMIT: feat(ui): expand website and polish desktop client" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a9cdcb4-7f499175ad-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/907932e8b1da5c789eddfd7e188e7e148fe3744c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-light.svg" />
-    <img alt="COMMIT: fix(plugins): enforce contribution ownership boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/binaricat/Netcatty/pull/2325">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-6f1c42545c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-6f1c42545c-light.svg" />
-    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-binaricat-netcatty-2325-6f1c42545c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/pull/1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-667811c653-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-667811c653-light.svg" />
-    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-ryan-wong-coder-netcatty-1-667811c653-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-fd16b5854d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-fd16b5854d-light.svg" />
+    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-binaricat-netcatty-2325-fd16b5854d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
