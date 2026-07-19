@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/binaricat/Netcatty/pull/2324">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2324-d6ddae6743-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2324-d6ddae6743-light.svg" />
+    <img alt="PR OPENED: feat(plugins): add native UI contributions" src="./assets/activity-cards/pr-binaricat-netcatty-2324-d6ddae6743-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/binaricat/Netcatty/pull/2315">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2315-83a3ebf098-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2315-83a3ebf098-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add permission and security boundary" src="./assets/activity-cards/pr-binaricat-netcatty-2315-83a3ebf098-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2315-4943c89e22-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2315-4943c89e22-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add permission and security boundary" src="./assets/activity-cards/pr-binaricat-netcatty-2315-4943c89e22-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-fbe3d50-2abc2a7d5c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-fbe3d50-2abc2a7d5c-light.svg" />
-    <img alt="COMMIT: docs(plugins): align companion runtime selection" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-fbe3d50-2abc2a7d5c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-fbe3d50-578b0b2ddf-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-fbe3d50-578b0b2ddf-light.svg" />
+    <img alt="COMMIT: docs(plugins): align companion runtime selection" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-fbe3d50-578b0b2ddf-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/cd85a2e05874da089220424bd233efa173843224">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd85a2e-1f1fbc052a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd85a2e-1f1fbc052a-light.svg" />
-    <img alt="COMMIT: fix(plugins): close companion placement gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd85a2e-1f1fbc052a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd85a2e-789f10b685-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd85a2e-789f10b685-light.svg" />
+    <img alt="COMMIT: fix(plugins): close companion placement gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd85a2e-789f10b685-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/7b189330eceb650c72b6730bf94ecbf803055d14">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b18933-53b520c16e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b18933-53b520c16e-light.svg" />
-    <img alt="COMMIT: fix(plugins): close activation and companion trust gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b18933-53b520c16e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b18933-897b993e5b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b18933-897b993e5b-light.svg" />
+    <img alt="COMMIT: fix(plugins): close activation and companion trust gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b18933-897b993e5b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/f641ed77f2604040b514d17d0c2999b737d2548f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-c88d457e20-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-c88d457e20-light.svg" />
-    <img alt="COMMIT: fix(plugins): close remaining authorization races" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-c88d457e20-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-f7cf77312e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-f7cf77312e-light.svg" />
+    <img alt="COMMIT: fix(plugins): close remaining authorization races" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-f7cf77312e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/3bc41f57605d0373f61145004213fa3f27f56060">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-aaae95bd8e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-aaae95bd8e-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden capability authorization" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-aaae95bd8e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-df5ad9ac5c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-df5ad9ac5c-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden capability authorization" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-df5ad9ac5c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/binaricat/Netcatty/pull/2303">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2303-ad4f263bfa-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2303-ad4f263bfa-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add isolated plugin host runtime" src="./assets/activity-cards/pr-binaricat-netcatty-2303-ad4f263bfa-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/binaricat/Netcatty/pull/2276">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-0689f78a3a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2276-0689f78a3a-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add plugin contract and SDK" src="./assets/activity-cards/pr-binaricat-netcatty-2276-0689f78a3a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2303-bb3a612b8f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2303-bb3a612b8f-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add isolated plugin host runtime" src="./assets/activity-cards/pr-binaricat-netcatty-2303-bb3a612b8f-light.svg" width="100%" />
   </picture>
 </a>
 <br />

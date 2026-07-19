@@ -2,22 +2,34 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**436 entries** · 339 commits · 46 pull requests · 51 issues · newest first · maximum 500
+**448 entries** · 350 commits · 47 pull requests · 51 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-19 19:58 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
 | 2026-07-19 18:31 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission and security boundary](https://github.com/binaricat/Netcatty/pull/2315) |
 | 2026-07-19 18:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): align companion runtime selection](https://github.com/binaricat/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
+| 2026-07-19 18:07 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [docs(plugins): align companion runtime selection](https://github.com/DrOlu/Sensor/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
 | 2026-07-19 17:21 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close companion placement gaps](https://github.com/binaricat/Netcatty/commit/a6e5b43d141d8550c4cf66a8f6709b563f2c197a) |
+| 2026-07-19 17:21 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close companion placement gaps](https://github.com/DrOlu/Sensor/commit/a6e5b43d141d8550c4cf66a8f6709b563f2c197a) |
 | 2026-07-19 16:46 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close activation and companion trust gaps](https://github.com/binaricat/Netcatty/commit/f51e5b28e3a5c5beec0decaf4b41e7f393a5d038) |
+| 2026-07-19 16:46 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close activation and companion trust gaps](https://github.com/DrOlu/Sensor/commit/f51e5b28e3a5c5beec0decaf4b41e7f393a5d038) |
 | 2026-07-19 15:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close remaining authorization races](https://github.com/binaricat/Netcatty/commit/e6c55c90524aa80ba2fbbbb89cde1c3fc17b0dfb) |
+| 2026-07-19 15:07 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close remaining authorization races](https://github.com/DrOlu/Sensor/commit/e6c55c90524aa80ba2fbbbb89cde1c3fc17b0dfb) |
 | 2026-07-19 14:29 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden capability authorization](https://github.com/binaricat/Netcatty/commit/6e79ef9ff9ead67565fed8242686ebb75de70b5e) |
+| 2026-07-19 14:29 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden capability authorization](https://github.com/DrOlu/Sensor/commit/6e79ef9ff9ead67565fed8242686ebb75de70b5e) |
 | 2026-07-19 13:33 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin): harden runtime cleanup containment](https://github.com/binaricat/Netcatty/commit/33ad8eea209245b99b49f80a22af09c820103f36) |
+| 2026-07-19 13:33 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin): harden runtime cleanup containment](https://github.com/DrOlu/Sensor/commit/33ad8eea209245b99b49f80a22af09c820103f36) |
 | 2026-07-19 12:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin): defer protected resource probes](https://github.com/binaricat/Netcatty/commit/688ae1902b0650b5b85f972226726c42824f60b1) |
+| 2026-07-19 12:45 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin): defer protected resource probes](https://github.com/DrOlu/Sensor/commit/688ae1902b0650b5b85f972226726c42824f60b1) |
 | 2026-07-19 12:09 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [test(plugin-runtime): make quota startup check deterministic](https://github.com/binaricat/Netcatty/commit/bb5f0e797e16e3ef110fb6d0c9c1462fe779ec5c) |
+| 2026-07-19 12:09 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [test(plugin-runtime): make quota startup check deterministic](https://github.com/DrOlu/Sensor/commit/bb5f0e797e16e3ef110fb6d0c9c1462fe779ec5c) |
 | 2026-07-19 11:58 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin-security): close reviewed containment gaps](https://github.com/binaricat/Netcatty/commit/7bd58ba157454aa6b06f5fea21fa301fba52862c) |
+| 2026-07-19 11:58 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin-security): close reviewed containment gaps](https://github.com/DrOlu/Sensor/commit/7bd58ba157454aa6b06f5fea21fa301fba52862c) |
 | 2026-07-19 11:14 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin-security): close reviewed authorization races](https://github.com/binaricat/Netcatty/commit/fec3c26f56b8b0ff6b24481e6f1421d40b9247cf) |
+| 2026-07-19 11:14 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin-security): close reviewed authorization races](https://github.com/DrOlu/Sensor/commit/fec3c26f56b8b0ff6b24481e6f1421d40b9247cf) |
 | 2026-07-19 10:17 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission security boundary](https://github.com/binaricat/Netcatty/commit/614476b9470c7dce7aced47e8b386083bcf58983) |
+| 2026-07-19 10:17 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add permission security boundary](https://github.com/DrOlu/Sensor/commit/614476b9470c7dce7aced47e8b386083bcf58983) |
 | 2026-07-19 08:22 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add isolated plugin host runtime (#2303)](https://github.com/binaricat/Netcatty/commit/7a47187e37fd28d155c0a643fcc4e2cc9176b7c0) |
 | 2026-07-19 08:22 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add isolated plugin host runtime (#2303)](https://github.com/DrOlu/Sensor/commit/7a47187e37fd28d155c0a643fcc4e2cc9176b7c0) |
 | 2026-07-19 08:22 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add isolated plugin host runtime](https://github.com/binaricat/Netcatty/pull/2303) |
@@ -443,4 +455,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-07-19 10:31 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-19 11:58 UTC · checked automatically every 10 minutes_
