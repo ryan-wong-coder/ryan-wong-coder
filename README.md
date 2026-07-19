@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/0de1f78eb551320a9bc179225fd2a39fd0852e9a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-light.svg" />
+    <img alt="COMMIT: feat(ui): modernize client, admin, and website (#204)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/204">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-af885ad6f3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-af885ad6f3-light.svg" />
+    <img alt="PR MERGED: feat(ui): modernize client, admin, and website" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-af885ad6f3-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/fe4f2837b2087025db5e491b6ef05211ef1984fa">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-dark.svg" />
@@ -53,24 +71,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-light.svg" />
     <img alt="COMMIT: fix(plugins): enforce contribution ownership boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-907932e-82e396ad25-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/7f598f77789ff6fa3d9026e906877210da7278eb">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-cd4a47ab78-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-cd4a47ab78-light.svg" />
-    <img alt="COMMIT: fix(plugin-ui): harden contribution contexts and view state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7f598f7-cd4a47ab78-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/204">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-795513c76e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-795513c76e-light.svg" />
-    <img alt="PR OPENED: feat(ui): modernize client, admin, and website" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-795513c76e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
