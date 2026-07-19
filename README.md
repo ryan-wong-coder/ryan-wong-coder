@@ -21,20 +21,56 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/3bef4a850a9566efe08d9b8e40099634092efd5f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3bef4a8-826bdabdd9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3bef4a8-826bdabdd9-light.svg" />
+    <img alt="COMMIT: fix(release): 修复 Windows 自签名客户端打包 (#206)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3bef4a8-826bdabdd9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/206">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-light.svg" />
+    <img alt="PR MERGED: fix(release): 修复 Windows 自签名客户端打包" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/1cd284301a04569cedebf7258a29b2f4f7a8d904">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1cd2843-c9ff29dedf-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1cd2843-c9ff29dedf-light.svg" />
+    <img alt="COMMIT: fix(release): pass native Windows paths to NSIS" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1cd2843-c9ff29dedf-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/a6ba52791e8fee888c1aac256b48a64c33f5b8b0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a6ba527-7c36223a8f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a6ba527-7c36223a8f-light.svg" />
+    <img alt="COMMIT: fix(release): verify self-signed Windows integrity" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a6ba527-7c36223a8f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/346078405d4fc0abd192883ee871e0df653cc032">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3460784-02041b4b7f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3460784-02041b4b7f-light.svg" />
+    <img alt="COMMIT: fix(release): trust Windows signer without root prompt" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3460784-02041b4b7f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/e5c271f47e8d605f41659e45b6cb417bfdbcc1ee">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e5c271f-14b21b3788-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e5c271f-14b21b3788-light.svg" />
     <img alt="COMMIT: fix(release): generate Windows certificate with OpenSSL" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e5c271f-14b21b3788-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/44ac433480b24dbb65cba25c158e32fc206e829b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-44ac433-45217813bc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-44ac433-45217813bc-light.svg" />
-    <img alt="COMMIT: fix(release): avoid Windows PKI signing hang" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-44ac433-45217813bc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -48,47 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/0de1f78eb551320a9bc179225fd2a39fd0852e9a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-light.svg" />
-    <img alt="COMMIT: feat(ui): modernize client, admin, and website (#204)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0de1f78-4bf0b0234f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-wong-coder/trustdb/pull/204">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-af885ad6f3-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-af885ad6f3-light.svg" />
     <img alt="PR MERGED: feat(ui): modernize client, admin, and website" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-204-af885ad6f3-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/fe4f2837b2087025db5e491b6ef05211ef1984fa">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-light.svg" />
-    <img alt="COMMIT: feat(website): expand planned release assets" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-fe4f283-be6b85ac9f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/d357e06804dfebf76f14d23e6dcd21c34161abbc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d357e06-f662221433-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d357e06-f662221433-light.svg" />
-    <img alt="COMMIT: refactor(website): focus performance page on headline qps" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d357e06-f662221433-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/binaricat/Netcatty/pull/2325">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-fd16b5854d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2325-fd16b5854d-light.svg" />
-    <img alt="PR CLOSED: Clarify pending CRDT replica setup" src="./assets/activity-cards/pr-binaricat-netcatty-2325-fd16b5854d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
