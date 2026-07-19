@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f641ed77f2604040b514d17d0c2999b737d2548f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-7b76391822-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-7b76391822-light.svg" />
+    <img alt="COMMIT: fix(plugins): close remaining authorization races" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f641ed7-7b76391822-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3bc41f57605d0373f61145004213fa3f27f56060">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-b4035b53f6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-b4035b53f6-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden capability authorization" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3bc41f5-b4035b53f6-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/8ec7c0f45d002acc2e4b8af54152c41fe6a8adcb">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-8ec7c0f-f974cd266b-dark.svg" />
@@ -44,24 +62,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c1059dd-dab563863e-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c1059dd-dab563863e-light.svg" />
     <img alt="COMMIT: fix(plugin): defer protected resource probes" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c1059dd-dab563863e-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e5ee9b985cea2d629258574cd9d48f0b180462ad">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e5ee9b9-fd908d3317-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e5ee9b9-fd908d3317-light.svg" />
-    <img alt="COMMIT: test(plugin-runtime): make quota startup check deterministic" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e5ee9b9-fd908d3317-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/65bcabdca856f8f82b2c8bd2d959d8b8bb10873e">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-65bcabd-8cfcc0e778-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-65bcabd-8cfcc0e778-light.svg" />
-    <img alt="COMMIT: fix(plugin-security): close reviewed containment gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-65bcabd-8cfcc0e778-light.svg" width="100%" />
   </picture>
 </a>
 <br />
