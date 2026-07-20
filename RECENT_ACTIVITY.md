@@ -2,14 +2,20 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 298 commits · 104 pull requests · 98 issues · newest first · maximum 500
+**500 entries** · 293 commits · 105 pull requests · 102 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-21 06:57 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Reduce TiKV batch-tree persistence write amplification](https://github.com/ryan-wong-coder/trustdb/issues/311) |
+| 2026-07-21 06:55 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-history TiKV manifest scans in the materializer](https://github.com/ryan-wong-coder/trustdb/issues/310) |
+| 2026-07-21 06:53 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make TiKV global-log appends linearizable across compute nodes](https://github.com/ryan-wong-coder/trustdb/issues/309) |
+| 2026-07-21 06:42 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep WAL checkpoints on contiguous committed coverage](https://github.com/ryan-wong-coder/trustdb/issues/303) |
+| 2026-07-21 06:42 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): preserve contiguous checkpoint frontier](https://github.com/ryan-wong-coder/trustdb/pull/308) |
+| 2026-07-21 06:42 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): preserve contiguous checkpoint frontier (#308)](https://github.com/ryan-wong-coder/trustdb/commit/5af010dced1ecb52bf010725fb78990ea7215ddf) |
+| 2026-07-21 06:30 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Prevent duplicate RecordIDs when idempotency keys are empty](https://github.com/ryan-wong-coder/trustdb/issues/307) |
 | 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Scope TiKV WAL checkpoints by compute node](https://github.com/ryan-wong-coder/trustdb/issues/306) |
 | 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make file proofstore publication crash-durable before WAL pruning](https://github.com/ryan-wong-coder/trustdb/issues/305) |
 | 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Preserve ingest idempotency across checkpointed restarts](https://github.com/ryan-wong-coder/trustdb/issues/304) |
-| 2026-07-21 04:46 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep WAL checkpoints on contiguous committed coverage](https://github.com/ryan-wong-coder/trustdb/issues/303) |
 | 2026-07-21 04:33 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Durably publish WAL files and segment directories](https://github.com/ryan-wong-coder/trustdb/issues/301) |
 | 2026-07-21 04:33 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable](https://github.com/ryan-wong-coder/trustdb/pull/302) |
 | 2026-07-21 04:33 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable (#302)](https://github.com/ryan-wong-coder/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752) |
@@ -500,11 +506,5 @@
 | 2025-12-09 10:54 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: prevent race condition - callbacks after controller closed](https://github.com/beingakashyadav/didi/commit/6dc13b691b30de5399c7e65300945bc57ec36fdc) |
 | 2025-12-09 10:50 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: ensure listeners receive disconnection event in dispose()](https://github.com/beingakashyadav/didi/commit/95721d0a7f43572b99d14176ec083838fd67aa4e) |
 | 2025-12-09 10:48 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: resolve race condition in WebSocketManager disposal](https://github.com/beingakashyadav/didi/commit/2f68629f2bbffe5271c8489d26504ff0289f3656) |
-| 2025-12-09 10:45 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: ensure ConnectionStatus.disconnected event in dispose](https://github.com/beingakashyadav/didi/commit/8d86d3318adece3088b4dc5408483b0bc2cf97d4) |
-| 2025-12-09 10:43 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: prevent resource leak in WebSocketManager dispose](https://github.com/beingakashyadav/didi/commit/25ca01d10af9d9baab43a06a41515e371a6f472d) |
-| 2025-12-09 10:41 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: complete remaining features - group list page, WebSocket reconnect sync, unread count manager](https://github.com/beingakashyadav/didi/commit/fc376212ec49a5d51a5c8dd1b0ed3afaf9ee28f8) |
-| 2025-12-09 10:37 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: add emoji favorites and notification sync services](https://github.com/beingakashyadav/didi/commit/b290155b477ccc5bf8729d25c853d497d4860a57) |
-| 2025-12-09 10:36 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: implement mobile sync services and resource caching](https://github.com/beingakashyadav/didi/commit/a3b64cbb8bd33b01f5d1386d5e13825a5a34fdb0) |
-| 2025-12-09 10:25 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: complete message sync API implementation](https://github.com/beingakashyadav/didi/commit/b80686fd76c01d38c1ecc12f4df22397f7879ac0) |
 
-_Latest indexed activity: 2026-07-20 21:41 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 22:57 UTC · checked automatically every 10 minutes_

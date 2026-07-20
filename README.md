@@ -21,29 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/306">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/311">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-306-dc5c6c2bd9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-306-dc5c6c2bd9-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Scope TiKV WAL checkpoints by compute node" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-306-dc5c6c2bd9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Reduce TiKV batch-tree persistence write amplification" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/305">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/310">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-305-d01ec27535-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-305-d01ec27535-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Make file proofstore publication crash-durable before WAL pruning" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-305-d01ec27535-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-4f11875214-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-4f11875214-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Avoid full-history TiKV manifest scans in the materializer" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-4f11875214-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/304">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/309">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-304-cd2268d991-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-304-cd2268d991-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Preserve ingest idempotency across checkpointed restarts" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-304-cd2268d991-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-309-e36af49ab7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-309-e36af49ab7-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Make TiKV global-log appends linearizable across compute nodes" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-309-e36af49ab7-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/5af010dced1ecb52bf010725fb78990ea7215ddf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-light.svg" />
+    <img alt="COMMIT: fix(wal): preserve contiguous checkpoint frontier (#308)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/308">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-light.svg" />
+    <img alt="PR MERGED: fix(wal): preserve contiguous checkpoint frontier" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -71,24 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-light.svg" />
     <img alt="COMMIT: test(wal): make close assertion portable" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/92399ad2b4fe80fd235721a8132f7bc83e18d621">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-92399ad-76f8dd1f46-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-92399ad-76f8dd1f46-light.svg" />
-    <img alt="COMMIT: fix(wal): bound idle group fsync latency (#300)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-92399ad-76f8dd1f46-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/300">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-300-8ae7dd6d8f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-300-8ae7dd6d8f-light.svg" />
-    <img alt="PR MERGED: fix(wal): bound idle group fsync latency" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-300-8ae7dd6d8f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
