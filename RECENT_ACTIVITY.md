@@ -2,10 +2,26 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**460 entries** · 355 commits · 54 pull requests · 51 issues · newest first · maximum 500
+**481 entries** · 368 commits · 60 pull requests · 53 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-20 15:17 | `PR OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(ui): sync dashboard status animations](https://github.com/ryan-wong-coder/trustdb/pull/216) |
+| 2026-07-20 15:17 | `PR OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): unblock canceled native streams](https://github.com/ryan-wong-coder/trustdb/pull/215) |
+| 2026-07-20 15:16 | `PR CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): unblock canceled native streams](https://github.com/ryan-wong-coder/trustdb/pull/214) |
+| 2026-07-20 15:15 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep dashboard status animations aligned with asynchronous state](https://github.com/ryan-wong-coder/trustdb/issues/213) |
+| 2026-07-20 15:15 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Prevent native gRPC stream cancellation from leaking goroutines](https://github.com/ryan-wong-coder/trustdb/issues/212) |
+| 2026-07-20 15:02 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
+| 2026-07-20 14:54 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve tabs during context refresh](https://github.com/binaricat/Netcatty/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
+| 2026-07-20 13:50 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [chore(release): 准备 v1.0.0-beta.1 (#211)](https://github.com/ryan-wong-coder/trustdb/commit/cdabf7dd1b2d6c16fc7eba303f0b4b74593fa204) |
+| 2026-07-20 13:50 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [chore(release): 准备 v1.0.0-beta.1](https://github.com/ryan-wong-coder/trustdb/pull/211) |
+| 2026-07-20 13:49 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve localized view lifecycles](https://github.com/binaricat/Netcatty/commit/aa4c653bf706560c069ade90dd6f1d6bfed4973f) |
+| 2026-07-20 12:59 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [test(web): 固定 Admin E2E 浏览器语言 (#210)](https://github.com/ryan-wong-coder/trustdb/commit/d2cb62c3fea8ec0ca5ed59779ac4392ac01b2a83) |
+| 2026-07-20 12:59 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [test(web): 固定 Admin E2E 浏览器语言](https://github.com/ryan-wong-coder/trustdb/pull/210) |
+| 2026-07-20 12:49 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(i18n): 支持官网、桌面端与管理端多语言](https://github.com/ryan-wong-coder/trustdb/pull/209) |
+| 2026-07-20 12:49 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(i18n): 支持官网、桌面端与管理端多语言 (#209)](https://github.com/ryan-wong-coder/trustdb/commit/5bd5c0db4e67d31bd57566a417b58f6ff5c85806) |
+| 2026-07-20 12:39 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete native contribution lifecycle](https://github.com/binaricat/Netcatty/commit/c7d15a6f52f5cbc1a7ead8c381b2a6b52ceac640) |
+| 2026-07-20 11:52 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete contribution lifecycle and native UI](https://github.com/binaricat/Netcatty/commit/50b7c315fdb879279436dfffba63c5d79575b1eb) |
 | 2026-07-20 09:39 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: 官网入口改为正式域名 (#208)](https://github.com/ryan-wong-coder/trustdb/commit/5186d4d22829b90f6346ea2afd7306870ab0f82d) |
 | 2026-07-20 09:39 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: 官网入口改为正式域名](https://github.com/ryan-wong-coder/trustdb/pull/208) |
 | 2026-07-20 08:36 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(website): 发布产物下载与安装文档](https://github.com/ryan-wong-coder/trustdb/pull/207) |
@@ -16,9 +32,14 @@
 | 2026-07-20 02:48 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [build(release): 发布 1.0.0-beta 全平台产物 (#205)](https://github.com/ryan-wong-coder/trustdb/commit/3557fad8e6f8f7409b620aaa19fa49dbcdc41eea) |
 | 2026-07-20 01:17 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(ui): modernize client, admin, and website (#204)](https://github.com/ryan-wong-coder/trustdb/commit/0de1f78eb551320a9bc179225fd2a39fd0852e9a) |
 | 2026-07-20 01:17 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(ui): modernize client, admin, and website](https://github.com/ryan-wong-coder/trustdb/pull/204) |
+| 2026-07-20 00:44 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): enforce contribution ownership boundaries](https://github.com/binaricat/Netcatty/commit/c516930577a4d35da9da6ee22fecf6d310c0482c) |
+| 2026-07-19 23:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin-ui): harden contribution contexts and view state](https://github.com/binaricat/Netcatty/commit/e1b3e3ac42e0bf35e41505d1ad40125d429c1554) |
+| 2026-07-19 22:56 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin-ui): harden contribution lifecycle state](https://github.com/binaricat/Netcatty/commit/74762e1ab0edc9e099f82ecc3761327bd15113d9) |
+| 2026-07-19 22:11 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden contribution lifecycle and activation](https://github.com/binaricat/Netcatty/commit/6d0475bf3e9bbee107d78fcdcfa374e814d662f5) |
 | 2026-07-19 21:59 | `PR CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/binaricat/Netcatty/pull/2325) |
 | 2026-07-19 21:27 | `PR CLOSED` | [ryan-wong-coder/Netcatty](https://github.com/ryan-wong-coder/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/ryan-wong-coder/Netcatty/pull/1) |
-| 2026-07-19 19:58 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
+| 2026-07-19 21:02 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete UI contribution lifecycle](https://github.com/binaricat/Netcatty/commit/71a12f2786bdd47be87f5406f20e13e0c16fcf52) |
+| 2026-07-19 19:57 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/commit/e6e9ffdd7a385a554d7cad3ba0617884e2b1cd72) |
 | 2026-07-19 18:31 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission and security boundary](https://github.com/binaricat/Netcatty/pull/2315) |
 | 2026-07-19 18:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): align companion runtime selection](https://github.com/binaricat/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
 | 2026-07-19 18:07 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [docs(plugins): align companion runtime selection](https://github.com/DrOlu/Sensor/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
@@ -467,4 +488,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-07-20 01:39 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 07:17 UTC · checked automatically every 10 minutes_

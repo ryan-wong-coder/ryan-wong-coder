@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/823c414466ee10d8efa1697bdfd740018c25d388">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/38f731a865f969d25966e2431054a703bbe54369">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-823c414-18ffb07e8f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-823c414-18ffb07e8f-light.svg" />
-    <img alt="COMMIT: fix(plugins): complete contribution lifecycle and native UI" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-823c414-18ffb07e8f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-38f731a-1982852b68-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-38f731a-1982852b68-light.svg" />
+    <img alt="COMMIT: fix(ui): avoid restarting unchanged status pulses" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-38f731a-1982852b68-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/5186d4d22829b90f6346ea2afd7306870ab0f82d">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/216">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5186d4d-eccddb47d9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5186d4d-eccddb47d9-light.svg" />
-    <img alt="COMMIT: docs: 官网入口改为正式域名 (#208)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5186d4d-eccddb47d9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-216-e300b89b73-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-216-e300b89b73-light.svg" />
+    <img alt="PR OPENED: fix(ui): sync dashboard status animations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-216-e300b89b73-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/208">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/215">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-208-67879eba86-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-208-67879eba86-light.svg" />
-    <img alt="PR MERGED: docs: 官网入口改为正式域名" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-208-67879eba86-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-215-6c137ff76f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-215-6c137ff76f-light.svg" />
+    <img alt="PR OPENED: fix(sdk): unblock canceled native streams" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-215-6c137ff76f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/573355f07a106f995da2d983434a982b28d91300">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/214">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-573355f-ee5447789b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-573355f-ee5447789b-light.svg" />
-    <img alt="COMMIT: Merge branch &#x27;main&#x27; into feat/website-release-downloads" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-573355f-ee5447789b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-214-b058039b7a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-214-b058039b7a-light.svg" />
+    <img alt="PR CLOSED: fix(sdk): unblock canceled native streams" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-214-b058039b7a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/207">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/213">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-2897b61096-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-2897b61096-light.svg" />
-    <img alt="PR MERGED: feat(website): 发布产物下载与安装文档" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-2897b61096-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-213-1dec3b9fea-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-213-1dec3b9fea-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Keep dashboard status animations aligned with asynchronous state" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-213-1dec3b9fea-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/7bb6dc40ad77592625dc46113f432260d48a9cc5">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/212">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-7bb6dc4-abff3e022f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-7bb6dc4-abff3e022f-light.svg" />
-    <img alt="COMMIT: feat(website): 发布产物下载与安装文档 (#207)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-7bb6dc4-abff3e022f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-212-889c80a33c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-212-889c80a33c-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Prevent native gRPC stream cancellation from leaking goroutines" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-212-889c80a33c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/40c5219e8ad0ff67489121793dda401f604bb9c2">
+<a href="https://github.com/binaricat/Netcatty/pull/2324">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-40c5219-1ae7cf31e1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-40c5219-1ae7cf31e1-light.svg" />
-    <img alt="COMMIT: fix(website): replace filler copy with release facts" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-40c5219-1ae7cf31e1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2324-79a2320ffe-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2324-79a2320ffe-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add native UI contributions" src="./assets/activity-cards/pr-binaricat-netcatty-2324-79a2320ffe-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/206">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-light.svg" />
-    <img alt="PR MERGED: fix(release): 修复 Windows 自签名客户端打包" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd5a159-d4495a1125-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd5a159-d4495a1125-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve tabs during context refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd5a159-d4495a1125-light.svg" width="100%" />
   </picture>
 </a>
 <br />
