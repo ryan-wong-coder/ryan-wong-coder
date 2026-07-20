@@ -21,6 +21,60 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/823c414466ee10d8efa1697bdfd740018c25d388">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-823c414-18ffb07e8f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-823c414-18ffb07e8f-light.svg" />
+    <img alt="COMMIT: fix(plugins): complete contribution lifecycle and native UI" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-823c414-18ffb07e8f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/5186d4d22829b90f6346ea2afd7306870ab0f82d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5186d4d-eccddb47d9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5186d4d-eccddb47d9-light.svg" />
+    <img alt="COMMIT: docs: 官网入口改为正式域名 (#208)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5186d4d-eccddb47d9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/208">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-208-67879eba86-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-208-67879eba86-light.svg" />
+    <img alt="PR MERGED: docs: 官网入口改为正式域名" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-208-67879eba86-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/573355f07a106f995da2d983434a982b28d91300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-573355f-ee5447789b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-573355f-ee5447789b-light.svg" />
+    <img alt="COMMIT: Merge branch &#x27;main&#x27; into feat/website-release-downloads" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-573355f-ee5447789b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/207">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-2897b61096-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-2897b61096-light.svg" />
+    <img alt="PR MERGED: feat(website): 发布产物下载与安装文档" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-2897b61096-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/7bb6dc40ad77592625dc46113f432260d48a9cc5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-7bb6dc4-abff3e022f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-7bb6dc4-abff3e022f-light.svg" />
+    <img alt="COMMIT: feat(website): 发布产物下载与安装文档 (#207)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-7bb6dc4-abff3e022f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/40c5219e8ad0ff67489121793dda401f604bb9c2">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-40c5219-1ae7cf31e1-dark.svg" />
@@ -30,65 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/c3f531e61435c3cdd3a8b0daae835ddf9bfbd134">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-c3f531e-318fd3d2cc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-c3f531e-318fd3d2cc-light.svg" />
-    <img alt="COMMIT: fix(website): trim downloads heading" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-c3f531e-318fd3d2cc-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/e1661bca244a2dd4ec3fc6c1bb577b42acf56993">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e1661bc-afdcff335c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e1661bc-afdcff335c-light.svg" />
-    <img alt="COMMIT: fix(website): simplify changelog copy" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e1661bc-afdcff335c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/207">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-7c405cbf8d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-7c405cbf8d-light.svg" />
-    <img alt="PR OPENED: feat(website): 发布产物下载与安装文档" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-207-7c405cbf8d-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/3bef4a850a9566efe08d9b8e40099634092efd5f">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3bef4a8-826bdabdd9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3bef4a8-826bdabdd9-light.svg" />
-    <img alt="COMMIT: fix(release): 修复 Windows 自签名客户端打包 (#206)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-3bef4a8-826bdabdd9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-wong-coder/trustdb/pull/206">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-light.svg" />
     <img alt="PR MERGED: fix(release): 修复 Windows 自签名客户端打包" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-206-24cb93645f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/1cd284301a04569cedebf7258a29b2f4f7a8d904">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1cd2843-c9ff29dedf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1cd2843-c9ff29dedf-light.svg" />
-    <img alt="COMMIT: fix(release): pass native Windows paths to NSIS" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1cd2843-c9ff29dedf-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/205">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-205-654253a142-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-205-654253a142-light.svg" />
-    <img alt="PR OPENED: build(release): 发布 1.0.0-beta 全平台产物" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-205-654253a142-light.svg" width="100%" />
   </picture>
 </a>
 <br />

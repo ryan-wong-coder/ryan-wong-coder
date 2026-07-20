@@ -2,11 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**457 entries** · 353 commits · 53 pull requests · 51 issues · newest first · maximum 500
+**460 entries** · 355 commits · 54 pull requests · 51 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-20 08:01 | `PR OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(website): 发布产物下载与安装文档](https://github.com/ryan-wong-coder/trustdb/pull/207) |
+| 2026-07-20 09:39 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: 官网入口改为正式域名 (#208)](https://github.com/ryan-wong-coder/trustdb/commit/5186d4d22829b90f6346ea2afd7306870ab0f82d) |
+| 2026-07-20 09:39 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: 官网入口改为正式域名](https://github.com/ryan-wong-coder/trustdb/pull/208) |
+| 2026-07-20 08:36 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(website): 发布产物下载与安装文档](https://github.com/ryan-wong-coder/trustdb/pull/207) |
+| 2026-07-20 08:36 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(website): 发布产物下载与安装文档 (#207)](https://github.com/ryan-wong-coder/trustdb/commit/7bb6dc40ad77592625dc46113f432260d48a9cc5) |
 | 2026-07-20 04:01 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(release): 修复 Windows 自签名客户端打包 (#206)](https://github.com/ryan-wong-coder/trustdb/commit/3bef4a850a9566efe08d9b8e40099634092efd5f) |
 | 2026-07-20 04:01 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(release): 修复 Windows 自签名客户端打包](https://github.com/ryan-wong-coder/trustdb/pull/206) |
 | 2026-07-20 02:48 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [build(release): 发布 1.0.0-beta 全平台产物](https://github.com/ryan-wong-coder/trustdb/pull/205) |
@@ -464,4 +467,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-07-20 00:01 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 01:39 UTC · checked automatically every 10 minutes_
