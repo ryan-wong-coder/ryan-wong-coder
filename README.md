@@ -21,11 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/303">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/306">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-303-1b5543919c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-303-1b5543919c-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Keep WAL checkpoints on contiguous committed coverage" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-303-1b5543919c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-306-dc5c6c2bd9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-306-dc5c6c2bd9-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Scope TiKV WAL checkpoints by compute node" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-306-dc5c6c2bd9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/305">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-305-d01ec27535-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-305-d01ec27535-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Make file proofstore publication crash-durable before WAL pruning" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-305-d01ec27535-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/304">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-304-cd2268d991-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-304-cd2268d991-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Preserve ingest idempotency across checkpointed restarts" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-304-cd2268d991-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -35,15 +53,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-light.svg" />
     <img alt="COMMIT: fix(wal): make namespace and recovery durable (#302)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/301">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-81ddc0c61d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-81ddc0c61d-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Durably publish WAL files and segment directories" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-81ddc0c61d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -71,15 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-92399ad-76f8dd1f46-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-92399ad-76f8dd1f46-light.svg" />
     <img alt="COMMIT: fix(wal): bound idle group fsync latency (#300)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-92399ad-76f8dd1f46-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/299">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-299-631f29a3dd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-299-631f29a3dd-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Bound idle WAL group fsync latency" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-299-631f29a3dd-light.svg" width="100%" />
   </picture>
 </a>
 <br />

@@ -2,10 +2,13 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 301 commits · 104 pull requests · 95 issues · newest first · maximum 500
+**500 entries** · 298 commits · 104 pull requests · 98 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Scope TiKV WAL checkpoints by compute node](https://github.com/ryan-wong-coder/trustdb/issues/306) |
+| 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make file proofstore publication crash-durable before WAL pruning](https://github.com/ryan-wong-coder/trustdb/issues/305) |
+| 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Preserve ingest idempotency across checkpointed restarts](https://github.com/ryan-wong-coder/trustdb/issues/304) |
 | 2026-07-21 04:46 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep WAL checkpoints on contiguous committed coverage](https://github.com/ryan-wong-coder/trustdb/issues/303) |
 | 2026-07-21 04:33 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Durably publish WAL files and segment directories](https://github.com/ryan-wong-coder/trustdb/issues/301) |
 | 2026-07-21 04:33 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable](https://github.com/ryan-wong-coder/trustdb/pull/302) |
@@ -503,8 +506,5 @@
 | 2025-12-09 10:37 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: add emoji favorites and notification sync services](https://github.com/beingakashyadav/didi/commit/b290155b477ccc5bf8729d25c853d497d4860a57) |
 | 2025-12-09 10:36 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: implement mobile sync services and resource caching](https://github.com/beingakashyadav/didi/commit/a3b64cbb8bd33b01f5d1386d5e13825a5a34fdb0) |
 | 2025-12-09 10:25 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: complete message sync API implementation](https://github.com/beingakashyadav/didi/commit/b80686fd76c01d38c1ecc12f4df22397f7879ac0) |
-| 2025-12-09 10:23 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [wip: add message sync API structure](https://github.com/beingakashyadav/didi/commit/8ec58485481bb33760ff28bcbc810a135d6715ec) |
-| 2025-12-09 09:58 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [test: add conversation sync tests and fix all unit tests](https://github.com/beingakashyadav/didi/commit/595f7fffe060e770630ad46d203dc14d190158c5) |
-| 2025-12-09 09:52 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: update test mocks to match interface changes](https://github.com/beingakashyadav/didi/commit/8afb275137ade5f8b362a69743562c576d3320b2) |
 
-_Latest indexed activity: 2026-07-20 20:46 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 21:41 UTC · checked automatically every 10 minutes_
