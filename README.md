@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3d2b815f5dea549e4bf4699513e354367dae6f78">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/da61c9e050434e2f85e0c93681877f35c9935ce4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3d2b815-7e24006b7d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3d2b815-7e24006b7d-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden terminal provider rendering" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3d2b815-7e24006b7d-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-da61c9e-2d08e80fb5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-da61c9e-2d08e80fb5-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve terminal provider host state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-da61c9e-2d08e80fb5-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/247">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/d6bbff8ce4914a74ac7cbbec0eac02f9d15c01f5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-247-4ea83209b9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-247-4ea83209b9-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Avoid duplicate Go SDK record page copies" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-247-4ea83209b9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d6bbff8-4bf04844ce-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d6bbff8-4bf04844ce-light.svg" />
+    <img alt="COMMIT: perf(objectstore): reuse copy buffers (#270)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d6bbff8-4bf04844ce-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/21b152c642fca817cdf9193f6d2ba3e5bf8c445d">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/269">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-21b152c-cedab0a1e7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-21b152c-cedab0a1e7-light.svg" />
-    <img alt="COMMIT: perf(sdk): eliminate load balancer dispatch allocations (#246)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-21b152c-cedab0a1e7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-269-ff579fe532-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-269-ff579fe532-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Reuse local object copy buffers" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-269-ff579fe532-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/245">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/270">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-245-927451e4c2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-245-927451e4c2-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Eliminate Go SDK load-balancer dispatch allocations" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-245-927451e4c2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-270-9df21f23f1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-270-9df21f23f1-light.svg" />
+    <img alt="PR MERGED: perf(objectstore): reuse copy buffers" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-270-9df21f23f1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/246">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/907bd1f71706538dd717936f36ef6feb0ab53895">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-246-fd34008aa2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-246-fd34008aa2-light.svg" />
-    <img alt="PR MERGED: perf(sdk): eliminate load balancer dispatch allocations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-246-fd34008aa2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-907bd1f-8ae87a9dda-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-907bd1f-8ae87a9dda-light.svg" />
+    <img alt="COMMIT: perf(tikv): reduce artifact staging allocations (#268)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-907bd1f-8ae87a9dda-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/cfb4580a08968ac7cdc19c92a670f51c9ab509be">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/267">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cfb4580-d5cf4d7b58-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cfb4580-d5cf4d7b58-light.svg" />
-    <img alt="COMMIT: perf(sdk): reduce log claim allocations (#244)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cfb4580-d5cf4d7b58-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-267-0e0ffc77ef-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-267-0e0ffc77ef-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Reduce TiKV artifact staging allocations" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-267-0e0ffc77ef-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/243">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/268">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-243-3af3c030e9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-243-3af3c030e9-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Reduce Go SDK log claim allocations" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-243-3af3c030e9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-268-9851d4b45f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-268-9851d4b45f-light.svg" />
+    <img alt="PR MERGED: perf(tikv): reduce artifact staging allocations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-268-9851d4b45f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/244">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/55d3227d8a204992117a1e76a70f9bb5398e0304">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-244-5132caa4e4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-244-5132caa4e4-light.svg" />
-    <img alt="PR MERGED: perf(sdk): reduce log claim allocations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-244-5132caa4e4-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-55d3227-5d89b34616-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-55d3227-5d89b34616-light.svg" />
+    <img alt="COMMIT: perf(proofstore): avoid artifact value boxing (#266)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-55d3227-5d89b34616-light.svg" width="100%" />
   </picture>
 </a>
 <br />
