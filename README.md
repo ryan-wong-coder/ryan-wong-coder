@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/281">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/d01be957cd7be08425bf35cfe0197ece8616d41c">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-281-a265411b9f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-281-a265411b9f-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Eliminate redundant native SDK batch result allocation" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-281-a265411b9f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d01be95-3ccdb2876e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d01be95-3ccdb2876e-light.svg" />
+    <img alt="COMMIT: perf(tikv): batch record-index reference reads (#292)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d01be95-3ccdb2876e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/325f7608bf316bc976d9d55ab07152487ba4e9e0">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/291">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-325f760-0b9cc0bbb7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-325f760-0b9cc0bbb7-light.svg" />
-    <img alt="COMMIT: perf(sdk): avoid redundant native batch results (#282)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-325f760-0b9cc0bbb7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-291-f90df20139-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-291-f90df20139-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Batch TiKV record-index reference reads" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-291-f90df20139-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/282">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/292">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-282-2bc3e2e6e0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-282-2bc3e2e6e0-light.svg" />
-    <img alt="PR MERGED: perf(sdk): avoid redundant native batch results" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-282-2bc3e2e6e0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-292-fe4bb0df9b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-292-fe4bb0df9b-light.svg" />
+    <img alt="PR MERGED: perf(tikv): batch record-index reference reads" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-292-fe4bb0df9b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/82f587687544f1bf57d7744df1ce138ea08fa430">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/7b8256155f7d2e945a1eb987f601be42820a908a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-82f5876-57708cab35-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-82f5876-57708cab35-light.svg" />
-    <img alt="COMMIT: perf(httpapi): reuse bounded request buffers (#280)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-82f5876-57708cab35-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b82561-4919d47fa1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b82561-4919d47fa1-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden terminal provider lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b82561-4919d47fa1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/279">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/f5cf98c47203c5113fc3e1c42dde6e681478d589">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-279-2ffa2947ea-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-279-2ffa2947ea-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Reuse bounded HTTP CBOR request buffers" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-279-2ffa2947ea-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-f5cf98c-807daee27a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-f5cf98c-807daee27a-light.svg" />
+    <img alt="COMMIT: perf(tikv): reuse reverse scan batches (#290)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-f5cf98c-807daee27a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/280">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/289">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-280-cad409e0a0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-280-cad409e0a0-light.svg" />
-    <img alt="PR MERGED: perf(httpapi): reuse bounded request buffers" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-280-cad409e0a0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-289-50b9641081-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-289-50b9641081-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Reuse TiKV reverse scan batches" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-289-50b9641081-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/31f9b2648ac0a9a1504850e30673fb8e9fc8e9a1">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/290">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-31f9b26-1842402929-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-31f9b26-1842402929-light.svg" />
-    <img alt="COMMIT: perf(proofstore): reuse bundle decode buffers (#278)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-31f9b26-1842402929-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-290-b1d8e7febf-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-290-b1d8e7febf-light.svg" />
+    <img alt="PR MERGED: perf(tikv): reuse reverse scan batches" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-290-b1d8e7febf-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/277">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/39dc05d9eb53f780d98e78dfe321436c0296a4cf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-277-96654ae898-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-277-96654ae898-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Reuse proof bundle decode buffers" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-277-96654ae898-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-39dc05d-50e3f314e7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-39dc05d-50e3f314e7-light.svg" />
+    <img alt="COMMIT: perf(tikv): reuse reverse scan batches" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-39dc05d-50e3f314e7-light.svg" width="100%" />
   </picture>
 </a>
 <br />

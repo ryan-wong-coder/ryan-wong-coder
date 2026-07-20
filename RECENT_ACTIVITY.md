@@ -2,10 +2,25 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 320 commits · 94 pull requests · 86 issues · newest first · maximum 500
+**500 entries** · 310 commits · 99 pull requests · 91 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-21 00:12 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Batch TiKV record-index reference reads](https://github.com/ryan-wong-coder/trustdb/issues/291) |
+| 2026-07-21 00:12 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): batch record-index reference reads](https://github.com/ryan-wong-coder/trustdb/pull/292) |
+| 2026-07-21 00:12 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): batch record-index reference reads (#292)](https://github.com/ryan-wong-coder/trustdb/commit/d01be957cd7be08425bf35cfe0197ece8616d41c) |
+| 2026-07-20 23:43 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Reuse TiKV reverse scan batches](https://github.com/ryan-wong-coder/trustdb/issues/289) |
+| 2026-07-20 23:43 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): reuse reverse scan batches](https://github.com/ryan-wong-coder/trustdb/pull/290) |
+| 2026-07-20 23:43 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): reuse reverse scan batches (#290)](https://github.com/ryan-wong-coder/trustdb/commit/f5cf98c47203c5113fc3e1c42dde6e681478d589) |
+| 2026-07-20 23:19 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Propagate native gRPC stream termination](https://github.com/ryan-wong-coder/trustdb/issues/287) |
+| 2026-07-20 23:19 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): propagate native gRPC stream termination](https://github.com/ryan-wong-coder/trustdb/pull/288) |
+| 2026-07-20 23:19 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): propagate native gRPC stream termination (#288)](https://github.com/ryan-wong-coder/trustdb/commit/52c9968f8ef10f49088cceda37fb133e7d6de6af) |
+| 2026-07-20 23:06 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Avoid empty outbox poll allocations](https://github.com/ryan-wong-coder/trustdb/issues/285) |
+| 2026-07-20 23:06 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): defer outbox poll allocations](https://github.com/ryan-wong-coder/trustdb/pull/286) |
+| 2026-07-20 23:06 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): defer outbox poll allocations (#286)](https://github.com/ryan-wong-coder/trustdb/commit/a5e701235dc84e49ec83c0bc1f6d255f073957bc) |
+| 2026-07-20 22:49 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Avoid per-leaf Merkle record boxing](https://github.com/ryan-wong-coder/trustdb/issues/283) |
+| 2026-07-20 22:49 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(merkle): avoid per-leaf record boxing](https://github.com/ryan-wong-coder/trustdb/pull/284) |
+| 2026-07-20 22:49 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(merkle): avoid per-leaf record boxing (#284)](https://github.com/ryan-wong-coder/trustdb/commit/e61037e44b3b82f9425eac776ed484dbc151ad66) |
 | 2026-07-20 22:41 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Eliminate redundant native SDK batch result allocation](https://github.com/ryan-wong-coder/trustdb/issues/281) |
 | 2026-07-20 22:41 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(sdk): avoid redundant native batch results (#282)](https://github.com/ryan-wong-coder/trustdb/commit/325f7608bf316bc976d9d55ab07152487ba4e9e0) |
 | 2026-07-20 22:41 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(sdk): avoid redundant native batch results](https://github.com/ryan-wong-coder/trustdb/pull/282) |
@@ -491,20 +506,5 @@
 | 2021-06-15 12:11 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d7e003fc1a516598a74356c3d4c11268e053d2c7) |
 | 2021-06-15 11:45 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4462882793ed3783fdbf8d1543f33e9e16ccf951) |
 | 2021-06-15 11:28 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/b6c3e914988e3f4448ddec792540f28177393a37) |
-| 2021-06-15 06:31 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/51245f649990468d9bd9074a944a21c44740f893) |
-| 2021-06-15 05:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/6de23d1abd4023cb0c700339421955524f3f2cea) |
-| 2021-06-15 05:24 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/73d566f0b10b151fc0442eeda3544606080908c2) |
-| 2021-06-15 04:55 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4b932e2969122beef2eba6804928eaa8d5b530e1) |
-| 2021-06-15 04:30 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/b3cdf40003057dc40f594f1bfc68b0afc7d9a301) |
-| 2021-06-15 04:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/7ea1aa3428becb0fc9342569d12deddb25ebb9d9) |
-| 2021-06-15 04:14 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/f6624790d6ef58825035c298a9e553c1a5996ef8) |
-| 2021-06-15 04:10 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/8a9fd2198fcd60c1c61f61f9b51fda32db90aaed) |
-| 2021-06-15 04:08 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/c1d9c1591d22b470687906e3b9a3f5b0da12bc92) |
-| 2021-06-15 03:52 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/65881e46116712993dc0c754364f9a5213de51d5) |
-| 2021-06-15 03:09 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/1fc66005ede0c28c3cb5b635db3d943e6e76006d) |
-| 2021-06-09 13:19 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/db7be30c6e3d5bc60d992872200d5b003d019dcc) |
-| 2021-06-08 19:51 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d764511fbbbdae459d2a6388c6c4e3abb5f058ec) |
-| 2021-06-08 18:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/6bf03da45d29cf4ecb6f5e70132b99c3c3c7a449) |
-| 2021-06-08 18:14 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/36a60e07367fdcdcc4b644b69fabcc4e1578d1c1) |
 
-_Latest indexed activity: 2026-07-20 14:41 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 16:12 UTC · checked automatically every 10 minutes_
