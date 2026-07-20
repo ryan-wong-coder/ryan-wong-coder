@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/d01be957cd7be08425bf35cfe0197ece8616d41c">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/a53907e807b824d66dea1fea1f3fc5d38cfd49e1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d01be95-3ccdb2876e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d01be95-3ccdb2876e-light.svg" />
-    <img alt="COMMIT: perf(tikv): batch record-index reference reads (#292)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d01be95-3ccdb2876e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a53907e-6a9fbfa696-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a53907e-6a9fbfa696-light.svg" />
+    <img alt="COMMIT: perf(proofstore): batch TiKV global outbox reads (#298)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a53907e-6a9fbfa696-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/291">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/297">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-291-f90df20139-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-291-f90df20139-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Batch TiKV record-index reference reads" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-291-f90df20139-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-297-8df5047acf-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-297-8df5047acf-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Batch TiKV Global Log outbox reads" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-297-8df5047acf-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/292">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/298">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-292-fe4bb0df9b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-292-fe4bb0df9b-light.svg" />
-    <img alt="PR MERGED: perf(tikv): batch record-index reference reads" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-292-fe4bb0df9b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-298-df944438d9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-298-df944438d9-light.svg" />
+    <img alt="PR MERGED: perf(proofstore): batch TiKV global outbox reads" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-298-df944438d9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/7b8256155f7d2e945a1eb987f601be42820a908a">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/2911b5c4c7a0791f61d9d13adc0c64887ed62cb9">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b82561-4919d47fa1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b82561-4919d47fa1-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden terminal provider lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7b82561-4919d47fa1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2911b5c-4f15d9bf89-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2911b5c-4f15d9bf89-light.svg" />
+    <img alt="COMMIT: fix(plugins): avoid duplicate terminal submission callbacks" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2911b5c-4f15d9bf89-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/f5cf98c47203c5113fc3e1c42dde6e681478d589">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/2a31e7c409da35bdf11315d60baf545b6d6636d1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-f5cf98c-807daee27a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-f5cf98c-807daee27a-light.svg" />
-    <img alt="COMMIT: perf(tikv): reuse reverse scan batches (#290)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-f5cf98c-807daee27a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a31e7c-16272108e8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a31e7c-16272108e8-light.svg" />
+    <img alt="COMMIT: fix(plugins): close terminal provider lifecycle gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a31e7c-16272108e8-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/289">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/295">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-289-50b9641081-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-289-50b9641081-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Reuse TiKV reverse scan batches" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-289-50b9641081-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-295-810b0c00ec-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-295-810b0c00ec-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Batch TiKV promotion record reads" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-295-810b0c00ec-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/290">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/6b96e81a798261a57fbe0874004e2526af144f9b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-290-b1d8e7febf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-290-b1d8e7febf-light.svg" />
-    <img alt="PR MERGED: perf(tikv): reuse reverse scan batches" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-290-b1d8e7febf-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b96e81-be20fc3b6d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b96e81-be20fc3b6d-light.svg" />
+    <img alt="COMMIT: perf(proofstore): batch TiKV promotion reads (#296)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b96e81-be20fc3b6d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/39dc05d9eb53f780d98e78dfe321436c0296a4cf">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/296">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-39dc05d-50e3f314e7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-39dc05d-50e3f314e7-light.svg" />
-    <img alt="COMMIT: perf(tikv): reuse reverse scan batches" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-39dc05d-50e3f314e7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-296-d1ce9ee11c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-296-d1ce9ee11c-light.svg" />
+    <img alt="PR MERGED: perf(proofstore): batch TiKV promotion reads" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-296-d1ce9ee11c-light.svg" width="100%" />
   </picture>
 </a>
 <br />

@@ -2,10 +2,19 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 310 commits · 99 pull requests · 91 issues · newest first · maximum 500
+**500 entries** · 305 commits · 102 pull requests · 93 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-21 02:16 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Batch TiKV Global Log outbox reads](https://github.com/ryan-wong-coder/trustdb/issues/297) |
+| 2026-07-21 02:16 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): batch TiKV global outbox reads](https://github.com/ryan-wong-coder/trustdb/pull/298) |
+| 2026-07-21 02:16 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): batch TiKV global outbox reads (#298)](https://github.com/ryan-wong-coder/trustdb/commit/a53907e807b824d66dea1fea1f3fc5d38cfd49e1) |
+| 2026-07-21 01:43 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Batch TiKV promotion record reads](https://github.com/ryan-wong-coder/trustdb/issues/295) |
+| 2026-07-21 01:43 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): batch TiKV promotion reads](https://github.com/ryan-wong-coder/trustdb/pull/296) |
+| 2026-07-21 01:43 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): batch TiKV promotion reads (#296)](https://github.com/ryan-wong-coder/trustdb/commit/6b96e81a798261a57fbe0874004e2526af144f9b) |
+| 2026-07-21 00:54 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Minimize proof-level promotion index writes](https://github.com/ryan-wong-coder/trustdb/issues/293) |
+| 2026-07-21 00:54 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): reduce promotion index writes](https://github.com/ryan-wong-coder/trustdb/pull/294) |
+| 2026-07-21 00:54 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): reduce promotion index writes (#294)](https://github.com/ryan-wong-coder/trustdb/commit/44971c8f712a94212672d00b8890a30d9a9adba6) |
 | 2026-07-21 00:12 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Batch TiKV record-index reference reads](https://github.com/ryan-wong-coder/trustdb/issues/291) |
 | 2026-07-21 00:12 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): batch record-index reference reads](https://github.com/ryan-wong-coder/trustdb/pull/292) |
 | 2026-07-21 00:12 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): batch record-index reference reads (#292)](https://github.com/ryan-wong-coder/trustdb/commit/d01be957cd7be08425bf35cfe0197ece8616d41c) |
@@ -497,14 +506,5 @@
 | 2025-12-05 09:31 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [Docs: Remove redundant process documentation](https://github.com/beingakashyadav/didi/commit/70b393cc5ec1c17f4c15b60bc98582b692dcc505) |
 | 2025-12-05 09:28 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [Initial commit: Clean up project structure and remove redundant scripts](https://github.com/beingakashyadav/didi/commit/5013109553b7cc9d8df561662e166d94f5d02b0d) |
 | 2025-10-21 09:15 | `ISSUE OPEN` | [taosdata/driver-go](https://github.com/taosdata/driver-go) | [程序出现1547 success报错](https://github.com/taosdata/driver-go/issues/348) |
-| 2025-09-26 14:24 | `ISSUE CLOSED` | [taosdata/driver-go](https://github.com/taosdata/driver-go) | [使用原生连接stmt2进行参数绑定时，空字符串会导致byte数组越界](https://github.com/taosdata/driver-go/issues/344) |
-| 2025-03-31 22:37 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Merge remote-tracking branch 'origin/main'](https://github.com/Siyuan-Wong/msgcenter/commit/cf6bec1442c86ba9b5d6ccabfb4fff51394f159a) |
-| 2025-03-31 22:36 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [init](https://github.com/Siyuan-Wong/msgcenter/commit/cd0508164fb6ba73fd60f3c7ec839d4f84c66d43) |
-| 2025-03-30 00:04 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [init](https://github.com/Siyuan-Wong/msgcenter/commit/8c50b3f2791fbe8f4443458c34f3d43a74024a83) |
-| 2025-03-29 18:49 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Delete .idea directory](https://github.com/Siyuan-Wong/msgcenter/commit/dab72f2f6620b5e9fc55de8bda97775e0ee02627) |
-| 2025-03-29 18:12 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Initial commit](https://github.com/Siyuan-Wong/msgcenter/commit/acc480d8a62e15f8f9d38c06eac42be817e5b28c) |
-| 2021-06-15 12:11 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d7e003fc1a516598a74356c3d4c11268e053d2c7) |
-| 2021-06-15 11:45 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4462882793ed3783fdbf8d1543f33e9e16ccf951) |
-| 2021-06-15 11:28 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/b6c3e914988e3f4448ddec792540f28177393a37) |
 
-_Latest indexed activity: 2026-07-20 16:12 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 18:16 UTC · checked automatically every 10 minutes_
