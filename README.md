@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/38f731a865f969d25966e2431054a703bbe54369">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3d2b815f5dea549e4bf4699513e354367dae6f78">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-38f731a-1982852b68-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-38f731a-1982852b68-light.svg" />
-    <img alt="COMMIT: fix(ui): avoid restarting unchanged status pulses" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-38f731a-1982852b68-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3d2b815-7e24006b7d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3d2b815-7e24006b7d-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden terminal provider rendering" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3d2b815-7e24006b7d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/216">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/247">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-216-e300b89b73-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-216-e300b89b73-light.svg" />
-    <img alt="PR OPENED: fix(ui): sync dashboard status animations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-216-e300b89b73-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-247-4ea83209b9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-247-4ea83209b9-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Avoid duplicate Go SDK record page copies" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-247-4ea83209b9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/215">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/21b152c642fca817cdf9193f6d2ba3e5bf8c445d">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-215-6c137ff76f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-215-6c137ff76f-light.svg" />
-    <img alt="PR OPENED: fix(sdk): unblock canceled native streams" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-215-6c137ff76f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-21b152c-cedab0a1e7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-21b152c-cedab0a1e7-light.svg" />
+    <img alt="COMMIT: perf(sdk): eliminate load balancer dispatch allocations (#246)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-21b152c-cedab0a1e7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/214">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/245">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-214-b058039b7a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-214-b058039b7a-light.svg" />
-    <img alt="PR CLOSED: fix(sdk): unblock canceled native streams" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-214-b058039b7a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-245-927451e4c2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-245-927451e4c2-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Eliminate Go SDK load-balancer dispatch allocations" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-245-927451e4c2-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/213">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/246">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-213-1dec3b9fea-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-213-1dec3b9fea-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Keep dashboard status animations aligned with asynchronous state" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-213-1dec3b9fea-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-246-fd34008aa2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-246-fd34008aa2-light.svg" />
+    <img alt="PR MERGED: perf(sdk): eliminate load balancer dispatch allocations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-246-fd34008aa2-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/212">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/cfb4580a08968ac7cdc19c92a670f51c9ab509be">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-212-889c80a33c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-212-889c80a33c-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Prevent native gRPC stream cancellation from leaking goroutines" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-212-889c80a33c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cfb4580-d5cf4d7b58-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cfb4580-d5cf4d7b58-light.svg" />
+    <img alt="COMMIT: perf(sdk): reduce log claim allocations (#244)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-cfb4580-d5cf4d7b58-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/binaricat/Netcatty/pull/2324">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/243">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2324-79a2320ffe-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2324-79a2320ffe-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add native UI contributions" src="./assets/activity-cards/pr-binaricat-netcatty-2324-79a2320ffe-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-243-3af3c030e9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-243-3af3c030e9-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Reduce Go SDK log claim allocations" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-243-3af3c030e9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/244">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd5a159-d4495a1125-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd5a159-d4495a1125-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve tabs during context refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-cd5a159-d4495a1125-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-244-5132caa4e4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-244-5132caa4e4-light.svg" />
+    <img alt="PR MERGED: perf(sdk): reduce log claim allocations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-244-5132caa4e4-light.svg" width="100%" />
   </picture>
 </a>
 <br />
