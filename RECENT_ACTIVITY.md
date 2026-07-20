@@ -2,10 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 305 commits · 102 pull requests · 93 issues · newest first · maximum 500
+**500 entries** · 303 commits · 103 pull requests · 94 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-21 03:13 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Durably publish WAL files and segment directories](https://github.com/ryan-wong-coder/trustdb/issues/301) |
+| 2026-07-21 03:10 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Bound idle WAL group fsync latency](https://github.com/ryan-wong-coder/trustdb/issues/299) |
+| 2026-07-21 03:10 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): bound idle group fsync latency](https://github.com/ryan-wong-coder/trustdb/pull/300) |
+| 2026-07-21 03:10 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): bound idle group fsync latency (#300)](https://github.com/ryan-wong-coder/trustdb/commit/92399ad2b4fe80fd235721a8132f7bc83e18d621) |
 | 2026-07-21 02:16 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Batch TiKV Global Log outbox reads](https://github.com/ryan-wong-coder/trustdb/issues/297) |
 | 2026-07-21 02:16 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): batch TiKV global outbox reads](https://github.com/ryan-wong-coder/trustdb/pull/298) |
 | 2026-07-21 02:16 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): batch TiKV global outbox reads (#298)](https://github.com/ryan-wong-coder/trustdb/commit/a53907e807b824d66dea1fea1f3fc5d38cfd49e1) |
@@ -502,9 +506,5 @@
 | 2025-12-09 09:46 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: implement incremental sync for conversations and add Isar database](https://github.com/beingakashyadav/didi/commit/4fd7b79e1a87518fc9454a6d2f7436ba82e4686e) |
 | 2025-12-09 09:11 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: upgrade email templates to iOS 26 glass style and fix email sending port](https://github.com/beingakashyadav/didi/commit/2abfb53c9c0c6dec04d488cba4d292a2b75b3976) |
 | 2025-12-08 16:52 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 完善用户注册流程和邮件发送功能](https://github.com/beingakashyadav/didi/commit/54bffaf3d7eb158cf259df7e5e8ac0b184eff945) |
-| 2025-12-08 14:21 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [1](https://github.com/beingakashyadav/didi/commit/97a02e5702a375c0002f76c50f8e040a10040b15) |
-| 2025-12-05 09:31 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [Docs: Remove redundant process documentation](https://github.com/beingakashyadav/didi/commit/70b393cc5ec1c17f4c15b60bc98582b692dcc505) |
-| 2025-12-05 09:28 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [Initial commit: Clean up project structure and remove redundant scripts](https://github.com/beingakashyadav/didi/commit/5013109553b7cc9d8df561662e166d94f5d02b0d) |
-| 2025-10-21 09:15 | `ISSUE OPEN` | [taosdata/driver-go](https://github.com/taosdata/driver-go) | [程序出现1547 success报错](https://github.com/taosdata/driver-go/issues/348) |
 
-_Latest indexed activity: 2026-07-20 18:16 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 19:13 UTC · checked automatically every 10 minutes_
