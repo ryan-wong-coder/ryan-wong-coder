@@ -2,12 +2,31 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 332 commits · 88 pull requests · 80 issues · newest first · maximum 500
+**500 entries** · 320 commits · 94 pull requests · 86 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-20 22:41 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Eliminate redundant native SDK batch result allocation](https://github.com/ryan-wong-coder/trustdb/issues/281) |
+| 2026-07-20 22:41 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(sdk): avoid redundant native batch results (#282)](https://github.com/ryan-wong-coder/trustdb/commit/325f7608bf316bc976d9d55ab07152487ba4e9e0) |
+| 2026-07-20 22:41 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(sdk): avoid redundant native batch results](https://github.com/ryan-wong-coder/trustdb/pull/282) |
+| 2026-07-20 22:32 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Reuse bounded HTTP CBOR request buffers](https://github.com/ryan-wong-coder/trustdb/issues/279) |
+| 2026-07-20 22:32 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(httpapi): reuse bounded request buffers (#280)](https://github.com/ryan-wong-coder/trustdb/commit/82f587687544f1bf57d7744df1ce138ea08fa430) |
+| 2026-07-20 22:32 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(httpapi): reuse bounded request buffers](https://github.com/ryan-wong-coder/trustdb/pull/280) |
+| 2026-07-20 21:56 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Reuse proof bundle decode buffers](https://github.com/ryan-wong-coder/trustdb/issues/277) |
+| 2026-07-20 21:56 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): reuse bundle decode buffers](https://github.com/ryan-wong-coder/trustdb/pull/278) |
+| 2026-07-20 21:56 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): reuse bundle decode buffers (#278)](https://github.com/ryan-wong-coder/trustdb/commit/31f9b2648ac0a9a1504850e30673fb8e9fc8e9a1) |
+| 2026-07-20 21:00 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Bound LocalStore numeric page scans](https://github.com/ryan-wong-coder/trustdb/issues/275) |
+| 2026-07-20 21:00 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): bound numeric page scans](https://github.com/ryan-wong-coder/trustdb/pull/276) |
+| 2026-07-20 21:00 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): bound numeric page scans (#276)](https://github.com/ryan-wong-coder/trustdb/commit/b93b8f4213a000e9c2727577ede1b1732e297886) |
+| 2026-07-20 20:51 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Avoid redundant LocalStore directory sorting](https://github.com/ryan-wong-coder/trustdb/issues/273) |
+| 2026-07-20 20:51 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): avoid redundant directory sorting (#274)](https://github.com/ryan-wong-coder/trustdb/commit/12c18ca0270ebccbf16c77ee852adc3811353290) |
+| 2026-07-20 20:51 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(proofstore): avoid redundant directory sorting](https://github.com/ryan-wong-coder/trustdb/pull/274) |
+| 2026-07-20 20:40 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Reduce WAL recovery scan allocations](https://github.com/ryan-wong-coder/trustdb/issues/271) |
+| 2026-07-20 20:40 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(wal): reuse recovery scan framing buffers (#272)](https://github.com/ryan-wong-coder/trustdb/commit/283f323a70fd69fd1bdaab17b8676c06edc59209) |
+| 2026-07-20 20:40 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(wal): reuse recovery scan framing buffers](https://github.com/ryan-wong-coder/trustdb/pull/272) |
 | 2026-07-20 20:28 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Reuse local object copy buffers](https://github.com/ryan-wong-coder/trustdb/issues/269) |
 | 2026-07-20 20:27 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(objectstore): reuse copy buffers](https://github.com/ryan-wong-coder/trustdb/pull/270) |
+| 2026-07-20 20:27 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(objectstore): reuse copy buffers (#270)](https://github.com/ryan-wong-coder/trustdb/commit/d6bbff8ce4914a74ac7cbbec0eac02f9d15c01f5) |
 | 2026-07-20 20:21 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Reduce TiKV artifact staging allocations](https://github.com/ryan-wong-coder/trustdb/issues/267) |
 | 2026-07-20 20:21 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): reduce artifact staging allocations (#268)](https://github.com/ryan-wong-coder/trustdb/commit/907bd1f71706538dd717936f36ef6feb0ab53895) |
 | 2026-07-20 20:21 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf(tikv): reduce artifact staging allocations](https://github.com/ryan-wong-coder/trustdb/pull/268) |
@@ -487,24 +506,5 @@
 | 2021-06-08 19:51 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d764511fbbbdae459d2a6388c6c4e3abb5f058ec) |
 | 2021-06-08 18:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/6bf03da45d29cf4ecb6f5e70132b99c3c3c7a449) |
 | 2021-06-08 18:14 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/36a60e07367fdcdcc4b644b69fabcc4e1578d1c1) |
-| 2021-06-08 18:08 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/576db9100c9847c4b6624af4d6871e849df4dd86) |
-| 2021-06-08 18:01 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d6369a3016785f2999add7824914bff0cf231864) |
-| 2021-06-08 17:58 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/9b04bdf7fcf21ef5d81f020ca96a84640b5ea3b0) |
-| 2021-06-08 17:55 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/5fa21adf9cdb58c9136ffb5acd63c7f5ecd5002a) |
-| 2021-06-08 11:06 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/035cce54e15506b7c4fc5b887b6cb418b6644c4b) |
-| 2021-06-07 09:47 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4f908131fe0f963e38543d6509d0f29580e8b7d7) |
-| 2021-06-07 09:24 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/2151d11e305d0ddc3fd15aa275d6440a2710a397) |
-| 2021-06-07 09:03 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/518d929923568e382e9203ba5ba17f861bf37277) |
-| 2021-06-06 07:09 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/85c23a33bdcbd2b3a82e1068d7864c7bb0b31445) |
-| 2021-06-05 22:52 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/db23982dd8df3486b9d88741c436e5474c281c3e) |
-| 2021-06-05 22:40 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/a25899447231ea133cd272551b8221d752973fc3) |
-| 2021-06-05 22:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/3762bfd45570760b4f1d7da5d1435e179aa863a2) |
-| 2021-06-05 15:34 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4c6abcc87c8e5c409cb3372cdaa99de363fbb520) |
-| 2021-05-28 16:04 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/5e25939b74adbf823e71cba8bffbd6cfd2afa69f) |
-| 2021-05-28 15:57 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/beca6fd33558867a84609e0531ca7996920c762a) |
-| 2021-05-28 15:36 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/30bcf4cf1ae5984cd803fa4e7cf88782a81eef6b) |
-| 2021-05-25 08:51 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/f4e8681b56218fb951c121b5528b19c3c8b4f6b9) |
-| 2021-05-25 08:50 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/57965ebdc70e56a5c4bc6d2a1b580aab6936ffbe) |
-| 2021-05-25 07:50 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(地址信息维护): 地址信息签到](https://github.com/wang-si-yuan/ncov/commit/9d2db40c97fb9de35404a508da59135e9275d7c3) |
 
-_Latest indexed activity: 2026-07-20 12:28 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 14:41 UTC · checked automatically every 10 minutes_

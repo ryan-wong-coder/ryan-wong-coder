@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/da61c9e050434e2f85e0c93681877f35c9935ce4">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/281">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-da61c9e-2d08e80fb5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-da61c9e-2d08e80fb5-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve terminal provider host state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-da61c9e-2d08e80fb5-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-281-a265411b9f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-281-a265411b9f-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Eliminate redundant native SDK batch result allocation" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-281-a265411b9f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/d6bbff8ce4914a74ac7cbbec0eac02f9d15c01f5">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/325f7608bf316bc976d9d55ab07152487ba4e9e0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d6bbff8-4bf04844ce-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d6bbff8-4bf04844ce-light.svg" />
-    <img alt="COMMIT: perf(objectstore): reuse copy buffers (#270)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d6bbff8-4bf04844ce-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-325f760-0b9cc0bbb7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-325f760-0b9cc0bbb7-light.svg" />
+    <img alt="COMMIT: perf(sdk): avoid redundant native batch results (#282)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-325f760-0b9cc0bbb7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/269">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/282">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-269-ff579fe532-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-269-ff579fe532-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Reuse local object copy buffers" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-269-ff579fe532-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-282-2bc3e2e6e0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-282-2bc3e2e6e0-light.svg" />
+    <img alt="PR MERGED: perf(sdk): avoid redundant native batch results" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-282-2bc3e2e6e0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/270">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/82f587687544f1bf57d7744df1ce138ea08fa430">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-270-9df21f23f1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-270-9df21f23f1-light.svg" />
-    <img alt="PR MERGED: perf(objectstore): reuse copy buffers" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-270-9df21f23f1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-82f5876-57708cab35-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-82f5876-57708cab35-light.svg" />
+    <img alt="COMMIT: perf(httpapi): reuse bounded request buffers (#280)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-82f5876-57708cab35-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/907bd1f71706538dd717936f36ef6feb0ab53895">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/279">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-907bd1f-8ae87a9dda-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-907bd1f-8ae87a9dda-light.svg" />
-    <img alt="COMMIT: perf(tikv): reduce artifact staging allocations (#268)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-907bd1f-8ae87a9dda-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-279-2ffa2947ea-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-279-2ffa2947ea-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Reuse bounded HTTP CBOR request buffers" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-279-2ffa2947ea-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/267">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/280">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-267-0e0ffc77ef-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-267-0e0ffc77ef-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Reduce TiKV artifact staging allocations" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-267-0e0ffc77ef-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-280-cad409e0a0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-280-cad409e0a0-light.svg" />
+    <img alt="PR MERGED: perf(httpapi): reuse bounded request buffers" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-280-cad409e0a0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/268">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/31f9b2648ac0a9a1504850e30673fb8e9fc8e9a1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-268-9851d4b45f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-268-9851d4b45f-light.svg" />
-    <img alt="PR MERGED: perf(tikv): reduce artifact staging allocations" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-268-9851d4b45f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-31f9b26-1842402929-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-31f9b26-1842402929-light.svg" />
+    <img alt="COMMIT: perf(proofstore): reuse bundle decode buffers (#278)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-31f9b26-1842402929-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/55d3227d8a204992117a1e76a70f9bb5398e0304">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/277">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-55d3227-5d89b34616-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-55d3227-5d89b34616-light.svg" />
-    <img alt="COMMIT: perf(proofstore): avoid artifact value boxing (#266)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-55d3227-5d89b34616-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-277-96654ae898-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-277-96654ae898-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Reuse proof bundle decode buffers" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-277-96654ae898-light.svg" width="100%" />
   </picture>
 </a>
 <br />
