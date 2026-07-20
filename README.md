@@ -21,11 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/303">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-303-1b5543919c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-303-1b5543919c-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Keep WAL checkpoints on contiguous committed coverage" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-303-1b5543919c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-light.svg" />
+    <img alt="COMMIT: fix(wal): make namespace and recovery durable (#302)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/issues/301">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-1a2b89ffaf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-1a2b89ffaf-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Durably publish WAL files and segment directories" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-1a2b89ffaf-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-81ddc0c61d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-81ddc0c61d-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Durably publish WAL files and segment directories" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-301-81ddc0c61d-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/302">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-302-01197d1073-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-302-01197d1073-light.svg" />
+    <img alt="PR MERGED: fix(wal): make namespace and recovery durable" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-302-01197d1073-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/1f8a06557e63e50c9c583e772d099a8220f1fda5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-light.svg" />
+    <img alt="COMMIT: test(wal): make close assertion portable" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-300-8ae7dd6d8f-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-300-8ae7dd6d8f-light.svg" />
     <img alt="PR MERGED: fix(wal): bound idle group fsync latency" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-300-8ae7dd6d8f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/38bda088894fc090be540bd60dc0acc30b4b7580">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-38bda08-932d6cef26-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-38bda08-932d6cef26-light.svg" />
-    <img alt="COMMIT: fix(plugins): invalidate stale terminal provider results" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-38bda08-932d6cef26-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/a53907e807b824d66dea1fea1f3fc5d38cfd49e1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a53907e-6a9fbfa696-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a53907e-6a9fbfa696-light.svg" />
-    <img alt="COMMIT: perf(proofstore): batch TiKV global outbox reads (#298)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-a53907e-6a9fbfa696-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/297">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-297-8df5047acf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-297-8df5047acf-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Batch TiKV Global Log outbox reads" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-297-8df5047acf-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/298">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-298-df944438d9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-298-df944438d9-light.svg" />
-    <img alt="PR MERGED: perf(proofstore): batch TiKV global outbox reads" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-298-df944438d9-light.svg" width="100%" />
   </picture>
 </a>
 <br />

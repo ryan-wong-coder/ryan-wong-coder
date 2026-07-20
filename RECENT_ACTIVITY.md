@@ -2,11 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 303 commits · 103 pull requests · 94 issues · newest first · maximum 500
+**500 entries** · 301 commits · 104 pull requests · 95 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-21 03:13 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Durably publish WAL files and segment directories](https://github.com/ryan-wong-coder/trustdb/issues/301) |
+| 2026-07-21 04:46 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep WAL checkpoints on contiguous committed coverage](https://github.com/ryan-wong-coder/trustdb/issues/303) |
+| 2026-07-21 04:33 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Durably publish WAL files and segment directories](https://github.com/ryan-wong-coder/trustdb/issues/301) |
+| 2026-07-21 04:33 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable](https://github.com/ryan-wong-coder/trustdb/pull/302) |
+| 2026-07-21 04:33 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable (#302)](https://github.com/ryan-wong-coder/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752) |
 | 2026-07-21 03:10 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Bound idle WAL group fsync latency](https://github.com/ryan-wong-coder/trustdb/issues/299) |
 | 2026-07-21 03:10 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): bound idle group fsync latency](https://github.com/ryan-wong-coder/trustdb/pull/300) |
 | 2026-07-21 03:10 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): bound idle group fsync latency (#300)](https://github.com/ryan-wong-coder/trustdb/commit/92399ad2b4fe80fd235721a8132f7bc83e18d621) |
@@ -503,8 +506,5 @@
 | 2025-12-09 10:23 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [wip: add message sync API structure](https://github.com/beingakashyadav/didi/commit/8ec58485481bb33760ff28bcbc810a135d6715ec) |
 | 2025-12-09 09:58 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [test: add conversation sync tests and fix all unit tests](https://github.com/beingakashyadav/didi/commit/595f7fffe060e770630ad46d203dc14d190158c5) |
 | 2025-12-09 09:52 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: update test mocks to match interface changes](https://github.com/beingakashyadav/didi/commit/8afb275137ade5f8b362a69743562c576d3320b2) |
-| 2025-12-09 09:46 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: implement incremental sync for conversations and add Isar database](https://github.com/beingakashyadav/didi/commit/4fd7b79e1a87518fc9454a6d2f7436ba82e4686e) |
-| 2025-12-09 09:11 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: upgrade email templates to iOS 26 glass style and fix email sending port](https://github.com/beingakashyadav/didi/commit/2abfb53c9c0c6dec04d488cba4d292a2b75b3976) |
-| 2025-12-08 16:52 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 完善用户注册流程和邮件发送功能](https://github.com/beingakashyadav/didi/commit/54bffaf3d7eb158cf259df7e5e8ac0b184eff945) |
 
-_Latest indexed activity: 2026-07-20 19:13 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-20 20:46 UTC · checked automatically every 10 minutes_
