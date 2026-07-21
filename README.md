@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/binaricat/Netcatty/pull/2338">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/332">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2338-14030320d0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2338-14030320d0-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add terminal provider API" src="./assets/activity-cards/pr-binaricat-netcatty-2338-14030320d0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-332-3c9caf09e3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-332-3c9caf09e3-light.svg" />
+    <img alt="PR OPENED: fix(globallog): retry fenced append conflicts" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-332-3c9caf09e3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/4401cd73b878f3c328178a54f700cde01a113403">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/d758f0fd4f21227cdf5e86c0391776ef303fcbe6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4401cd7-b419d34c78-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4401cd7-b419d34c78-light.svg" />
-    <img alt="COMMIT: docs(github): standardize fix branch prefix (#313)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4401cd7-b419d34c78-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/312">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-312-1873ccddb8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-312-1873ccddb8-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Standardize bug-fix branches on the fix prefix" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-312-1873ccddb8-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/313">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-313-53517e424f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-313-53517e424f-light.svg" />
-    <img alt="PR MERGED: docs(github): standardize fix branch prefix" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-313-53517e424f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/311">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Reduce TiKV batch-tree persistence write amplification" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d758f0f-a826bbb864-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d758f0f-a826bbb864-light.svg" />
+    <img alt="COMMIT: fix(proofstore): index tikv prepared manifests (#331)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d758f0f-a826bbb864-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/trustdb/issues/310">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-4f11875214-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-4f11875214-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Avoid full-history TiKV manifest scans in the materializer" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-4f11875214-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-9e402ab37b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-9e402ab37b-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Avoid full-history TiKV manifest scans in the materializer" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-9e402ab37b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/5af010dced1ecb52bf010725fb78990ea7215ddf">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/331">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-light.svg" />
-    <img alt="COMMIT: fix(wal): preserve contiguous checkpoint frontier (#308)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-331-8a2a9b5293-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-331-8a2a9b5293-light.svg" />
+    <img alt="PR MERGED: fix(proofstore): index tikv prepared manifests" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-331-8a2a9b5293-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/308">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/729d94466b4aca28f63191e898929e89adb7447f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-light.svg" />
-    <img alt="PR MERGED: fix(wal): preserve contiguous checkpoint frontier" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-729d944-f94d02a860-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-729d944-f94d02a860-light.svg" />
+    <img alt="COMMIT: fix(ingest): dedupe unkeyed exact retries (#330)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-729d944-f94d02a860-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/307">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-307-1e2765895f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-307-1e2765895f-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Prevent duplicate RecordIDs when idempotency keys are empty" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-307-1e2765895f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/330">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-330-f735fe3636-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-330-f735fe3636-light.svg" />
+    <img alt="PR MERGED: fix(ingest): dedupe unkeyed exact retries" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-330-f735fe3636-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/4836c800ca08fe6678f81d4af6c1a001c39f9fdb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4836c80-529ebf1171-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4836c80-529ebf1171-light.svg" />
+    <img alt="COMMIT: fix(proofstore): bound local global node cursor reads (#329)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4836c80-529ebf1171-light.svg" width="100%" />
   </picture>
 </a>
 <br />
