@@ -2,7 +2,7 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 288 commits · 119 pull requests · 93 issues · newest first · maximum 500
+**500 entries** · 287 commits · 119 pull requests · 94 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
@@ -487,17 +487,13 @@
 | 2026-06-29 15:15 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix: harden verification and input decoding (#177)](https://github.com/ryan-wong-coder/trustdb/commit/96e17f0361dd3e25a52972e0d89961fde49df2c1) |
 | 2026-06-29 15:15 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix: harden verification and input decoding](https://github.com/ryan-wong-coder/trustdb/pull/177) |
 | 2026-06-12 15:19 | `COMMIT` | [ryan-wong-coder/ryan-go-backend](https://github.com/ryan-wong-coder/ryan-go-backend) | [bd init: initialize beads issue tracking](https://github.com/ryan-wong-coder/ryan-go-backend/commit/f5cec218ada65e66d9f584c98482b68093fd9210) |
-| 2026-05-10 03:39 | `COMMIT` | [dahisea/All-Repo-Trending](https://github.com/dahisea/All-Repo-Trending) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/dahisea/All-Repo-Trending/commit/2fa7d93c4c49255be4a2bfb94bf280aca9d42d3b) |
-| 2026-05-09 19:49 | `COMMIT` | [dahisea/All-Repo-Trending](https://github.com/dahisea/All-Repo-Trending) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/dahisea/All-Repo-Trending/commit/7f81438a2580cec1cc2f16185a9c0fef4d47d234) |
 | 2026-05-09 19:17 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/91cc0c90417698af0f404100f853a922f9420de3) |
 | 2026-05-09 15:26 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Add native batch and streaming log ingest APIs](https://github.com/ryan-wong-coder/trustdb/issues/158) |
 | 2026-05-09 15:26 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(sdk): add native log ingest streams](https://github.com/ryan-wong-coder/trustdb/commit/fa890f7b18bf6b9fd29df3e96770ac110ae666a8) |
-| 2026-05-06 20:26 | `COMMIT` | [dahisea/All-Repo-Trending](https://github.com/dahisea/All-Repo-Trending) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/dahisea/All-Repo-Trending/commit/9c95568c7d3d568be9f3ccaf43e18332407a8da2) |
 | 2026-05-06 19:33 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/4dcc9137bf9860bb9ee31c653d63d2dfd1348f80) |
 | 2026-05-06 09:26 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Fix flaky batch tree node integration test](https://github.com/ryan-wong-coder/trustdb/issues/127) |
 | 2026-05-06 09:26 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(ci): wait for batch tree nodes in integration test (#128)](https://github.com/ryan-wong-coder/trustdb/commit/723c8568434bcd0159ea2cb0230186dfb9f12e43) |
 | 2026-05-06 09:26 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(ci): wait for batch tree nodes in integration test](https://github.com/ryan-wong-coder/trustdb/pull/128) |
-| 2026-05-04 20:20 | `COMMIT` | [dahisea/All-Repo-Trending](https://github.com/dahisea/All-Repo-Trending) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/dahisea/All-Repo-Trending/commit/62788df63a6bda5cf4d8fba72f6c9de84aa6c183) |
 | 2026-05-04 19:33 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/c250dc93d71de863dd69480bebb4eb9460b144bc) |
 | 2026-05-04 15:20 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Improve Admin Merkle tree Canvas visualization](https://github.com/ryan-wong-coder/trustdb/issues/123) |
 | 2026-05-04 15:20 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Admin Web: Merkle tree visualization and batch history](https://github.com/ryan-wong-coder/trustdb/issues/121) |
@@ -506,5 +502,9 @@
 | 2026-05-04 13:16 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TrustDB Admin Web (ops console)](https://github.com/ryan-wong-coder/trustdb/issues/119) |
 | 2026-05-04 13:16 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TrustDB Admin Web (integrated console) (#120)](https://github.com/ryan-wong-coder/trustdb/commit/9c01bb76ee93ab8cab3eb5751370eef1d61a4079) |
 | 2026-05-04 13:16 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TrustDB Admin Web (integrated console)](https://github.com/ryan-wong-coder/trustdb/pull/120) |
+| 2026-05-03 19:14 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/61d893f4c6aeadf6414e67fb11475f2ed13b7538) |
+| 2026-05-03 14:20 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(ci): validate shipped YAML without creating /var/log paths](https://github.com/ryan-wong-coder/trustdb/commit/0fe3298abdf1977e73886538c9970f6a9b75f031) |
+| 2026-05-03 14:11 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(config): ship benchmark profile, run_profile hints on serve](https://github.com/ryan-wong-coder/trustdb/commit/8e3361058dcb90cb906ddd340f1547eb2b5ac4ad) |
+| 2026-05-03 14:04 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [生产配置模板：开发、单机生产、压测](https://github.com/ryan-wong-coder/trustdb/issues/17) |
 
 _Latest indexed activity: 2026-07-21 15:57 UTC · checked automatically every 10 minutes_

@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ce93fd01bdccb0168a3cf4edb8334bfd050ced7e">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-8f1bdc6f10-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-8f1bdc6f10-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal replay provenance" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-8f1bdc6f10-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/issues/376">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-dark.svg" />
@@ -80,15 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-light.svg" />
     <img alt="PR MERGED: fix(anchor): add durable coalescing scheduler state" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/9649bd03d99593df93c4d22cd38377dea5e27566">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9649bd0-eb242d886b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9649bd0-eb242d886b-light.svg" />
-    <img alt="COMMIT: fix(tikv): back off scheduler transaction retries" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9649bd0-eb242d886b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
