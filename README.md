@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/d59118d91baee97ffed4e673c560a120819848b7">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/376">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d59118d-35850157ac-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d59118d-35850157ac-light.svg" />
-    <img alt="COMMIT: fix(plugin): harden terminal interceptor boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d59118d-35850157ac-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Enable STH anchor coalescing and remove the legacy queue" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/0d178a7003d1e32b8d5fb684f647fa9fd78fa1c7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0d178a7-484ebdbdcb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0d178a7-484ebdbdcb-light.svg" />
+    <img alt="COMMIT: fix(anchor): materialize sparse anchor L5 coverage (#375)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0d178a7-484ebdbdcb-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/374">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-374-3541052d82-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-374-3541052d82-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Materialize L5 coverage for sparse STH anchors" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-374-3541052d82-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/375">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-375-74db73a81c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-375-74db73a81c-light.svg" />
+    <img alt="PR MERGED: fix(anchor): materialize sparse anchor L5 coverage" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-375-74db73a81c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/99f6cb500aa363d94661a503d7ee7cd460f133d4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-light.svg" />
+    <img alt="COMMIT: fix(anchor): add durable coalescing scheduler state (#373)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/trustdb/issues/372">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-b1f0947410-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-b1f0947410-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Add durable coalescing state for STH anchoring" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-b1f0947410-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-9cdd30d460-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-9cdd30d460-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Add durable coalescing state for STH anchoring" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-9cdd30d460-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/370">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/373">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-370-51bc1f0cad-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-370-51bc1f0cad-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Fix offline proof export to use a covering anchored STH" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-370-51bc1f0cad-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-light.svg" />
+    <img alt="PR MERGED: fix(anchor): add durable coalescing scheduler state" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/1928389fd45ed9e90196165c84c0048b17831df9">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/9649bd03d99593df93c4d22cd38377dea5e27566">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1928389-80aa780f82-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1928389-80aa780f82-light.svg" />
-    <img alt="COMMIT: fix(proof): export evidence from a covering anchored STH (#371)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1928389-80aa780f82-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/371">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-371-60153cd77a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-371-60153cd77a-light.svg" />
-    <img alt="PR MERGED: fix(proof): export evidence from a covering anchored STH" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-371-60153cd77a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3e20eb0b0b366d742e7b30e31c203dafd8d7b7ab">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-e3ab0469fa-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-e3ab0469fa-light.svg" />
-    <img alt="COMMIT: fix(plugin): isolate reused terminal sessions" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-e3ab0469fa-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/369">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-369-3bbdd88b89-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-369-3bbdd88b89-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Coalesce batched Global Log STH anchors" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-369-3bbdd88b89-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/15576b38d1a79324b5caa68bf91bc3450d8f6405">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-light.svg" />
-    <img alt="COMMIT: fix(backup): reject missing manifest bundles (#368)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9649bd0-eb242d886b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9649bd0-eb242d886b-light.svg" />
+    <img alt="COMMIT: fix(tikv): back off scheduler transaction retries" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9649bd0-eb242d886b-light.svg" width="100%" />
   </picture>
 </a>
 <br />

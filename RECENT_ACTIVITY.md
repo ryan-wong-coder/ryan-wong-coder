@@ -2,11 +2,17 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 290 commits · 117 pull requests · 93 issues · newest first · maximum 500
+**500 entries** · 288 commits · 119 pull requests · 93 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-21 21:28 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Add durable coalescing state for STH anchoring](https://github.com/ryan-wong-coder/trustdb/issues/372) |
+| 2026-07-21 23:57 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Enable STH anchor coalescing and remove the legacy queue](https://github.com/ryan-wong-coder/trustdb/issues/376) |
+| 2026-07-21 23:56 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Materialize L5 coverage for sparse STH anchors](https://github.com/ryan-wong-coder/trustdb/issues/374) |
+| 2026-07-21 23:56 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(anchor): materialize sparse anchor L5 coverage](https://github.com/ryan-wong-coder/trustdb/pull/375) |
+| 2026-07-21 23:55 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(anchor): materialize sparse anchor L5 coverage (#375)](https://github.com/ryan-wong-coder/trustdb/commit/0d178a7003d1e32b8d5fb684f647fa9fd78fa1c7) |
+| 2026-07-21 23:25 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Add durable coalescing state for STH anchoring](https://github.com/ryan-wong-coder/trustdb/issues/372) |
+| 2026-07-21 23:25 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(anchor): add durable coalescing scheduler state](https://github.com/ryan-wong-coder/trustdb/pull/373) |
+| 2026-07-21 23:25 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(anchor): add durable coalescing scheduler state (#373)](https://github.com/ryan-wong-coder/trustdb/commit/99f6cb500aa363d94661a503d7ee7cd460f133d4) |
 | 2026-07-21 21:26 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Fix offline proof export to use a covering anchored STH](https://github.com/ryan-wong-coder/trustdb/issues/370) |
 | 2026-07-21 21:26 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proof): export evidence from a covering anchored STH (#371)](https://github.com/ryan-wong-coder/trustdb/commit/1928389fd45ed9e90196165c84c0048b17831df9) |
 | 2026-07-21 21:26 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proof): export evidence from a covering anchored STH](https://github.com/ryan-wong-coder/trustdb/pull/371) |
@@ -500,11 +506,5 @@
 | 2026-05-04 13:16 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TrustDB Admin Web (ops console)](https://github.com/ryan-wong-coder/trustdb/issues/119) |
 | 2026-05-04 13:16 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TrustDB Admin Web (integrated console) (#120)](https://github.com/ryan-wong-coder/trustdb/commit/9c01bb76ee93ab8cab3eb5751370eef1d61a4079) |
 | 2026-05-04 13:16 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TrustDB Admin Web (integrated console)](https://github.com/ryan-wong-coder/trustdb/pull/120) |
-| 2026-05-03 19:40 | `COMMIT` | [dahisea/All-Repo-Trending](https://github.com/dahisea/All-Repo-Trending) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/dahisea/All-Repo-Trending/commit/c904a5e94a5d445db57ab97b995d2eb868ac2c34) |
-| 2026-05-03 19:14 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/61d893f4c6aeadf6414e67fb11475f2ed13b7538) |
-| 2026-05-03 14:20 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(ci): validate shipped YAML without creating /var/log paths](https://github.com/ryan-wong-coder/trustdb/commit/0fe3298abdf1977e73886538c9970f6a9b75f031) |
-| 2026-05-03 14:11 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(config): ship benchmark profile, run_profile hints on serve](https://github.com/ryan-wong-coder/trustdb/commit/8e3361058dcb90cb906ddd340f1547eb2b5ac4ad) |
-| 2026-05-03 14:04 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [生产配置模板：开发、单机生产、压测](https://github.com/ryan-wong-coder/trustdb/issues/17) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Prometheus 指标](https://github.com/ryan-wong-coder/trustdb/issues/38) |
 
-_Latest indexed activity: 2026-07-21 13:28 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-21 15:57 UTC · checked automatically every 10 minutes_
