@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/binaricat/Netcatty/pull/2338">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2338-14030320d0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2338-14030320d0-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add terminal provider API" src="./assets/activity-cards/pr-binaricat-netcatty-2338-14030320d0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/4401cd73b878f3c328178a54f700cde01a113403">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4401cd7-b419d34c78-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4401cd7-b419d34c78-light.svg" />
+    <img alt="COMMIT: docs(github): standardize fix branch prefix (#313)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4401cd7-b419d34c78-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/312">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-312-1873ccddb8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-312-1873ccddb8-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Standardize bug-fix branches on the fix prefix" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-312-1873ccddb8-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/313">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-313-53517e424f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-313-53517e424f-light.svg" />
+    <img alt="PR MERGED: docs(github): standardize fix branch prefix" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-313-53517e424f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/issues/311">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-311-363b4a1b38-dark.svg" />
@@ -39,15 +75,6 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/309">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-309-e36af49ab7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-309-e36af49ab7-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Make TiKV global-log appends linearizable across compute nodes" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-309-e36af49ab7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/5af010dced1ecb52bf010725fb78990ea7215ddf">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5af010d-8d9049aa09-dark.svg" />
@@ -62,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-light.svg" />
     <img alt="PR MERGED: fix(wal): preserve contiguous checkpoint frontier" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-308-bf96cb3b32-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-light.svg" />
-    <img alt="COMMIT: fix(wal): make namespace and recovery durable (#302)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b5bf59f-4f01348337-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/302">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-302-01197d1073-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-302-01197d1073-light.svg" />
-    <img alt="PR MERGED: fix(wal): make namespace and recovery durable" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-302-01197d1073-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/1f8a06557e63e50c9c583e772d099a8220f1fda5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-light.svg" />
-    <img alt="COMMIT: test(wal): make close assertion portable" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1f8a065-b1f4d9146a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
