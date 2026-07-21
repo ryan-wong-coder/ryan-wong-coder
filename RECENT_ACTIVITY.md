@@ -2,11 +2,23 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 286 commits · 113 pull requests · 101 issues · newest first · maximum 500
+**500 entries** · 289 commits · 116 pull requests · 95 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-21 19:13 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-directory LocalStore global leaf page scans](https://github.com/ryan-wong-coder/trustdb/issues/361) |
+| 2026-07-21 20:36 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Coalesce batched Global Log STH anchors](https://github.com/ryan-wong-coder/trustdb/issues/369) |
+| 2026-07-21 20:24 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Fail logical backups on missing proof bundles](https://github.com/ryan-wong-coder/trustdb/issues/367) |
+| 2026-07-21 20:24 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(backup): reject missing manifest bundles (#368)](https://github.com/ryan-wong-coder/trustdb/commit/15576b38d1a79324b5caa68bf91bc3450d8f6405) |
+| 2026-07-21 20:24 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(backup): reject missing manifest bundles](https://github.com/ryan-wong-coder/trustdb/pull/368) |
+| 2026-07-21 20:11 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Preserve same-timestamp roots in logical backups](https://github.com/ryan-wong-coder/trustdb/issues/365) |
+| 2026-07-21 20:11 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(backup): preserve root cursor ties](https://github.com/ryan-wong-coder/trustdb/pull/366) |
+| 2026-07-21 20:11 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(backup): preserve root cursor ties (#366)](https://github.com/ryan-wong-coder/trustdb/commit/1a44459a4821b3d5fe41d30b7a449467ee951177) |
+| 2026-07-21 19:53 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Close the LocalStore global-to-anchor publication gap](https://github.com/ryan-wong-coder/trustdb/issues/363) |
+| 2026-07-21 19:53 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): close local anchor publication gap](https://github.com/ryan-wong-coder/trustdb/pull/364) |
+| 2026-07-21 19:53 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): close local anchor publication gap (#364)](https://github.com/ryan-wong-coder/trustdb/commit/8e9c012ac949b8cf2ca3d481c5c74eca82607071) |
+| 2026-07-21 19:26 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-directory LocalStore global leaf page scans](https://github.com/ryan-wong-coder/trustdb/issues/361) |
+| 2026-07-21 19:26 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): bound local global leaf pages](https://github.com/ryan-wong-coder/trustdb/pull/362) |
+| 2026-07-21 19:26 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): bound local global leaf pages (#362)](https://github.com/ryan-wong-coder/trustdb/commit/e2159079b3db855f279fdf820fb313efa7cc9abb) |
 | 2026-07-21 19:09 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-history LocalStore latest root scans](https://github.com/ryan-wong-coder/trustdb/issues/359) |
 | 2026-07-21 19:09 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index latest local batch root (#360)](https://github.com/ryan-wong-coder/trustdb/commit/b67d4d42cc80b7e6e2504e9978366d6c1c952c7f) |
 | 2026-07-21 19:09 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index latest local batch root](https://github.com/ryan-wong-coder/trustdb/pull/360) |
@@ -494,17 +506,5 @@
 | 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [gRPC 服务接口](https://github.com/ryan-wong-coder/trustdb/issues/9) |
 | 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [STH tree size 改为节点日志内语义](https://github.com/ryan-wong-coder/trustdb/issues/51) |
 | 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [batch_id 改为节点内唯一](https://github.com/ryan-wong-coder/trustdb/issues/50) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [为证明、STH、锚定结果加入节点标识和日志标识](https://github.com/ryan-wong-coder/trustdb/issues/49) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [分布式架构设计：每台机器维护自己的 Global Log](https://github.com/ryan-wong-coder/trustdb/issues/48) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [集群状态观测面板](https://github.com/ryan-wong-coder/trustdb/issues/62) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [集群查询聚合接口](https://github.com/ryan-wong-coder/trustdb/issues/61) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [按 record_id 或 log_id 路由查询](https://github.com/ryan-wong-coder/trustdb/issues/56) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [集群最新 STH 目录](https://github.com/ryan-wong-coder/trustdb/issues/55) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [集群节点注册表](https://github.com/ryan-wong-coder/trustdb/issues/54) |
-| 2026-05-03 13:54 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [TiKV 只做元数据索引，不参与 Global Log append 协调](https://github.com/ryan-wong-coder/trustdb/issues/52) |
-| 2026-05-03 13:45 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [TiKV proofstore: local dev stack, CI, and integration tests](https://github.com/ryan-wong-coder/trustdb/issues/117) |
-| 2026-05-03 13:45 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TiKV proofstore dev stack, CI, and integration tests (#118)](https://github.com/ryan-wong-coder/trustdb/commit/a93fd4863d191c4f055efdf26ec86650133926ce) |
-| 2026-05-03 13:45 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TiKV proofstore dev stack, CI, and integration tests](https://github.com/ryan-wong-coder/trustdb/pull/118) |
-| 2026-04-30 18:22 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Update README for distributed storage-compute separation](https://github.com/ryan-wong-coder/trustdb/issues/115) |
 
-_Latest indexed activity: 2026-07-21 11:13 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-21 12:36 UTC · checked automatically every 10 minutes_

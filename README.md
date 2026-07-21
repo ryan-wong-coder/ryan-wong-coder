@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/361">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3e20eb0b0b366d742e7b30e31c203dafd8d7b7ab">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-361-65e745f883-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-361-65e745f883-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Avoid full-directory LocalStore global leaf page scans" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-361-65e745f883-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-d83b531aea-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-d83b531aea-light.svg" />
+    <img alt="COMMIT: fix(plugin): isolate reused terminal sessions" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-d83b531aea-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/b67d4d42cc80b7e6e2504e9978366d6c1c952c7f">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/369">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b67d4d4-b83d2a9369-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b67d4d4-b83d2a9369-light.svg" />
-    <img alt="COMMIT: fix(proofstore): index latest local batch root (#360)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b67d4d4-b83d2a9369-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-369-3bbdd88b89-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-369-3bbdd88b89-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Coalesce batched Global Log STH anchors" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-369-3bbdd88b89-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/359">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/15576b38d1a79324b5caa68bf91bc3450d8f6405">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-359-fef4e5300f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-359-fef4e5300f-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Avoid full-history LocalStore latest root scans" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-359-fef4e5300f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-light.svg" />
+    <img alt="COMMIT: fix(backup): reject missing manifest bundles (#368)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/360">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/367">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-360-6301a010d3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-360-6301a010d3-light.svg" />
-    <img alt="PR MERGED: fix(proofstore): index latest local batch root" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-360-6301a010d3-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-367-925848e603-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-367-925848e603-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Fail logical backups on missing proof bundles" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-367-925848e603-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/9fc19430fba9de04a3e4b0d0cb90483ca47b53b7">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/368">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9fc1943-ce022183a5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9fc1943-ce022183a5-light.svg" />
-    <img alt="COMMIT: fix(docs): recognize the LINUX DO community (#358)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9fc1943-ce022183a5-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-368-e08453525e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-368-e08453525e-light.svg" />
+    <img alt="PR MERGED: fix(backup): reject missing manifest bundles" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-368-e08453525e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/357">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/1a44459a4821b3d5fe41d30b7a449467ee951177">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-357-411918a8a8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-357-411918a8a8-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Recognize the LINUX DO community" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-357-411918a8a8-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1a44459-21858582e6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1a44459-21858582e6-light.svg" />
+    <img alt="COMMIT: fix(backup): preserve root cursor ties (#366)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1a44459-21858582e6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/358">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/365">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-358-f2f4b4b114-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-358-f2f4b4b114-light.svg" />
-    <img alt="PR MERGED: fix(docs): recognize the LINUX DO community" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-358-f2f4b4b114-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-365-f1cd03e5f7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-365-f1cd03e5f7-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Preserve same-timestamp roots in logical backups" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-365-f1cd03e5f7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/e95c1510315b013565c90d228d84be8f434262e2">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/366">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e95c151-0b9c78197a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e95c151-0b9c78197a-light.svg" />
-    <img alt="COMMIT: fix(proofstore): index latest local tree head (#356)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e95c151-0b9c78197a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-366-e34522823f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-366-e34522823f-light.svg" />
+    <img alt="PR MERGED: fix(backup): preserve root cursor ties" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-366-e34522823f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
