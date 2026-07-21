@@ -2,11 +2,32 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 289 commits · 111 pull requests · 100 issues · newest first · maximum 500
+**500 entries** · 286 commits · 113 pull requests · 101 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-21 17:09 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Preserve native SDK batches through load balancing](https://github.com/ryan-wong-coder/trustdb/issues/347) |
+| 2026-07-21 19:13 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-directory LocalStore global leaf page scans](https://github.com/ryan-wong-coder/trustdb/issues/361) |
+| 2026-07-21 19:09 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-history LocalStore latest root scans](https://github.com/ryan-wong-coder/trustdb/issues/359) |
+| 2026-07-21 19:09 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index latest local batch root (#360)](https://github.com/ryan-wong-coder/trustdb/commit/b67d4d42cc80b7e6e2504e9978366d6c1c952c7f) |
+| 2026-07-21 19:09 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index latest local batch root](https://github.com/ryan-wong-coder/trustdb/pull/360) |
+| 2026-07-21 18:50 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Recognize the LINUX DO community](https://github.com/ryan-wong-coder/trustdb/issues/357) |
+| 2026-07-21 18:50 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(docs): recognize the LINUX DO community](https://github.com/ryan-wong-coder/trustdb/pull/358) |
+| 2026-07-21 18:50 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(docs): recognize the LINUX DO community (#358)](https://github.com/ryan-wong-coder/trustdb/commit/9fc19430fba9de04a3e4b0d0cb90483ca47b53b7) |
+| 2026-07-21 18:40 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-history LocalStore latest STH scans](https://github.com/ryan-wong-coder/trustdb/issues/355) |
+| 2026-07-21 18:40 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index latest local tree head](https://github.com/ryan-wong-coder/trustdb/pull/356) |
+| 2026-07-21 18:40 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index latest local tree head (#356)](https://github.com/ryan-wong-coder/trustdb/commit/e95c1510315b013565c90d228d84be8f434262e2) |
+| 2026-07-21 18:18 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Isolate LocalStore pending STH anchor scans](https://github.com/ryan-wong-coder/trustdb/issues/353) |
+| 2026-07-21 18:18 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): isolate pending anchor outbox files](https://github.com/ryan-wong-coder/trustdb/pull/354) |
+| 2026-07-21 18:18 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): isolate pending anchor outbox files (#354)](https://github.com/ryan-wong-coder/trustdb/commit/784e82f07192f8ba646ad25ac6bc6b5061925f20) |
+| 2026-07-21 18:04 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Isolate LocalStore pending Global Log outbox scans](https://github.com/ryan-wong-coder/trustdb/issues/351) |
+| 2026-07-21 18:04 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): isolate pending global outbox files (#352)](https://github.com/ryan-wong-coder/trustdb/commit/c32306b40a6e4b49e1a9000ce312247978967fbf) |
+| 2026-07-21 18:04 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): isolate pending global outbox files](https://github.com/ryan-wong-coder/trustdb/pull/352) |
+| 2026-07-21 17:45 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Honor SDK native batch signing concurrency](https://github.com/ryan-wong-coder/trustdb/issues/349) |
+| 2026-07-21 17:45 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): honor native batch signing concurrency (#350)](https://github.com/ryan-wong-coder/trustdb/commit/6c5869010b7ebc68f8f58269036cf8fbab84b5c0) |
+| 2026-07-21 17:45 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): honor native batch signing concurrency](https://github.com/ryan-wong-coder/trustdb/pull/350) |
+| 2026-07-21 17:20 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Preserve native SDK batches through load balancing](https://github.com/ryan-wong-coder/trustdb/issues/347) |
+| 2026-07-21 17:20 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): preserve native load-balanced batches (#348)](https://github.com/ryan-wong-coder/trustdb/commit/2b4402c23cf6c789ec0cd49101894da10e9851ed) |
+| 2026-07-21 17:20 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): preserve native load-balanced batches](https://github.com/ryan-wong-coder/trustdb/pull/348) |
 | 2026-07-21 17:07 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Stop SDK failover after terminal endpoint errors](https://github.com/ryan-wong-coder/trustdb/issues/345) |
 | 2026-07-21 17:07 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): stop failover on terminal errors (#346)](https://github.com/ryan-wong-coder/trustdb/commit/d256d607b7ce13e872a6fb8da57d2b0e3b549d69) |
 | 2026-07-21 17:07 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): stop failover on terminal errors](https://github.com/ryan-wong-coder/trustdb/pull/346) |
@@ -485,26 +506,5 @@
 | 2026-05-03 13:45 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TiKV proofstore dev stack, CI, and integration tests (#118)](https://github.com/ryan-wong-coder/trustdb/commit/a93fd4863d191c4f055efdf26ec86650133926ce) |
 | 2026-05-03 13:45 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: TiKV proofstore dev stack, CI, and integration tests](https://github.com/ryan-wong-coder/trustdb/pull/118) |
 | 2026-04-30 18:22 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Update README for distributed storage-compute separation](https://github.com/ryan-wong-coder/trustdb/issues/115) |
-| 2026-04-30 18:22 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: clarify distributed deployment model](https://github.com/ryan-wong-coder/trustdb/pull/116) |
-| 2026-04-30 18:22 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: clarify distributed deployment model](https://github.com/ryan-wong-coder/trustdb/commit/ce1726bfd5781b7ad7fa1d76ba18651a6f8af003) |
-| 2026-04-30 18:11 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Add source identity metadata and SDK failover groundwork](https://github.com/ryan-wong-coder/trustdb/issues/113) |
-| 2026-04-30 18:11 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: add proof source identity and tikv backend](https://github.com/ryan-wong-coder/trustdb/commit/aaf3cc02bac54c0bd1fd40782995a3ce6665704e) |
-| 2026-04-30 16:02 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf: optimize Pebble artifact writes and fix CI hygiene](https://github.com/ryan-wong-coder/trustdb/pull/112) |
-| 2026-04-30 15:50 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: update high-write performance report](https://github.com/ryan-wong-coder/trustdb/commit/e297ae38ddd45886ac099a8552e7c7c5545729eb) |
-| 2026-04-30 15:28 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix: handle disabled global log services](https://github.com/ryan-wong-coder/trustdb/commit/f9478232972b3e0da586e88fd0b72e689ce09c07) |
-| 2026-04-30 14:52 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf: add semantic performance switches](https://github.com/ryan-wong-coder/trustdb/commit/3664af387f05e7f382e3eb05c34e6a34c478781c) |
-| 2026-04-30 13:53 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf: optimize pebble artifact writes](https://github.com/ryan-wong-coder/trustdb/commit/7439d26cbb99dc58912f059d0989065d274b6ba6) |
-| 2026-04-30 13:06 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Track TrustDB bench v3 visibility split and performance optimization report](https://github.com/ryan-wong-coder/trustdb/issues/110) |
-| 2026-04-30 13:06 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [perf: split bench visibility and optimize artifact path](https://github.com/ryan-wong-coder/trustdb/commit/2e6efcab8fc323884f11164734b6fbd257753799) |
-| 2026-04-30 10:42 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Global Log append 使用 proofstore 原子提交](https://github.com/ryan-wong-coder/trustdb/issues/108) |
-| 2026-04-30 10:42 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix: commit global log appends atomically (#109)](https://github.com/ryan-wong-coder/trustdb/commit/eea27920aad957ecda0f32671a62b3af3a41b491) |
-| 2026-04-30 10:42 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix: commit global log appends atomically](https://github.com/ryan-wong-coder/trustdb/pull/109) |
-| 2026-04-30 10:06 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Global Log 历史证明压测](https://github.com/ryan-wong-coder/trustdb/issues/20) |
-| 2026-04-30 10:05 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [test: add global log history proof benchmarks (#107)](https://github.com/ryan-wong-coder/trustdb/commit/06490073b223d0d81dface9b59689bf823de495d) |
-| 2026-04-30 10:05 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [test: add global log history proof benchmarks](https://github.com/ryan-wong-coder/trustdb/pull/107) |
-| 2026-04-30 01:13 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [压测工具：百万级和千万级存证模拟](https://github.com/ryan-wong-coder/trustdb/issues/16) |
-| 2026-04-30 01:12 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: add ingest benchmark command](https://github.com/ryan-wong-coder/trustdb/pull/106) |
-| 2026-04-30 01:12 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: add ingest benchmark command (#106)](https://github.com/ryan-wong-coder/trustdb/commit/d25b9204b92c929b3a8a651cc3bc233b562052b8) |
-| 2026-04-29 21:33 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [服务端分页查询与索引完善](https://github.com/ryan-wong-coder/trustdb/issues/15) |
 
-_Latest indexed activity: 2026-07-21 09:09 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-21 11:13 UTC · checked automatically every 10 minutes_

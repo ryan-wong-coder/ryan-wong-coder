@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/347">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/361">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-347-d5818913f0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-347-d5818913f0-light.svg" />
-    <img alt="ISSUE OPENED: [Bug] Preserve native SDK batches through load balancing" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-347-d5818913f0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-361-65e745f883-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-361-65e745f883-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Avoid full-directory LocalStore global leaf page scans" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-361-65e745f883-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/345">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/b67d4d42cc80b7e6e2504e9978366d6c1c952c7f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-345-774c2b6521-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-345-774c2b6521-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Stop SDK failover after terminal endpoint errors" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-345-774c2b6521-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b67d4d4-b83d2a9369-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b67d4d4-b83d2a9369-light.svg" />
+    <img alt="COMMIT: fix(proofstore): index latest local batch root (#360)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-b67d4d4-b83d2a9369-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/d256d607b7ce13e872a6fb8da57d2b0e3b549d69">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/359">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d256d60-4c069a9769-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d256d60-4c069a9769-light.svg" />
-    <img alt="COMMIT: fix(sdk): stop failover on terminal errors (#346)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d256d60-4c069a9769-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-359-fef4e5300f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-359-fef4e5300f-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Avoid full-history LocalStore latest root scans" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-359-fef4e5300f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/346">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/360">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-346-b9b843271c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-346-b9b843271c-light.svg" />
-    <img alt="PR MERGED: fix(sdk): stop failover on terminal errors" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-346-b9b843271c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-360-6301a010d3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-360-6301a010d3-light.svg" />
+    <img alt="PR MERGED: fix(proofstore): index latest local batch root" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-360-6301a010d3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/200cf4167233365d41611c0722fe63a8917c71d4">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/9fc19430fba9de04a3e4b0d0cb90483ca47b53b7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-200cf41-62ae75bf23-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-200cf41-62ae75bf23-light.svg" />
-    <img alt="COMMIT: fix(wal): require segmented writer layout (#344)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-200cf41-62ae75bf23-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9fc1943-ce022183a5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9fc1943-ce022183a5-light.svg" />
+    <img alt="COMMIT: fix(docs): recognize the LINUX DO community (#358)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9fc1943-ce022183a5-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/343">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/357">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-343-24804bb761-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-343-24804bb761-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Make segmented WAL the only server startup layout" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-343-24804bb761-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-357-411918a8a8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-357-411918a8a8-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Recognize the LINUX DO community" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-357-411918a8a8-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/344">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/358">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-344-60f1200a21-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-344-60f1200a21-light.svg" />
-    <img alt="PR MERGED: fix(wal): require segmented writer layout" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-344-60f1200a21-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-358-f2f4b4b114-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-358-f2f4b4b114-light.svg" />
+    <img alt="PR MERGED: fix(docs): recognize the LINUX DO community" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-358-f2f4b4b114-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/076c7831b3b2e52322e0d39a63804ee692a99b02">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/e95c1510315b013565c90d228d84be8f434262e2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-076c783-adc868efa3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-076c783-adc868efa3-light.svg" />
-    <img alt="COMMIT: fix(plugin): close terminal pipeline lifecycle gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-076c783-adc868efa3-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e95c151-0b9c78197a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e95c151-0b9c78197a-light.svg" />
+    <img alt="COMMIT: fix(proofstore): index latest local tree head (#356)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-e95c151-0b9c78197a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
