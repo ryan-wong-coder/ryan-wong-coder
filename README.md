@@ -23,9 +23,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/ce93fd01bdccb0168a3cf4edb8334bfd050ced7e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-8f1bdc6f10-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-8f1bdc6f10-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal replay provenance" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-8f1bdc6f10-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-c85177e1ba-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-c85177e1ba-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal replay provenance" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-c85177e1ba-light.svg" width="100%" />
   </picture>
 </a>
 <br />
