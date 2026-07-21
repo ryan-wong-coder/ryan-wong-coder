@@ -21,11 +21,56 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/d59118d91baee97ffed4e673c560a120819848b7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d59118d-35850157ac-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d59118d-35850157ac-light.svg" />
+    <img alt="COMMIT: fix(plugin): harden terminal interceptor boundaries" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-d59118d-35850157ac-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/372">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-b1f0947410-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-b1f0947410-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Add durable coalescing state for STH anchoring" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-b1f0947410-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/370">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-370-51bc1f0cad-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-370-51bc1f0cad-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Fix offline proof export to use a covering anchored STH" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-370-51bc1f0cad-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/1928389fd45ed9e90196165c84c0048b17831df9">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1928389-80aa780f82-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1928389-80aa780f82-light.svg" />
+    <img alt="COMMIT: fix(proof): export evidence from a covering anchored STH (#371)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1928389-80aa780f82-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/371">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-371-60153cd77a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-371-60153cd77a-light.svg" />
+    <img alt="PR MERGED: fix(proof): export evidence from a covering anchored STH" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-371-60153cd77a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/3e20eb0b0b366d742e7b30e31c203dafd8d7b7ab">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-d83b531aea-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-d83b531aea-light.svg" />
-    <img alt="COMMIT: fix(plugin): isolate reused terminal sessions" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-d83b531aea-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-e3ab0469fa-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-e3ab0469fa-light.svg" />
+    <img alt="COMMIT: fix(plugin): isolate reused terminal sessions" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3e20eb0-e3ab0469fa-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -44,51 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-light.svg" />
     <img alt="COMMIT: fix(backup): reject missing manifest bundles (#368)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-15576b3-3298a1205b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/367">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-367-925848e603-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-367-925848e603-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Fail logical backups on missing proof bundles" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-367-925848e603-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/368">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-368-e08453525e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-368-e08453525e-light.svg" />
-    <img alt="PR MERGED: fix(backup): reject missing manifest bundles" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-368-e08453525e-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/1a44459a4821b3d5fe41d30b7a449467ee951177">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1a44459-21858582e6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1a44459-21858582e6-light.svg" />
-    <img alt="COMMIT: fix(backup): preserve root cursor ties (#366)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-1a44459-21858582e6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/365">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-365-f1cd03e5f7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-365-f1cd03e5f7-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Preserve same-timestamp roots in logical backups" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-365-f1cd03e5f7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/366">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-366-e34522823f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-366-e34522823f-light.svg" />
-    <img alt="PR MERGED: fix(backup): preserve root cursor ties" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-366-e34522823f-light.svg" width="100%" />
   </picture>
 </a>
 <br />

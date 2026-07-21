@@ -2,10 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 289 commits · 116 pull requests · 95 issues · newest first · maximum 500
+**500 entries** · 290 commits · 117 pull requests · 93 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-21 21:28 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Add durable coalescing state for STH anchoring](https://github.com/ryan-wong-coder/trustdb/issues/372) |
+| 2026-07-21 21:26 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Fix offline proof export to use a covering anchored STH](https://github.com/ryan-wong-coder/trustdb/issues/370) |
+| 2026-07-21 21:26 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proof): export evidence from a covering anchored STH (#371)](https://github.com/ryan-wong-coder/trustdb/commit/1928389fd45ed9e90196165c84c0048b17831df9) |
+| 2026-07-21 21:26 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proof): export evidence from a covering anchored STH](https://github.com/ryan-wong-coder/trustdb/pull/371) |
 | 2026-07-21 20:36 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Coalesce batched Global Log STH anchors](https://github.com/ryan-wong-coder/trustdb/issues/369) |
 | 2026-07-21 20:24 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Fail logical backups on missing proof bundles](https://github.com/ryan-wong-coder/trustdb/issues/367) |
 | 2026-07-21 20:24 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(backup): reject missing manifest bundles (#368)](https://github.com/ryan-wong-coder/trustdb/commit/15576b38d1a79324b5caa68bf91bc3450d8f6405) |
@@ -502,9 +506,5 @@
 | 2026-05-03 14:11 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat(config): ship benchmark profile, run_profile hints on serve](https://github.com/ryan-wong-coder/trustdb/commit/8e3361058dcb90cb906ddd340f1547eb2b5ac4ad) |
 | 2026-05-03 14:04 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [生产配置模板：开发、单机生产、压测](https://github.com/ryan-wong-coder/trustdb/issues/17) |
 | 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Prometheus 指标](https://github.com/ryan-wong-coder/trustdb/issues/38) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [离线证明验证命令](https://github.com/ryan-wong-coder/trustdb/issues/13) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [gRPC 服务接口](https://github.com/ryan-wong-coder/trustdb/issues/9) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [STH tree size 改为节点日志内语义](https://github.com/ryan-wong-coder/trustdb/issues/51) |
-| 2026-05-03 13:55 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [batch_id 改为节点内唯一](https://github.com/ryan-wong-coder/trustdb/issues/50) |
 
-_Latest indexed activity: 2026-07-21 12:36 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-21 13:28 UTC · checked automatically every 10 minutes_
