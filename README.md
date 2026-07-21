@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/332">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/347">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-332-3c9caf09e3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-332-3c9caf09e3-light.svg" />
-    <img alt="PR OPENED: fix(globallog): retry fenced append conflicts" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-332-3c9caf09e3-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-347-d5818913f0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-347-d5818913f0-light.svg" />
+    <img alt="ISSUE OPENED: [Bug] Preserve native SDK batches through load balancing" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-347-d5818913f0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/d758f0fd4f21227cdf5e86c0391776ef303fcbe6">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/345">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d758f0f-a826bbb864-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d758f0f-a826bbb864-light.svg" />
-    <img alt="COMMIT: fix(proofstore): index tikv prepared manifests (#331)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d758f0f-a826bbb864-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-345-774c2b6521-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-345-774c2b6521-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Stop SDK failover after terminal endpoint errors" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-345-774c2b6521-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/310">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/d256d607b7ce13e872a6fb8da57d2b0e3b549d69">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-9e402ab37b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-9e402ab37b-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Avoid full-history TiKV manifest scans in the materializer" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-310-9e402ab37b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d256d60-4c069a9769-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d256d60-4c069a9769-light.svg" />
+    <img alt="COMMIT: fix(sdk): stop failover on terminal errors (#346)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-d256d60-4c069a9769-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/331">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/346">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-331-8a2a9b5293-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-331-8a2a9b5293-light.svg" />
-    <img alt="PR MERGED: fix(proofstore): index tikv prepared manifests" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-331-8a2a9b5293-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-346-b9b843271c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-346-b9b843271c-light.svg" />
+    <img alt="PR MERGED: fix(sdk): stop failover on terminal errors" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-346-b9b843271c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/729d94466b4aca28f63191e898929e89adb7447f">
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/200cf4167233365d41611c0722fe63a8917c71d4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-729d944-f94d02a860-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-729d944-f94d02a860-light.svg" />
-    <img alt="COMMIT: fix(ingest): dedupe unkeyed exact retries (#330)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-729d944-f94d02a860-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-200cf41-62ae75bf23-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-200cf41-62ae75bf23-light.svg" />
+    <img alt="COMMIT: fix(wal): require segmented writer layout (#344)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-200cf41-62ae75bf23-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/307">
+<a href="https://github.com/ryan-wong-coder/trustdb/issues/343">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-307-1e2765895f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-307-1e2765895f-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Prevent duplicate RecordIDs when idempotency keys are empty" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-307-1e2765895f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-343-24804bb761-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-343-24804bb761-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Make segmented WAL the only server startup layout" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-343-24804bb761-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/330">
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/344">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-330-f735fe3636-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-330-f735fe3636-light.svg" />
-    <img alt="PR MERGED: fix(ingest): dedupe unkeyed exact retries" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-330-f735fe3636-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-344-60f1200a21-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-344-60f1200a21-light.svg" />
+    <img alt="PR MERGED: fix(wal): require segmented writer layout" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-344-60f1200a21-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/4836c800ca08fe6678f81d4af6c1a001c39f9fdb">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/076c7831b3b2e52322e0d39a63804ee692a99b02">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4836c80-529ebf1171-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4836c80-529ebf1171-light.svg" />
-    <img alt="COMMIT: fix(proofstore): bound local global node cursor reads (#329)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-4836c80-529ebf1171-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-076c783-adc868efa3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-076c783-adc868efa3-light.svg" />
+    <img alt="COMMIT: fix(plugin): close terminal pipeline lifecycle gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-076c783-adc868efa3-light.svg" width="100%" />
   </picture>
 </a>
 <br />

@@ -2,11 +2,40 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 289 commits · 109 pull requests · 102 issues · newest first · maximum 500
+**500 entries** · 289 commits · 111 pull requests · 100 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-21 14:44 | `PR OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(globallog): retry fenced append conflicts](https://github.com/ryan-wong-coder/trustdb/pull/332) |
+| 2026-07-21 17:09 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Preserve native SDK batches through load balancing](https://github.com/ryan-wong-coder/trustdb/issues/347) |
+| 2026-07-21 17:07 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Stop SDK failover after terminal endpoint errors](https://github.com/ryan-wong-coder/trustdb/issues/345) |
+| 2026-07-21 17:07 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): stop failover on terminal errors (#346)](https://github.com/ryan-wong-coder/trustdb/commit/d256d607b7ce13e872a6fb8da57d2b0e3b549d69) |
+| 2026-07-21 17:07 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(sdk): stop failover on terminal errors](https://github.com/ryan-wong-coder/trustdb/pull/346) |
+| 2026-07-21 16:54 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make segmented WAL the only server startup layout](https://github.com/ryan-wong-coder/trustdb/issues/343) |
+| 2026-07-21 16:54 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): require segmented writer layout (#344)](https://github.com/ryan-wong-coder/trustdb/commit/200cf4167233365d41611c0722fe63a8917c71d4) |
+| 2026-07-21 16:54 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): require segmented writer layout](https://github.com/ryan-wong-coder/trustdb/pull/344) |
+| 2026-07-21 16:44 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Fence TiKV idempotency readiness against generic commits](https://github.com/ryan-wong-coder/trustdb/issues/341) |
+| 2026-07-21 16:44 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(tikv): fence idempotency projection readiness](https://github.com/ryan-wong-coder/trustdb/pull/342) |
+| 2026-07-21 16:44 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(tikv): fence idempotency projection readiness (#342)](https://github.com/ryan-wong-coder/trustdb/commit/a07932c78ae55ea32a67fe0e0d51786ccf275f7a) |
+| 2026-07-21 16:31 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Remove unused TiKV legacy-key migration](https://github.com/ryan-wong-coder/trustdb/issues/339) |
+| 2026-07-21 16:31 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(tikv): remove legacy key migration](https://github.com/ryan-wong-coder/trustdb/pull/340) |
+| 2026-07-21 16:31 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(tikv): remove legacy key migration (#340)](https://github.com/ryan-wong-coder/trustdb/commit/18f9a557b05bf8b7af20f2d36fb68103ef808370) |
+| 2026-07-21 16:20 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep file WAL pruning disabled without restart idempotency](https://github.com/ryan-wong-coder/trustdb/issues/337) |
+| 2026-07-21 16:20 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): keep file WAL pruning disabled](https://github.com/ryan-wong-coder/trustdb/pull/338) |
+| 2026-07-21 16:20 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): keep file WAL pruning disabled (#338)](https://github.com/ryan-wong-coder/trustdb/commit/39b8ad30dc4e5fcc6e5d3ea43c92aa7bfafd9140) |
+| 2026-07-21 16:11 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Scope TiKV WAL checkpoints by compute node](https://github.com/ryan-wong-coder/trustdb/issues/306) |
+| 2026-07-21 16:11 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(tikv): scope durable WAL checkpoints](https://github.com/ryan-wong-coder/trustdb/pull/336) |
+| 2026-07-21 16:11 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(tikv): scope durable WAL checkpoints (#336)](https://github.com/ryan-wong-coder/trustdb/commit/89a2491c36ed97781295f5f1f5d1377b0f28f83b) |
+| 2026-07-21 15:48 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make file proofstore publication crash-durable before WAL pruning](https://github.com/ryan-wong-coder/trustdb/issues/305) |
+| 2026-07-21 15:48 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): make local publication crash durable](https://github.com/ryan-wong-coder/trustdb/pull/335) |
+| 2026-07-21 15:48 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): make local publication crash durable (#335)](https://github.com/ryan-wong-coder/trustdb/commit/37ddb23d2a26ede1cc6d11b9f282d094a69ec65d) |
+| 2026-07-21 15:18 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Reduce TiKV batch-tree persistence write amplification](https://github.com/ryan-wong-coder/trustdb/issues/311) |
+| 2026-07-21 15:18 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): tile TiKV batch trees (#333)](https://github.com/ryan-wong-coder/trustdb/commit/925476a08f12cbeb0c6bc3f1718d7d5478068413) |
+| 2026-07-21 15:18 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): tile TiKV batch trees](https://github.com/ryan-wong-coder/trustdb/pull/333) |
+| 2026-07-21 15:14 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make TiKV global-log appends linearizable across compute nodes](https://github.com/ryan-wong-coder/trustdb/issues/309) |
+| 2026-07-21 15:14 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(globallog): retry pending append conflicts (#334)](https://github.com/ryan-wong-coder/trustdb/commit/bbe727a1685760962b335e5549584d27ac0d6ba7) |
+| 2026-07-21 15:14 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(globallog): retry pending append conflicts](https://github.com/ryan-wong-coder/trustdb/pull/334) |
+| 2026-07-21 14:51 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(globallog): retry fenced append conflicts](https://github.com/ryan-wong-coder/trustdb/pull/332) |
+| 2026-07-21 14:51 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(globallog): retry fenced append conflicts (#332)](https://github.com/ryan-wong-coder/trustdb/commit/3a645487e86ac7735910954adc4a00cb0edab78a) |
 | 2026-07-21 14:35 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Avoid full-history TiKV manifest scans in the materializer](https://github.com/ryan-wong-coder/trustdb/issues/310) |
 | 2026-07-21 14:35 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index tikv prepared manifests](https://github.com/ryan-wong-coder/trustdb/pull/331) |
 | 2026-07-21 14:35 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(proofstore): index tikv prepared manifests (#331)](https://github.com/ryan-wong-coder/trustdb/commit/d758f0fd4f21227cdf5e86c0391776ef303fcbe6) |
@@ -43,13 +72,9 @@
 | 2026-07-21 11:05 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Task\] Standardize bug-fix branches on the fix prefix](https://github.com/ryan-wong-coder/trustdb/issues/312) |
 | 2026-07-21 11:05 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs(github): standardize fix branch prefix](https://github.com/ryan-wong-coder/trustdb/pull/313) |
 | 2026-07-21 11:05 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs(github): standardize fix branch prefix (#313)](https://github.com/ryan-wong-coder/trustdb/commit/4401cd73b878f3c328178a54f700cde01a113403) |
-| 2026-07-21 06:57 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Reduce TiKV batch-tree persistence write amplification](https://github.com/ryan-wong-coder/trustdb/issues/311) |
-| 2026-07-21 06:53 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make TiKV global-log appends linearizable across compute nodes](https://github.com/ryan-wong-coder/trustdb/issues/309) |
 | 2026-07-21 06:42 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Keep WAL checkpoints on contiguous committed coverage](https://github.com/ryan-wong-coder/trustdb/issues/303) |
 | 2026-07-21 06:42 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): preserve contiguous checkpoint frontier](https://github.com/ryan-wong-coder/trustdb/pull/308) |
 | 2026-07-21 06:42 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): preserve contiguous checkpoint frontier (#308)](https://github.com/ryan-wong-coder/trustdb/commit/5af010dced1ecb52bf010725fb78990ea7215ddf) |
-| 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Scope TiKV WAL checkpoints by compute node](https://github.com/ryan-wong-coder/trustdb/issues/306) |
-| 2026-07-21 05:41 | `ISSUE OPEN` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Make file proofstore publication crash-durable before WAL pruning](https://github.com/ryan-wong-coder/trustdb/issues/305) |
 | 2026-07-21 04:33 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [\[Bug\] Durably publish WAL files and segment directories](https://github.com/ryan-wong-coder/trustdb/issues/301) |
 | 2026-07-21 04:33 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable](https://github.com/ryan-wong-coder/trustdb/pull/302) |
 | 2026-07-21 04:33 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(wal): make namespace and recovery durable (#302)](https://github.com/ryan-wong-coder/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752) |
@@ -481,30 +506,5 @@
 | 2026-04-30 01:12 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: add ingest benchmark command](https://github.com/ryan-wong-coder/trustdb/pull/106) |
 | 2026-04-30 01:12 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: add ingest benchmark command (#106)](https://github.com/ryan-wong-coder/trustdb/commit/d25b9204b92c929b3a8a651cc3bc233b562052b8) |
 | 2026-04-29 21:33 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [服务端分页查询与索引完善](https://github.com/ryan-wong-coder/trustdb/issues/15) |
-| 2026-04-29 21:33 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: complete paginated record and global listing APIs](https://github.com/ryan-wong-coder/trustdb/pull/105) |
-| 2026-04-29 21:33 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [feat: complete paginated record and global listing APIs](https://github.com/ryan-wong-coder/trustdb/commit/54a0e9236b74c557e1a05e74208419f19f9e4b7d) |
-| 2026-04-29 14:40 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [稳定 HTTP ingest integration 测试的异步等待和资源清理](https://github.com/ryan-wong-coder/trustdb/issues/103) |
-| 2026-04-29 14:40 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [稳定 HTTP ingest integration 测试清理流程](https://github.com/ryan-wong-coder/trustdb/pull/104) |
-| 2026-04-29 14:40 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [test(httpapi): stabilize ingest integration cleanup](https://github.com/ryan-wong-coder/trustdb/commit/d8444c224a6756f3e7cf1c4dc1fd04a32ad87420) |
-| 2026-04-29 14:26 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [在 README 中加入作者博客入口](https://github.com/ryan-wong-coder/trustdb/issues/101) |
-| 2026-04-29 14:26 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: add blog link to readmes](https://github.com/ryan-wong-coder/trustdb/commit/c1cc99a7c40a282990b091beed1ff51de1e37ed5) |
-| 2026-04-29 14:26 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [在 README 中加入作者博客入口](https://github.com/ryan-wong-coder/trustdb/pull/102) |
-| 2026-04-29 14:04 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [重写 CONTRIBUTING 为中英双文架构导向贡献指南](https://github.com/ryan-wong-coder/trustdb/issues/99) |
-| 2026-04-29 14:04 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [重写 CONTRIBUTING 为中英双文架构导向指南](https://github.com/ryan-wong-coder/trustdb/pull/100) |
-| 2026-04-29 14:04 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: rewrite contributing guide around architecture](https://github.com/ryan-wong-coder/trustdb/commit/c7101025702a18ed239854c820d58a8711500500) |
-| 2026-04-29 13:54 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [修正桌面客户端安装包命名为 TrustDB](https://github.com/ryan-wong-coder/trustdb/issues/95) |
-| 2026-04-29 13:54 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(desktop): rename package output to trustdb](https://github.com/ryan-wong-coder/trustdb/commit/f4c9c6661e98444a037b18179ab775846d9f3b05) |
-| 2026-04-29 13:54 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [修正桌面客户端安装包命名为 trustdb](https://github.com/ryan-wong-coder/trustdb/pull/96) |
-| 2026-04-29 13:49 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [在 README 中加入桌面客户端截图](https://github.com/ryan-wong-coder/trustdb/issues/97) |
-| 2026-04-29 13:49 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [docs: add desktop client screenshot to readme (#98)](https://github.com/ryan-wong-coder/trustdb/commit/fd1877ce4ea2c362acf86eefabebfab61d085728) |
-| 2026-04-29 13:49 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [在 README 中加入桌面客户端截图](https://github.com/ryan-wong-coder/trustdb/pull/98) |
-| 2026-04-29 13:32 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Add CODEOWNERS for required owner review](https://github.com/ryan-wong-coder/trustdb/commit/773308754ac6962175c33b15863e9f3f3a052ad8) |
-| 2026-04-29 11:12 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [补齐 HTTP/gRPC 双 transport 端到端测试](https://github.com/ryan-wong-coder/trustdb/pull/94) |
-| 2026-04-29 11:12 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [补齐 HTTP/gRPC 双 transport 端到端测试](https://github.com/ryan-wong-coder/trustdb/issues/93) |
-| 2026-04-29 11:12 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [补齐 HTTP/gRPC 双 transport 端到端测试](https://github.com/ryan-wong-coder/trustdb/commit/db85ac4a7ffc905006a0024175a14ccd233749dd) |
-| 2026-04-29 11:00 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [verify --server --skip-anchor should still verify L4 global proof](https://github.com/ryan-wong-coder/trustdb/issues/91) |
-| 2026-04-29 10:55 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [Fix remote verify skip-anchor L4 semantics](https://github.com/ryan-wong-coder/trustdb/commit/c4fb9b2c9e4761feda0a6a52d8416ce36c33ef62) |
-| 2026-04-29 10:36 | `ISSUE CLOSED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [桌面客户端支持 HTTP/gRPC transport 切换](https://github.com/ryan-wong-coder/trustdb/issues/89) |
-| 2026-04-29 10:36 | `COMMIT` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [桌面客户端支持 HTTP/gRPC transport 切换](https://github.com/ryan-wong-coder/trustdb/commit/7f5f7fa7cfdcdc3f6ff1dd3eb9fdee441dc0ad4f) |
 
-_Latest indexed activity: 2026-07-21 06:44 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-21 09:09 UTC · checked automatically every 10 minutes_
