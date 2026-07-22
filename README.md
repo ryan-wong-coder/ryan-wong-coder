@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/678446ff5aaa2d6ee9092c97284735be7de13c40">
+<a href="https://github.com/wowtrust/trustdb/issues/388">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-678446f-2c348f8ae2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-678446f-2c348f8ae2-light.svg" />
-    <img alt="COMMIT: fix(plugin): harden terminal route handoff" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-678446f-2c348f8ae2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-388-3647b0a681-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-388-3647b0a681-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Strengthen TrustDB positioning on the website" src="./assets/activity-cards/issue-wowtrust-trustdb-388-3647b0a681-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/b77de9b4667dd7d34029a2cdd0ec5e005a82e2cb">
+<a href="https://github.com/wowtrust/trustdb/commit/5abb84a57f6f4ba0fd6d83e000c54beb21cfe708">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b77de9b-e31762a568-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b77de9b-e31762a568-light.svg" />
-    <img alt="COMMIT: fix(plugin): close terminal pipeline lifecycle races" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b77de9b-e31762a568-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5abb84a-d102a90a87-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5abb84a-d102a90a87-light.svg" />
+    <img alt="COMMIT: fix(website): emphasize TrustDB evidence advantage (#389)" src="./assets/activity-cards/commit-wowtrust-trustdb-5abb84a-d102a90a87-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/ce93fd01bdccb0168a3cf4edb8334bfd050ced7e">
+<a href="https://github.com/wowtrust/trustdb/pull/389">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-10c7506136-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-10c7506136-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal replay provenance" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-10c7506136-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-389-47db465887-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-389-47db465887-light.svg" />
+    <img alt="PR MERGED: fix(website): emphasize TrustDB evidence advantage" src="./assets/activity-cards/pr-wowtrust-trustdb-389-47db465887-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/376">
+<a href="https://github.com/wowtrust/trustdb/issues/386">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Enable STH anchor coalescing and remove the legacy queue" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-376-6bb8223061-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-386-011100aecd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-386-011100aecd-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Make the website explain TrustDB and compare adjacent systems" src="./assets/activity-cards/issue-wowtrust-trustdb-386-011100aecd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/0d178a7003d1e32b8d5fb684f647fa9fd78fa1c7">
+<a href="https://github.com/wowtrust/trustdb/commit/bda1895b6f359347b69b50ca7eeb3f2bab9a3055">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0d178a7-484ebdbdcb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0d178a7-484ebdbdcb-light.svg" />
-    <img alt="COMMIT: fix(anchor): materialize sparse anchor L5 coverage (#375)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-0d178a7-484ebdbdcb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bda1895-4431f5577e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bda1895-4431f5577e-light.svg" />
+    <img alt="COMMIT: fix(website): explain TrustDB and adjacent systems (#387)" src="./assets/activity-cards/commit-wowtrust-trustdb-bda1895-4431f5577e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/374">
+<a href="https://github.com/wowtrust/trustdb/pull/387">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-374-3541052d82-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-374-3541052d82-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Materialize L5 coverage for sparse STH anchors" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-374-3541052d82-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-387-75f3f5af15-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-387-75f3f5af15-light.svg" />
+    <img alt="PR MERGED: fix(website): explain TrustDB and adjacent systems" src="./assets/activity-cards/pr-wowtrust-trustdb-387-75f3f5af15-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/375">
+<a href="https://github.com/wowtrust/trustdb/commit/f8e3f853aafa3b2ed221545a852835e93597ab61">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-375-74db73a81c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-375-74db73a81c-light.svg" />
-    <img alt="PR MERGED: fix(anchor): materialize sparse anchor L5 coverage" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-375-74db73a81c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f8e3f85-c203f41f2f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f8e3f85-c203f41f2f-light.svg" />
+    <img alt="COMMIT: fix(docs): document TrustDB and SDK architecture (#385)" src="./assets/activity-cards/commit-wowtrust-trustdb-f8e3f85-c203f41f2f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/99f6cb500aa363d94661a503d7ee7cd460f133d4">
+<a href="https://github.com/wowtrust/trustdb/issues/384">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-light.svg" />
-    <img alt="COMMIT: fix(anchor): add durable coalescing scheduler state (#373)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-384-45be9dad61-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-384-45be9dad61-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Document the TrustDB and SDK architecture" src="./assets/activity-cards/issue-wowtrust-trustdb-384-45be9dad61-light.svg" width="100%" />
   </picture>
 </a>
 <br />
