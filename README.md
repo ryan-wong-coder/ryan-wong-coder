@@ -21,20 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e6079d255bfb824ebef2925a07146b27d69c06e6">
+<a href="https://github.com/wowtrust/trustdb/issues/492">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-c8dfa27fbe-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-c8dfa27fbe-light.svg" />
-    <img alt="COMMIT: fix(plugin): bound terminal interceptor lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-c8dfa27fbe-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Build an end-to-end onboarding path for TrustDB users" src="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/4ed7a689d935f6fb1d866806a0f5947e23d40e3d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4ed7a68-a7d6f1cd51-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4ed7a68-a7d6f1cd51-light.svg" />
+    <img alt="COMMIT: Refresh the website with a capability-first product narrative (#491)" src="./assets/activity-cards/commit-wowtrust-trustdb-4ed7a68-a7d6f1cd51-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/issues/490">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-light.svg" />
-    <img alt="ISSUE OPENED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-light.svg" />
+    <img alt="ISSUE CLOSED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/491">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-491-a98b35abab-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-491-a98b35abab-light.svg" />
+    <img alt="PR MERGED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/pr-wowtrust-trustdb-491-a98b35abab-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e6079d255bfb824ebef2925a07146b27d69c06e6">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-5b18f87a74-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-5b18f87a74-light.svg" />
+    <img alt="COMMIT: fix(plugin): bound terminal interceptor lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-5b18f87a74-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -62,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-light.svg" />
     <img alt="PR MERGED: docs(compliance): define China control matrix" src="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e8cb06d46c425d5f5768f6e039e629fb1a37c781">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-946c62cca8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-946c62cca8-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal protocol accounting" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-946c62cca8-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/488">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Complete required product certification and domestic vendor qualification" src="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/641f87ca9c977ac2c130d1708606741b0428c30a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-e5aa2f806d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-e5aa2f806d-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-e5aa2f806d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
