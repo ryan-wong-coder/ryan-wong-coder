@@ -2,11 +2,12 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 235 commits · 117 pull requests · 148 issues · newest first · maximum 500
+**500 entries** · 234 commits · 118 pull requests · 148 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-23 01:26 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Build an end-to-end onboarding path for TrustDB users](https://github.com/wowtrust/trustdb/issues/492) |
+| 2026-07-23 02:51 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Build an end-to-end onboarding path for TrustDB users](https://github.com/wowtrust/trustdb/issues/492) |
+| 2026-07-23 02:48 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(onboarding): build an end-to-end user path](https://github.com/wowtrust/trustdb/pull/493) |
 | 2026-07-23 01:23 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/issues/490) |
 | 2026-07-23 01:23 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/pull/491) |
 | 2026-07-23 01:23 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative (#491)](https://github.com/wowtrust/trustdb/commit/4ed7a689d935f6fb1d866806a0f5947e23d40e3d) |
@@ -505,6 +506,5 @@
 | 2026-07-17 14:57 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): reject duplicate companion paths](https://github.com/DrOlu/Sensor/commit/9d3eabb593647756b605e4d98b0f2f78d443b296) |
 | 2026-07-17 14:42 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject in-tree package outputs](https://github.com/binaricat/Netcatty/commit/fc535b95b1490a3a785f5a0b1a95dcd24c17c8e8) |
 | 2026-07-17 14:42 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): reject in-tree package outputs](https://github.com/DrOlu/Sensor/commit/fc535b95b1490a3a785f5a0b1a95dcd24c17c8e8) |
-| 2026-07-17 14:27 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve nested runtime dependencies](https://github.com/binaricat/Netcatty/commit/4ca3e22aa7a1c3b328f4de6fed646c9daf650cb2) |
 
-_Latest indexed activity: 2026-07-22 17:26 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-22 18:51 UTC · checked automatically every 10 minutes_

@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/pull/493">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-eaf697769a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-eaf697769a-light.svg" />
+    <img alt="PR OPENED: docs(onboarding): build an end-to-end user path" src="./assets/activity-cards/pr-wowtrust-trustdb-493-eaf697769a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/492">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-dark.svg" />
@@ -59,9 +68,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/e6079d255bfb824ebef2925a07146b27d69c06e6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-5b18f87a74-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-5b18f87a74-light.svg" />
-    <img alt="COMMIT: fix(plugin): bound terminal interceptor lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-5b18f87a74-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-fd0ce1b596-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-fd0ce1b596-light.svg" />
+    <img alt="COMMIT: fix(plugin): bound terminal interceptor lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-fd0ce1b596-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -80,15 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-light.svg" />
     <img alt="COMMIT: docs(compliance): define China control matrix (#489)" src="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/489">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-light.svg" />
-    <img alt="PR MERGED: docs(compliance): define China control matrix" src="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
