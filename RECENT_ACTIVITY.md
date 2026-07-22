@@ -2,12 +2,16 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 234 commits · 118 pull requests · 148 issues · newest first · maximum 500
+**500 entries** · 232 commits · 119 pull requests · 149 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-23 03:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Bound production website verification requests](https://github.com/wowtrust/trustdb/issues/494) |
+| 2026-07-23 03:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): bound website deployment verification](https://github.com/wowtrust/trustdb/pull/495) |
+| 2026-07-23 03:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): bound website deployment verification (#495)](https://github.com/wowtrust/trustdb/commit/6a1fb852a9a6437573407a43724a3e5ea16ac6c3) |
 | 2026-07-23 02:51 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Build an end-to-end onboarding path for TrustDB users](https://github.com/wowtrust/trustdb/issues/492) |
-| 2026-07-23 02:48 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(onboarding): build an end-to-end user path](https://github.com/wowtrust/trustdb/pull/493) |
+| 2026-07-23 02:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(onboarding): build an end-to-end user path](https://github.com/wowtrust/trustdb/pull/493) |
+| 2026-07-23 02:51 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(onboarding): build an end-to-end user path (#493)](https://github.com/wowtrust/trustdb/commit/686136f3455e24f8dceb4675cedfd042a4cadb46) |
 | 2026-07-23 01:23 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/issues/490) |
 | 2026-07-23 01:23 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/pull/491) |
 | 2026-07-23 01:23 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative (#491)](https://github.com/wowtrust/trustdb/commit/4ed7a689d935f6fb1d866806a0f5947e23d40e3d) |
@@ -502,9 +506,5 @@
 | 2026-07-17 18:08 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): complete foundational plugin contract](https://github.com/DrOlu/Sensor/commit/225b5cbba6148069912a9c2f7ad1581df6cf969e) |
 | 2026-07-17 16:58 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Make the main process authoritative for port forwarding runtime state](https://github.com/binaricat/Netcatty/issues/2288) |
 | 2026-07-17 15:12 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh profile data every ten minutes](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/08550187e5e052fb1f53a8e2e453f0d6d20add4d) |
-| 2026-07-17 14:57 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject duplicate companion paths](https://github.com/binaricat/Netcatty/commit/9d3eabb593647756b605e4d98b0f2f78d443b296) |
-| 2026-07-17 14:57 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): reject duplicate companion paths](https://github.com/DrOlu/Sensor/commit/9d3eabb593647756b605e4d98b0f2f78d443b296) |
-| 2026-07-17 14:42 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject in-tree package outputs](https://github.com/binaricat/Netcatty/commit/fc535b95b1490a3a785f5a0b1a95dcd24c17c8e8) |
-| 2026-07-17 14:42 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): reject in-tree package outputs](https://github.com/DrOlu/Sensor/commit/fc535b95b1490a3a785f5a0b1a95dcd24c17c8e8) |
 
-_Latest indexed activity: 2026-07-22 18:51 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-22 19:07 UTC · checked automatically every 10 minutes_

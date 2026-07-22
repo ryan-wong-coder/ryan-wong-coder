@@ -21,20 +21,56 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/pull/493">
+<a href="https://github.com/wowtrust/trustdb/commit/6a1fb852a9a6437573407a43724a3e5ea16ac6c3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-eaf697769a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-eaf697769a-light.svg" />
-    <img alt="PR OPENED: docs(onboarding): build an end-to-end user path" src="./assets/activity-cards/pr-wowtrust-trustdb-493-eaf697769a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-light.svg" />
+    <img alt="COMMIT: fix(ci): bound website deployment verification (#495)" src="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/494">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-494-026a543b03-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-494-026a543b03-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Bound production website verification requests" src="./assets/activity-cards/issue-wowtrust-trustdb-494-026a543b03-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/495">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-495-45a6686c96-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-495-45a6686c96-light.svg" />
+    <img alt="PR MERGED: fix(ci): bound website deployment verification" src="./assets/activity-cards/pr-wowtrust-trustdb-495-45a6686c96-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/686136f3455e24f8dceb4675cedfd042a4cadb46">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-light.svg" />
+    <img alt="COMMIT: docs(onboarding): build an end-to-end user path (#493)" src="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/issues/492">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Build an end-to-end onboarding path for TrustDB users" src="./assets/activity-cards/issue-wowtrust-trustdb-492-b02c48da12-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-6e3f19d437-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-6e3f19d437-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Build an end-to-end onboarding path for TrustDB users" src="./assets/activity-cards/issue-wowtrust-trustdb-492-6e3f19d437-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/493">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-d888a52026-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-d888a52026-light.svg" />
+    <img alt="PR MERGED: docs(onboarding): build an end-to-end user path" src="./assets/activity-cards/pr-wowtrust-trustdb-493-d888a52026-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-light.svg" />
     <img alt="ISSUE CLOSED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/491">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-491-a98b35abab-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-491-a98b35abab-light.svg" />
-    <img alt="PR MERGED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/pr-wowtrust-trustdb-491-a98b35abab-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e6079d255bfb824ebef2925a07146b27d69c06e6">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-fd0ce1b596-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-fd0ce1b596-light.svg" />
-    <img alt="COMMIT: fix(plugin): bound terminal interceptor lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-fd0ce1b596-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/440">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-440-742a75c752-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-440-742a75c752-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Define the China compliance scope and control matrix" src="./assets/activity-cards/issue-wowtrust-trustdb-440-742a75c752-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/a884d23b006ae88286ae8f290dd5a27885baae7f">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-light.svg" />
-    <img alt="COMMIT: docs(compliance): define China control matrix (#489)" src="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-light.svg" width="100%" />
   </picture>
 </a>
 <br />
