@@ -21,11 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/678446ff5aaa2d6ee9092c97284735be7de13c40">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-678446f-2c348f8ae2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-678446f-2c348f8ae2-light.svg" />
+    <img alt="COMMIT: fix(plugin): harden terminal route handoff" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-678446f-2c348f8ae2-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/b77de9b4667dd7d34029a2cdd0ec5e005a82e2cb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b77de9b-e31762a568-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b77de9b-e31762a568-light.svg" />
+    <img alt="COMMIT: fix(plugin): close terminal pipeline lifecycle races" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b77de9b-e31762a568-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/ce93fd01bdccb0168a3cf4edb8334bfd050ced7e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-332239e170-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-332239e170-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal replay provenance" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-332239e170-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-10c7506136-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-10c7506136-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal replay provenance" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-ce93fd0-10c7506136-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -71,24 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-light.svg" />
     <img alt="COMMIT: fix(anchor): add durable coalescing scheduler state (#373)" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-99f6cb5-b2db18fb67-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/issues/372">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-9cdd30d460-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-9cdd30d460-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add durable coalescing state for STH anchoring" src="./assets/activity-cards/issue-ryan-wong-coder-trustdb-372-9cdd30d460-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/373">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-light.svg" />
-    <img alt="PR MERGED: fix(anchor): add durable coalescing scheduler state" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-373-0d2dbde7a9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
