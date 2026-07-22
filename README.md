@@ -21,20 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/issues/488">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Complete required product certification and domestic vendor qualification" src="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/487">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-487-9b9081ff3c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-487-9b9081ff3c-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Complete deployment-specific MLPS and commercial cryptography assessments" src="./assets/activity-cards/issue-wowtrust-trustdb-487-9b9081ff3c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/486">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-486-afae9409bf-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-486-afae9409bf-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Prepare the TrustDB China profile GA release and claims review" src="./assets/activity-cards/issue-wowtrust-trustdb-486-afae9409bf-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/641f87ca9c977ac2c130d1708606741b0428c30a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-88011180a2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-88011180a2-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-88011180a2-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" />
     <img alt="COMMIT: fix(deps): patch desktop brace-expansion (#439)" src="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/438">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-438-5089aee22f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-438-5089aee22f-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Resolve desktop brace-expansion security alert" src="./assets/activity-cards/issue-wowtrust-trustdb-438-5089aee22f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -57,38 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/432">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-432-cc17e47e29-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-432-cc17e47e29-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Routine Dependabot scans flood security remediation CI" src="./assets/activity-cards/issue-wowtrust-trustdb-432-cc17e47e29-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/wowtrust/trustdb/pull/434">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-light.svg" />
     <img alt="PR MERGED: fix(dependabot): prioritize security updates" src="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/240b08275d8c6a40bca152c67ebae7cfc73aa99c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-240b082-201a8f255a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-240b082-201a8f255a-light.svg" />
-    <img alt="COMMIT: fix(deps): bump brace-expansion from 2.1.0 to 2.1.2 in /clients/web (#429)" src="./assets/activity-cards/commit-wowtrust-trustdb-240b082-201a8f255a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/437">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-437-0bafa86724-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-437-0bafa86724-light.svg" />
-    <img alt="PR CLOSED: fix(deps): bump @vueuse/core from 11.3.0 to 14.3.0 in /clients/desktop/frontend" src="./assets/activity-cards/pr-wowtrust-trustdb-437-0bafa86724-light.svg" width="100%" />
   </picture>
 </a>
 <br />
