@@ -21,6 +21,51 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/issues/490">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-light.svg" />
+    <img alt="ISSUE OPENED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/440">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-440-742a75c752-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-440-742a75c752-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Define the China compliance scope and control matrix" src="./assets/activity-cards/issue-wowtrust-trustdb-440-742a75c752-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/a884d23b006ae88286ae8f290dd5a27885baae7f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-light.svg" />
+    <img alt="COMMIT: docs(compliance): define China control matrix (#489)" src="./assets/activity-cards/commit-wowtrust-trustdb-a884d23-2650d43901-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/489">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-light.svg" />
+    <img alt="PR MERGED: docs(compliance): define China control matrix" src="./assets/activity-cards/pr-wowtrust-trustdb-489-a200d1532a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e8cb06d46c425d5f5768f6e039e629fb1a37c781">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-1f1f29e6ab-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-1f1f29e6ab-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal protocol accounting" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-1f1f29e6ab-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/488">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-488-b6077dbe94-dark.svg" />
@@ -30,29 +75,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/487">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-487-9b9081ff3c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-487-9b9081ff3c-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Complete deployment-specific MLPS and commercial cryptography assessments" src="./assets/activity-cards/issue-wowtrust-trustdb-487-9b9081ff3c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/486">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-486-afae9409bf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-486-afae9409bf-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Prepare the TrustDB China profile GA release and claims review" src="./assets/activity-cards/issue-wowtrust-trustdb-486-afae9409bf-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/641f87ca9c977ac2c130d1708606741b0428c30a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-18cea4e93e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-18cea4e93e-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-18cea4e93e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-bce33a7894-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-bce33a7894-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-bce33a7894-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -62,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" />
     <img alt="COMMIT: fix(deps): patch desktop brace-expansion (#439)" src="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/439">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-439-ff724f2c74-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-439-ff724f2c74-light.svg" />
-    <img alt="PR MERGED: fix(deps): patch desktop brace-expansion" src="./assets/activity-cards/pr-wowtrust-trustdb-439-ff724f2c74-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/f4093653e29963624983bafff54e19247f8226e8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f409365-56c0d70d3b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f409365-56c0d70d3b-light.svg" />
-    <img alt="COMMIT: fix(dependabot): prioritize security updates (#434)" src="./assets/activity-cards/commit-wowtrust-trustdb-f409365-56c0d70d3b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/434">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-light.svg" />
-    <img alt="PR MERGED: fix(dependabot): prioritize security updates" src="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-light.svg" width="100%" />
   </picture>
 </a>
 <br />

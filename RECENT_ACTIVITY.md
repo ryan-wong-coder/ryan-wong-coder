@@ -2,10 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 239 commits · 115 pull requests · 146 issues · newest first · maximum 500
+**500 entries** · 237 commits · 116 pull requests · 147 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-22 22:51 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/issues/490) |
+| 2026-07-22 22:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define the China compliance scope and control matrix](https://github.com/wowtrust/trustdb/issues/440) |
+| 2026-07-22 22:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): define China control matrix](https://github.com/wowtrust/trustdb/pull/489) |
+| 2026-07-22 22:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): define China control matrix (#489)](https://github.com/wowtrust/trustdb/commit/a884d23b006ae88286ae8f290dd5a27885baae7f) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Complete required product certification and domestic vendor qualification](https://github.com/wowtrust/trustdb/issues/488) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Complete deployment-specific MLPS and commercial cryptography assessments](https://github.com/wowtrust/trustdb/issues/487) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Prepare the TrustDB China profile GA release and claims review](https://github.com/wowtrust/trustdb/issues/486) |
@@ -54,7 +58,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Select SM cryptography dependencies and publish conformance vectors](https://github.com/wowtrust/trustdb/issues/443) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Version evidence, storage, backup, and API formats for cryptographic agility](https://github.com/wowtrust/trustdb/issues/442) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define TrustDB cryptographic suite identifiers and algorithm registry](https://github.com/wowtrust/trustdb/issues/441) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define the China compliance scope and control matrix](https://github.com/wowtrust/trustdb/issues/440) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -503,8 +506,5 @@
 | 2026-07-17 14:27 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve nested runtime dependencies](https://github.com/DrOlu/Sensor/commit/4ca3e22aa7a1c3b328f4de6fed646c9daf650cb2) |
 | 2026-07-17 14:12 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden scaffold and cancellation](https://github.com/binaricat/Netcatty/commit/0b1d08733f03a8f678d777582370e9a29a0bf2aa) |
 | 2026-07-17 14:12 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden scaffold and cancellation](https://github.com/DrOlu/Sensor/commit/0b1d08733f03a8f678d777582370e9a29a0bf2aa) |
-| 2026-07-17 14:00 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): reject package path prefix collisions](https://github.com/binaricat/Netcatty/commit/e958a464ad9626a1cddaebe0c11082bd85af3ff3) |
-| 2026-07-17 14:00 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): reject package path prefix collisions](https://github.com/DrOlu/Sensor/commit/e958a464ad9626a1cddaebe0c11082bd85af3ff3) |
-| 2026-07-17 13:51 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): align package path contract validation](https://github.com/binaricat/Netcatty/commit/ce3bde5ee49ffef1a6e495dcb79d78a2d6ba747b) |
 
-_Latest indexed activity: 2026-07-22 10:42 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-22 14:51 UTC · checked automatically every 10 minutes_
