@@ -50,9 +50,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/641f87ca9c977ac2c130d1708606741b0428c30a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-88011180a2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-88011180a2-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-88011180a2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-18cea4e93e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-18cea4e93e-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-18cea4e93e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
