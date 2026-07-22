@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" role="img" aria-labelledby="title desc">
-<title id="title">PR MERGED: fix(website): emphasize TrustDB evidence advantage</title>
+<title id="title">PR MERGED: fix(deps): patch desktop brace-expansion</title>
 <desc id="desc">wowtrust/trustdb; STARS 89  ·  FORKS 4  ·  GO; ORIGINAL REPOSITORY</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eff6ff"/></linearGradient>
@@ -14,12 +14,12 @@
 <rect x="46" y="73" width="18" height="18" rx="3" fill="#7c3aed" transform="rotate(45 55 82)"/>
 <rect x="88" y="18" width="92.0" height="25" rx="12.5" fill="#7c3aed" opacity=".16"/>
 <text x="134.0" y="35" fill="#7c3aed" font-size="11" font-weight="700" text-anchor="middle">PR MERGED</text>
-<text x="1162" y="34" fill="#60708a" font-size="11" text-anchor="end">2026-07-22 · 15:01 UTC+8</text>
+<text x="1162" y="34" fill="#60708a" font-size="11" text-anchor="end">2026-07-22 · 17:13 UTC+8</text>
 <text x="88" y="76" fill="#172033" font-size="23" font-weight="700">wowtrust/trustdb</text>
 <text x="1162" y="72" fill="#7c3aed" font-size="12" font-weight="700" text-anchor="end">STARS 89  ·  FORKS 4  ·  GO</text>
-<text x="88" y="108" fill="#60708a" font-size="15">fix(website): emphasize TrustDB evidence advantage</text>
+<text x="88" y="108" fill="#60708a" font-size="15">fix(deps): patch desktop brace-expansion</text>
 <text x="88" y="139" fill="#7c3aed" font-size="11" font-weight="700">ORIGINAL REPOSITORY</text>
-<text x="958" y="139" fill="#60708a" font-size="11" text-anchor="end">#389  ·  merged</text>
+<text x="958" y="139" fill="#60708a" font-size="11" text-anchor="end">#439  ·  merged</text>
 <text x="1137" y="139" fill="#7c3aed" font-size="12" font-weight="700" text-anchor="end">OPEN ACTIVITY</text>
 <path d="M1148 132h12v12M1148 144l12-12" fill="none" stroke="#7c3aed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

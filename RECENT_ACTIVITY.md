@@ -2,10 +2,33 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 283 commits · 122 pull requests · 95 issues · newest first · maximum 500
+**500 entries** · 273 commits · 128 pull requests · 99 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
+| 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
+| 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
+| 2026-07-22 17:06 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Routine Dependabot scans flood security remediation CI](https://github.com/wowtrust/trustdb/issues/432) |
+| 2026-07-22 17:06 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): prioritize security updates](https://github.com/wowtrust/trustdb/pull/434) |
+| 2026-07-22 17:06 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): prioritize security updates (#434)](https://github.com/wowtrust/trustdb/commit/f4093653e29963624983bafff54e19247f8226e8) |
+| 2026-07-22 16:59 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Grouped security updates skip Dependabot auto-merge](https://github.com/wowtrust/trustdb/issues/417) |
+| 2026-07-22 16:59 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): validate grouped security versions](https://github.com/wowtrust/trustdb/pull/425) |
+| 2026-07-22 16:59 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): validate grouped security versions (#425)](https://github.com/wowtrust/trustdb/commit/81c18527eb49938c8555d14d49c9663b72dbd408) |
+| 2026-07-22 16:52 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): queue grouped security updates](https://github.com/wowtrust/trustdb/pull/418) |
+| 2026-07-22 16:52 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): queue grouped security updates (#418)](https://github.com/wowtrust/trustdb/commit/dfaec60cb90341e11b2414065b6d5ab526097798) |
+| 2026-07-22 16:47 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Branch ruleset blocks generated Dependabot pull requests](https://github.com/wowtrust/trustdb/issues/396) |
+| 2026-07-22 16:47 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): allow generated update branches (#403)](https://github.com/wowtrust/trustdb/commit/5e1de55e28fa3bcd05770d1083016d1057a42646) |
+| 2026-07-22 16:47 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): allow generated update branches](https://github.com/wowtrust/trustdb/pull/403) |
+| 2026-07-22 16:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Dependabot Go scans fail on TiKV PD pseudo-version](https://github.com/wowtrust/trustdb/issues/394) |
+| 2026-07-22 16:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): ignore invalid TiKV PD major update](https://github.com/wowtrust/trustdb/pull/395) |
+| 2026-07-22 16:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): ignore invalid TiKV PD major update (#395)](https://github.com/wowtrust/trustdb/commit/28ec4782ed059fab8f71de5c26409af862ec0000) |
+| 2026-07-22 16:24 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Dependabot security updates do not materialize fixes](https://github.com/wowtrust/trustdb/issues/392) |
+| 2026-07-22 16:24 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): automate security update pull requests](https://github.com/wowtrust/trustdb/pull/393) |
+| 2026-07-22 16:24 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): automate security update pull requests (#393)](https://github.com/wowtrust/trustdb/commit/575e2610c25118ef8b7414c821cb81871ed70e04) |
+| 2026-07-22 15:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish TrustDB v1.0.0 stable](https://github.com/wowtrust/trustdb/issues/390) |
+| 2026-07-22 15:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v1.0.0](https://github.com/wowtrust/trustdb/pull/391) |
+| 2026-07-22 15:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v1.0.0 (#391)](https://github.com/wowtrust/trustdb/commit/bcecbe361cb07e78051d93d5cda48f9fd85493f2) |
 | 2026-07-22 15:02 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Strengthen TrustDB positioning on the website](https://github.com/wowtrust/trustdb/issues/388) |
 | 2026-07-22 15:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): emphasize TrustDB evidence advantage](https://github.com/wowtrust/trustdb/pull/389) |
 | 2026-07-22 15:01 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): emphasize TrustDB evidence advantage (#389)](https://github.com/wowtrust/trustdb/commit/5abb84a57f6f4ba0fd6d83e000c54beb21cfe708) |
@@ -483,28 +506,5 @@
 | 2026-07-15 23:05 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden load-balanced SDK nil contexts (#189)](https://github.com/wowtrust/trustdb/commit/b81e268ffeda72319250bb4d03afcf0eedf8827c) |
 | 2026-07-15 23:00 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden SDK HTTP nil contexts (#188)](https://github.com/wowtrust/trustdb/commit/cbdf5cce577cefd47522a4b60f35fd8134e202bc) |
 | 2026-07-15 22:52 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden batch fallback validation (#187)](https://github.com/wowtrust/trustdb/commit/d4e0fa1393f0e5cd5c429f5f22cda5ec70df911d) |
-| 2026-07-15 22:45 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden CLI file writes (#186)](https://github.com/wowtrust/trustdb/commit/d786c7c3db97a1e9fb139c4440cdb16055220df5) |
-| 2026-07-15 22:40 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden CLI keygen output paths (#185)](https://github.com/wowtrust/trustdb/commit/4b1e527560506ebc62d68fdfef1836c4c359df9b) |
-| 2026-07-15 22:33 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden CLI proof output paths (#184)](https://github.com/wowtrust/trustdb/commit/d97d01b0a8ce8d62beac1de9e478400b32acd29a) |
-| 2026-07-15 22:24 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden desktop atomic writes (#183)](https://github.com/wowtrust/trustdb/commit/a5c94408dc2ac5ee847e4eb07c35554c73e16cb7) |
-| 2026-07-15 22:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden admin config writes (#182)](https://github.com/wowtrust/trustdb/commit/ce0b9ef9082cbc9cb91a596b6959e3fe63d8d1de) |
-| 2026-07-15 21:56 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden backup archive writes (#181)](https://github.com/wowtrust/trustdb/commit/655986f94d23204c02428257cd7d1ab3e339c2c8) |
-| 2026-07-15 21:48 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden local proofstore paths (#180)](https://github.com/wowtrust/trustdb/commit/9638b58fe185422b13a4f9644ecb2d09c124f7dd) |
-| 2026-07-15 21:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden server timeout configuration](https://github.com/wowtrust/trustdb/commit/dfd078351719cc7dc5daa086bb5e8c5465d9e175) |
-| 2026-07-15 21:28 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden verification inputs and frontend readiness](https://github.com/wowtrust/trustdb/commit/fc83d920ccb2ae7055449b2212f5bf42839ec33e) |
-| 2026-07-15 21:04 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Create GitHub profile README](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/5489843b7987f0fa896420d87df124fcd6b560f4) |
-| 2026-07-15 13:32 | `COMMIT` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(editor): add selection formatting toolbar](https://github.com/text2future/flowix/commit/55f52874195dcaba57f3cdb4c77e54da21eb7e99) |
-| 2026-07-15 02:14 | `PR CLOSED` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(agent): support custom executable locations](https://github.com/text2future/flowix/pull/6) |
-| 2026-07-14 18:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(ai): detect macOS desktop-managed agents](https://github.com/binaricat/Netcatty/commit/095213dd42b9057fdc5dcded431b11456db0519f) |
-| 2026-07-14 18:45 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(ai): detect macOS desktop-managed agents](https://github.com/DrOlu/Sensor/commit/095213dd42b9057fdc5dcded431b11456db0519f) |
-| 2026-07-14 15:49 | `ISSUE OPEN` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(document): add interactive Markmap view](https://github.com/text2future/flowix/issues/8) |
-| 2026-07-14 11:13 | `ISSUE OPEN` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(agent): support custom executable locations for external agents](https://github.com/text2future/flowix/issues/5) |
-| 2026-06-29 15:15 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden verification and input decoding (#177)](https://github.com/wowtrust/trustdb/commit/96e17f0361dd3e25a52972e0d89961fde49df2c1) |
-| 2026-06-29 15:15 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix: harden verification and input decoding](https://github.com/wowtrust/trustdb/pull/177) |
-| 2026-06-12 15:19 | `COMMIT` | [ryan-wong-coder/ryan-go-backend](https://github.com/ryan-wong-coder/ryan-go-backend) | [bd init: initialize beads issue tracking](https://github.com/ryan-wong-coder/ryan-go-backend/commit/f5cec218ada65e66d9f584c98482b68093fd9210) |
-| 2026-05-09 19:17 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/91cc0c90417698af0f404100f853a922f9420de3) |
-| 2026-05-09 15:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Add native batch and streaming log ingest APIs](https://github.com/wowtrust/trustdb/issues/158) |
-| 2026-05-09 15:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add native log ingest streams](https://github.com/wowtrust/trustdb/commit/fa890f7b18bf6b9fd29df3e96770ac110ae666a8) |
-| 2026-05-06 19:33 | `COMMIT` | [acidvegas/farming](https://github.com/acidvegas/farming) | [Track new repo: ryan-wong-coder/trustdb](https://github.com/acidvegas/farming/commit/4dcc9137bf9860bb9ee31c653d63d2dfd1348f80) |
 
-_Latest indexed activity: 2026-07-22 07:02 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-22 09:13 UTC · checked automatically every 10 minutes_

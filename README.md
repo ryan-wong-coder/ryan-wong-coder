@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/issues/388">
+<a href="https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-388-3647b0a681-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-388-3647b0a681-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Strengthen TrustDB positioning on the website" src="./assets/activity-cards/issue-wowtrust-trustdb-388-3647b0a681-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" />
+    <img alt="COMMIT: fix(deps): patch desktop brace-expansion (#439)" src="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/5abb84a57f6f4ba0fd6d83e000c54beb21cfe708">
+<a href="https://github.com/wowtrust/trustdb/issues/438">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5abb84a-d102a90a87-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5abb84a-d102a90a87-light.svg" />
-    <img alt="COMMIT: fix(website): emphasize TrustDB evidence advantage (#389)" src="./assets/activity-cards/commit-wowtrust-trustdb-5abb84a-d102a90a87-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-438-5089aee22f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-438-5089aee22f-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Resolve desktop brace-expansion security alert" src="./assets/activity-cards/issue-wowtrust-trustdb-438-5089aee22f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/389">
+<a href="https://github.com/wowtrust/trustdb/pull/439">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-389-47db465887-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-389-47db465887-light.svg" />
-    <img alt="PR MERGED: fix(website): emphasize TrustDB evidence advantage" src="./assets/activity-cards/pr-wowtrust-trustdb-389-47db465887-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-439-ff724f2c74-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-439-ff724f2c74-light.svg" />
+    <img alt="PR MERGED: fix(deps): patch desktop brace-expansion" src="./assets/activity-cards/pr-wowtrust-trustdb-439-ff724f2c74-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/386">
+<a href="https://github.com/wowtrust/trustdb/commit/f4093653e29963624983bafff54e19247f8226e8">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-386-011100aecd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-386-011100aecd-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Make the website explain TrustDB and compare adjacent systems" src="./assets/activity-cards/issue-wowtrust-trustdb-386-011100aecd-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f409365-56c0d70d3b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f409365-56c0d70d3b-light.svg" />
+    <img alt="COMMIT: fix(dependabot): prioritize security updates (#434)" src="./assets/activity-cards/commit-wowtrust-trustdb-f409365-56c0d70d3b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/bda1895b6f359347b69b50ca7eeb3f2bab9a3055">
+<a href="https://github.com/wowtrust/trustdb/issues/432">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bda1895-4431f5577e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bda1895-4431f5577e-light.svg" />
-    <img alt="COMMIT: fix(website): explain TrustDB and adjacent systems (#387)" src="./assets/activity-cards/commit-wowtrust-trustdb-bda1895-4431f5577e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-432-cc17e47e29-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-432-cc17e47e29-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Routine Dependabot scans flood security remediation CI" src="./assets/activity-cards/issue-wowtrust-trustdb-432-cc17e47e29-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/387">
+<a href="https://github.com/wowtrust/trustdb/pull/434">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-387-75f3f5af15-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-387-75f3f5af15-light.svg" />
-    <img alt="PR MERGED: fix(website): explain TrustDB and adjacent systems" src="./assets/activity-cards/pr-wowtrust-trustdb-387-75f3f5af15-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-light.svg" />
+    <img alt="PR MERGED: fix(dependabot): prioritize security updates" src="./assets/activity-cards/pr-wowtrust-trustdb-434-7b5057d90d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/f8e3f853aafa3b2ed221545a852835e93597ab61">
+<a href="https://github.com/wowtrust/trustdb/commit/240b08275d8c6a40bca152c67ebae7cfc73aa99c">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f8e3f85-c203f41f2f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f8e3f85-c203f41f2f-light.svg" />
-    <img alt="COMMIT: fix(docs): document TrustDB and SDK architecture (#385)" src="./assets/activity-cards/commit-wowtrust-trustdb-f8e3f85-c203f41f2f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-240b082-201a8f255a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-240b082-201a8f255a-light.svg" />
+    <img alt="COMMIT: fix(deps): bump brace-expansion from 2.1.0 to 2.1.2 in /clients/web (#429)" src="./assets/activity-cards/commit-wowtrust-trustdb-240b082-201a8f255a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/384">
+<a href="https://github.com/wowtrust/trustdb/pull/437">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-384-45be9dad61-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-384-45be9dad61-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Document the TrustDB and SDK architecture" src="./assets/activity-cards/issue-wowtrust-trustdb-384-45be9dad61-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-437-0bafa86724-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-437-0bafa86724-light.svg" />
+    <img alt="PR CLOSED: fix(deps): bump @vueuse/core from 11.3.0 to 14.3.0 in /clients/desktop/frontend" src="./assets/activity-cards/pr-wowtrust-trustdb-437-0bafa86724-light.svg" width="100%" />
   </picture>
 </a>
 <br />
