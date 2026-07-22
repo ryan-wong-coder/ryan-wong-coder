@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/e6079d255bfb824ebef2925a07146b27d69c06e6">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-c8dfa27fbe-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-c8dfa27fbe-light.svg" />
+    <img alt="COMMIT: fix(plugin): bound terminal interceptor lifecycle" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e6079d2-c8dfa27fbe-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/490">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-04da3fec9c-dark.svg" />
@@ -59,9 +68,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/e8cb06d46c425d5f5768f6e039e629fb1a37c781">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-1f1f29e6ab-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-1f1f29e6ab-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal protocol accounting" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-1f1f29e6ab-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-946c62cca8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-946c62cca8-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal protocol accounting" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-e8cb06d-946c62cca8-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -77,18 +86,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/641f87ca9c977ac2c130d1708606741b0428c30a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-bce33a7894-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-bce33a7894-light.svg" />
-    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-bce33a7894-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" />
-    <img alt="COMMIT: fix(deps): patch desktop brace-expansion (#439)" src="./assets/activity-cards/commit-wowtrust-trustdb-a9e2c48-9534838b49-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-e5aa2f806d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-e5aa2f806d-light.svg" />
+    <img alt="COMMIT: fix(plugin): preserve terminal flow compatibility" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-641f87c-e5aa2f806d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
