@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/issues/521">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-59d6eb9754-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-59d6eb9754-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Publish 2026-07-23 sustained-stream performance assessment" src="./assets/activity-cards/issue-wowtrust-trustdb-521-59d6eb9754-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/519">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-519-6790b421c9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-519-6790b421c9-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Apply blocking backpressure when the batch queue is full" src="./assets/activity-cards/issue-wowtrust-trustdb-519-6790b421c9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/f29addd64e5c77df2a51c7a337a2a6649e1dd70d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f29addd-4f30fea2e4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f29addd-4f30fea2e4-light.svg" />
+    <img alt="COMMIT: fix(batch): apply blocking backpressure to full queues (#520)" src="./assets/activity-cards/commit-wowtrust-trustdb-f29addd-4f30fea2e4-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/520">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-520-1b2ee5c998-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-520-1b2ee5c998-light.svg" />
+    <img alt="PR MERGED: fix(batch): apply blocking backpressure to full queues" src="./assets/activity-cards/pr-wowtrust-trustdb-520-1b2ee5c998-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/517">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-dark.svg" />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-light.svg" />
     <img alt="COMMIT: Update README.md" src="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/e503458c9ca71a4b5bd87e922993617a383d3a30">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e503458-f8a055da08-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e503458-f8a055da08-light.svg" />
-    <img alt="COMMIT: build(release): publish images to GHCR (#516)" src="./assets/activity-cards/commit-wowtrust-trustdb-e503458-f8a055da08-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/515">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-515-cfeec3f98b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-515-cfeec3f98b-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Publish release containers under the WowTrust GHCR namespace" src="./assets/activity-cards/issue-wowtrust-trustdb-515-cfeec3f98b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/516">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-516-cd477f86f9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-516-cd477f86f9-light.svg" />
-    <img alt="PR MERGED: build(release): publish images to GHCR" src="./assets/activity-cards/pr-wowtrust-trustdb-516-cd477f86f9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/d96425b155a33066a058a8afa084b77cb0d56cc2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d96425b-5892ede235-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d96425b-5892ede235-light.svg" />
-    <img alt="COMMIT: docs(onboarding): clarify fit and community paths (#511)" src="./assets/activity-cards/commit-wowtrust-trustdb-d96425b-5892ede235-light.svg" width="100%" />
   </picture>
 </a>
 <br />

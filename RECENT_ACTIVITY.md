@@ -2,10 +2,14 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 196 commits · 131 pull requests · 173 issues · newest first · maximum 500
+**500 entries** · 193 commits · 132 pull requests · 175 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-23 17:11 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish 2026-07-23 sustained-stream performance assessment](https://github.com/wowtrust/trustdb/issues/521) |
+| 2026-07-23 16:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Apply blocking backpressure when the batch queue is full](https://github.com/wowtrust/trustdb/issues/519) |
+| 2026-07-23 16:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(batch): apply blocking backpressure to full queues](https://github.com/wowtrust/trustdb/pull/520) |
+| 2026-07-23 16:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(batch): apply blocking backpressure to full queues (#520)](https://github.com/wowtrust/trustdb/commit/f29addd64e5c77df2a51c7a337a2a6649e1dd70d) |
 | 2026-07-23 13:25 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(website): sync organization registry and community entry points](https://github.com/wowtrust/trustdb/issues/517) |
 | 2026-07-23 13:25 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(website): sync registry and community links (#518)](https://github.com/wowtrust/trustdb/commit/5570541c1a3a4c0bed260fd08b94bb68786a9f6e) |
 | 2026-07-23 13:25 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(website): sync registry and community links](https://github.com/wowtrust/trustdb/pull/518) |
@@ -502,9 +506,5 @@
 | 2026-07-19 14:29 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden capability authorization](https://github.com/binaricat/Netcatty/commit/6e79ef9ff9ead67565fed8242686ebb75de70b5e) |
 | 2026-07-19 14:29 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden capability authorization](https://github.com/DrOlu/Sensor/commit/6e79ef9ff9ead67565fed8242686ebb75de70b5e) |
 | 2026-07-19 13:33 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin): harden runtime cleanup containment](https://github.com/binaricat/Netcatty/commit/33ad8eea209245b99b49f80a22af09c820103f36) |
-| 2026-07-19 13:33 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin): harden runtime cleanup containment](https://github.com/DrOlu/Sensor/commit/33ad8eea209245b99b49f80a22af09c820103f36) |
-| 2026-07-19 12:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin): defer protected resource probes](https://github.com/binaricat/Netcatty/commit/688ae1902b0650b5b85f972226726c42824f60b1) |
-| 2026-07-19 12:45 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin): defer protected resource probes](https://github.com/DrOlu/Sensor/commit/688ae1902b0650b5b85f972226726c42824f60b1) |
-| 2026-07-19 12:09 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [test(plugin-runtime): make quota startup check deterministic](https://github.com/binaricat/Netcatty/commit/bb5f0e797e16e3ef110fb6d0c9c1462fe779ec5c) |
 
-_Latest indexed activity: 2026-07-23 05:25 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 09:11 UTC · checked automatically every 10 minutes_
