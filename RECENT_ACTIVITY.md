@@ -2,10 +2,16 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 177 commits · 139 pull requests · 184 issues · newest first · maximum 500
+**500 entries** · 176 commits · 139 pull requests · 185 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-24 02:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Wire optional NATS ingress into trustdb serve](https://github.com/wowtrust/trustdb/issues/545) |
+| 2026-07-24 02:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): wire optional ingress into serve](https://github.com/wowtrust/trustdb/pull/547) |
+| 2026-07-24 02:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): wire optional ingress into serve (#547)](https://github.com/wowtrust/trustdb/commit/76a942aa4ee767719f700a685dd04be08ea953fb) |
+| 2026-07-24 02:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable crypto-suite markers to every proofstore backend](https://github.com/wowtrust/trustdb/issues/446) |
+| 2026-07-24 02:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(proofstore): bind namespaces to immutable crypto suites (#546)](https://github.com/wowtrust/trustdb/commit/40576837914ec633652474a03d4e9e00ea37ee20) |
+| 2026-07-24 02:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(proofstore): bind namespaces to immutable crypto suites](https://github.com/wowtrust/trustdb/pull/546) |
 | 2026-07-24 01:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist NATS outcomes in bounded JetStream streams](https://github.com/wowtrust/trustdb/issues/542) |
 | 2026-07-24 01:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): persist bounded immutable outcomes](https://github.com/wowtrust/trustdb/pull/544) |
 | 2026-07-24 01:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): persist bounded immutable outcomes (#544)](https://github.com/wowtrust/trustdb/commit/78a1d81876ae92972d684e3803231eaf39de274c) |
@@ -168,7 +174,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Introduce versioned software and hardware key descriptors](https://github.com/wowtrust/trustdb/issues/449) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add canonical SM2-SM3 signing and verification](https://github.com/wowtrust/trustdb/issues/448) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM3 hashing and RFC6962-SM3 Merkle trees](https://github.com/wowtrust/trustdb/issues/447) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable crypto-suite markers to every proofstore backend](https://github.com/wowtrust/trustdb/issues/446) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -501,10 +506,5 @@
 | 2026-07-20 13:49 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve localized view lifecycles](https://github.com/binaricat/Netcatty/commit/aa4c653bf706560c069ade90dd6f1d6bfed4973f) |
 | 2026-07-20 13:49 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve localized view lifecycles](https://github.com/DrOlu/Sensor/commit/aa4c653bf706560c069ade90dd6f1d6bfed4973f) |
 | 2026-07-20 12:59 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(web): 固定 Admin E2E 浏览器语言 (#210)](https://github.com/wowtrust/trustdb/commit/d2cb62c3fea8ec0ca5ed59779ac4392ac01b2a83) |
-| 2026-07-20 12:59 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(web): 固定 Admin E2E 浏览器语言](https://github.com/wowtrust/trustdb/pull/210) |
-| 2026-07-20 12:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(i18n): 支持官网、桌面端与管理端多语言](https://github.com/wowtrust/trustdb/pull/209) |
-| 2026-07-20 12:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(i18n): 支持官网、桌面端与管理端多语言 (#209)](https://github.com/wowtrust/trustdb/commit/5bd5c0db4e67d31bd57566a417b58f6ff5c85806) |
-| 2026-07-20 12:39 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete native contribution lifecycle](https://github.com/binaricat/Netcatty/commit/c7d15a6f52f5cbc1a7ead8c381b2a6b52ceac640) |
-| 2026-07-20 12:39 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): complete native contribution lifecycle](https://github.com/DrOlu/Sensor/commit/c7d15a6f52f5cbc1a7ead8c381b2a6b52ceac640) |
 
-_Latest indexed activity: 2026-07-23 17:36 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 18:22 UTC · checked automatically every 10 minutes_

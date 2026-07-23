@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/76a942aa4ee767719f700a685dd04be08ea953fb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-76a942a-78d696b6e6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-76a942a-78d696b6e6-light.svg" />
+    <img alt="COMMIT: feat(nats): wire optional ingress into serve (#547)" src="./assets/activity-cards/commit-wowtrust-trustdb-76a942a-78d696b6e6-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/545">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-545-b513be8df8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-545-b513be8df8-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Wire optional NATS ingress into trustdb serve" src="./assets/activity-cards/issue-wowtrust-trustdb-545-b513be8df8-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/547">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-547-11ac610f52-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-547-11ac610f52-light.svg" />
+    <img alt="PR MERGED: feat(nats): wire optional ingress into serve" src="./assets/activity-cards/pr-wowtrust-trustdb-547-11ac610f52-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/40576837914ec633652474a03d4e9e00ea37ee20">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4057683-dc972f04db-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4057683-dc972f04db-light.svg" />
+    <img alt="COMMIT: feat(proofstore): bind namespaces to immutable crypto suites (#546)" src="./assets/activity-cards/commit-wowtrust-trustdb-4057683-dc972f04db-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/446">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-446-39f87fc51b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-446-39f87fc51b-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add immutable crypto-suite markers to every proofstore backend" src="./assets/activity-cards/issue-wowtrust-trustdb-446-39f87fc51b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/546">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-546-9df498cc6e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-546-9df498cc6e-light.svg" />
+    <img alt="PR MERGED: feat(proofstore): bind namespaces to immutable crypto suites" src="./assets/activity-cards/pr-wowtrust-trustdb-546-9df498cc6e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/571499dc4ea52e5a11f555b4a8e83fa30fad4b7f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-571499d-3209689830-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-571499d-3209689830-light.svg" />
+    <img alt="COMMIT: test(tikv): publish committed manifests atomically" src="./assets/activity-cards/commit-wowtrust-trustdb-571499d-3209689830-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/78a1d81876ae92972d684e3803231eaf39de274c">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-78a1d81-ee1585b5cb-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-78a1d81-ee1585b5cb-light.svg" />
     <img alt="COMMIT: feat(nats): persist bounded immutable outcomes (#544)" src="./assets/activity-cards/commit-wowtrust-trustdb-78a1d81-ee1585b5cb-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/542">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-542-6ae664352f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-542-6ae664352f-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Persist NATS outcomes in bounded JetStream streams" src="./assets/activity-cards/issue-wowtrust-trustdb-542-6ae664352f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/544">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-544-d8b5292e7b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-544-d8b5292e7b-light.svg" />
-    <img alt="PR MERGED: feat(nats): persist bounded immutable outcomes" src="./assets/activity-cards/pr-wowtrust-trustdb-544-d8b5292e7b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/ee538f8218b39d4073ed2e5ff9f6d8a1df21e135">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ee538f8-d3bb145607-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ee538f8-d3bb145607-light.svg" />
-    <img alt="COMMIT: refactor(crypto): add provider-neutral signing contracts (#543)" src="./assets/activity-cards/commit-wowtrust-trustdb-ee538f8-d3bb145607-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/445">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-445-6017675240-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-445-6017675240-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Refactor signing and verification behind provider-neutral crypto interfaces" src="./assets/activity-cards/issue-wowtrust-trustdb-445-6017675240-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/543">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-543-9a6717a018-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-543-9a6717a018-light.svg" />
-    <img alt="PR MERGED: refactor(crypto): add provider-neutral signing contracts" src="./assets/activity-cards/pr-wowtrust-trustdb-543-9a6717a018-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/41393f0125da75d693c843494f34b14273be6db4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-41393f0-4f18c65be9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-41393f0-4f18c65be9-light.svg" />
-    <img alt="COMMIT: feat(nats): process ingress deliveries safely (#541)" src="./assets/activity-cards/commit-wowtrust-trustdb-41393f0-4f18c65be9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/539">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-539-eaf8216a24-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-539-eaf8216a24-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Process JetStream ingress deliveries safely" src="./assets/activity-cards/issue-wowtrust-trustdb-539-eaf8216a24-light.svg" width="100%" />
   </picture>
 </a>
 <br />
