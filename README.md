@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/final-weave/issues/3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-3-57a4b67337-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-3-57a4b67337-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Bootstrap the Go project and architecture baseline" src="./assets/activity-cards/issue-wowtrust-final-weave-3-57a4b67337-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/final-weave/commit/58384cddb86b6bf4517128ade28a6f3edfa39d34">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-58384cd-26e8ed2187-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-58384cd-26e8ed2187-light.svg" />
+    <img alt="COMMIT: docs(project): establish the FinalWeave repository (#2)" src="./assets/activity-cards/commit-wowtrust-final-weave-58384cd-26e8ed2187-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/final-weave/issues/1">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-1-c11b815f34-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-1-c11b815f34-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Establish repository governance and documentation baseline" src="./assets/activity-cards/issue-wowtrust-final-weave-1-c11b815f34-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/final-weave/pull/2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-final-weave-2-5b085d3a5e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-final-weave-2-5b085d3a5e-light.svg" />
+    <img alt="PR MERGED: docs(project): establish the FinalWeave repository" src="./assets/activity-cards/pr-wowtrust-final-weave-2-5b085d3a5e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/6a1fb852a9a6437573407a43724a3e5ea16ac6c3">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-dark.svg" />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-light.svg" />
     <img alt="COMMIT: docs(onboarding): build an end-to-end user path (#493)" src="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/492">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-6e3f19d437-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-492-6e3f19d437-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Build an end-to-end onboarding path for TrustDB users" src="./assets/activity-cards/issue-wowtrust-trustdb-492-6e3f19d437-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/493">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-d888a52026-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-493-d888a52026-light.svg" />
-    <img alt="PR MERGED: docs(onboarding): build an end-to-end user path" src="./assets/activity-cards/pr-wowtrust-trustdb-493-d888a52026-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/4ed7a689d935f6fb1d866806a0f5947e23d40e3d">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4ed7a68-a7d6f1cd51-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4ed7a68-a7d6f1cd51-light.svg" />
-    <img alt="COMMIT: Refresh the website with a capability-first product narrative (#491)" src="./assets/activity-cards/commit-wowtrust-trustdb-4ed7a68-a7d6f1cd51-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/490">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-light.svg" />
-    <img alt="ISSUE CLOSED: Refresh the website with a capability-first product narrative" src="./assets/activity-cards/issue-wowtrust-trustdb-490-bb03292f10-light.svg" width="100%" />
   </picture>
 </a>
 <br />
