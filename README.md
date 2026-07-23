@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/pull/527">
+<a href="https://github.com/wowtrust/trustdb/issues/539">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-527-837fd20b92-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-527-837fd20b92-light.svg" />
-    <img alt="PR OPENED: feat(formats): define crypto agility boundaries" src="./assets/activity-cards/pr-wowtrust-trustdb-527-837fd20b92-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-539-bdf0b99efc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-539-bdf0b99efc-light.svg" />
+    <img alt="ISSUE OPENED: [Feature] Process JetStream ingress deliveries safely" src="./assets/activity-cards/issue-wowtrust-trustdb-539-bdf0b99efc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/526">
+<a href="https://github.com/wowtrust/trustdb/issues/535">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-526-560063a278-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-526-560063a278-light.svg" />
-    <img alt="PR OPENED: refactor(submission): share transport orchestration" src="./assets/activity-cards/pr-wowtrust-trustdb-526-560063a278-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-535-877eda302c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-535-877eda302c-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Bootstrap optional JetStream ingress resources" src="./assets/activity-cards/issue-wowtrust-trustdb-535-877eda302c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/30448810a960b43366b4d0dae4c197d5ab5cb78d">
+<a href="https://github.com/wowtrust/trustdb/commit/c6dcfb974480a7c727c2c2f670f29f3336adffa7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3044881-d77ac163ba-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3044881-d77ac163ba-light.svg" />
-    <img alt="COMMIT: feat(crypto): define immutable suite registry (#525)" src="./assets/activity-cards/commit-wowtrust-trustdb-3044881-d77ac163ba-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c6dcfb9-8b74d90100-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c6dcfb9-8b74d90100-light.svg" />
+    <img alt="COMMIT: feat(nats): bootstrap optional JetStream ingress (#538)" src="./assets/activity-cards/commit-wowtrust-trustdb-c6dcfb9-8b74d90100-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/441">
+<a href="https://github.com/wowtrust/trustdb/pull/538">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-441-4e1a86222e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-441-4e1a86222e-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Define TrustDB cryptographic suite identifiers and algorithm registry" src="./assets/activity-cards/issue-wowtrust-trustdb-441-4e1a86222e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-538-3ac3b88228-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-538-3ac3b88228-light.svg" />
+    <img alt="PR MERGED: feat(nats): bootstrap optional JetStream ingress" src="./assets/activity-cards/pr-wowtrust-trustdb-538-3ac3b88228-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/525">
+<a href="https://github.com/wowtrust/trustdb/commit/5af2061347df4a9de80314480510b99353f927ee">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-525-8cb5d4b08a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-525-8cb5d4b08a-light.svg" />
-    <img alt="PR MERGED: feat(crypto): define immutable suite registry" src="./assets/activity-cards/pr-wowtrust-trustdb-525-8cb5d4b08a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5af2061-fbafac5cad-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5af2061-fbafac5cad-light.svg" />
+    <img alt="COMMIT: feat(nats): bootstrap optional JetStream ingress" src="./assets/activity-cards/commit-wowtrust-trustdb-5af2061-fbafac5cad-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/524">
+<a href="https://github.com/wowtrust/trustdb/commit/cc88246e4beffe3328c50991509cd4e96d8388cf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-524-6a49528523-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-524-6a49528523-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Add shared submission orchestration for all transports" src="./assets/activity-cards/issue-wowtrust-trustdb-524-6a49528523-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-cc88246-a932c230bd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-cc88246-a932c230bd-light.svg" />
+    <img alt="COMMIT: feat(nats): bootstrap optional JetStream ingress" src="./assets/activity-cards/commit-wowtrust-trustdb-cc88246-a932c230bd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/523">
+<a href="https://github.com/wowtrust/trustdb/commit/474e2b3e1830f6c25db640ab3108beff3c5b6b2c">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-523-3f2a1a88f5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-523-3f2a1a88f5-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Wait for the benchmark server before collecting metrics" src="./assets/activity-cards/issue-wowtrust-trustdb-523-3f2a1a88f5-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-474e2b3-a84ff4e074-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-474e2b3-a84ff4e074-light.svg" />
+    <img alt="COMMIT: docs(compliance): publish national crypto threat model (#537)" src="./assets/activity-cards/commit-wowtrust-trustdb-474e2b3-a84ff4e074-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/binaricat/Netcatty/pull/2413">
+<a href="https://github.com/wowtrust/trustdb/issues/444">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-63ad21f38f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-63ad21f38f-light.svg" />
-    <img alt="PR OPENED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-63ad21f38f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-444-d2b5952d52-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-444-d2b5952d52-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Publish the national-cryptography threat model and compliance evidence map" src="./assets/activity-cards/issue-wowtrust-trustdb-444-d2b5952d52-light.svg" width="100%" />
   </picture>
 </a>
 <br />

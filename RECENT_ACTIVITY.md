@@ -2,13 +2,36 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 186 commits · 137 pull requests · 177 issues · newest first · maximum 500
+**500 entries** · 178 commits · 139 pull requests · 183 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-24 00:17 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Process JetStream ingress deliveries safely](https://github.com/wowtrust/trustdb/issues/539) |
+| 2026-07-24 00:14 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Bootstrap optional JetStream ingress resources](https://github.com/wowtrust/trustdb/issues/535) |
+| 2026-07-24 00:14 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): bootstrap optional JetStream ingress](https://github.com/wowtrust/trustdb/pull/538) |
+| 2026-07-24 00:14 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): bootstrap optional JetStream ingress (#538)](https://github.com/wowtrust/trustdb/commit/c6dcfb974480a7c727c2c2f670f29f3336adffa7) |
+| 2026-07-24 00:03 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish the national-cryptography threat model and compliance evidence map](https://github.com/wowtrust/trustdb/issues/444) |
+| 2026-07-24 00:03 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): publish national crypto threat model (#537)](https://github.com/wowtrust/trustdb/commit/474e2b3e1830f6c25db640ab3108beff3c5b6b2c) |
+| 2026-07-24 00:03 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): publish national crypto threat model](https://github.com/wowtrust/trustdb/pull/537) |
+| 2026-07-23 23:57 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): support external Go subprocess plugins over gRPC](https://github.com/wowtrust/trustdb/issues/536) |
+| 2026-07-23 23:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Select SM cryptography dependencies and publish conformance vectors](https://github.com/wowtrust/trustdb/issues/443) |
+| 2026-07-23 23:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): publish SM conformance baseline](https://github.com/wowtrust/trustdb/pull/534) |
+| 2026-07-23 23:45 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): publish SM conformance baseline (#534)](https://github.com/wowtrust/trustdb/commit/4d2e3a86306073bbd367e29bb95fe002b2cb10fe) |
+| 2026-07-23 23:23 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Define versioned NATS ingress message contracts](https://github.com/wowtrust/trustdb/issues/532) |
+| 2026-07-23 23:23 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): define ingress wire contracts](https://github.com/wowtrust/trustdb/pull/533) |
+| 2026-07-23 23:23 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): define ingress wire contracts (#533)](https://github.com/wowtrust/trustdb/commit/ab7b9d9c4e03eec287c5dc457303c1809647ac2d) |
+| 2026-07-23 23:15 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Adopt a clean-cut V2 format cutover](https://github.com/wowtrust/trustdb/issues/529) |
+| 2026-07-23 23:15 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): adopt clean-cut v2 migration (#531)](https://github.com/wowtrust/trustdb/commit/cdf8ed3181fef40bc9582165fcf6ec6a48b88609) |
+| 2026-07-23 23:15 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): adopt clean-cut v2 migration](https://github.com/wowtrust/trustdb/pull/531) |
+| 2026-07-23 23:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add opt-in NATS ingress configuration](https://github.com/wowtrust/trustdb/issues/528) |
+| 2026-07-23 23:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(config): add opt-in NATS ingress settings](https://github.com/wowtrust/trustdb/pull/530) |
+| 2026-07-23 23:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(config): add opt-in NATS ingress settings (#530)](https://github.com/wowtrust/trustdb/commit/93573d5791097dc5bef73b7431faa1deef41b9e4) |
+| 2026-07-23 23:02 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Version evidence, storage, backup, and API formats for cryptographic agility](https://github.com/wowtrust/trustdb/issues/442) |
+| 2026-07-23 23:02 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): define crypto agility boundaries](https://github.com/wowtrust/trustdb/pull/527) |
+| 2026-07-23 23:02 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): define crypto agility boundaries (#527)](https://github.com/wowtrust/trustdb/commit/9c60e8143318fef7bb73b4a3792837e3f7b86023) |
 | 2026-07-23 22:56 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add shared submission orchestration for all transports](https://github.com/wowtrust/trustdb/issues/524) |
 | 2026-07-23 22:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(submission): share transport orchestration](https://github.com/wowtrust/trustdb/pull/526) |
-| 2026-07-23 22:54 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): define crypto agility boundaries](https://github.com/wowtrust/trustdb/pull/527) |
+| 2026-07-23 22:56 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(submission): share transport orchestration (#526)](https://github.com/wowtrust/trustdb/commit/f9dda32764d4ede8d61397e7483a1761b6815845) |
 | 2026-07-23 22:38 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define TrustDB cryptographic suite identifiers and algorithm registry](https://github.com/wowtrust/trustdb/issues/441) |
 | 2026-07-23 22:38 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry](https://github.com/wowtrust/trustdb/pull/525) |
 | 2026-07-23 22:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry (#525)](https://github.com/wowtrust/trustdb/commit/30448810a960b43366b4d0dae4c197d5ab5cb78d) |
@@ -137,9 +160,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM3 hashing and RFC6962-SM3 Merkle trees](https://github.com/wowtrust/trustdb/issues/447) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable crypto-suite markers to every proofstore backend](https://github.com/wowtrust/trustdb/issues/446) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Refactor signing and verification behind provider-neutral crypto interfaces](https://github.com/wowtrust/trustdb/issues/445) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish the national-cryptography threat model and compliance evidence map](https://github.com/wowtrust/trustdb/issues/444) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Select SM cryptography dependencies and publish conformance vectors](https://github.com/wowtrust/trustdb/issues/443) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Version evidence, storage, backup, and API formats for cryptographic agility](https://github.com/wowtrust/trustdb/issues/442) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -486,25 +506,5 @@
 | 2026-07-20 04:01 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): 修复 Windows 自签名客户端打包 (#206)](https://github.com/wowtrust/trustdb/commit/3bef4a850a9566efe08d9b8e40099634092efd5f) |
 | 2026-07-20 04:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): 修复 Windows 自签名客户端打包](https://github.com/wowtrust/trustdb/pull/206) |
 | 2026-07-20 02:48 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [build(release): 发布 1.0.0-beta 全平台产物](https://github.com/wowtrust/trustdb/pull/205) |
-| 2026-07-20 02:48 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [build(release): 发布 1.0.0-beta 全平台产物 (#205)](https://github.com/wowtrust/trustdb/commit/3557fad8e6f8f7409b620aaa19fa49dbcdc41eea) |
-| 2026-07-20 01:17 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(ui): modernize client, admin, and website (#204)](https://github.com/wowtrust/trustdb/commit/0de1f78eb551320a9bc179225fd2a39fd0852e9a) |
-| 2026-07-20 01:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(ui): modernize client, admin, and website](https://github.com/wowtrust/trustdb/pull/204) |
-| 2026-07-20 00:44 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): enforce contribution ownership boundaries](https://github.com/binaricat/Netcatty/commit/c516930577a4d35da9da6ee22fecf6d310c0482c) |
-| 2026-07-20 00:44 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): enforce contribution ownership boundaries](https://github.com/DrOlu/Sensor/commit/c516930577a4d35da9da6ee22fecf6d310c0482c) |
-| 2026-07-19 23:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin-ui): harden contribution contexts and view state](https://github.com/binaricat/Netcatty/commit/e1b3e3ac42e0bf35e41505d1ad40125d429c1554) |
-| 2026-07-19 23:45 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin-ui): harden contribution contexts and view state](https://github.com/DrOlu/Sensor/commit/e1b3e3ac42e0bf35e41505d1ad40125d429c1554) |
-| 2026-07-19 22:56 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin-ui): harden contribution lifecycle state](https://github.com/binaricat/Netcatty/commit/74762e1ab0edc9e099f82ecc3761327bd15113d9) |
-| 2026-07-19 22:56 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin-ui): harden contribution lifecycle state](https://github.com/DrOlu/Sensor/commit/74762e1ab0edc9e099f82ecc3761327bd15113d9) |
-| 2026-07-19 22:11 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden contribution lifecycle and activation](https://github.com/binaricat/Netcatty/commit/6d0475bf3e9bbee107d78fcdcfa374e814d662f5) |
-| 2026-07-19 22:11 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden contribution lifecycle and activation](https://github.com/DrOlu/Sensor/commit/6d0475bf3e9bbee107d78fcdcfa374e814d662f5) |
-| 2026-07-19 21:59 | `PR CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/binaricat/Netcatty/pull/2325) |
-| 2026-07-19 21:27 | `PR CLOSED` | [ryan-wong-coder/Netcatty](https://github.com/ryan-wong-coder/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/ryan-wong-coder/Netcatty/pull/1) |
-| 2026-07-19 21:02 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete UI contribution lifecycle](https://github.com/binaricat/Netcatty/commit/71a12f2786bdd47be87f5406f20e13e0c16fcf52) |
-| 2026-07-19 21:02 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): complete UI contribution lifecycle](https://github.com/DrOlu/Sensor/commit/71a12f2786bdd47be87f5406f20e13e0c16fcf52) |
-| 2026-07-19 19:57 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/commit/e6e9ffdd7a385a554d7cad3ba0617884e2b1cd72) |
-| 2026-07-19 19:57 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add native UI contributions](https://github.com/DrOlu/Sensor/commit/e6e9ffdd7a385a554d7cad3ba0617884e2b1cd72) |
-| 2026-07-19 18:31 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission and security boundary](https://github.com/binaricat/Netcatty/pull/2315) |
-| 2026-07-19 18:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): align companion runtime selection](https://github.com/binaricat/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
-| 2026-07-19 18:07 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [docs(plugins): align companion runtime selection](https://github.com/DrOlu/Sensor/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
 
-_Latest indexed activity: 2026-07-23 14:56 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 16:17 UTC · checked automatically every 10 minutes_
