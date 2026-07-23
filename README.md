@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/issues/506">
+<a href="https://github.com/wowtrust/trustdb/issues/517">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-506-a38c015075-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-506-a38c015075-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add a legacy issue-template compatibility entry" src="./assets/activity-cards/issue-wowtrust-trustdb-506-a38c015075-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-light.svg" />
+    <img alt="ISSUE CLOSED: docs(website): sync organization registry and community entry points" src="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/27fd7a1525b37201e2865d1579c7c12ac1773ff3">
+<a href="https://github.com/wowtrust/trustdb/commit/5570541c1a3a4c0bed260fd08b94bb68786a9f6e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27fd7a1-4f3fd59c94-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27fd7a1-4f3fd59c94-light.svg" />
-    <img alt="COMMIT: docs(github): add legacy issue template entry (#507)" src="./assets/activity-cards/commit-wowtrust-trustdb-27fd7a1-4f3fd59c94-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-light.svg" />
+    <img alt="COMMIT: docs(website): sync registry and community links (#518)" src="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/507">
+<a href="https://github.com/wowtrust/trustdb/pull/518">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-507-b43c45b4b8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-507-b43c45b4b8-light.svg" />
-    <img alt="PR MERGED: docs(github): add legacy issue template entry" src="./assets/activity-cards/pr-wowtrust-trustdb-507-b43c45b4b8-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-518-ba8d891fe0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-518-ba8d891fe0-light.svg" />
+    <img alt="PR MERGED: docs(website): sync registry and community links" src="./assets/activity-cards/pr-wowtrust-trustdb-518-ba8d891fe0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/34f21e5dbb80c37c200cf1c548b2ca2bc00baba5">
+<a href="https://github.com/wowtrust/.github/commit/a01e2db8b3ee5be111318986dd8ece12ee6a2167">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-34f21e5-29f5547dbe-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-34f21e5-29f5547dbe-light.svg" />
-    <img alt="COMMIT: docs(community): add public adoption entry points (#505)" src="./assets/activity-cards/commit-wowtrust-trustdb-34f21e5-29f5547dbe-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-light.svg" />
+    <img alt="COMMIT: Update README.md" src="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/504">
+<a href="https://github.com/wowtrust/trustdb/commit/e503458c9ca71a4b5bd87e922993617a383d3a30">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-504-6aa62abbe6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-504-6aa62abbe6-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Complete the public community and adoption entry points" src="./assets/activity-cards/issue-wowtrust-trustdb-504-6aa62abbe6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e503458-f8a055da08-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e503458-f8a055da08-light.svg" />
+    <img alt="COMMIT: build(release): publish images to GHCR (#516)" src="./assets/activity-cards/commit-wowtrust-trustdb-e503458-f8a055da08-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/505">
+<a href="https://github.com/wowtrust/trustdb/issues/515">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-505-35b9a664c7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-505-35b9a664c7-light.svg" />
-    <img alt="PR MERGED: docs(community): add public adoption entry points" src="./assets/activity-cards/pr-wowtrust-trustdb-505-35b9a664c7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-515-cfeec3f98b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-515-cfeec3f98b-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Publish release containers under the WowTrust GHCR namespace" src="./assets/activity-cards/issue-wowtrust-trustdb-515-cfeec3f98b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/c691fa715bda007b069e306644c15657910259b3">
+<a href="https://github.com/wowtrust/trustdb/pull/516">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c691fa7-5ab97145f4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c691fa7-5ab97145f4-light.svg" />
-    <img alt="COMMIT: docs(community): add public adoption entry points" src="./assets/activity-cards/commit-wowtrust-trustdb-c691fa7-5ab97145f4-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-516-cd477f86f9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-516-cd477f86f9-light.svg" />
+    <img alt="PR MERGED: build(release): publish images to GHCR" src="./assets/activity-cards/pr-wowtrust-trustdb-516-cd477f86f9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/final-weave/commit/0b49f42d2345f56a5752985d6c8672ca15ca46a5">
+<a href="https://github.com/wowtrust/trustdb/commit/d96425b155a33066a058a8afa084b77cb0d56cc2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-0b49f42-b6b17cd7d7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-0b49f42-b6b17cd7d7-light.svg" />
-    <img alt="COMMIT: fix(api): make request ID helpers typed-nil safe (#18)" src="./assets/activity-cards/commit-wowtrust-final-weave-0b49f42-b6b17cd7d7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d96425b-5892ede235-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d96425b-5892ede235-light.svg" />
+    <img alt="COMMIT: docs(onboarding): clarify fit and community paths (#511)" src="./assets/activity-cards/commit-wowtrust-trustdb-d96425b-5892ede235-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -102,6 +102,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `02 // FIELD NOTES`
 
 <!-- DISCUSSIONS_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/discussions/513">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-513-a5b6e1d340-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-513-a5b6e1d340-light.svg" />
+    <img alt="Discussion: Integration requests: what should TrustDB connect with?" src="./assets/discussion-cards/discussion-wowtrust-trustdb-513-a5b6e1d340-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/discussions/512">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-512-8757c8ed53-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-512-8757c8ed53-light.svg" />
+    <img alt="Discussion: Welcome to the TrustDB community" src="./assets/discussion-cards/discussion-wowtrust-trustdb-512-8757c8ed53-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/binaricat/Netcatty/discussions/2261">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-binaricat-netcatty-2261-334203b2e3-dark.svg" />
