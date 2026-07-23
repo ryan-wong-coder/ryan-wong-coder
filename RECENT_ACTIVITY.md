@@ -2,18 +2,28 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 178 commits · 139 pull requests · 183 issues · newest first · maximum 500
+**500 entries** · 177 commits · 139 pull requests · 184 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-24 00:17 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Process JetStream ingress deliveries safely](https://github.com/wowtrust/trustdb/issues/539) |
+| 2026-07-24 01:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist NATS outcomes in bounded JetStream streams](https://github.com/wowtrust/trustdb/issues/542) |
+| 2026-07-24 01:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): persist bounded immutable outcomes](https://github.com/wowtrust/trustdb/pull/544) |
+| 2026-07-24 01:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): persist bounded immutable outcomes (#544)](https://github.com/wowtrust/trustdb/commit/78a1d81876ae92972d684e3803231eaf39de274c) |
+| 2026-07-24 01:08 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Refactor signing and verification behind provider-neutral crypto interfaces](https://github.com/wowtrust/trustdb/issues/445) |
+| 2026-07-24 01:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(crypto): add provider-neutral signing contracts](https://github.com/wowtrust/trustdb/pull/543) |
+| 2026-07-24 01:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(crypto): add provider-neutral signing contracts (#543)](https://github.com/wowtrust/trustdb/commit/ee538f8218b39d4073ed2e5ff9f6d8a1df21e135) |
+| 2026-07-24 00:46 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Process JetStream ingress deliveries safely](https://github.com/wowtrust/trustdb/issues/539) |
+| 2026-07-24 00:46 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): process ingress deliveries safely](https://github.com/wowtrust/trustdb/pull/541) |
+| 2026-07-24 00:46 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): process ingress deliveries safely (#541)](https://github.com/wowtrust/trustdb/commit/41393f0125da75d693c843494f34b14273be6db4) |
+| 2026-07-24 00:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): support external Go subprocess plugins over gRPC](https://github.com/wowtrust/trustdb/issues/536) |
+| 2026-07-24 00:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): add subprocess gRPC plugins (#540)](https://github.com/wowtrust/trustdb/commit/932040375d7a6b6c551f733f7213fd5cb1f16dd2) |
+| 2026-07-24 00:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): add subprocess gRPC plugins](https://github.com/wowtrust/trustdb/pull/540) |
 | 2026-07-24 00:14 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Bootstrap optional JetStream ingress resources](https://github.com/wowtrust/trustdb/issues/535) |
 | 2026-07-24 00:14 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): bootstrap optional JetStream ingress](https://github.com/wowtrust/trustdb/pull/538) |
 | 2026-07-24 00:14 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): bootstrap optional JetStream ingress (#538)](https://github.com/wowtrust/trustdb/commit/c6dcfb974480a7c727c2c2f670f29f3336adffa7) |
 | 2026-07-24 00:03 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish the national-cryptography threat model and compliance evidence map](https://github.com/wowtrust/trustdb/issues/444) |
 | 2026-07-24 00:03 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): publish national crypto threat model (#537)](https://github.com/wowtrust/trustdb/commit/474e2b3e1830f6c25db640ab3108beff3c5b6b2c) |
 | 2026-07-24 00:03 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): publish national crypto threat model](https://github.com/wowtrust/trustdb/pull/537) |
-| 2026-07-23 23:57 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): support external Go subprocess plugins over gRPC](https://github.com/wowtrust/trustdb/issues/536) |
 | 2026-07-23 23:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Select SM cryptography dependencies and publish conformance vectors](https://github.com/wowtrust/trustdb/issues/443) |
 | 2026-07-23 23:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): publish SM conformance baseline](https://github.com/wowtrust/trustdb/pull/534) |
 | 2026-07-23 23:45 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): publish SM conformance baseline (#534)](https://github.com/wowtrust/trustdb/commit/4d2e3a86306073bbd367e29bb95fe002b2cb10fe) |
@@ -159,7 +169,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add canonical SM2-SM3 signing and verification](https://github.com/wowtrust/trustdb/issues/448) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM3 hashing and RFC6962-SM3 Merkle trees](https://github.com/wowtrust/trustdb/issues/447) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable crypto-suite markers to every proofstore backend](https://github.com/wowtrust/trustdb/issues/446) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Refactor signing and verification behind provider-neutral crypto interfaces](https://github.com/wowtrust/trustdb/issues/445) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -497,14 +506,5 @@
 | 2026-07-20 12:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(i18n): 支持官网、桌面端与管理端多语言 (#209)](https://github.com/wowtrust/trustdb/commit/5bd5c0db4e67d31bd57566a417b58f6ff5c85806) |
 | 2026-07-20 12:39 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete native contribution lifecycle](https://github.com/binaricat/Netcatty/commit/c7d15a6f52f5cbc1a7ead8c381b2a6b52ceac640) |
 | 2026-07-20 12:39 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): complete native contribution lifecycle](https://github.com/DrOlu/Sensor/commit/c7d15a6f52f5cbc1a7ead8c381b2a6b52ceac640) |
-| 2026-07-20 11:52 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete contribution lifecycle and native UI](https://github.com/binaricat/Netcatty/commit/50b7c315fdb879279436dfffba63c5d79575b1eb) |
-| 2026-07-20 11:52 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): complete contribution lifecycle and native UI](https://github.com/DrOlu/Sensor/commit/50b7c315fdb879279436dfffba63c5d79575b1eb) |
-| 2026-07-20 09:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs: 官网入口改为正式域名 (#208)](https://github.com/wowtrust/trustdb/commit/5186d4d22829b90f6346ea2afd7306870ab0f82d) |
-| 2026-07-20 09:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs: 官网入口改为正式域名](https://github.com/wowtrust/trustdb/pull/208) |
-| 2026-07-20 08:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(website): 发布产物下载与安装文档](https://github.com/wowtrust/trustdb/pull/207) |
-| 2026-07-20 08:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(website): 发布产物下载与安装文档 (#207)](https://github.com/wowtrust/trustdb/commit/7bb6dc40ad77592625dc46113f432260d48a9cc5) |
-| 2026-07-20 04:01 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): 修复 Windows 自签名客户端打包 (#206)](https://github.com/wowtrust/trustdb/commit/3bef4a850a9566efe08d9b8e40099634092efd5f) |
-| 2026-07-20 04:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): 修复 Windows 自签名客户端打包](https://github.com/wowtrust/trustdb/pull/206) |
-| 2026-07-20 02:48 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [build(release): 发布 1.0.0-beta 全平台产物](https://github.com/wowtrust/trustdb/pull/205) |
 
-_Latest indexed activity: 2026-07-23 16:17 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 17:36 UTC · checked automatically every 10 minutes_
