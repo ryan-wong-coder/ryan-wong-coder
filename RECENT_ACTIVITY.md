@@ -2,11 +2,49 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 230 commits · 120 pull requests · 150 issues · newest first · maximum 500
+**500 entries** · 203 commits · 130 pull requests · 167 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-23 08:50 | `ISSUE OPEN` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Bootstrap the Go project and architecture baseline](https://github.com/wowtrust/final-weave/issues/3) |
+| 2026-07-23 12:14 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a legacy issue-template compatibility entry](https://github.com/wowtrust/trustdb/issues/506) |
+| 2026-07-23 12:14 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(github): add legacy issue template entry (#507)](https://github.com/wowtrust/trustdb/commit/27fd7a1525b37201e2865d1579c7c12ac1773ff3) |
+| 2026-07-23 12:14 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(github): add legacy issue template entry](https://github.com/wowtrust/trustdb/pull/507) |
+| 2026-07-23 12:04 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Complete the public community and adoption entry points](https://github.com/wowtrust/trustdb/issues/504) |
+| 2026-07-23 12:04 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(community): add public adoption entry points](https://github.com/wowtrust/trustdb/pull/505) |
+| 2026-07-23 12:04 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(community): add public adoption entry points (#505)](https://github.com/wowtrust/trustdb/commit/34f21e5dbb80c37c200cf1c548b2ca2bc00baba5) |
+| 2026-07-23 11:40 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Bug\] Make request ID helpers typed-nil safe](https://github.com/wowtrust/final-weave/issues/17) |
+| 2026-07-23 11:40 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): make request ID helpers typed-nil safe (#18)](https://github.com/wowtrust/final-weave/commit/0b49f42d2345f56a5752985d6c8672ca15ca46a5) |
+| 2026-07-23 11:40 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): make request ID helpers typed-nil safe](https://github.com/wowtrust/final-weave/pull/18) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a PowerShell tamper-detection demo for Windows](https://github.com/wowtrust/trustdb/issues/503) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a concise cryptographic and storage glossary](https://github.com/wowtrust/trustdb/issues/500) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a community-tested platform matrix](https://github.com/wowtrust/trustdb/issues/502) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add an integration request Discussion template](https://github.com/wowtrust/trustdb/issues/501) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a GitHub Actions release-artifact proof example](https://github.com/wowtrust/trustdb/issues/496) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a neutral TrustDB, immudb, Rekor, and Trillian comparison](https://github.com/wowtrust/trustdb/issues/498) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add automated Markdown link checking](https://github.com/wowtrust/trustdb/issues/497) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document a MinIO or S3-compatible data-handoff example](https://github.com/wowtrust/trustdb/issues/499) |
+| 2026-07-23 11:34 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Bug\] Reject typed nil transport contexts](https://github.com/wowtrust/final-weave/issues/15) |
+| 2026-07-23 11:34 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): reject typed nil transport contexts](https://github.com/wowtrust/final-weave/pull/16) |
+| 2026-07-23 11:34 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): reject typed nil transport contexts (#16)](https://github.com/wowtrust/final-weave/commit/fda32a92f7a48e11b8d8bfbbee52348c211e2d80) |
+| 2026-07-23 11:26 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Bug\] Make concurrent HTTP shutdown share the terminal result](https://github.com/wowtrust/final-weave/issues/13) |
+| 2026-07-23 11:26 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): share concurrent HTTP shutdown result (#14)](https://github.com/wowtrust/final-weave/commit/a8305b4ace6f194d2998117e615c49ae1d830a56) |
+| 2026-07-23 11:26 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): share concurrent HTTP shutdown result](https://github.com/wowtrust/final-weave/pull/14) |
+| 2026-07-23 11:17 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Add the bounded gRPC operational adapter](https://github.com/wowtrust/final-weave/issues/11) |
+| 2026-07-23 11:17 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(api): add bounded gRPC operational adapter](https://github.com/wowtrust/final-weave/pull/12) |
+| 2026-07-23 11:17 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(api): add bounded gRPC operational adapter (#12)](https://github.com/wowtrust/final-weave/commit/782098a8182efd2cd6c295dade615136877a9bcc) |
+| 2026-07-23 10:33 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Bug\] Bound Fiber health probes and synchronize shutdown](https://github.com/wowtrust/final-weave/issues/9) |
+| 2026-07-23 10:33 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): bound Fiber probes and synchronize shutdown](https://github.com/wowtrust/final-weave/commit/0c5697cca8b87b388e0cf3d793d3f34f85f6286f) |
+| 2026-07-23 10:33 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): bound Fiber probes and synchronize shutdown](https://github.com/wowtrust/final-weave/pull/10) |
+| 2026-07-23 10:09 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Add the Fiber operational HTTP adapter](https://github.com/wowtrust/final-weave/issues/7) |
+| 2026-07-23 10:09 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(api): add Fiber operational HTTP adapter](https://github.com/wowtrust/final-weave/pull/8) |
+| 2026-07-23 10:09 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(api): add Fiber operational HTTP adapter (#8)](https://github.com/wowtrust/final-weave/commit/0bef52e8ba9f369e0ebcb4812c847966688ae1e8) |
+| 2026-07-23 09:43 | `PR CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add privileged terminal data pipeline](https://github.com/binaricat/Netcatty/pull/2357) |
+| 2026-07-23 09:41 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Add the structured logging foundation](https://github.com/wowtrust/final-weave/issues/5) |
+| 2026-07-23 09:41 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(observability): add structured logging foundation](https://github.com/wowtrust/final-weave/pull/6) |
+| 2026-07-23 09:41 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(observability): add structured logging foundation (#6)](https://github.com/wowtrust/final-weave/commit/fa121fbae7e69231846e16d8801625df3f281452) |
+| 2026-07-23 09:18 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Bootstrap the Go project and architecture baseline](https://github.com/wowtrust/final-weave/issues/3) |
+| 2026-07-23 09:18 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(core): bootstrap the FinalWeave Go project (#4)](https://github.com/wowtrust/final-weave/commit/f54e2b043248ae32ea5fa79c54d3e8bdd2ccf98f) |
+| 2026-07-23 09:18 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(core): bootstrap the FinalWeave Go project](https://github.com/wowtrust/final-weave/pull/4) |
 | 2026-07-23 08:26 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Task\] Establish repository governance and documentation baseline](https://github.com/wowtrust/final-weave/issues/1) |
 | 2026-07-23 08:26 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [docs(project): establish the FinalWeave repository](https://github.com/wowtrust/final-weave/pull/2) |
 | 2026-07-23 08:26 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [docs(project): establish the FinalWeave repository (#2)](https://github.com/wowtrust/final-weave/commit/58384cddb86b6bf4517128ade28a6f3edfa39d34) |
@@ -205,7 +243,6 @@
 | 2026-07-21 13:29 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Bound LocalStore record page reads](https://github.com/wowtrust/trustdb/issues/322) |
 | 2026-07-21 13:29 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local record page reads (#323)](https://github.com/wowtrust/trustdb/commit/52b9d4870680a7ed441ffc59a02a4a9ff783d0fe) |
 | 2026-07-21 13:29 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local record page reads](https://github.com/wowtrust/trustdb/pull/323) |
-| 2026-07-21 13:29 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add privileged terminal data pipeline](https://github.com/binaricat/Netcatty/pull/2357) |
 | 2026-07-21 13:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Stream bounded SDK JSON responses](https://github.com/wowtrust/trustdb/issues/321) |
 | 2026-07-21 13:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Remove TiKV bundle fallback reads](https://github.com/wowtrust/trustdb/issues/319) |
 | 2026-07-21 13:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): remove bundle fallback reads (#320)](https://github.com/wowtrust/trustdb/commit/e934e1d366c66e864a6d25b25374dcba3cfb1f0c) |
@@ -469,42 +506,5 @@
 | 2026-07-18 10:15 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix proof level parsing and clarify comments](https://github.com/wowtrust/trustdb/pull/203) |
 | 2026-07-18 10:13 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(sync): apply cloud settings on initial merge](https://github.com/binaricat/Netcatty/commit/7e572eb64970fcf018bdb3c4652e071e9b70c6c5) |
 | 2026-07-18 10:13 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(sync): apply cloud settings on initial merge](https://github.com/DrOlu/Sensor/commit/7e572eb64970fcf018bdb3c4652e071e9b70c6c5) |
-| 2026-07-18 00:37 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate inline stream chunk bytes](https://github.com/binaricat/Netcatty/commit/ea7ab22e0c4ebf33be3388084fe2a24c59d1cf70) |
-| 2026-07-18 00:37 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): validate inline stream chunk bytes](https://github.com/DrOlu/Sensor/commit/ea7ab22e0c4ebf33be3388084fe2a24c59d1cf70) |
-| 2026-07-17 23:49 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate normalized package paths](https://github.com/binaricat/Netcatty/commit/24e4a548b2df2bbc47d86bdaabbf3d50f9495a1b) |
-| 2026-07-17 23:49 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): validate normalized package paths](https://github.com/DrOlu/Sensor/commit/24e4a548b2df2bbc47d86bdaabbf3d50f9495a1b) |
-| 2026-07-17 23:31 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [test(plugins): lock archive inflation guard](https://github.com/binaricat/Netcatty/commit/5b5f6cc79df82fbc2606bee2f3a954b291d8faeb) |
-| 2026-07-17 23:31 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [test(plugins): lock archive inflation guard](https://github.com/DrOlu/Sensor/commit/5b5f6cc79df82fbc2606bee2f3a954b291d8faeb) |
-| 2026-07-17 23:12 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate complete stream frames](https://github.com/binaricat/Netcatty/commit/ca1eb4dd4121e9d0153d5a1a06044b057d1fd126) |
-| 2026-07-17 23:12 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): validate complete stream frames](https://github.com/DrOlu/Sensor/commit/ca1eb4dd4121e9d0153d5a1a06044b057d1fd126) |
-| 2026-07-17 22:44 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate stream credit limits](https://github.com/binaricat/Netcatty/commit/f9c3200aa4d171cfce941cee7a9ce6de623d2841) |
-| 2026-07-17 22:44 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): validate stream credit limits](https://github.com/DrOlu/Sensor/commit/f9c3200aa4d171cfce941cee7a9ce6de623d2841) |
-| 2026-07-17 22:24 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): inspect validated stdio frames](https://github.com/binaricat/Netcatty/commit/4d5e489f19d1ca63c5bd2a2af79d25efcf15dd96) |
-| 2026-07-17 22:24 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): inspect validated stdio frames](https://github.com/DrOlu/Sensor/commit/4d5e489f19d1ca63c5bd2a2af79d25efcf15dd96) |
-| 2026-07-17 21:58 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound wire protocol integers](https://github.com/binaricat/Netcatty/commit/5c8e932060f6a4ccc1d45c8007eec919424c59b3) |
-| 2026-07-17 21:58 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): bound wire protocol integers](https://github.com/DrOlu/Sensor/commit/5c8e932060f6a4ccc1d45c8007eec919424c59b3) |
-| 2026-07-17 21:32 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [chore(ci): retrigger checks](https://github.com/binaricat/Netcatty/commit/47e6f1ca36a812bfb9c4c80849d2f81e9ab2ab4c) |
-| 2026-07-17 21:32 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [chore(ci): retrigger checks](https://github.com/DrOlu/Sensor/commit/47e6f1ca36a812bfb9c4c80849d2f81e9ab2ab4c) |
-| 2026-07-17 20:41 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): fix example CLI commands](https://github.com/binaricat/Netcatty/commit/6da543aaecf88a9e8d218d19215c883f2b8f09e7) |
-| 2026-07-17 20:41 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [docs(plugins): fix example CLI commands](https://github.com/DrOlu/Sensor/commit/6da543aaecf88a9e8d218d19215c883f2b8f09e7) |
-| 2026-07-17 20:23 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bind validated package sources](https://github.com/binaricat/Netcatty/commit/0a7bd1a45e27dd284792ba0b2863e2f680adc969) |
-| 2026-07-17 20:23 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): bind validated package sources](https://github.com/DrOlu/Sensor/commit/0a7bd1a45e27dd284792ba0b2863e2f680adc969) |
-| 2026-07-17 20:10 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): expose opaque secret references](https://github.com/binaricat/Netcatty/commit/f980fd9433c0a18a0785967b21089e9d2d9bf0f6) |
-| 2026-07-17 20:10 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): expose opaque secret references](https://github.com/DrOlu/Sensor/commit/f980fd9433c0a18a0785967b21089e9d2d9bf0f6) |
-| 2026-07-17 20:10 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound packaged manifest reads](https://github.com/binaricat/Netcatty/commit/83b786373de0b8cb51b824c2674404c2f9a55eb8) |
-| 2026-07-17 20:10 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): bound packaged manifest reads](https://github.com/DrOlu/Sensor/commit/83b786373de0b8cb51b824c2674404c2f9a55eb8) |
-| 2026-07-17 19:47 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): cap manifest reads before loading](https://github.com/binaricat/Netcatty/commit/3120045cba67785428fdbc7613d30d87725ef94b) |
-| 2026-07-17 19:47 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): cap manifest reads before loading](https://github.com/DrOlu/Sensor/commit/3120045cba67785428fdbc7613d30d87725ef94b) |
-| 2026-07-17 19:46 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): keep stdio framing linear](https://github.com/binaricat/Netcatty/commit/5c1d8e4f41c2b70bf4f37c749f3d3ff40e1a4445) |
-| 2026-07-17 19:46 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): keep stdio framing linear](https://github.com/DrOlu/Sensor/commit/5c1d8e4f41c2b70bf4f37c749f3d3ff40e1a4445) |
-| 2026-07-17 19:26 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound protocol JSON complexity](https://github.com/binaricat/Netcatty/commit/e9a3ab593660d155a04a51cdf6d813432d86e1a9) |
-| 2026-07-17 19:26 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): bound protocol JSON complexity](https://github.com/DrOlu/Sensor/commit/e9a3ab593660d155a04a51cdf6d813432d86e1a9) |
-| 2026-07-17 19:05 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden package archive identity](https://github.com/binaricat/Netcatty/commit/7d0a3100787804459f8af612a22c26049d518d07) |
-| 2026-07-17 19:05 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden package archive identity](https://github.com/DrOlu/Sensor/commit/7d0a3100787804459f8af612a22c26049d518d07) |
-| 2026-07-17 18:53 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): validate JSON framing values](https://github.com/binaricat/Netcatty/commit/6a609554a9604e5631c6c7962df3d232fd547b70) |
-| 2026-07-17 18:53 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): validate JSON framing values](https://github.com/DrOlu/Sensor/commit/6a609554a9604e5631c6c7962df3d232fd547b70) |
-| 2026-07-17 18:42 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden RPC and transfer validation](https://github.com/binaricat/Netcatty/commit/9a4f00049387bd813c26128212e0c494b49fc534) |
-| 2026-07-17 18:42 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden RPC and transfer validation](https://github.com/DrOlu/Sensor/commit/9a4f00049387bd813c26128212e0c494b49fc534) |
-| 2026-07-17 18:28 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden stream transport boundaries](https://github.com/binaricat/Netcatty/commit/fb541414df538ecd5c1261a3ab0bea3babb701d7) |
 
-_Latest indexed activity: 2026-07-23 00:50 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 04:14 UTC · checked automatically every 10 minutes_

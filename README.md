@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/final-weave/issues/3">
+<a href="https://github.com/wowtrust/trustdb/issues/506">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-3-57a4b67337-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-3-57a4b67337-light.svg" />
-    <img alt="ISSUE OPENED: [Feature] Bootstrap the Go project and architecture baseline" src="./assets/activity-cards/issue-wowtrust-final-weave-3-57a4b67337-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-506-a38c015075-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-506-a38c015075-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Add a legacy issue-template compatibility entry" src="./assets/activity-cards/issue-wowtrust-trustdb-506-a38c015075-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/final-weave/commit/58384cddb86b6bf4517128ade28a6f3edfa39d34">
+<a href="https://github.com/wowtrust/trustdb/commit/27fd7a1525b37201e2865d1579c7c12ac1773ff3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-58384cd-26e8ed2187-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-58384cd-26e8ed2187-light.svg" />
-    <img alt="COMMIT: docs(project): establish the FinalWeave repository (#2)" src="./assets/activity-cards/commit-wowtrust-final-weave-58384cd-26e8ed2187-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27fd7a1-4f3fd59c94-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27fd7a1-4f3fd59c94-light.svg" />
+    <img alt="COMMIT: docs(github): add legacy issue template entry (#507)" src="./assets/activity-cards/commit-wowtrust-trustdb-27fd7a1-4f3fd59c94-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/final-weave/issues/1">
+<a href="https://github.com/wowtrust/trustdb/pull/507">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-1-c11b815f34-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-final-weave-1-c11b815f34-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Establish repository governance and documentation baseline" src="./assets/activity-cards/issue-wowtrust-final-weave-1-c11b815f34-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-507-b43c45b4b8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-507-b43c45b4b8-light.svg" />
+    <img alt="PR MERGED: docs(github): add legacy issue template entry" src="./assets/activity-cards/pr-wowtrust-trustdb-507-b43c45b4b8-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/final-weave/pull/2">
+<a href="https://github.com/wowtrust/trustdb/commit/34f21e5dbb80c37c200cf1c548b2ca2bc00baba5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-final-weave-2-5b085d3a5e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-final-weave-2-5b085d3a5e-light.svg" />
-    <img alt="PR MERGED: docs(project): establish the FinalWeave repository" src="./assets/activity-cards/pr-wowtrust-final-weave-2-5b085d3a5e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-34f21e5-29f5547dbe-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-34f21e5-29f5547dbe-light.svg" />
+    <img alt="COMMIT: docs(community): add public adoption entry points (#505)" src="./assets/activity-cards/commit-wowtrust-trustdb-34f21e5-29f5547dbe-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/6a1fb852a9a6437573407a43724a3e5ea16ac6c3">
+<a href="https://github.com/wowtrust/trustdb/issues/504">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-light.svg" />
-    <img alt="COMMIT: fix(ci): bound website deployment verification (#495)" src="./assets/activity-cards/commit-wowtrust-trustdb-6a1fb85-f340139321-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-504-6aa62abbe6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-504-6aa62abbe6-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Complete the public community and adoption entry points" src="./assets/activity-cards/issue-wowtrust-trustdb-504-6aa62abbe6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/494">
+<a href="https://github.com/wowtrust/trustdb/pull/505">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-494-026a543b03-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-494-026a543b03-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Bound production website verification requests" src="./assets/activity-cards/issue-wowtrust-trustdb-494-026a543b03-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-505-35b9a664c7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-505-35b9a664c7-light.svg" />
+    <img alt="PR MERGED: docs(community): add public adoption entry points" src="./assets/activity-cards/pr-wowtrust-trustdb-505-35b9a664c7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/495">
+<a href="https://github.com/wowtrust/trustdb/commit/c691fa715bda007b069e306644c15657910259b3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-495-45a6686c96-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-495-45a6686c96-light.svg" />
-    <img alt="PR MERGED: fix(ci): bound website deployment verification" src="./assets/activity-cards/pr-wowtrust-trustdb-495-45a6686c96-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c691fa7-5ab97145f4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c691fa7-5ab97145f4-light.svg" />
+    <img alt="COMMIT: docs(community): add public adoption entry points" src="./assets/activity-cards/commit-wowtrust-trustdb-c691fa7-5ab97145f4-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/686136f3455e24f8dceb4675cedfd042a4cadb46">
+<a href="https://github.com/wowtrust/final-weave/commit/0b49f42d2345f56a5752985d6c8672ca15ca46a5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-light.svg" />
-    <img alt="COMMIT: docs(onboarding): build an end-to-end user path (#493)" src="./assets/activity-cards/commit-wowtrust-trustdb-686136f-0bf5ce90d7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-0b49f42-b6b17cd7d7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-final-weave-0b49f42-b6b17cd7d7-light.svg" />
+    <img alt="COMMIT: fix(api): make request ID helpers typed-nil safe (#18)" src="./assets/activity-cards/commit-wowtrust-final-weave-0b49f42-b6b17cd7d7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
