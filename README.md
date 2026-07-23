@@ -21,11 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/7271d49f83354a9cbdf833bb2be415f497687a87">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-light.svg" />
+    <img alt="COMMIT: docs(performance): publish current assessment (#522)" src="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/521">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-59d6eb9754-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-59d6eb9754-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Publish 2026-07-23 sustained-stream performance assessment" src="./assets/activity-cards/issue-wowtrust-trustdb-521-59d6eb9754-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-c3cfc1d2d1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-c3cfc1d2d1-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Publish 2026-07-23 dual-host performance assessment" src="./assets/activity-cards/issue-wowtrust-trustdb-521-c3cfc1d2d1-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/522">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-522-b811b39900-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-522-b811b39900-light.svg" />
+    <img alt="PR MERGED: docs(performance): publish current assessment" src="./assets/activity-cards/pr-wowtrust-trustdb-522-b811b39900-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -71,24 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-light.svg" />
     <img alt="COMMIT: docs(website): sync registry and community links (#518)" src="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/518">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-518-ba8d891fe0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-518-ba8d891fe0-light.svg" />
-    <img alt="PR MERGED: docs(website): sync registry and community links" src="./assets/activity-cards/pr-wowtrust-trustdb-518-ba8d891fe0-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/.github/commit/a01e2db8b3ee5be111318986dd8ece12ee6a2167">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-light.svg" />
-    <img alt="COMMIT: Update README.md" src="./assets/activity-cards/commit-wowtrust-github-a01e2db-4db41e0f59-light.svg" width="100%" />
   </picture>
 </a>
 <br />
