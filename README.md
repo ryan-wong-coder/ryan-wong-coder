@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/pull/527">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-527-837fd20b92-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-527-837fd20b92-light.svg" />
+    <img alt="PR OPENED: feat(formats): define crypto agility boundaries" src="./assets/activity-cards/pr-wowtrust-trustdb-527-837fd20b92-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/526">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-526-560063a278-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-526-560063a278-light.svg" />
+    <img alt="PR OPENED: refactor(submission): share transport orchestration" src="./assets/activity-cards/pr-wowtrust-trustdb-526-560063a278-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/30448810a960b43366b4d0dae4c197d5ab5cb78d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3044881-d77ac163ba-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3044881-d77ac163ba-light.svg" />
+    <img alt="COMMIT: feat(crypto): define immutable suite registry (#525)" src="./assets/activity-cards/commit-wowtrust-trustdb-3044881-d77ac163ba-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/441">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-441-4e1a86222e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-441-4e1a86222e-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Define TrustDB cryptographic suite identifiers and algorithm registry" src="./assets/activity-cards/issue-wowtrust-trustdb-441-4e1a86222e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/525">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-525-8cb5d4b08a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-525-8cb5d4b08a-light.svg" />
+    <img alt="PR MERGED: feat(crypto): define immutable suite registry" src="./assets/activity-cards/pr-wowtrust-trustdb-525-8cb5d4b08a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/524">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-524-6a49528523-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-524-6a49528523-light.svg" />
+    <img alt="ISSUE OPENED: [Task] Add shared submission orchestration for all transports" src="./assets/activity-cards/issue-wowtrust-trustdb-524-6a49528523-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/523">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-523-3f2a1a88f5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-523-3f2a1a88f5-light.svg" />
+    <img alt="ISSUE CLOSED: [Bug] Wait for the benchmark server before collecting metrics" src="./assets/activity-cards/issue-wowtrust-trustdb-523-3f2a1a88f5-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/binaricat/Netcatty/pull/2413">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8ce5a49e05-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8ce5a49e05-light.svg" />
-    <img alt="PR OPENED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-8ce5a49e05-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/7271d49f83354a9cbdf833bb2be415f497687a87">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-light.svg" />
-    <img alt="COMMIT: docs(performance): publish current assessment (#522)" src="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/521">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-c3cfc1d2d1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-521-c3cfc1d2d1-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Publish 2026-07-23 dual-host performance assessment" src="./assets/activity-cards/issue-wowtrust-trustdb-521-c3cfc1d2d1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/522">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-522-b811b39900-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-522-b811b39900-light.svg" />
-    <img alt="PR MERGED: docs(performance): publish current assessment" src="./assets/activity-cards/pr-wowtrust-trustdb-522-b811b39900-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/519">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-519-6790b421c9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-519-6790b421c9-light.svg" />
-    <img alt="ISSUE CLOSED: [Bug] Apply blocking backpressure when the batch queue is full" src="./assets/activity-cards/issue-wowtrust-trustdb-519-6790b421c9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/f29addd64e5c77df2a51c7a337a2a6649e1dd70d">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f29addd-4f30fea2e4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f29addd-4f30fea2e4-light.svg" />
-    <img alt="COMMIT: fix(batch): apply blocking backpressure to full queues (#520)" src="./assets/activity-cards/commit-wowtrust-trustdb-f29addd-4f30fea2e4-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/520">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-520-1b2ee5c998-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-520-1b2ee5c998-light.svg" />
-    <img alt="PR MERGED: fix(batch): apply blocking backpressure to full queues" src="./assets/activity-cards/pr-wowtrust-trustdb-520-1b2ee5c998-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/517">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-light.svg" />
-    <img alt="ISSUE CLOSED: docs(website): sync organization registry and community entry points" src="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-63ad21f38f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-63ad21f38f-light.svg" />
+    <img alt="PR OPENED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-63ad21f38f-light.svg" width="100%" />
   </picture>
 </a>
 <br />

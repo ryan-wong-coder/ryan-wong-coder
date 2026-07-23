@@ -2,10 +2,17 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 191 commits · 134 pull requests · 175 issues · newest first · maximum 500
+**500 entries** · 186 commits · 137 pull requests · 177 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-23 22:56 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add shared submission orchestration for all transports](https://github.com/wowtrust/trustdb/issues/524) |
+| 2026-07-23 22:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(submission): share transport orchestration](https://github.com/wowtrust/trustdb/pull/526) |
+| 2026-07-23 22:54 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): define crypto agility boundaries](https://github.com/wowtrust/trustdb/pull/527) |
+| 2026-07-23 22:38 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define TrustDB cryptographic suite identifiers and algorithm registry](https://github.com/wowtrust/trustdb/issues/441) |
+| 2026-07-23 22:38 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry](https://github.com/wowtrust/trustdb/pull/525) |
+| 2026-07-23 22:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry (#525)](https://github.com/wowtrust/trustdb/commit/30448810a960b43366b4d0dae4c197d5ab5cb78d) |
+| 2026-07-23 22:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Wait for the benchmark server before collecting metrics](https://github.com/wowtrust/trustdb/issues/523) |
 | 2026-07-23 19:54 | `PR OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add connection, authentication, and importer providers](https://github.com/binaricat/Netcatty/pull/2413) |
 | 2026-07-23 18:19 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish 2026-07-23 dual-host performance assessment](https://github.com/wowtrust/trustdb/issues/521) |
 | 2026-07-23 18:19 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(performance): publish current assessment (#522)](https://github.com/wowtrust/trustdb/commit/7271d49f83354a9cbdf833bb2be415f497687a87) |
@@ -133,7 +140,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish the national-cryptography threat model and compliance evidence map](https://github.com/wowtrust/trustdb/issues/444) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Select SM cryptography dependencies and publish conformance vectors](https://github.com/wowtrust/trustdb/issues/443) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Version evidence, storage, backup, and API formats for cryptographic agility](https://github.com/wowtrust/trustdb/issues/442) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define TrustDB cryptographic suite identifiers and algorithm registry](https://github.com/wowtrust/trustdb/issues/441) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -500,11 +506,5 @@
 | 2026-07-19 18:31 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission and security boundary](https://github.com/binaricat/Netcatty/pull/2315) |
 | 2026-07-19 18:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): align companion runtime selection](https://github.com/binaricat/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
 | 2026-07-19 18:07 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [docs(plugins): align companion runtime selection](https://github.com/DrOlu/Sensor/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
-| 2026-07-19 17:21 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close companion placement gaps](https://github.com/binaricat/Netcatty/commit/a6e5b43d141d8550c4cf66a8f6709b563f2c197a) |
-| 2026-07-19 17:21 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close companion placement gaps](https://github.com/DrOlu/Sensor/commit/a6e5b43d141d8550c4cf66a8f6709b563f2c197a) |
-| 2026-07-19 16:46 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close activation and companion trust gaps](https://github.com/binaricat/Netcatty/commit/f51e5b28e3a5c5beec0decaf4b41e7f393a5d038) |
-| 2026-07-19 16:46 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close activation and companion trust gaps](https://github.com/DrOlu/Sensor/commit/f51e5b28e3a5c5beec0decaf4b41e7f393a5d038) |
-| 2026-07-19 15:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close remaining authorization races](https://github.com/binaricat/Netcatty/commit/e6c55c90524aa80ba2fbbbb89cde1c3fc17b0dfb) |
-| 2026-07-19 15:07 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close remaining authorization races](https://github.com/DrOlu/Sensor/commit/e6c55c90524aa80ba2fbbbb89cde1c3fc17b0dfb) |
 
-_Latest indexed activity: 2026-07-23 11:54 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 14:56 UTC · checked automatically every 10 minutes_
