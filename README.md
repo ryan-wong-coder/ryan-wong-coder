@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/binaricat/Netcatty/pull/2413">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8ce5a49e05-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8ce5a49e05-light.svg" />
+    <img alt="PR OPENED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-8ce5a49e05-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/7271d49f83354a9cbdf833bb2be415f497687a87">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7271d49-43c58ca24b-dark.svg" />
@@ -80,15 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-light.svg" />
     <img alt="ISSUE CLOSED: docs(website): sync organization registry and community entry points" src="./assets/activity-cards/issue-wowtrust-trustdb-517-3b00f4ae89-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/5570541c1a3a4c0bed260fd08b94bb68786a9f6e">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-light.svg" />
-    <img alt="COMMIT: docs(website): sync registry and community links (#518)" src="./assets/activity-cards/commit-wowtrust-trustdb-5570541-e3f8fd9f7e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
