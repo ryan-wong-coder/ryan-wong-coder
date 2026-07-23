@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/9de68de462965333108f58b124fe60f27fc58515">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9de68de-646891cfee-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9de68de-646891cfee-light.svg" />
+    <img alt="COMMIT: feat(crypto): add versioned key descriptors (#550)" src="./assets/activity-cards/commit-wowtrust-trustdb-9de68de-646891cfee-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/449">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-449-58bc0b2bd0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-449-58bc0b2bd0-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Introduce versioned software and hardware key descriptors" src="./assets/activity-cards/issue-wowtrust-trustdb-449-58bc0b2bd0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/550">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-550-2132bf1db8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-550-2132bf1db8-light.svg" />
+    <img alt="PR MERGED: feat(crypto): add versioned key descriptors" src="./assets/activity-cards/pr-wowtrust-trustdb-550-2132bf1db8-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/c58c132d60a34f4493885be617f357f1d6cf7a23">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c58c132-f42d424ec5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c58c132-f42d424ec5-light.svg" />
+    <img alt="COMMIT: test(cli): use dedicated registry descriptor" src="./assets/activity-cards/commit-wowtrust-trustdb-c58c132-f42d424ec5-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/affbac7f31c1bbd902eab26ee00e77d81a3be334">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-affbac7-ae1c0ddc3b-dark.svg" />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-447-c7d607855c-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-447-c7d607855c-light.svg" />
     <img alt="ISSUE CLOSED: [Feature] Add SM3 hashing and RFC6962-SM3 Merkle trees" src="./assets/activity-cards/issue-wowtrust-trustdb-447-c7d607855c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/93645507d9c5722c56a783d23ddacbc979010927">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9364550-008b292e24-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9364550-008b292e24-light.svg" />
-    <img alt="COMMIT: feat(crypto): add SM3 and RFC6962 Merkle profiles (#548)" src="./assets/activity-cards/commit-wowtrust-trustdb-9364550-008b292e24-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/548">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-548-9560bc021f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-548-9560bc021f-light.svg" />
-    <img alt="PR MERGED: feat(crypto): add SM3 and RFC6962 Merkle profiles" src="./assets/activity-cards/pr-wowtrust-trustdb-548-9560bc021f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/60e3596aaba69a364e2ccb610de02c40d1ddb778">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-60e3596-1b1654a6c6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-60e3596-1b1654a6c6-light.svg" />
-    <img alt="COMMIT: build(desktop): sync SM3 module dependency" src="./assets/activity-cards/commit-wowtrust-trustdb-60e3596-1b1654a6c6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/76a942aa4ee767719f700a685dd04be08ea953fb">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-76a942a-78d696b6e6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-76a942a-78d696b6e6-light.svg" />
-    <img alt="COMMIT: feat(nats): wire optional ingress into serve (#547)" src="./assets/activity-cards/commit-wowtrust-trustdb-76a942a-78d696b6e6-light.svg" width="100%" />
   </picture>
 </a>
 <br />

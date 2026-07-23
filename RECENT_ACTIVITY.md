@@ -2,10 +2,13 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 175 commits · 140 pull requests · 185 issues · newest first · maximum 500
+**500 entries** · 174 commits · 141 pull requests · 185 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-24 04:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Introduce versioned software and hardware key descriptors](https://github.com/wowtrust/trustdb/issues/449) |
+| 2026-07-24 04:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add versioned key descriptors](https://github.com/wowtrust/trustdb/pull/550) |
+| 2026-07-24 04:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add versioned key descriptors (#550)](https://github.com/wowtrust/trustdb/commit/9de68de462965333108f58b124fe60f27fc58515) |
 | 2026-07-24 03:56 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add canonical SM2-SM3 signing and verification](https://github.com/wowtrust/trustdb/issues/448) |
 | 2026-07-24 03:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add canonical SM2-SM3 signatures](https://github.com/wowtrust/trustdb/pull/549) |
 | 2026-07-24 03:56 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add canonical SM2-SM3 signatures (#549)](https://github.com/wowtrust/trustdb/commit/affbac7f31c1bbd902eab26ee00e77d81a3be334) |
@@ -177,7 +180,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a PKCS#11 signing provider](https://github.com/wowtrust/trustdb/issues/452) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Protect software-managed private keys with SM4 envelope encryption](https://github.com/wowtrust/trustdb/issues/451) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 key lifecycle support to the registry and CLI](https://github.com/wowtrust/trustdb/issues/450) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Introduce versioned software and hardware key descriptors](https://github.com/wowtrust/trustdb/issues/449) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -504,7 +506,5 @@
 | 2026-07-20 15:16 | `PR CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): unblock canceled native streams](https://github.com/wowtrust/trustdb/pull/214) |
 | 2026-07-20 15:02 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
 | 2026-07-20 14:54 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve tabs during context refresh](https://github.com/binaricat/Netcatty/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
-| 2026-07-20 14:54 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve tabs during context refresh](https://github.com/DrOlu/Sensor/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
-| 2026-07-20 13:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): 准备 v1.0.0-beta.1 (#211)](https://github.com/wowtrust/trustdb/commit/cdabf7dd1b2d6c16fc7eba303f0b4b74593fa204) |
 
-_Latest indexed activity: 2026-07-23 19:56 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-23 20:53 UTC · checked automatically every 10 minutes_
