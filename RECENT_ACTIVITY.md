@@ -2,10 +2,21 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 174 commits · 141 pull requests · 185 issues · newest first · maximum 500
+**500 entries** · 174 commits · 139 pull requests · 187 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-24 08:58 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 key lifecycle support to the registry and CLI](https://github.com/wowtrust/trustdb/issues/450) |
+| 2026-07-24 08:58 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(keystore): add SM2 key lifecycle support](https://github.com/wowtrust/trustdb/pull/556) |
+| 2026-07-24 08:58 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(keystore): add SM2 key lifecycle support (#556)](https://github.com/wowtrust/trustdb/commit/f596ffbedb6b6ee7d2558b9ab0f6c34635d20c75) |
+| 2026-07-24 08:54 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add optional NATS ingress onboarding to the website](https://github.com/wowtrust/trustdb/issues/557) |
+| 2026-07-24 08:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document optional NATS ingress operations and Go SDK usage](https://github.com/wowtrust/trustdb/issues/554) |
+| 2026-07-24 08:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(nats): publish ingress operations guide (#555)](https://github.com/wowtrust/trustdb/commit/128b0a2ec6feb126dbd7968fb81e812acd91c9f3) |
+| 2026-07-24 08:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(nats): publish ingress operations guide](https://github.com/wowtrust/trustdb/pull/555) |
+| 2026-07-24 08:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a Go SDK client for optional NATS ingress](https://github.com/wowtrust/trustdb/issues/551) |
+| 2026-07-24 08:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add optional NATS ingress client](https://github.com/wowtrust/trustdb/pull/553) |
+| 2026-07-24 08:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add optional NATS ingress client (#553)](https://github.com/wowtrust/trustdb/commit/b828b8cda62bb40b8bc6479db37f285cb6600dbe) |
+| 2026-07-24 08:20 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add supervised external signer plugins](https://github.com/wowtrust/trustdb/issues/552) |
 | 2026-07-24 04:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Introduce versioned software and hardware key descriptors](https://github.com/wowtrust/trustdb/issues/449) |
 | 2026-07-24 04:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add versioned key descriptors](https://github.com/wowtrust/trustdb/pull/550) |
 | 2026-07-24 04:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add versioned key descriptors (#550)](https://github.com/wowtrust/trustdb/commit/9de68de462965333108f58b124fe60f27fc58515) |
@@ -179,7 +190,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an optional SDF hardware signing provider](https://github.com/wowtrust/trustdb/issues/453) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a PKCS#11 signing provider](https://github.com/wowtrust/trustdb/issues/452) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Protect software-managed private keys with SM4 envelope encryption](https://github.com/wowtrust/trustdb/issues/451) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 key lifecycle support to the registry and CLI](https://github.com/wowtrust/trustdb/issues/450) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -496,15 +506,5 @@
 | 2026-07-20 15:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(verify): bound remote response bodies](https://github.com/wowtrust/trustdb/pull/220) |
 | 2026-07-20 15:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Reject admin sessions at the exact expiration boundary](https://github.com/wowtrust/trustdb/issues/217) |
 | 2026-07-20 15:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(admin): enforce session expiry boundary (#218)](https://github.com/wowtrust/trustdb/commit/085fb6c1349f65b11faad7b5094bf5b8acdcb136) |
-| 2026-07-20 15:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(admin): enforce session expiry boundary](https://github.com/wowtrust/trustdb/pull/218) |
-| 2026-07-20 15:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Keep dashboard status animations aligned with asynchronous state](https://github.com/wowtrust/trustdb/issues/213) |
-| 2026-07-20 15:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ui): sync dashboard status animations (#216)](https://github.com/wowtrust/trustdb/commit/9adc5dced2f73a0e63f9c65f9fe9c829718ac422) |
-| 2026-07-20 15:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ui): sync dashboard status animations](https://github.com/wowtrust/trustdb/pull/216) |
-| 2026-07-20 15:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Prevent native gRPC stream cancellation from leaking goroutines](https://github.com/wowtrust/trustdb/issues/212) |
-| 2026-07-20 15:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): unblock canceled native streams (#215)](https://github.com/wowtrust/trustdb/commit/9cc9e6cddb576b625b4e82a7cd54a38955e67e70) |
-| 2026-07-20 15:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): unblock canceled native streams](https://github.com/wowtrust/trustdb/pull/215) |
-| 2026-07-20 15:16 | `PR CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): unblock canceled native streams](https://github.com/wowtrust/trustdb/pull/214) |
-| 2026-07-20 15:02 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
-| 2026-07-20 14:54 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve tabs during context refresh](https://github.com/binaricat/Netcatty/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
 
-_Latest indexed activity: 2026-07-23 20:53 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 00:58 UTC · checked automatically every 10 minutes_
