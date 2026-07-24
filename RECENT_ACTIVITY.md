@@ -2,11 +2,19 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 175 commits · 148 pull requests · 177 issues · newest first · maximum 500
+**500 entries** · 176 commits · 148 pull requests · 176 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-25 05:14 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): verify static PBFT finality offline](https://github.com/wowtrust/trustdb/pull/584) |
+| 2026-07-25 06:06 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
+| 2026-07-25 06:06 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): add CN_SM_V1 interoperability gates (#586)](https://github.com/wowtrust/trustdb/commit/d74d9ab72713cff7e601fb1f9aa729e4bea012bf) |
+| 2026-07-25 06:06 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): add CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/pull/586) |
+| 2026-07-25 05:57 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Harden BCOS anchoring retries and multi-endpoint quorum reads](https://github.com/wowtrust/trustdb/issues/470) |
+| 2026-07-25 05:57 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): harden BCOS retry quorum recovery](https://github.com/wowtrust/trustdb/pull/585) |
+| 2026-07-25 05:57 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): harden BCOS retry quorum recovery (#585)](https://github.com/wowtrust/trustdb/commit/03b5cc899acba2b89af4049d59222b3dceb2dfe5) |
+| 2026-07-25 05:34 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify PBFT block finality with a static trusted validator set](https://github.com/wowtrust/trustdb/issues/467) |
+| 2026-07-25 05:34 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): verify static PBFT finality offline](https://github.com/wowtrust/trustdb/pull/584) |
+| 2026-07-25 05:34 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): verify static PBFT finality offline (#584)](https://github.com/wowtrust/trustdb/commit/032808451409377f269c1d2e6202656802922753) |
 | 2026-07-25 04:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
 | 2026-07-25 04:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(desktop): add national-cryptography identities and offline verification](https://github.com/wowtrust/trustdb/pull/582) |
 | 2026-07-25 04:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(desktop): add national-cryptography identities and offline verification (#582)](https://github.com/wowtrust/trustdb/commit/77bdf780d21e8f9b795e5bc981c61819bb8c8f4f) |
@@ -229,11 +237,8 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add standard and Guomi four-node BCOS integration gates](https://github.com/wowtrust/trustdb/issues/471) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Harden BCOS anchoring retries and multi-endpoint quorum reads](https://github.com/wowtrust/trustdb/issues/470) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS validator-set transitions offline](https://github.com/wowtrust/trustdb/issues/469) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify PBFT block finality with a static trusted validator set](https://github.com/wowtrust/trustdb/issues/467) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -501,10 +506,5 @@
 | 2026-07-20 18:19 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden terminal provider rendering](https://github.com/binaricat/Netcatty/commit/3ff40b4d2ed3e7372f838d06326740c130705a29) |
 | 2026-07-20 18:19 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden terminal provider rendering](https://github.com/DrOlu/Sensor/commit/3ff40b4d2ed3e7372f838d06326740c130705a29) |
 | 2026-07-20 18:17 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Eliminate Go SDK load-balancer dispatch allocations](https://github.com/wowtrust/trustdb/issues/245) |
-| 2026-07-20 18:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): eliminate load balancer dispatch allocations](https://github.com/wowtrust/trustdb/pull/246) |
-| 2026-07-20 18:17 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): eliminate load balancer dispatch allocations (#246)](https://github.com/wowtrust/trustdb/commit/21b152c642fca817cdf9193f6d2ba3e5bf8c445d) |
-| 2026-07-20 18:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce Go SDK log claim allocations](https://github.com/wowtrust/trustdb/issues/243) |
-| 2026-07-20 18:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): reduce log claim allocations](https://github.com/wowtrust/trustdb/pull/244) |
-| 2026-07-20 18:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): reduce log claim allocations (#244)](https://github.com/wowtrust/trustdb/commit/cfb4580a08968ac7cdc19c92a670f51c9ab509be) |
 
-_Latest indexed activity: 2026-07-24 21:14 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 22:06 UTC · checked automatically every 10 minutes_

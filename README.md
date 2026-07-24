@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/pull/584">
+<a href="https://github.com/wowtrust/trustdb/commit/79da57a833e1559a79a9f5b6738d1432197c9239">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-584-0c6ca76e24-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-584-0c6ca76e24-light.svg" />
-    <img alt="PR OPENED: feat(bcos): verify static PBFT finality offline" src="./assets/activity-cards/pr-wowtrust-trustdb-584-0c6ca76e24-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-light.svg" />
+    <img alt="COMMIT: fix(deps): bump brace-expansion from 2.1.2 to removed in /clients/desktop/frontend in the security-patches group across 1 directory (#587)" src="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/77bdf780d21e8f9b795e5bc981c61819bb8c8f4f">
+<a href="https://github.com/wowtrust/trustdb/issues/460">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-77bdf78-0f69a999a1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-77bdf78-0f69a999a1-light.svg" />
-    <img alt="COMMIT: feat(desktop): add national-cryptography identities and offline verification (#582)" src="./assets/activity-cards/commit-wowtrust-trustdb-77bdf78-0f69a999a1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Add cross-component CN_SM_V1 interoperability gates" src="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/457">
+<a href="https://github.com/wowtrust/trustdb/commit/d74d9ab72713cff7e601fb1f9aa729e4bea012bf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-457-f491d8f9b7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-457-f491d8f9b7-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add national-cryptography identities and verification to TrustDB Desktop" src="./assets/activity-cards/issue-wowtrust-trustdb-457-f491d8f9b7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d74d9ab-ad0633b19f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d74d9ab-ad0633b19f-light.svg" />
+    <img alt="COMMIT: test(crypto): add CN_SM_V1 interoperability gates (#586)" src="./assets/activity-cards/commit-wowtrust-trustdb-d74d9ab-ad0633b19f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/582">
+<a href="https://github.com/wowtrust/trustdb/pull/586">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-d4cf6d4d0e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-d4cf6d4d0e-light.svg" />
-    <img alt="PR MERGED: feat(desktop): add national-cryptography identities and offline verification" src="./assets/activity-cards/pr-wowtrust-trustdb-582-d4cf6d4d0e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-light.svg" />
+    <img alt="PR MERGED: test(crypto): add CN_SM_V1 interoperability gates" src="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/47b95ed688a3831aef47fce76180c9544de15b12">
+<a href="https://github.com/wowtrust/trustdb/commit/b926d3c0302f15043d5a92fe4b85cf09939adcca">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-47b95ed-f6dcaa6b0c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-47b95ed-f6dcaa6b0c-light.svg" />
-    <img alt="COMMIT: test(desktop): support Windows filesystem semantics" src="./assets/activity-cards/commit-wowtrust-trustdb-47b95ed-f6dcaa6b0c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-b926d3c-1ae02c3d34-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-b926d3c-1ae02c3d34-light.svg" />
+    <img alt="COMMIT: ci(crypto): require cross-platform CN_SM corpus gates" src="./assets/activity-cards/commit-wowtrust-trustdb-b926d3c-1ae02c3d34-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/a2870fcfc44f51413f0baaa00f219fcf8b129857">
+<a href="https://github.com/wowtrust/trustdb/commit/03b5cc899acba2b89af4049d59222b3dceb2dfe5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a2870fc-f87cb8babd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a2870fc-f87cb8babd-light.svg" />
-    <img alt="COMMIT: test(desktop): support Windows filesystem semantics" src="./assets/activity-cards/commit-wowtrust-trustdb-a2870fc-f87cb8babd-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-03b5cc8-a684f1acfc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-03b5cc8-a684f1acfc-light.svg" />
+    <img alt="COMMIT: fix(anchor): harden BCOS retry quorum recovery (#585)" src="./assets/activity-cards/commit-wowtrust-trustdb-03b5cc8-a684f1acfc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/6d6d2b017c4801f2d021489beca13443ca3eda43">
+<a href="https://github.com/wowtrust/trustdb/issues/470">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6d6d2b0-5b2d891d06-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6d6d2b0-5b2d891d06-light.svg" />
-    <img alt="COMMIT: feat(bcos): verify receipt inclusion offline (#583)" src="./assets/activity-cards/commit-wowtrust-trustdb-6d6d2b0-5b2d891d06-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-470-3234ed6423-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-470-3234ed6423-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Harden BCOS anchoring retries and multi-endpoint quorum reads" src="./assets/activity-cards/issue-wowtrust-trustdb-470-3234ed6423-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/466">
+<a href="https://github.com/wowtrust/trustdb/pull/585">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-466-b8d13032ad-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-466-b8d13032ad-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Verify FISCO BCOS receipt inclusion offline" src="./assets/activity-cards/issue-wowtrust-trustdb-466-b8d13032ad-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-585-d40b39edc3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-585-d40b39edc3-light.svg" />
+    <img alt="PR MERGED: fix(anchor): harden BCOS retry quorum recovery" src="./assets/activity-cards/pr-wowtrust-trustdb-585-d40b39edc3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
