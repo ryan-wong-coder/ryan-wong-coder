@@ -23,9 +23,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/7ed9b06940338ea7db39fb2a462679a49a1cd121">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-05174b4b33-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-05174b4b33-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve plugin session auto logs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-05174b4b33-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-a3a3703c0f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-a3a3703c0f-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve plugin session auto logs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-a3a3703c0f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -59,18 +59,18 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/21e5fedb1890ecc9f9119cf584b4fc3c62ecd247">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-96b55f9285-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-96b55f9285-light.svg" />
-    <img alt="COMMIT: fix(plugins): fail closed without secure host services" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-96b55f9285-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-6a1f3f9738-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-6a1f3f9738-light.svg" />
+    <img alt="COMMIT: fix(plugins): fail closed without secure host services" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-6a1f3f9738-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/2a1478e8b95d4e437056c6048dfe3077ab3d656b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b2ddc97cc4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b2ddc97cc4-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve provider request semantics" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b2ddc97cc4-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-c457cca4fd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-c457cca4fd-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve provider request semantics" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-c457cca4fd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
