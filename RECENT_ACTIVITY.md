@@ -2,11 +2,17 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 174 commits · 146 pull requests · 180 issues · newest first · maximum 500
+**500 entries** · 174 commits · 147 pull requests · 179 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-25 00:16 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client](https://github.com/wowtrust/trustdb/pull/579) |
+| 2026-07-25 02:44 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a TLCP and Guomi certificate transport profile](https://github.com/wowtrust/trustdb/issues/459) |
+| 2026-07-25 02:44 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(tlcp): add the Guomi transport profile](https://github.com/wowtrust/trustdb/pull/580) |
+| 2026-07-25 02:44 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(tlcp): add the Guomi transport profile (#580)](https://github.com/wowtrust/trustdb/commit/0b2daf371db20a3fe1657fc359ce9df0a47602ad) |
+| 2026-07-25 02:26 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): persist immutable anchor evidence](https://github.com/wowtrust/trustdb/pull/581) |
+| 2026-07-25 01:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a FISCO BCOS standard-crypto anchor client](https://github.com/wowtrust/trustdb/issues/464) |
+| 2026-07-25 01:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client](https://github.com/wowtrust/trustdb/pull/579) |
+| 2026-07-25 01:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client (#579)](https://github.com/wowtrust/trustdb/commit/b0d50176305ec670076d74713c6f8071b24ef0ec) |
 | 2026-07-24 21:33 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 and SM3 support to the Go SDK](https://github.com/wowtrust/trustdb/issues/456) |
 | 2026-07-24 21:33 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add SM2 and SM3 support (#578)](https://github.com/wowtrust/trustdb/commit/e96a7bba183f3c4bfc85ac12d331c0267040c0a3) |
 | 2026-07-24 21:33 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add SM2 and SM3 support](https://github.com/wowtrust/trustdb/pull/578) |
@@ -220,9 +226,7 @@
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify PBFT block finality with a static trusted validator set](https://github.com/wowtrust/trustdb/issues/467) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS receipt inclusion offline](https://github.com/wowtrust/trustdb/issues/466) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist BCOS transaction, receipt, and Merkle proof evidence](https://github.com/wowtrust/trustdb/issues/465) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a FISCO BCOS standard-crypto anchor client](https://github.com/wowtrust/trustdb/issues/464) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a TLCP and Guomi certificate transport profile](https://github.com/wowtrust/trustdb/issues/459) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
@@ -502,9 +506,5 @@
 | 2026-07-20 17:32 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Optimize homepage artwork delivery](https://github.com/wowtrust/trustdb/issues/239) |
 | 2026-07-20 17:31 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): optimize homepage artwork](https://github.com/wowtrust/trustdb/pull/240) |
 | 2026-07-20 17:31 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): optimize homepage artwork (#240)](https://github.com/wowtrust/trustdb/commit/07f8aa7258c83492ca0c532a742091cfd19436a7) |
-| 2026-07-20 17:31 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): unify terminal lifecycle state](https://github.com/binaricat/Netcatty/commit/b5f03df52e0c43cd15cf6bae5b543cffcb4c8fa3) |
-| 2026-07-20 17:31 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): unify terminal lifecycle state](https://github.com/DrOlu/Sensor/commit/b5f03df52e0c43cd15cf6bae5b543cffcb4c8fa3) |
-| 2026-07-20 17:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Restore the green check favicon on the website](https://github.com/wowtrust/trustdb/issues/237) |
-| 2026-07-20 17:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): restore green check favicon](https://github.com/wowtrust/trustdb/pull/238) |
 
-_Latest indexed activity: 2026-07-24 16:16 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 18:44 UTC · checked automatically every 10 minutes_

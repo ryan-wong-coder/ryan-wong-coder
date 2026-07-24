@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/commit/3810b2408bf5646b727aea5ff84194b58bfcb641">
+<a href="https://github.com/wowtrust/trustdb/commit/126ce103b4e69e35b14d46c9fa56b877003aa061">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3810b24-d761c996dc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3810b24-d761c996dc-light.svg" />
-    <img alt="COMMIT: fix(fiscobcos): stabilize the Windows native gate" src="./assets/activity-cards/commit-wowtrust-trustdb-3810b24-d761c996dc-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-light.svg" />
+    <img alt="COMMIT: fix(desktop): record BCOS SDK checksums" src="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/2a5ff888250abfc023b68df2ae597965d90b03d7">
+<a href="https://github.com/wowtrust/trustdb/issues/459">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-2a5ff88-696af341ea-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-2a5ff88-696af341ea-light.svg" />
-    <img alt="COMMIT: fix(fiscobcos): accept pinned Linux SDK metadata" src="./assets/activity-cards/commit-wowtrust-trustdb-2a5ff88-696af341ea-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-459-6d38b54fa9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-459-6d38b54fa9-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add a TLCP and Guomi certificate transport profile" src="./assets/activity-cards/issue-wowtrust-trustdb-459-6d38b54fa9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/579">
+<a href="https://github.com/wowtrust/trustdb/commit/0b2daf371db20a3fe1657fc359ce9df0a47602ad">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-579-9cc9d788df-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-579-9cc9d788df-light.svg" />
-    <img alt="PR OPENED: feat(fiscobcos): add standard-crypto anchor client" src="./assets/activity-cards/pr-wowtrust-trustdb-579-9cc9d788df-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-light.svg" />
+    <img alt="COMMIT: feat(tlcp): add the Guomi transport profile (#580)" src="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/7ed9b06940338ea7db39fb2a462679a49a1cd121">
+<a href="https://github.com/wowtrust/trustdb/pull/580">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-33b2703a54-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-33b2703a54-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve plugin session auto logs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-33b2703a54-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-580-6e7679a31b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-580-6e7679a31b-light.svg" />
+    <img alt="PR MERGED: feat(tlcp): add the Guomi transport profile" src="./assets/activity-cards/pr-wowtrust-trustdb-580-6e7679a31b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/456">
+<a href="https://github.com/wowtrust/trustdb/commit/df437c31712d95ffaf21b1b1a0bd8818af731f2a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-456-4339da5a40-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-456-4339da5a40-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add SM2 and SM3 support to the Go SDK" src="./assets/activity-cards/issue-wowtrust-trustdb-456-4339da5a40-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-df437c3-b3c0624c85-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-df437c3-b3c0624c85-light.svg" />
+    <img alt="COMMIT: fix(desktop): record BCOS SDK checksums" src="./assets/activity-cards/commit-wowtrust-trustdb-df437c3-b3c0624c85-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/e96a7bba183f3c4bfc85ac12d331c0267040c0a3">
+<a href="https://github.com/wowtrust/trustdb/commit/27febd8b26643cc7b9c001082a38729886e545c6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e96a7bb-e040821379-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e96a7bb-e040821379-light.svg" />
-    <img alt="COMMIT: feat(sdk): add SM2 and SM3 support (#578)" src="./assets/activity-cards/commit-wowtrust-trustdb-e96a7bb-e040821379-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27febd8-176458873f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27febd8-176458873f-light.svg" />
+    <img alt="COMMIT: fix(ci): bind runtime image to OCI evidence" src="./assets/activity-cards/commit-wowtrust-trustdb-27febd8-176458873f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/578">
+<a href="https://github.com/wowtrust/trustdb/pull/581">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-578-117fd9056a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-578-117fd9056a-light.svg" />
-    <img alt="PR MERGED: feat(sdk): add SM2 and SM3 support" src="./assets/activity-cards/pr-wowtrust-trustdb-578-117fd9056a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-a608e423d6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-a608e423d6-light.svg" />
+    <img alt="PR OPENED: feat(bcos): persist immutable anchor evidence" src="./assets/activity-cards/pr-wowtrust-trustdb-581-a608e423d6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/21e5fedb1890ecc9f9119cf584b4fc3c62ecd247">
+<a href="https://github.com/wowtrust/trustdb/commit/e82cc632d10bcbf3a7eacfd0f32960c7538fd1d7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-837e06bb8a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-837e06bb8a-light.svg" />
-    <img alt="COMMIT: fix(plugins): fail closed without secure host services" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-837e06bb8a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e82cc63-13becad166-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e82cc63-13becad166-light.svg" />
+    <img alt="COMMIT: fix(ci): verify pinned builder portably" src="./assets/activity-cards/commit-wowtrust-trustdb-e82cc63-13becad166-light.svg" width="100%" />
   </picture>
 </a>
 <br />
