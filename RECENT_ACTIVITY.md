@@ -2,11 +2,17 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 174 commits · 147 pull requests · 179 issues · newest first · maximum 500
+**500 entries** · 175 commits · 148 pull requests · 177 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-25 04:04 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(desktop): add national-cryptography identities and offline verification](https://github.com/wowtrust/trustdb/pull/582) |
+| 2026-07-25 05:14 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): verify static PBFT finality offline](https://github.com/wowtrust/trustdb/pull/584) |
+| 2026-07-25 04:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
+| 2026-07-25 04:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(desktop): add national-cryptography identities and offline verification](https://github.com/wowtrust/trustdb/pull/582) |
+| 2026-07-25 04:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(desktop): add national-cryptography identities and offline verification (#582)](https://github.com/wowtrust/trustdb/commit/77bdf780d21e8f9b795e5bc981c61819bb8c8f4f) |
+| 2026-07-25 04:28 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS receipt inclusion offline](https://github.com/wowtrust/trustdb/issues/466) |
+| 2026-07-25 04:28 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): verify receipt inclusion offline](https://github.com/wowtrust/trustdb/pull/583) |
+| 2026-07-25 04:28 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): verify receipt inclusion offline (#583)](https://github.com/wowtrust/trustdb/commit/6d6d2b017c4801f2d021489beca13443ca3eda43) |
 | 2026-07-25 02:55 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist BCOS transaction, receipt, and Merkle proof evidence](https://github.com/wowtrust/trustdb/issues/465) |
 | 2026-07-25 02:55 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): persist immutable anchor evidence](https://github.com/wowtrust/trustdb/pull/581) |
 | 2026-07-25 02:55 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): persist immutable anchor evidence (#581)](https://github.com/wowtrust/trustdb/commit/0ab321d4017f2666cff33fb514916b0387d3ab2c) |
@@ -227,9 +233,7 @@
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS validator-set transitions offline](https://github.com/wowtrust/trustdb/issues/469) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify PBFT block finality with a static trusted validator set](https://github.com/wowtrust/trustdb/issues/467) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS receipt inclusion offline](https://github.com/wowtrust/trustdb/issues/466) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -502,9 +506,5 @@
 | 2026-07-20 18:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce Go SDK log claim allocations](https://github.com/wowtrust/trustdb/issues/243) |
 | 2026-07-20 18:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): reduce log claim allocations](https://github.com/wowtrust/trustdb/pull/244) |
 | 2026-07-20 18:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): reduce log claim allocations (#244)](https://github.com/wowtrust/trustdb/commit/cfb4580a08968ac7cdc19c92a670f51c9ab509be) |
-| 2026-07-20 17:55 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce HTTP claim body buffer overhead](https://github.com/wowtrust/trustdb/issues/241) |
-| 2026-07-20 17:55 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(http): reduce claim body allocations (#242)](https://github.com/wowtrust/trustdb/commit/253fc4a91c3d5a1b24dbd84ff7a975395e1f5b1b) |
-| 2026-07-20 17:55 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(http): reduce claim body allocations](https://github.com/wowtrust/trustdb/pull/242) |
-| 2026-07-20 17:32 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Optimize homepage artwork delivery](https://github.com/wowtrust/trustdb/issues/239) |
 
-_Latest indexed activity: 2026-07-24 20:04 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 21:14 UTC · checked automatically every 10 minutes_

@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/pull/584">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-584-0c6ca76e24-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-584-0c6ca76e24-light.svg" />
+    <img alt="PR OPENED: feat(bcos): verify static PBFT finality offline" src="./assets/activity-cards/pr-wowtrust-trustdb-584-0c6ca76e24-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/77bdf780d21e8f9b795e5bc981c61819bb8c8f4f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-77bdf78-0f69a999a1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-77bdf78-0f69a999a1-light.svg" />
+    <img alt="COMMIT: feat(desktop): add national-cryptography identities and offline verification (#582)" src="./assets/activity-cards/commit-wowtrust-trustdb-77bdf78-0f69a999a1-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/457">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-457-f491d8f9b7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-457-f491d8f9b7-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add national-cryptography identities and verification to TrustDB Desktop" src="./assets/activity-cards/issue-wowtrust-trustdb-457-f491d8f9b7-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/pull/582">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-f0f825b365-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-f0f825b365-light.svg" />
-    <img alt="PR OPENED: feat(desktop): add national-cryptography identities and offline verification" src="./assets/activity-cards/pr-wowtrust-trustdb-582-f0f825b365-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-d4cf6d4d0e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-d4cf6d4d0e-light.svg" />
+    <img alt="PR MERGED: feat(desktop): add national-cryptography identities and offline verification" src="./assets/activity-cards/pr-wowtrust-trustdb-582-d4cf6d4d0e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/46f2ff640ca8444d3ecf06749a568d06c9ee8523">
+<a href="https://github.com/wowtrust/trustdb/commit/47b95ed688a3831aef47fce76180c9544de15b12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-46f2ff6-5e16e2eba3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-46f2ff6-5e16e2eba3-light.svg" />
-    <img alt="COMMIT: ci(desktop): run Windows security tests" src="./assets/activity-cards/commit-wowtrust-trustdb-46f2ff6-5e16e2eba3-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-47b95ed-f6dcaa6b0c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-47b95ed-f6dcaa6b0c-light.svg" />
+    <img alt="COMMIT: test(desktop): support Windows filesystem semantics" src="./assets/activity-cards/commit-wowtrust-trustdb-47b95ed-f6dcaa6b0c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/0ab321d4017f2666cff33fb514916b0387d3ab2c">
+<a href="https://github.com/wowtrust/trustdb/commit/a2870fcfc44f51413f0baaa00f219fcf8b129857">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ab321d-d35daa8b3b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ab321d-d35daa8b3b-light.svg" />
-    <img alt="COMMIT: feat(bcos): persist immutable anchor evidence (#581)" src="./assets/activity-cards/commit-wowtrust-trustdb-0ab321d-d35daa8b3b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a2870fc-f87cb8babd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a2870fc-f87cb8babd-light.svg" />
+    <img alt="COMMIT: test(desktop): support Windows filesystem semantics" src="./assets/activity-cards/commit-wowtrust-trustdb-a2870fc-f87cb8babd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/465">
+<a href="https://github.com/wowtrust/trustdb/commit/6d6d2b017c4801f2d021489beca13443ca3eda43">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-465-638c94a2de-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-465-638c94a2de-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Persist BCOS transaction, receipt, and Merkle proof evidence" src="./assets/activity-cards/issue-wowtrust-trustdb-465-638c94a2de-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6d6d2b0-5b2d891d06-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6d6d2b0-5b2d891d06-light.svg" />
+    <img alt="COMMIT: feat(bcos): verify receipt inclusion offline (#583)" src="./assets/activity-cards/commit-wowtrust-trustdb-6d6d2b0-5b2d891d06-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/581">
+<a href="https://github.com/wowtrust/trustdb/issues/466">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-5f3dbe2f5a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-5f3dbe2f5a-light.svg" />
-    <img alt="PR MERGED: feat(bcos): persist immutable anchor evidence" src="./assets/activity-cards/pr-wowtrust-trustdb-581-5f3dbe2f5a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/126ce103b4e69e35b14d46c9fa56b877003aa061">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-light.svg" />
-    <img alt="COMMIT: fix(desktop): record BCOS SDK checksums" src="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/459">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-459-6d38b54fa9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-459-6d38b54fa9-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add a TLCP and Guomi certificate transport profile" src="./assets/activity-cards/issue-wowtrust-trustdb-459-6d38b54fa9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/0b2daf371db20a3fe1657fc359ce9df0a47602ad">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-light.svg" />
-    <img alt="COMMIT: feat(tlcp): add the Guomi transport profile (#580)" src="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-466-b8d13032ad-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-466-b8d13032ad-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Verify FISCO BCOS receipt inclusion offline" src="./assets/activity-cards/issue-wowtrust-trustdb-466-b8d13032ad-light.svg" width="100%" />
   </picture>
 </a>
 <br />
