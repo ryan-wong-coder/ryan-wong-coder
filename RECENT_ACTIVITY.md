@@ -2,10 +2,13 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 175 commits · 144 pull requests · 181 issues · newest first · maximum 500
+**500 entries** · 174 commits · 145 pull requests · 181 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-24 20:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add .sproof v2 national-cryptography evidence and offline verification](https://github.com/wowtrust/trustdb/issues/455) |
+| 2026-07-24 20:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sproof): add national-cryptography offline evidence v2 (#577)](https://github.com/wowtrust/trustdb/commit/bc614a49bcabbda7c7bfbb14394db8d4dee176c5) |
+| 2026-07-24 20:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sproof): add national-cryptography offline evidence v2](https://github.com/wowtrust/trustdb/pull/577) |
 | 2026-07-24 19:08 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server](https://github.com/wowtrust/trustdb/issues/454) |
 | 2026-07-24 19:08 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(server): enable CN_SM_V1 evidence generation](https://github.com/wowtrust/trustdb/pull/576) |
 | 2026-07-24 19:08 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(server): enable CN_SM_V1 evidence generation (#576)](https://github.com/wowtrust/trustdb/commit/088ccedea4d60821a3c383086d43161676bae843) |
@@ -218,7 +221,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a TLCP and Guomi certificate transport profile](https://github.com/wowtrust/trustdb/issues/459) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 and SM3 support to the Go SDK](https://github.com/wowtrust/trustdb/issues/456) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add .sproof v2 national-cryptography evidence and offline verification](https://github.com/wowtrust/trustdb/issues/455) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -504,7 +506,5 @@
 | 2026-07-20 17:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): restore green check favicon (#238)](https://github.com/wowtrust/trustdb/commit/fcfbf572318cf5932a60e86fbdd20bddfa231764) |
 | 2026-07-20 17:17 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Load website translations per locale](https://github.com/wowtrust/trustdb/issues/235) |
 | 2026-07-20 17:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): load translations per locale](https://github.com/wowtrust/trustdb/pull/236) |
-| 2026-07-20 17:17 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): load translations per locale (#236)](https://github.com/wowtrust/trustdb/commit/dba537736faed497a46457ec40f325c760612f1f) |
-| 2026-07-20 17:15 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden terminal provider lifecycle](https://github.com/binaricat/Netcatty/commit/c1bcc438f99c40ebd7f916b9bb0d14bdf0763033) |
 
-_Latest indexed activity: 2026-07-24 11:08 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 12:12 UTC · checked automatically every 10 minutes_

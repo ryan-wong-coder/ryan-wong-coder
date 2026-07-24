@@ -21,6 +21,60 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/2a1478e8b95d4e437056c6048dfe3077ab3d656b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b71d39790f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b71d39790f-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve provider request semantics" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b71d39790f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/455">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-455-820ada28a5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-455-820ada28a5-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add .sproof v2 national-cryptography evidence and offline verification" src="./assets/activity-cards/issue-wowtrust-trustdb-455-820ada28a5-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/bc614a49bcabbda7c7bfbb14394db8d4dee176c5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-light.svg" />
+    <img alt="COMMIT: feat(sproof): add national-cryptography offline evidence v2 (#577)" src="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/577">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-577-2267ad83f5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-577-2267ad83f5-light.svg" />
+    <img alt="PR MERGED: feat(sproof): add national-cryptography offline evidence v2" src="./assets/activity-cards/pr-wowtrust-trustdb-577-2267ad83f5-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/d5ee9969373d79019cb5c89f22d9a28b6ed0d139">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d5ee996-df2b28e857-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d5ee996-df2b28e857-light.svg" />
+    <img alt="COMMIT: fix(desktop): use valid sproof v2 fixtures" src="./assets/activity-cards/commit-wowtrust-trustdb-d5ee996-df2b28e857-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/4578e74c4dd3f2e9ecfa1b7bb7e47cbe906eb907">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4578e74-60c8488272-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4578e74-60c8488272-light.svg" />
+    <img alt="COMMIT: fix(deps): bump golang.org/x/crypto in FISCO BCOS smoke client (#570)" src="./assets/activity-cards/commit-wowtrust-trustdb-4578e74-60c8488272-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/088ccedea4d60821a3c383086d43161676bae843">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-dark.svg" />
@@ -35,60 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-light.svg" />
     <img alt="ISSUE CLOSED: [Feature] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server" src="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/576">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-576-a7c8cdf04a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-576-a7c8cdf04a-light.svg" />
-    <img alt="PR MERGED: feat(server): enable CN_SM_V1 evidence generation" src="./assets/activity-cards/pr-wowtrust-trustdb-576-a7c8cdf04a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/842fcaa93e0e73c9ddf8ac8d989fbcde47aae1fd">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-842fcaa-d444e1c770-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-842fcaa-d444e1c770-light.svg" />
-    <img alt="COMMIT: fix(deps): bump github.com/ethereum/go-ethereum from 1.13.10 to 1.17.0 in /scripts/fisco-bcos/smoke-client (#571)" src="./assets/activity-cards/commit-wowtrust-trustdb-842fcaa-d444e1c770-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/6f14b427133644db508da996d999923506d04eb3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6f14b42-1fb9b08f12-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6f14b42-1fb9b08f12-light.svg" />
-    <img alt="COMMIT: feat(sdf): add optional hardware signing provider (#575)" src="./assets/activity-cards/commit-wowtrust-trustdb-6f14b42-1fb9b08f12-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/453">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-453-16a6eec5bd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-453-16a6eec5bd-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add an optional SDF hardware signing provider" src="./assets/activity-cards/issue-wowtrust-trustdb-453-16a6eec5bd-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/575">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-575-0d66f0095a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-575-0d66f0095a-light.svg" />
-    <img alt="PR MERGED: feat(sdf): add optional hardware signing provider" src="./assets/activity-cards/pr-wowtrust-trustdb-575-0d66f0095a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/434c3a3e2887eac0cbd05deb775a121892a01fad">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-434c3a3-09bae75fe6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-434c3a3-09bae75fe6-light.svg" />
-    <img alt="COMMIT: feat(pkcs11): add isolated signing provider (#574)" src="./assets/activity-cards/commit-wowtrust-trustdb-434c3a3-09bae75fe6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
