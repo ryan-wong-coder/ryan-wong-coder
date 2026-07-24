@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/bce84e1d43daaa2810612d2804e2e048eb5c1b3d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bce84e1-5106808679-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bce84e1-5106808679-light.svg" />
+    <img alt="COMMIT: feat(bcos): define versioned anchor payload and trust config (#572)" src="./assets/activity-cards/commit-wowtrust-trustdb-bce84e1-5106808679-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/462">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-462-807188ae98-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-462-807188ae98-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Define the versioned FISCO BCOS anchor payload and trust configuration" src="./assets/activity-cards/issue-wowtrust-trustdb-462-807188ae98-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/572">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-572-6f144f1e19-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-572-6f144f1e19-light.svg" />
+    <img alt="PR MERGED: feat(bcos): define versioned anchor payload and trust config" src="./assets/activity-cards/pr-wowtrust-trustdb-572-6f144f1e19-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/0e1458b23d383cced17067c4bd8d97009d0fbdbd">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0e1458b-5c48026610-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0e1458b-5c48026610-light.svg" />
+    <img alt="COMMIT: feat(bcos): pin and verify FISCO BCOS compatibility baseline (#568)" src="./assets/activity-cards/commit-wowtrust-trustdb-0e1458b-5c48026610-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/461">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-461-373b5e88ed-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-461-373b5e88ed-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Pin the FISCO BCOS 3.x and SDK compatibility baseline" src="./assets/activity-cards/issue-wowtrust-trustdb-461-373b5e88ed-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/pull/568">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-568-136913377e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-568-136913377e-light.svg" />
-    <img alt="PR OPENED: feat(bcos): pin and verify FISCO BCOS compatibility baseline" src="./assets/activity-cards/pr-wowtrust-trustdb-568-136913377e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-568-4e2ec71e84-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-568-4e2ec71e84-light.svg" />
+    <img alt="PR MERGED: feat(bcos): pin and verify FISCO BCOS compatibility baseline" src="./assets/activity-cards/pr-wowtrust-trustdb-568-4e2ec71e84-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/1037efaaa7e78313a8cecd1113f8fe1ab3c0cee0">
+<a href="https://github.com/wowtrust/trustdb/commit/cb0dfd33e40f709f5c5392a4898135b203260cb6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1037efa-36e0070b4b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1037efa-36e0070b4b-light.svg" />
-    <img alt="COMMIT: feat(crypto): add supervised signer plugins (#566)" src="./assets/activity-cards/commit-wowtrust-trustdb-1037efa-36e0070b4b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-cb0dfd3-b0024b8511-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-cb0dfd3-b0024b8511-light.svg" />
+    <img alt="COMMIT: fix(bcos): make macos smoke teardown portable" src="./assets/activity-cards/commit-wowtrust-trustdb-cb0dfd3-b0024b8511-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/552">
+<a href="https://github.com/wowtrust/trustdb/commit/53d24b2a3de143a05a9ab207ed4e4a099d68d488">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-552-61ed333081-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-552-61ed333081-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add supervised external signer plugins" src="./assets/activity-cards/issue-wowtrust-trustdb-552-61ed333081-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/566">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-566-e299624430-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-566-e299624430-light.svg" />
-    <img alt="PR MERGED: feat(crypto): add supervised signer plugins" src="./assets/activity-cards/pr-wowtrust-trustdb-566-e299624430-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/fcb23d93ea5e5d6ca5e1fefa9563be0b5ea1ea87">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fcb23d9-011ac02417-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fcb23d9-011ac02417-light.svg" />
-    <img alt="COMMIT: feat(crypto): add supervised signer plugins" src="./assets/activity-cards/commit-wowtrust-trustdb-fcb23d9-011ac02417-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/65fc272dcd5d41ead32605176bf5b9cb8885f8f1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-65fc272-bf75d50143-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-65fc272-bf75d50143-light.svg" />
-    <img alt="COMMIT: feat(crypto): add supervised signer plugins" src="./assets/activity-cards/commit-wowtrust-trustdb-65fc272-bf75d50143-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/93a2c85f2b7e82d1da54303fabba0c9603a3856f">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-93a2c85-634959509e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-93a2c85-634959509e-light.svg" />
-    <img alt="COMMIT: feat(anchor): add anchor-system semantic facade (#564)" src="./assets/activity-cards/commit-wowtrust-trustdb-93a2c85-634959509e-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/564">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-564-c4ede9b2c1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-564-c4ede9b2c1-light.svg" />
-    <img alt="PR MERGED: feat(anchor): add anchor-system semantic facade" src="./assets/activity-cards/pr-wowtrust-trustdb-564-c4ede9b2c1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-53d24b2-1ad5ee1928-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-53d24b2-1ad5ee1928-light.svg" />
+    <img alt="COMMIT: ci(bcos): isolate smoke client workspace" src="./assets/activity-cards/commit-wowtrust-trustdb-53d24b2-1ad5ee1928-light.svg" width="100%" />
   </picture>
 </a>
 <br />

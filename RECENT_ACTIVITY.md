@@ -2,11 +2,16 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 173 commits · 142 pull requests · 185 issues · newest first · maximum 500
+**500 entries** · 174 commits · 142 pull requests · 184 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-24 12:14 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): pin and verify FISCO BCOS compatibility baseline](https://github.com/wowtrust/trustdb/pull/568) |
+| 2026-07-24 13:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Define the versioned FISCO BCOS anchor payload and trust configuration](https://github.com/wowtrust/trustdb/issues/462) |
+| 2026-07-24 13:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): define versioned anchor payload and trust config](https://github.com/wowtrust/trustdb/pull/572) |
+| 2026-07-24 13:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): define versioned anchor payload and trust config (#572)](https://github.com/wowtrust/trustdb/commit/bce84e1d43daaa2810612d2804e2e048eb5c1b3d) |
+| 2026-07-24 12:46 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Pin the FISCO BCOS 3.x and SDK compatibility baseline](https://github.com/wowtrust/trustdb/issues/461) |
+| 2026-07-24 12:46 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): pin and verify FISCO BCOS compatibility baseline](https://github.com/wowtrust/trustdb/pull/568) |
+| 2026-07-24 12:46 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): pin and verify FISCO BCOS compatibility baseline (#568)](https://github.com/wowtrust/trustdb/commit/0e1458b23d383cced17067c4bd8d97009d0fbdbd) |
 | 2026-07-24 11:38 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add supervised signer plugins](https://github.com/wowtrust/trustdb/pull/566) |
 | 2026-07-24 11:38 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add supervised external signer plugins](https://github.com/wowtrust/trustdb/issues/552) |
 | 2026-07-24 11:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add supervised signer plugins (#566)](https://github.com/wowtrust/trustdb/commit/1037efaaa7e78313a8cecd1113f8fe1ab3c0cee0) |
@@ -198,8 +203,6 @@
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist BCOS transaction, receipt, and Merkle proof evidence](https://github.com/wowtrust/trustdb/issues/465) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a FISCO BCOS standard-crypto anchor client](https://github.com/wowtrust/trustdb/issues/464) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add the immutable TrustDBAnchorV1 contract](https://github.com/wowtrust/trustdb/issues/463) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Define the versioned FISCO BCOS anchor payload and trust configuration](https://github.com/wowtrust/trustdb/issues/462) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Pin the FISCO BCOS 3.x and SDK compatibility baseline](https://github.com/wowtrust/trustdb/issues/461) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a TLCP and Guomi certificate transport profile](https://github.com/wowtrust/trustdb/issues/459) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
@@ -503,8 +506,5 @@
 | 2026-07-20 17:00 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(merkle): eliminate verify allocations (#233)](https://github.com/wowtrust/trustdb/commit/d97c4d6d2c8b3cb5d442a8d66e458d1a104980b9) |
 | 2026-07-20 17:00 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(merkle): eliminate verify allocations](https://github.com/wowtrust/trustdb/pull/233) |
 | 2026-07-20 16:50 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Reduce record index token allocation overhead](https://github.com/wowtrust/trustdb/issues/229) |
-| 2026-07-20 16:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reduce record index allocations (#230)](https://github.com/wowtrust/trustdb/commit/dc41d03b03efc9b55b907c3ce9bf2c466e251854) |
-| 2026-07-20 16:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reduce record index allocations](https://github.com/wowtrust/trustdb/pull/230) |
-| 2026-07-20 16:28 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Upgrade Go baseline to 1.26.5 for standard library security fixes](https://github.com/wowtrust/trustdb/issues/227) |
 
-_Latest indexed activity: 2026-07-24 04:14 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 05:39 UTC · checked automatically every 10 minutes_
