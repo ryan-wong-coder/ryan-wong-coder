@@ -2,11 +2,16 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 174 commits · 144 pull requests · 182 issues · newest first · maximum 500
+**500 entries** · 175 commits · 144 pull requests · 181 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-24 17:09 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdf): add optional hardware signing provider](https://github.com/wowtrust/trustdb/pull/575) |
+| 2026-07-24 19:08 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server](https://github.com/wowtrust/trustdb/issues/454) |
+| 2026-07-24 19:08 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(server): enable CN_SM_V1 evidence generation](https://github.com/wowtrust/trustdb/pull/576) |
+| 2026-07-24 19:08 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(server): enable CN_SM_V1 evidence generation (#576)](https://github.com/wowtrust/trustdb/commit/088ccedea4d60821a3c383086d43161676bae843) |
+| 2026-07-24 17:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an optional SDF hardware signing provider](https://github.com/wowtrust/trustdb/issues/453) |
+| 2026-07-24 17:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdf): add optional hardware signing provider](https://github.com/wowtrust/trustdb/pull/575) |
+| 2026-07-24 17:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdf): add optional hardware signing provider (#575)](https://github.com/wowtrust/trustdb/commit/6f14b427133644db508da996d999923506d04eb3) |
 | 2026-07-24 15:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a PKCS#11 signing provider](https://github.com/wowtrust/trustdb/issues/452) |
 | 2026-07-24 15:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(pkcs11): add isolated signing provider](https://github.com/wowtrust/trustdb/pull/574) |
 | 2026-07-24 15:18 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(pkcs11): add isolated signing provider (#574)](https://github.com/wowtrust/trustdb/commit/434c3a3e2887eac0cbd05deb775a121892a01fad) |
@@ -214,8 +219,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 and SM3 support to the Go SDK](https://github.com/wowtrust/trustdb/issues/456) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add .sproof v2 national-cryptography evidence and offline verification](https://github.com/wowtrust/trustdb/issues/455) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server](https://github.com/wowtrust/trustdb/issues/454) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an optional SDF hardware signing provider](https://github.com/wowtrust/trustdb/issues/453) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -503,8 +506,5 @@
 | 2026-07-20 17:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): load translations per locale](https://github.com/wowtrust/trustdb/pull/236) |
 | 2026-07-20 17:17 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): load translations per locale (#236)](https://github.com/wowtrust/trustdb/commit/dba537736faed497a46457ec40f325c760612f1f) |
 | 2026-07-20 17:15 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden terminal provider lifecycle](https://github.com/binaricat/Netcatty/commit/c1bcc438f99c40ebd7f916b9bb0d14bdf0763033) |
-| 2026-07-20 17:15 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden terminal provider lifecycle](https://github.com/DrOlu/Sensor/commit/c1bcc438f99c40ebd7f916b9bb0d14bdf0763033) |
-| 2026-07-20 17:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Reject truncated Merkle audit paths without panicking](https://github.com/wowtrust/trustdb/issues/232) |
-| 2026-07-20 17:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(merkle): reject truncated audit paths](https://github.com/wowtrust/trustdb/pull/234) |
 
-_Latest indexed activity: 2026-07-24 09:09 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 11:08 UTC · checked automatically every 10 minutes_

@@ -21,11 +21,65 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/088ccedea4d60821a3c383086d43161676bae843">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-light.svg" />
+    <img alt="COMMIT: feat(server): enable CN_SM_V1 evidence generation (#576)" src="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/454">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server" src="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/576">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-576-a7c8cdf04a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-576-a7c8cdf04a-light.svg" />
+    <img alt="PR MERGED: feat(server): enable CN_SM_V1 evidence generation" src="./assets/activity-cards/pr-wowtrust-trustdb-576-a7c8cdf04a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/842fcaa93e0e73c9ddf8ac8d989fbcde47aae1fd">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-842fcaa-d444e1c770-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-842fcaa-d444e1c770-light.svg" />
+    <img alt="COMMIT: fix(deps): bump github.com/ethereum/go-ethereum from 1.13.10 to 1.17.0 in /scripts/fisco-bcos/smoke-client (#571)" src="./assets/activity-cards/commit-wowtrust-trustdb-842fcaa-d444e1c770-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/6f14b427133644db508da996d999923506d04eb3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6f14b42-1fb9b08f12-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-6f14b42-1fb9b08f12-light.svg" />
+    <img alt="COMMIT: feat(sdf): add optional hardware signing provider (#575)" src="./assets/activity-cards/commit-wowtrust-trustdb-6f14b42-1fb9b08f12-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/453">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-453-16a6eec5bd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-453-16a6eec5bd-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add an optional SDF hardware signing provider" src="./assets/activity-cards/issue-wowtrust-trustdb-453-16a6eec5bd-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/pull/575">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-575-3cecd193db-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-575-3cecd193db-light.svg" />
-    <img alt="PR OPENED: feat(sdf): add optional hardware signing provider" src="./assets/activity-cards/pr-wowtrust-trustdb-575-3cecd193db-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-575-0d66f0095a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-575-0d66f0095a-light.svg" />
+    <img alt="PR MERGED: feat(sdf): add optional hardware signing provider" src="./assets/activity-cards/pr-wowtrust-trustdb-575-0d66f0095a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -35,60 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-434c3a3-09bae75fe6-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-434c3a3-09bae75fe6-light.svg" />
     <img alt="COMMIT: feat(pkcs11): add isolated signing provider (#574)" src="./assets/activity-cards/commit-wowtrust-trustdb-434c3a3-09bae75fe6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/452">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-452-4f38fbef53-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-452-4f38fbef53-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add a PKCS#11 signing provider" src="./assets/activity-cards/issue-wowtrust-trustdb-452-4f38fbef53-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/574">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-574-8881df0741-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-574-8881df0741-light.svg" />
-    <img alt="PR MERGED: feat(pkcs11): add isolated signing provider" src="./assets/activity-cards/pr-wowtrust-trustdb-574-8881df0741-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/9d670dad6179e728a74fa99296028f294679ee0a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9d670da-46033e0850-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9d670da-46033e0850-light.svg" />
-    <img alt="COMMIT: ci(pkcs11): trust job container workspace" src="./assets/activity-cards/commit-wowtrust-trustdb-9d670da-46033e0850-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/a23afc329877a73c3634c40edb3e14fb1909501c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a23afc3-6982b8d808-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-a23afc3-6982b8d808-light.svg" />
-    <img alt="COMMIT: ci(pkcs11): use qualified SoftHSM image" src="./assets/activity-cards/commit-wowtrust-trustdb-a23afc3-6982b8d808-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/abfeea27ead3d4839555fa2b5177c6beb35531ee">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-abfeea2-9936593d86-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-abfeea2-9936593d86-light.svg" />
-    <img alt="COMMIT: feat(bcos): add immutable TrustDBAnchorV1 contract (#573)" src="./assets/activity-cards/commit-wowtrust-trustdb-abfeea2-9936593d86-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/463">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-463-a35131eb39-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-463-a35131eb39-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add the immutable TrustDBAnchorV1 contract" src="./assets/activity-cards/issue-wowtrust-trustdb-463-a35131eb39-light.svg" width="100%" />
   </picture>
 </a>
 <br />
