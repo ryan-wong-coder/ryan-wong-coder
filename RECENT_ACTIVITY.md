@@ -6,10 +6,13 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-25 04:04 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(desktop): add national-cryptography identities and offline verification](https://github.com/wowtrust/trustdb/pull/582) |
+| 2026-07-25 02:55 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist BCOS transaction, receipt, and Merkle proof evidence](https://github.com/wowtrust/trustdb/issues/465) |
+| 2026-07-25 02:55 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): persist immutable anchor evidence](https://github.com/wowtrust/trustdb/pull/581) |
+| 2026-07-25 02:55 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): persist immutable anchor evidence (#581)](https://github.com/wowtrust/trustdb/commit/0ab321d4017f2666cff33fb514916b0387d3ab2c) |
 | 2026-07-25 02:44 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a TLCP and Guomi certificate transport profile](https://github.com/wowtrust/trustdb/issues/459) |
 | 2026-07-25 02:44 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(tlcp): add the Guomi transport profile](https://github.com/wowtrust/trustdb/pull/580) |
 | 2026-07-25 02:44 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(tlcp): add the Guomi transport profile (#580)](https://github.com/wowtrust/trustdb/commit/0b2daf371db20a3fe1657fc359ce9df0a47602ad) |
-| 2026-07-25 02:26 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): persist immutable anchor evidence](https://github.com/wowtrust/trustdb/pull/581) |
 | 2026-07-25 01:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a FISCO BCOS standard-crypto anchor client](https://github.com/wowtrust/trustdb/issues/464) |
 | 2026-07-25 01:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client](https://github.com/wowtrust/trustdb/pull/579) |
 | 2026-07-25 01:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client (#579)](https://github.com/wowtrust/trustdb/commit/b0d50176305ec670076d74713c6f8071b24ef0ec) |
@@ -225,7 +228,6 @@
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify PBFT block finality with a static trusted validator set](https://github.com/wowtrust/trustdb/issues/467) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS receipt inclusion offline](https://github.com/wowtrust/trustdb/issues/466) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist BCOS transaction, receipt, and Merkle proof evidence](https://github.com/wowtrust/trustdb/issues/465) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
@@ -504,7 +506,5 @@
 | 2026-07-20 17:55 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(http): reduce claim body allocations (#242)](https://github.com/wowtrust/trustdb/commit/253fc4a91c3d5a1b24dbd84ff7a975395e1f5b1b) |
 | 2026-07-20 17:55 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(http): reduce claim body allocations](https://github.com/wowtrust/trustdb/pull/242) |
 | 2026-07-20 17:32 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Optimize homepage artwork delivery](https://github.com/wowtrust/trustdb/issues/239) |
-| 2026-07-20 17:31 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): optimize homepage artwork](https://github.com/wowtrust/trustdb/pull/240) |
-| 2026-07-20 17:31 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): optimize homepage artwork (#240)](https://github.com/wowtrust/trustdb/commit/07f8aa7258c83492ca0c532a742091cfd19436a7) |
 
-_Latest indexed activity: 2026-07-24 18:44 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 20:04 UTC · checked automatically every 10 minutes_

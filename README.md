@@ -21,6 +21,51 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/pull/582">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-f0f825b365-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-582-f0f825b365-light.svg" />
+    <img alt="PR OPENED: feat(desktop): add national-cryptography identities and offline verification" src="./assets/activity-cards/pr-wowtrust-trustdb-582-f0f825b365-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/46f2ff640ca8444d3ecf06749a568d06c9ee8523">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-46f2ff6-5e16e2eba3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-46f2ff6-5e16e2eba3-light.svg" />
+    <img alt="COMMIT: ci(desktop): run Windows security tests" src="./assets/activity-cards/commit-wowtrust-trustdb-46f2ff6-5e16e2eba3-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/0ab321d4017f2666cff33fb514916b0387d3ab2c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ab321d-d35daa8b3b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ab321d-d35daa8b3b-light.svg" />
+    <img alt="COMMIT: feat(bcos): persist immutable anchor evidence (#581)" src="./assets/activity-cards/commit-wowtrust-trustdb-0ab321d-d35daa8b3b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/465">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-465-638c94a2de-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-465-638c94a2de-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Persist BCOS transaction, receipt, and Merkle proof evidence" src="./assets/activity-cards/issue-wowtrust-trustdb-465-638c94a2de-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/581">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-5f3dbe2f5a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-5f3dbe2f5a-light.svg" />
+    <img alt="PR MERGED: feat(bcos): persist immutable anchor evidence" src="./assets/activity-cards/pr-wowtrust-trustdb-581-5f3dbe2f5a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/126ce103b4e69e35b14d46c9fa56b877003aa061">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-126ce10-2f0da7c21a-dark.svg" />
@@ -44,51 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-light.svg" />
     <img alt="COMMIT: feat(tlcp): add the Guomi transport profile (#580)" src="./assets/activity-cards/commit-wowtrust-trustdb-0b2daf3-07cf75b65b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/580">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-580-6e7679a31b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-580-6e7679a31b-light.svg" />
-    <img alt="PR MERGED: feat(tlcp): add the Guomi transport profile" src="./assets/activity-cards/pr-wowtrust-trustdb-580-6e7679a31b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/df437c31712d95ffaf21b1b1a0bd8818af731f2a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-df437c3-b3c0624c85-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-df437c3-b3c0624c85-light.svg" />
-    <img alt="COMMIT: fix(desktop): record BCOS SDK checksums" src="./assets/activity-cards/commit-wowtrust-trustdb-df437c3-b3c0624c85-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/27febd8b26643cc7b9c001082a38729886e545c6">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27febd8-176458873f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-27febd8-176458873f-light.svg" />
-    <img alt="COMMIT: fix(ci): bind runtime image to OCI evidence" src="./assets/activity-cards/commit-wowtrust-trustdb-27febd8-176458873f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/581">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-a608e423d6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-581-a608e423d6-light.svg" />
-    <img alt="PR OPENED: feat(bcos): persist immutable anchor evidence" src="./assets/activity-cards/pr-wowtrust-trustdb-581-a608e423d6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/e82cc632d10bcbf3a7eacfd0f32960c7538fd1d7">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e82cc63-13becad166-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e82cc63-13becad166-light.svg" />
-    <img alt="COMMIT: fix(ci): verify pinned builder portably" src="./assets/activity-cards/commit-wowtrust-trustdb-e82cc63-13becad166-light.svg" width="100%" />
   </picture>
 </a>
 <br />
