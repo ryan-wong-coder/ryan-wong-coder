@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/commit/f596ffbedb6b6ee7d2558b9ab0f6c34635d20c75">
+<a href="https://github.com/wowtrust/trustdb/pull/568">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f596ffb-f54b747505-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f596ffb-f54b747505-light.svg" />
-    <img alt="COMMIT: feat(keystore): add SM2 key lifecycle support (#556)" src="./assets/activity-cards/commit-wowtrust-trustdb-f596ffb-f54b747505-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-568-136913377e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-568-136913377e-light.svg" />
+    <img alt="PR OPENED: feat(bcos): pin and verify FISCO BCOS compatibility baseline" src="./assets/activity-cards/pr-wowtrust-trustdb-568-136913377e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/450">
+<a href="https://github.com/wowtrust/trustdb/commit/1037efaaa7e78313a8cecd1113f8fe1ab3c0cee0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-450-1d12314c4a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-450-1d12314c4a-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add SM2 key lifecycle support to the registry and CLI" src="./assets/activity-cards/issue-wowtrust-trustdb-450-1d12314c4a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1037efa-36e0070b4b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1037efa-36e0070b4b-light.svg" />
+    <img alt="COMMIT: feat(crypto): add supervised signer plugins (#566)" src="./assets/activity-cards/commit-wowtrust-trustdb-1037efa-36e0070b4b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/556">
+<a href="https://github.com/wowtrust/trustdb/issues/552">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-556-ba6eb0ffb7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-556-ba6eb0ffb7-light.svg" />
-    <img alt="PR MERGED: feat(keystore): add SM2 key lifecycle support" src="./assets/activity-cards/pr-wowtrust-trustdb-556-ba6eb0ffb7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-552-61ed333081-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-552-61ed333081-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add supervised external signer plugins" src="./assets/activity-cards/issue-wowtrust-trustdb-552-61ed333081-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/f9ce0a99bd191089b68eae9f1e2a524b03c488d9">
+<a href="https://github.com/wowtrust/trustdb/pull/566">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f9ce0a9-8cf1b85b25-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f9ce0a9-8cf1b85b25-light.svg" />
-    <img alt="COMMIT: fix(keystore): allow Unix epoch key validity" src="./assets/activity-cards/commit-wowtrust-trustdb-f9ce0a9-8cf1b85b25-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-566-e299624430-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-566-e299624430-light.svg" />
+    <img alt="PR MERGED: feat(crypto): add supervised signer plugins" src="./assets/activity-cards/pr-wowtrust-trustdb-566-e299624430-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/557">
+<a href="https://github.com/wowtrust/trustdb/commit/fcb23d93ea5e5d6ca5e1fefa9563be0b5ea1ea87">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-557-9fa3205a87-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-557-9fa3205a87-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Add optional NATS ingress onboarding to the website" src="./assets/activity-cards/issue-wowtrust-trustdb-557-9fa3205a87-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fcb23d9-011ac02417-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fcb23d9-011ac02417-light.svg" />
+    <img alt="COMMIT: feat(crypto): add supervised signer plugins" src="./assets/activity-cards/commit-wowtrust-trustdb-fcb23d9-011ac02417-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/c3ef41e2f985c20d328b6f239e0cdb8b73f362f3">
+<a href="https://github.com/wowtrust/trustdb/commit/65fc272dcd5d41ead32605176bf5b9cb8885f8f1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c3ef41e-9c37f238d2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c3ef41e-9c37f238d2-light.svg" />
-    <img alt="COMMIT: fix(plugins): close provider integration gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-c3ef41e-9c37f238d2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-65fc272-bf75d50143-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-65fc272-bf75d50143-light.svg" />
+    <img alt="COMMIT: feat(crypto): add supervised signer plugins" src="./assets/activity-cards/commit-wowtrust-trustdb-65fc272-bf75d50143-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/554">
+<a href="https://github.com/wowtrust/trustdb/commit/93a2c85f2b7e82d1da54303fabba0c9603a3856f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-554-c4c0f27262-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-554-c4c0f27262-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Document optional NATS ingress operations and Go SDK usage" src="./assets/activity-cards/issue-wowtrust-trustdb-554-c4c0f27262-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-93a2c85-634959509e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-93a2c85-634959509e-light.svg" />
+    <img alt="COMMIT: feat(anchor): add anchor-system semantic facade (#564)" src="./assets/activity-cards/commit-wowtrust-trustdb-93a2c85-634959509e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/128b0a2ec6feb126dbd7968fb81e812acd91c9f3">
+<a href="https://github.com/wowtrust/trustdb/pull/564">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-128b0a2-49105df1eb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-128b0a2-49105df1eb-light.svg" />
-    <img alt="COMMIT: docs(nats): publish ingress operations guide (#555)" src="./assets/activity-cards/commit-wowtrust-trustdb-128b0a2-49105df1eb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-564-c4ede9b2c1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-564-c4ede9b2c1-light.svg" />
+    <img alt="PR MERGED: feat(anchor): add anchor-system semantic facade" src="./assets/activity-cards/pr-wowtrust-trustdb-564-c4ede9b2c1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
