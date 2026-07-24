@@ -21,11 +21,38 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/3810b2408bf5646b727aea5ff84194b58bfcb641">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3810b24-d761c996dc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3810b24-d761c996dc-light.svg" />
+    <img alt="COMMIT: fix(fiscobcos): stabilize the Windows native gate" src="./assets/activity-cards/commit-wowtrust-trustdb-3810b24-d761c996dc-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/2a5ff888250abfc023b68df2ae597965d90b03d7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-2a5ff88-696af341ea-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-2a5ff88-696af341ea-light.svg" />
+    <img alt="COMMIT: fix(fiscobcos): accept pinned Linux SDK metadata" src="./assets/activity-cards/commit-wowtrust-trustdb-2a5ff88-696af341ea-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/579">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-579-9cc9d788df-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-579-9cc9d788df-light.svg" />
+    <img alt="PR OPENED: feat(fiscobcos): add standard-crypto anchor client" src="./assets/activity-cards/pr-wowtrust-trustdb-579-9cc9d788df-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/7ed9b06940338ea7db39fb2a462679a49a1cd121">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-a3a3703c0f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-a3a3703c0f-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve plugin session auto logs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-a3a3703c0f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-33b2703a54-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-33b2703a54-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve plugin session auto logs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-33b2703a54-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -59,36 +86,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/21e5fedb1890ecc9f9119cf584b4fc3c62ecd247">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-6a1f3f9738-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-6a1f3f9738-light.svg" />
-    <img alt="COMMIT: fix(plugins): fail closed without secure host services" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-6a1f3f9738-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/2a1478e8b95d4e437056c6048dfe3077ab3d656b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-c457cca4fd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-c457cca4fd-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve provider request semantics" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-c457cca4fd-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/455">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-455-820ada28a5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-455-820ada28a5-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add .sproof v2 national-cryptography evidence and offline verification" src="./assets/activity-cards/issue-wowtrust-trustdb-455-820ada28a5-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/bc614a49bcabbda7c7bfbb14394db8d4dee176c5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-light.svg" />
-    <img alt="COMMIT: feat(sproof): add national-cryptography offline evidence v2 (#577)" src="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-837e06bb8a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-837e06bb8a-light.svg" />
+    <img alt="COMMIT: fix(plugins): fail closed without secure host services" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-837e06bb8a-light.svg" width="100%" />
   </picture>
 </a>
 <br />

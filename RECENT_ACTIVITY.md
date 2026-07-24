@@ -2,10 +2,11 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 175 commits · 145 pull requests · 180 issues · newest first · maximum 500
+**500 entries** · 174 commits · 146 pull requests · 180 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-25 00:16 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client](https://github.com/wowtrust/trustdb/pull/579) |
 | 2026-07-24 21:33 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 and SM3 support to the Go SDK](https://github.com/wowtrust/trustdb/issues/456) |
 | 2026-07-24 21:33 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add SM2 and SM3 support (#578)](https://github.com/wowtrust/trustdb/commit/e96a7bba183f3c4bfc85ac12d331c0267040c0a3) |
 | 2026-07-24 21:33 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add SM2 and SM3 support](https://github.com/wowtrust/trustdb/pull/578) |
@@ -505,6 +506,5 @@
 | 2026-07-20 17:31 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): unify terminal lifecycle state](https://github.com/DrOlu/Sensor/commit/b5f03df52e0c43cd15cf6bae5b543cffcb4c8fa3) |
 | 2026-07-20 17:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Restore the green check favicon on the website](https://github.com/wowtrust/trustdb/issues/237) |
 | 2026-07-20 17:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): restore green check favicon](https://github.com/wowtrust/trustdb/pull/238) |
-| 2026-07-20 17:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): restore green check favicon (#238)](https://github.com/wowtrust/trustdb/commit/fcfbf572318cf5932a60e86fbdd20bddfa231764) |
 
-_Latest indexed activity: 2026-07-24 13:33 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 16:16 UTC · checked automatically every 10 minutes_
