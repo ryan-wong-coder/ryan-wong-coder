@@ -21,11 +21,56 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/7ed9b06940338ea7db39fb2a462679a49a1cd121">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-05174b4b33-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-05174b4b33-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve plugin session auto logs" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-7ed9b06-05174b4b33-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/456">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-456-4339da5a40-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-456-4339da5a40-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add SM2 and SM3 support to the Go SDK" src="./assets/activity-cards/issue-wowtrust-trustdb-456-4339da5a40-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/e96a7bba183f3c4bfc85ac12d331c0267040c0a3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e96a7bb-e040821379-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e96a7bb-e040821379-light.svg" />
+    <img alt="COMMIT: feat(sdk): add SM2 and SM3 support (#578)" src="./assets/activity-cards/commit-wowtrust-trustdb-e96a7bb-e040821379-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/578">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-578-117fd9056a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-578-117fd9056a-light.svg" />
+    <img alt="PR MERGED: feat(sdk): add SM2 and SM3 support" src="./assets/activity-cards/pr-wowtrust-trustdb-578-117fd9056a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/21e5fedb1890ecc9f9119cf584b4fc3c62ecd247">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-96b55f9285-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-96b55f9285-light.svg" />
+    <img alt="COMMIT: fix(plugins): fail closed without secure host services" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-21e5fed-96b55f9285-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/2a1478e8b95d4e437056c6048dfe3077ab3d656b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b71d39790f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b71d39790f-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve provider request semantics" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b71d39790f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b2ddc97cc4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b2ddc97cc4-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve provider request semantics" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-2a1478e-b2ddc97cc4-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -44,51 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-light.svg" />
     <img alt="COMMIT: feat(sproof): add national-cryptography offline evidence v2 (#577)" src="./assets/activity-cards/commit-wowtrust-trustdb-bc614a4-011ca3e0f8-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/577">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-577-2267ad83f5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-577-2267ad83f5-light.svg" />
-    <img alt="PR MERGED: feat(sproof): add national-cryptography offline evidence v2" src="./assets/activity-cards/pr-wowtrust-trustdb-577-2267ad83f5-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/d5ee9969373d79019cb5c89f22d9a28b6ed0d139">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d5ee996-df2b28e857-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d5ee996-df2b28e857-light.svg" />
-    <img alt="COMMIT: fix(desktop): use valid sproof v2 fixtures" src="./assets/activity-cards/commit-wowtrust-trustdb-d5ee996-df2b28e857-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/4578e74c4dd3f2e9ecfa1b7bb7e47cbe906eb907">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4578e74-60c8488272-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-4578e74-60c8488272-light.svg" />
-    <img alt="COMMIT: fix(deps): bump golang.org/x/crypto in FISCO BCOS smoke client (#570)" src="./assets/activity-cards/commit-wowtrust-trustdb-4578e74-60c8488272-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/088ccedea4d60821a3c383086d43161676bae843">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-light.svg" />
-    <img alt="COMMIT: feat(server): enable CN_SM_V1 evidence generation (#576)" src="./assets/activity-cards/commit-wowtrust-trustdb-088cced-f969c04ac1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/454">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server" src="./assets/activity-cards/issue-wowtrust-trustdb-454-b0fa79d9cb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
