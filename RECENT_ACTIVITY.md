@@ -2,10 +2,17 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 174 commits · 142 pull requests · 184 issues · newest first · maximum 500
+**500 entries** · 174 commits · 144 pull requests · 182 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-24 17:09 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdf): add optional hardware signing provider](https://github.com/wowtrust/trustdb/pull/575) |
+| 2026-07-24 15:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a PKCS#11 signing provider](https://github.com/wowtrust/trustdb/issues/452) |
+| 2026-07-24 15:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(pkcs11): add isolated signing provider](https://github.com/wowtrust/trustdb/pull/574) |
+| 2026-07-24 15:18 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(pkcs11): add isolated signing provider (#574)](https://github.com/wowtrust/trustdb/commit/434c3a3e2887eac0cbd05deb775a121892a01fad) |
+| 2026-07-24 15:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add the immutable TrustDBAnchorV1 contract](https://github.com/wowtrust/trustdb/issues/463) |
+| 2026-07-24 15:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): add immutable TrustDBAnchorV1 contract](https://github.com/wowtrust/trustdb/pull/573) |
+| 2026-07-24 15:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): add immutable TrustDBAnchorV1 contract (#573)](https://github.com/wowtrust/trustdb/commit/abfeea27ead3d4839555fa2b5177c6beb35531ee) |
 | 2026-07-24 13:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Define the versioned FISCO BCOS anchor payload and trust configuration](https://github.com/wowtrust/trustdb/issues/462) |
 | 2026-07-24 13:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): define versioned anchor payload and trust config](https://github.com/wowtrust/trustdb/pull/572) |
 | 2026-07-24 13:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(bcos): define versioned anchor payload and trust config (#572)](https://github.com/wowtrust/trustdb/commit/bce84e1d43daaa2810612d2804e2e048eb5c1b3d) |
@@ -202,7 +209,6 @@
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS receipt inclusion offline](https://github.com/wowtrust/trustdb/issues/466) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist BCOS transaction, receipt, and Merkle proof evidence](https://github.com/wowtrust/trustdb/issues/465) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a FISCO BCOS standard-crypto anchor client](https://github.com/wowtrust/trustdb/issues/464) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add the immutable TrustDBAnchorV1 contract](https://github.com/wowtrust/trustdb/issues/463) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a TLCP and Guomi certificate transport profile](https://github.com/wowtrust/trustdb/issues/459) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add national-cryptography identities and verification to TrustDB Desktop](https://github.com/wowtrust/trustdb/issues/457) |
@@ -210,7 +216,6 @@
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add .sproof v2 national-cryptography evidence and offline verification](https://github.com/wowtrust/trustdb/issues/455) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server](https://github.com/wowtrust/trustdb/issues/454) |
 | 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an optional SDF hardware signing provider](https://github.com/wowtrust/trustdb/issues/453) |
-| 2026-07-22 18:38 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a PKCS#11 signing provider](https://github.com/wowtrust/trustdb/issues/452) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -501,10 +506,5 @@
 | 2026-07-20 17:15 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden terminal provider lifecycle](https://github.com/DrOlu/Sensor/commit/c1bcc438f99c40ebd7f916b9bb0d14bdf0763033) |
 | 2026-07-20 17:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Reject truncated Merkle audit paths without panicking](https://github.com/wowtrust/trustdb/issues/232) |
 | 2026-07-20 17:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(merkle): reject truncated audit paths](https://github.com/wowtrust/trustdb/pull/234) |
-| 2026-07-20 17:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(merkle): reject truncated audit paths (#234)](https://github.com/wowtrust/trustdb/commit/23776eb248d92fbd0176f61bf0b6df2a69dbd6e2) |
-| 2026-07-20 17:00 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Eliminate Merkle proof verification allocations](https://github.com/wowtrust/trustdb/issues/231) |
-| 2026-07-20 17:00 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(merkle): eliminate verify allocations (#233)](https://github.com/wowtrust/trustdb/commit/d97c4d6d2c8b3cb5d442a8d66e458d1a104980b9) |
-| 2026-07-20 17:00 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(merkle): eliminate verify allocations](https://github.com/wowtrust/trustdb/pull/233) |
-| 2026-07-20 16:50 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Performance\] Reduce record index token allocation overhead](https://github.com/wowtrust/trustdb/issues/229) |
 
-_Latest indexed activity: 2026-07-24 05:39 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 09:09 UTC · checked automatically every 10 minutes_
