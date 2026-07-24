@@ -21,6 +21,51 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/c588b08eb91a5bc8dc3ca3331aed27c36f06904e">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-light.svg" />
+    <img alt="COMMIT: fix(fiscobcos): reject zoned endpoint aliases" src="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/8060c63a748373a8de6fadeee858dc45c55cea2d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-light.svg" />
+    <img alt="COMMIT: fix(fiscobcos): harden native endpoint parsing" src="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/d3286ad88a5efbcab36ec3639632d94ddeb803a5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d3286ad-5214b51d85-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d3286ad-5214b51d85-light.svg" />
+    <img alt="COMMIT: fix(fiscobcos): reject legacy IP aliases" src="./assets/activity-cards/commit-wowtrust-trustdb-d3286ad-5214b51d85-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/7d04182c6f7527c7e13110c18665b1bf2309945b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7d04182-7d31b1176f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7d04182-7d31b1176f-light.svg" />
+    <img alt="COMMIT: test(fiscobcos): verify production smoke anchors" src="./assets/activity-cards/commit-wowtrust-trustdb-7d04182-7d31b1176f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/588">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-22236500ad-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-22236500ad-light.svg" />
+    <img alt="PR OPENED: feat(fiscobcos): support Guomi SM2 and SM3 networks" src="./assets/activity-cards/pr-wowtrust-trustdb-588-22236500ad-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/79da57a833e1559a79a9f5b6738d1432197c9239">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-dark.svg" />
@@ -39,56 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/d74d9ab72713cff7e601fb1f9aa729e4bea012bf">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d74d9ab-ad0633b19f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d74d9ab-ad0633b19f-light.svg" />
-    <img alt="COMMIT: test(crypto): add CN_SM_V1 interoperability gates (#586)" src="./assets/activity-cards/commit-wowtrust-trustdb-d74d9ab-ad0633b19f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/wowtrust/trustdb/pull/586">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-light.svg" />
     <img alt="PR MERGED: test(crypto): add CN_SM_V1 interoperability gates" src="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/b926d3c0302f15043d5a92fe4b85cf09939adcca">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-b926d3c-1ae02c3d34-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-b926d3c-1ae02c3d34-light.svg" />
-    <img alt="COMMIT: ci(crypto): require cross-platform CN_SM corpus gates" src="./assets/activity-cards/commit-wowtrust-trustdb-b926d3c-1ae02c3d34-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/03b5cc899acba2b89af4049d59222b3dceb2dfe5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-03b5cc8-a684f1acfc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-03b5cc8-a684f1acfc-light.svg" />
-    <img alt="COMMIT: fix(anchor): harden BCOS retry quorum recovery (#585)" src="./assets/activity-cards/commit-wowtrust-trustdb-03b5cc8-a684f1acfc-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/470">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-470-3234ed6423-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-470-3234ed6423-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Harden BCOS anchoring retries and multi-endpoint quorum reads" src="./assets/activity-cards/issue-wowtrust-trustdb-470-3234ed6423-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/585">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-585-d40b39edc3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-585-d40b39edc3-light.svg" />
-    <img alt="PR MERGED: fix(anchor): harden BCOS retry quorum recovery" src="./assets/activity-cards/pr-wowtrust-trustdb-585-d40b39edc3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
