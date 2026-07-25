@@ -6,7 +6,9 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-25 07:06 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks](https://github.com/wowtrust/trustdb/pull/588) |
+| 2026-07-25 07:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
+| 2026-07-25 07:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks (#588)](https://github.com/wowtrust/trustdb/commit/39a1f4fb83d9554dce32fcbc4ee541a755c04a6d) |
+| 2026-07-25 07:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks](https://github.com/wowtrust/trustdb/pull/588) |
 | 2026-07-25 06:06 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add cross-component CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/issues/460) |
 | 2026-07-25 06:06 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): add CN_SM_V1 interoperability gates (#586)](https://github.com/wowtrust/trustdb/commit/d74d9ab72713cff7e601fb1f9aa729e4bea012bf) |
 | 2026-07-25 06:06 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): add CN_SM_V1 interoperability gates](https://github.com/wowtrust/trustdb/pull/586) |
@@ -239,7 +241,6 @@
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add standard and Guomi four-node BCOS integration gates](https://github.com/wowtrust/trustdb/issues/471) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS validator-set transitions offline](https://github.com/wowtrust/trustdb/issues/469) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -505,6 +506,5 @@
 | 2026-07-20 18:25 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): avoid record page copies (#248)](https://github.com/wowtrust/trustdb/commit/485fd79fe3df801b15cf7cd1781421ab1bf2126c) |
 | 2026-07-20 18:25 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): avoid record page copies](https://github.com/wowtrust/trustdb/pull/248) |
 | 2026-07-20 18:19 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden terminal provider rendering](https://github.com/binaricat/Netcatty/commit/3ff40b4d2ed3e7372f838d06326740c130705a29) |
-| 2026-07-20 18:19 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden terminal provider rendering](https://github.com/DrOlu/Sensor/commit/3ff40b4d2ed3e7372f838d06326740c130705a29) |
 
-_Latest indexed activity: 2026-07-24 23:06 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-24 23:49 UTC · checked automatically every 10 minutes_

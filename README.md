@@ -21,6 +21,33 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/issues/468">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Support FISCO BCOS Guomi networks with SM2 and SM3" src="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/39a1f4fb83d9554dce32fcbc4ee541a755c04a6d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-39a1f4f-5092d98f8b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-39a1f4f-5092d98f8b-light.svg" />
+    <img alt="COMMIT: feat(fiscobcos): support Guomi SM2 and SM3 networks (#588)" src="./assets/activity-cards/commit-wowtrust-trustdb-39a1f4f-5092d98f8b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/588">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-8c41a797ac-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-8c41a797ac-light.svg" />
+    <img alt="PR MERGED: feat(fiscobcos): support Guomi SM2 and SM3 networks" src="./assets/activity-cards/pr-wowtrust-trustdb-588-8c41a797ac-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/c588b08eb91a5bc8dc3ca3331aed27c36f06904e">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-dark.svg" />
@@ -57,38 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/588">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-22236500ad-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-22236500ad-light.svg" />
-    <img alt="PR OPENED: feat(fiscobcos): support Guomi SM2 and SM3 networks" src="./assets/activity-cards/pr-wowtrust-trustdb-588-22236500ad-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/79da57a833e1559a79a9f5b6738d1432197c9239">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-light.svg" />
-    <img alt="COMMIT: fix(deps): bump brace-expansion from 2.1.2 to removed in /clients/desktop/frontend in the security-patches group across 1 directory (#587)" src="./assets/activity-cards/commit-wowtrust-trustdb-79da57a-7a33243d7e-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/wowtrust/trustdb/issues/460">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-light.svg" />
     <img alt="ISSUE CLOSED: [Task] Add cross-component CN_SM_V1 interoperability gates" src="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/586">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-light.svg" />
-    <img alt="PR MERGED: test(crypto): add CN_SM_V1 interoperability gates" src="./assets/activity-cards/pr-wowtrust-trustdb-586-52d2609aad-light.svg" width="100%" />
   </picture>
 </a>
 <br />
