@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/pull/592">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-f5c5214470-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-f5c5214470-light.svg" />
+    <img alt="PR OPENED: fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates" src="./assets/activity-cards/pr-wowtrust-trustdb-592-f5c5214470-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/FISCO-BCOS/go-sdk/pull/307">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-dark.svg" />
@@ -71,15 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-light.svg" />
     <img alt="ISSUE OPENED: Coverage workflow cannot provision tools from expired COS endpoints" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/FISCO-BCOS/go-sdk/pull/301">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-light.svg" />
-    <img alt="PR OPENED: fix(types): handle nil transaction data hash" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-light.svg" width="100%" />
   </picture>
 </a>
 <br />

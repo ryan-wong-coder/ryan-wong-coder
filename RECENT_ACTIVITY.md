@@ -6,6 +6,7 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-25 17:29 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates](https://github.com/wowtrust/trustdb/pull/592) |
 | 2026-07-25 15:52 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(test): advance block before checking account status](https://github.com/FISCO-BCOS/go-sdk/pull/307) |
 | 2026-07-25 15:29 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Auth integration test reads account status before the next block](https://github.com/FISCO-BCOS/go-sdk/issues/306) |
 | 2026-07-25 15:25 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(ci): externally link legacy macOS binaries](https://github.com/FISCO-BCOS/go-sdk/pull/305) |
@@ -505,6 +506,5 @@
 | 2026-07-20 19:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers (#256)](https://github.com/wowtrust/trustdb/commit/4dc5c541f1d49c0da85182b394621781d963259c) |
 | 2026-07-20 19:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers](https://github.com/wowtrust/trustdb/pull/256) |
 | 2026-07-20 19:01 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reuse claim signing input buffers](https://github.com/wowtrust/trustdb/issues/253) |
-| 2026-07-20 19:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): reuse signing input buffers](https://github.com/wowtrust/trustdb/pull/254) |
 
-_Latest indexed activity: 2026-07-25 07:52 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 09:29 UTC · checked automatically every 10 minutes_
