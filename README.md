@@ -21,6 +21,60 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/FISCO-BCOS/go-sdk/pull/307">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-light.svg" />
+    <img alt="PR OPENED: fix(test): advance block before checking account status" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/FISCO-BCOS/go-sdk/issues/306">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-306-5eff12c24e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-306-5eff12c24e-light.svg" />
+    <img alt="ISSUE OPENED: Auth integration test reads account status before the next block" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-306-5eff12c24e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/FISCO-BCOS/go-sdk/pull/305">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-light.svg" />
+    <img alt="PR OPENED: fix(ci): externally link legacy macOS binaries" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/FISCO-BCOS/go-sdk/issues/304">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-304-e2eddc177d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-304-e2eddc177d-light.svg" />
+    <img alt="ISSUE OPENED: macOS 26 CI aborts Go 1.21 and 1.22 binaries without LC_UUID" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-304-e2eddc177d-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/FISCO-BCOS/go-sdk/pull/303">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-303-5be3764091-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-303-5be3764091-light.svg" />
+    <img alt="PR OPENED: fix(ci): update coverage chain toolchain" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-303-5be3764091-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/FISCO-BCOS/go-sdk/issues/302">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-light.svg" />
+    <img alt="ISSUE OPENED: Coverage workflow cannot provision tools from expired COS endpoints" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/FISCO-BCOS/go-sdk/pull/301">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-dark.svg" />
@@ -30,65 +84,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/FISCO-BCOS/go-sdk/issues/300">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-300-50e84aedb4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-300-50e84aedb4-light.svg" />
-    <img alt="ISSUE OPENED: Transaction.WriteTo panics when optional DataHash is nil" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-300-50e84aedb4-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/wowtrust/trustdb/commit/ea0cfc1147ec97ad8892f7256076c70c7d539ea0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-light.svg" />
     <img alt="COMMIT: feat(fisco-bcos): verify validator-set transitions offline (#589)" src="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/469">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-469-27b4bf9463-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-469-27b4bf9463-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Verify FISCO BCOS validator-set transitions offline" src="./assets/activity-cards/issue-wowtrust-trustdb-469-27b4bf9463-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/589">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-589-160c4520a1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-589-160c4520a1-light.svg" />
-    <img alt="PR MERGED: feat(fisco-bcos): verify validator-set transitions offline" src="./assets/activity-cards/pr-wowtrust-trustdb-589-160c4520a1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/fb54eae2cfc35ea6072ac807e52dc068fbbcbc52">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fb54eae-9c6605e66b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fb54eae-9c6605e66b-light.svg" />
-    <img alt="COMMIT: docs(fisco-bcos): add checkpoint advancement workflow" src="./assets/activity-cards/commit-wowtrust-trustdb-fb54eae-9c6605e66b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/954bbeb41dead29905eeaf12263fa7654029130e">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-954bbeb-34f7b49fdc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-954bbeb-34f7b49fdc-light.svg" />
-    <img alt="COMMIT: fix(plugins): cancel connection starts and chunk input" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-954bbeb-34f7b49fdc-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/59088c14ac85548cd6eed809c3a5581b18fbec75">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59088c1-9397e96cf5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59088c1-9397e96cf5-light.svg" />
-    <img alt="COMMIT: fix(ci): tolerate empty FISCO Air readiness logs (#591)" src="./assets/activity-cards/commit-wowtrust-trustdb-59088c1-9397e96cf5-light.svg" width="100%" />
   </picture>
 </a>
 <br />

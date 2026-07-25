@@ -2,10 +2,16 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 175 commits · 150 pull requests · 175 issues · newest first · maximum 500
+**500 entries** · 171 commits · 152 pull requests · 177 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-25 15:52 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(test): advance block before checking account status](https://github.com/FISCO-BCOS/go-sdk/pull/307) |
+| 2026-07-25 15:29 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Auth integration test reads account status before the next block](https://github.com/FISCO-BCOS/go-sdk/issues/306) |
+| 2026-07-25 15:25 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(ci): externally link legacy macOS binaries](https://github.com/FISCO-BCOS/go-sdk/pull/305) |
+| 2026-07-25 15:22 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [macOS 26 CI aborts Go 1.21 and 1.22 binaries without LC_UUID](https://github.com/FISCO-BCOS/go-sdk/issues/304) |
+| 2026-07-25 15:16 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(ci): update coverage chain toolchain](https://github.com/FISCO-BCOS/go-sdk/pull/303) |
+| 2026-07-25 14:52 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Coverage workflow cannot provision tools from expired COS endpoints](https://github.com/FISCO-BCOS/go-sdk/issues/302) |
 | 2026-07-25 14:28 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(types): handle nil transaction data hash](https://github.com/FISCO-BCOS/go-sdk/pull/301) |
 | 2026-07-25 14:27 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Transaction.WriteTo panics when optional DataHash is nil](https://github.com/FISCO-BCOS/go-sdk/issues/300) |
 | 2026-07-25 13:16 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS validator-set transitions offline](https://github.com/wowtrust/trustdb/issues/469) |
@@ -500,11 +506,5 @@
 | 2026-07-20 19:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers](https://github.com/wowtrust/trustdb/pull/256) |
 | 2026-07-20 19:01 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reuse claim signing input buffers](https://github.com/wowtrust/trustdb/issues/253) |
 | 2026-07-20 19:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): reuse signing input buffers](https://github.com/wowtrust/trustdb/pull/254) |
-| 2026-07-20 19:01 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): reuse signing input buffers (#254)](https://github.com/wowtrust/trustdb/commit/d16f96813a2971eeefa510a78ba6026cac8913ab) |
-| 2026-07-20 18:53 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close terminal lifecycle races](https://github.com/binaricat/Netcatty/commit/4226304047c33727417a092e6dff3faffe26da36) |
-| 2026-07-20 18:53 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close terminal lifecycle races](https://github.com/DrOlu/Sensor/commit/4226304047c33727417a092e6dff3faffe26da36) |
-| 2026-07-20 18:51 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce SHA-256 byte hashing allocations](https://github.com/wowtrust/trustdb/issues/251) |
-| 2026-07-20 18:51 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(crypto): reduce byte hashing allocations (#252)](https://github.com/wowtrust/trustdb/commit/b61170f064e78ce416ea4a4ed910e138bfc910b7) |
-| 2026-07-20 18:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(crypto): reduce byte hashing allocations](https://github.com/wowtrust/trustdb/pull/252) |
 
-_Latest indexed activity: 2026-07-25 06:28 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 07:52 UTC · checked automatically every 10 minutes_
