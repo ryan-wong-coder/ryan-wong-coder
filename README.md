@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/f7c1e4311beff42c1aeaca02c07917cd0b01f1c4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-light.svg" />
+    <img alt="COMMIT: fix(ci): scope cross-platform admin authorization tests" src="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/601">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-c90f57f3b7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-c90f57f3b7-light.svg" />
+    <img alt="PR OPENED: feat(admin): add compliance-grade RBAC separation" src="./assets/activity-cards/pr-wowtrust-trustdb-601-c90f57f3b7-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/874fb255cce217fb1f21655de45d2f435908a596">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-d98706ec1e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-d98706ec1e-light.svg" />
+    <img alt="COMMIT: fix(plugins): bind connection providers by operation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-d98706ec1e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/60368b014776876ffdf623b8a7b819fcb5ff459b">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-9e3a379c67-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-9e3a379c67-light.svg" />
+    <img alt="COMMIT: fix(plugins): wait for provider readiness before connected state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-9e3a379c67-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/f78ff1250c63c5d9bab3d63f8e05b6675dec259e">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f78ff12-9ad85376d3-dark.svg" />
@@ -39,15 +75,6 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/7be883600bc5dec4d6315c4f18515f0586371ee4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7be8836-f49a49811b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7be8836-f49a49811b-light.svg" />
-    <img alt="COMMIT: feat(backup): add authenticated logical backup v5 (#600)" src="./assets/activity-cards/commit-wowtrust-trustdb-7be8836-f49a49811b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/wowtrust/trustdb/issues/473">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-dark.svg" />
@@ -62,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-600-a79fadc66f-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-600-a79fadc66f-light.svg" />
     <img alt="PR MERGED: feat(backup): add authenticated logical backup v5" src="./assets/activity-cards/pr-wowtrust-trustdb-600-a79fadc66f-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/0ee73d6626ae6b94e7a48ea3eb2a7ef04c898d03">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ee73d6-0a9964de83-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ee73d6-0a9964de83-light.svg" />
-    <img alt="COMMIT: fix(ci): cover durable BCOS changes in qualification gate (#595)" src="./assets/activity-cards/commit-wowtrust-trustdb-0ee73d6-0a9964de83-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/594">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-82e2b804fd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-82e2b804fd-light.svg" />
-    <img alt="ISSUE CLOSED: Fix FISCO BCOS qualification workflow path coverage" src="./assets/activity-cards/issue-wowtrust-trustdb-594-82e2b804fd-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/595">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-771cb397ce-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-771cb397ce-light.svg" />
-    <img alt="PR MERGED: fix(ci): cover durable BCOS changes in qualification gate" src="./assets/activity-cards/pr-wowtrust-trustdb-595-771cb397ce-light.svg" width="100%" />
   </picture>
 </a>
 <br />
