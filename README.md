@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/commit/1c09bd96696890248258ee2cae5903e219904536">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/53b47eec51bf5aff547d7e4ae6763325c51c6d56">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1c09bd9-8e46245647-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1c09bd9-8e46245647-light.svg" />
-    <img alt="COMMIT: fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates (#592)" src="./assets/activity-cards/commit-wowtrust-trustdb-1c09bd9-8e46245647-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-53b47ee-79430bf241-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-53b47ee-79430bf241-light.svg" />
+    <img alt="COMMIT: fix(plugins): close provider review gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-53b47ee-79430bf241-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/471">
+<a href="https://github.com/wowtrust/trustdb/pull/598">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-471-55016b9eb7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-471-55016b9eb7-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add standard and Guomi four-node BCOS integration gates" src="./assets/activity-cards/issue-wowtrust-trustdb-471-55016b9eb7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-598-40784d0c23-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-598-40784d0c23-light.svg" />
+    <img alt="PR OPENED: fix(config): expose WAL segment policy in YAML" src="./assets/activity-cards/pr-wowtrust-trustdb-598-40784d0c23-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/592">
+<a href="https://github.com/wowtrust/trustdb/issues/597">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-525dff4777-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-525dff4777-light.svg" />
-    <img alt="PR MERGED: fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates" src="./assets/activity-cards/pr-wowtrust-trustdb-592-525dff4777-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-597-f9f7196217-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-597-f9f7196217-light.svg" />
+    <img alt="ISSUE OPENED: Allow WAL segment rotation and retention in YAML configuration" src="./assets/activity-cards/issue-wowtrust-trustdb-597-f9f7196217-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/d761ac8d04471d73fefdb3deb737bf80a322c6be">
+<a href="https://github.com/wowtrust/trustdb/issues/596">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d761ac8-5c547e1e90-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d761ac8-5c547e1e90-light.svg" />
-    <img alt="COMMIT: test(fisco-bcos): make unknown-outcome injection deterministic in live qualification" src="./assets/activity-cards/commit-wowtrust-trustdb-d761ac8-5c547e1e90-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-596-1a16ad685d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-596-1a16ad685d-light.svg" />
+    <img alt="ISSUE OPENED: Refresh comprehensive Chinese user and operations documentation" src="./assets/activity-cards/issue-wowtrust-trustdb-596-1a16ad685d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/d39b052d2fee68c8a435f3bb3c5af9a66468a891">
+<a href="https://github.com/wowtrust/trustdb/pull/595">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d39b052-585ca4e2e1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d39b052-585ca4e2e1-light.svg" />
-    <img alt="COMMIT: chore(desktop): tidy module sums for native BCOS test dependencies" src="./assets/activity-cards/commit-wowtrust-trustdb-d39b052-585ca4e2e1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-14c6252ab8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-14c6252ab8-light.svg" />
+    <img alt="PR OPENED: fix(ci): cover durable BCOS changes in qualification gate" src="./assets/activity-cards/pr-wowtrust-trustdb-595-14c6252ab8-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/FISCO-BCOS/go-sdk/pull/307">
+<a href="https://github.com/wowtrust/trustdb/issues/594">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-light.svg" />
-    <img alt="PR OPENED: fix(test): advance block before checking account status" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-307-b51321981a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-9d005e048a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-9d005e048a-light.svg" />
+    <img alt="ISSUE OPENED: Fix FISCO BCOS qualification workflow path coverage" src="./assets/activity-cards/issue-wowtrust-trustdb-594-9d005e048a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/FISCO-BCOS/go-sdk/issues/306">
+<a href="https://github.com/wowtrust/trustdb/commit/1a994a426295d38064cc0d0c0c547a3ee2bafc54">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-306-5eff12c24e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-306-5eff12c24e-light.svg" />
-    <img alt="ISSUE OPENED: Auth integration test reads account status before the next block" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-306-5eff12c24e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1a994a4-fb710004e7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1a994a4-fb710004e7-light.svg" />
+    <img alt="COMMIT: docs(fisco-bcos): add operator runbook for deployment, custody, and recovery (#593)" src="./assets/activity-cards/commit-wowtrust-trustdb-1a994a4-fb710004e7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/FISCO-BCOS/go-sdk/pull/305">
+<a href="https://github.com/wowtrust/trustdb/pull/593">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-light.svg" />
-    <img alt="PR OPENED: fix(ci): externally link legacy macOS binaries" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-593-a7fcb4f6c5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-593-a7fcb4f6c5-light.svg" />
+    <img alt="PR MERGED: docs(fisco-bcos): add operator runbook for deployment, custody, and recovery" src="./assets/activity-cards/pr-wowtrust-trustdb-593-a7fcb4f6c5-light.svg" width="100%" />
   </picture>
 </a>
 <br />

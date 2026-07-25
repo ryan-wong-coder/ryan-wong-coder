@@ -2,10 +2,18 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 172 commits · 152 pull requests · 176 issues · newest first · maximum 500
+**500 entries** · 169 commits · 153 pull requests · 178 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-25 21:22 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(config): expose WAL segment policy in YAML](https://github.com/wowtrust/trustdb/pull/598) |
+| 2026-07-25 21:13 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Allow WAL segment rotation and retention in YAML configuration](https://github.com/wowtrust/trustdb/issues/597) |
+| 2026-07-25 20:53 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation](https://github.com/wowtrust/trustdb/issues/596) |
+| 2026-07-25 20:53 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): cover durable BCOS changes in qualification gate](https://github.com/wowtrust/trustdb/pull/595) |
+| 2026-07-25 20:51 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix FISCO BCOS qualification workflow path coverage](https://github.com/wowtrust/trustdb/issues/594) |
+| 2026-07-25 20:32 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
+| 2026-07-25 20:32 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(fisco-bcos): add operator runbook for deployment, custody, and recovery (#593)](https://github.com/wowtrust/trustdb/commit/1a994a426295d38064cc0d0c0c547a3ee2bafc54) |
+| 2026-07-25 20:32 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(fisco-bcos): add operator runbook for deployment, custody, and recovery](https://github.com/wowtrust/trustdb/pull/593) |
 | 2026-07-25 19:19 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add standard and Guomi four-node BCOS integration gates](https://github.com/wowtrust/trustdb/issues/471) |
 | 2026-07-25 19:19 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates](https://github.com/wowtrust/trustdb/pull/592) |
 | 2026-07-25 19:19 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates (#592)](https://github.com/wowtrust/trustdb/commit/1c09bd96696890248258ee2cae5903e219904536) |
@@ -255,7 +263,6 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add compliance-grade RBAC and administrative separation controls](https://github.com/wowtrust/trustdb/issues/475) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add optional SM4 protection for WAL, object, and proofstore payloads](https://github.com/wowtrust/trustdb/issues/474) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -499,12 +506,5 @@
 | 2026-07-20 19:47 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve terminal transport identity](https://github.com/binaricat/Netcatty/commit/8d364abe046b714c288bac5eb9db30b3c427530e) |
 | 2026-07-20 19:47 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve terminal transport identity](https://github.com/DrOlu/Sensor/commit/8d364abe046b714c288bac5eb9db30b3c427530e) |
 | 2026-07-20 19:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Eliminate per-append WAL record allocation](https://github.com/wowtrust/trustdb/issues/257) |
-| 2026-07-20 19:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse record encoding buffer](https://github.com/wowtrust/trustdb/pull/258) |
-| 2026-07-20 19:39 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse record encoding buffer (#258)](https://github.com/wowtrust/trustdb/commit/f7251acebd207b0664fd3aa7bdb398240abf12b3) |
-| 2026-07-20 19:20 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): align terminal provider lifecycle](https://github.com/binaricat/Netcatty/commit/af379a75eeeb18e7e4ea010c70d7eeb572972a0e) |
-| 2026-07-20 19:20 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): align terminal provider lifecycle](https://github.com/DrOlu/Sensor/commit/af379a75eeeb18e7e4ea010c70d7eeb572972a0e) |
-| 2026-07-20 19:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Encode claims directly into signing buffers](https://github.com/wowtrust/trustdb/issues/255) |
-| 2026-07-20 19:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers (#256)](https://github.com/wowtrust/trustdb/commit/4dc5c541f1d49c0da85182b394621781d963259c) |
-| 2026-07-20 19:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers](https://github.com/wowtrust/trustdb/pull/256) |
 
-_Latest indexed activity: 2026-07-25 11:19 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 13:22 UTC · checked automatically every 10 minutes_
