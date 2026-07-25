@@ -2,10 +2,13 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 170 commits · 153 pull requests · 177 issues · newest first · maximum 500
+**500 entries** · 170 commits · 154 pull requests · 176 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-26 00:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
+| 2026-07-26 00:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(backup): add authenticated logical backup v5](https://github.com/wowtrust/trustdb/pull/600) |
+| 2026-07-26 00:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(backup): add authenticated logical backup v5 (#600)](https://github.com/wowtrust/trustdb/commit/7be883600bc5dec4d6315c4f18515f0586371ee4) |
 | 2026-07-25 22:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix FISCO BCOS qualification workflow path coverage](https://github.com/wowtrust/trustdb/issues/594) |
 | 2026-07-25 22:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): cover durable BCOS changes in qualification gate](https://github.com/wowtrust/trustdb/pull/595) |
 | 2026-07-25 22:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): cover durable BCOS changes in qualification gate (#595)](https://github.com/wowtrust/trustdb/commit/0ee73d6626ae6b94e7a48ea3eb2a7ef04c898d03) |
@@ -266,7 +269,6 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable security audit events and trusted-time evidence](https://github.com/wowtrust/trustdb/issues/476) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add compliance-grade RBAC and administrative separation controls](https://github.com/wowtrust/trustdb/issues/475) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add optional SM4 protection for WAL, object, and proofstore payloads](https://github.com/wowtrust/trustdb/issues/474) |
-| 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -504,7 +506,5 @@
 | 2026-07-20 19:54 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Bench smoke flakes on asynchronous immediate queries](https://github.com/wowtrust/trustdb/issues/261) |
 | 2026-07-20 19:54 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): allow async immediate bench query (#262)](https://github.com/wowtrust/trustdb/commit/91b03348b2a3471af861e33e2c8ac10395311b8a) |
 | 2026-07-20 19:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): allow async immediate bench query](https://github.com/wowtrust/trustdb/pull/262) |
-| 2026-07-20 19:50 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Encode deterministic CBOR directly into caller buffers](https://github.com/wowtrust/trustdb/issues/259) |
-| 2026-07-20 19:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(cbor): encode directly into caller buffers (#260)](https://github.com/wowtrust/trustdb/commit/abb455612797b1a1a1569969854aeb6d2f81a936) |
 
-_Latest indexed activity: 2026-07-25 14:49 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 16:22 UTC · checked automatically every 10 minutes_
