@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/a08e7c6af3a4235d11c7a7d5b1d33d2dc7eba4d9">
+<a href="https://github.com/FISCO-BCOS/go-sdk/pull/301">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-a08e7c6-e4d614eb1b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-a08e7c6-e4d614eb1b-light.svg" />
-    <img alt="COMMIT: fix(plugins): type streamed provider registrations" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-a08e7c6-e4d614eb1b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-light.svg" />
+    <img alt="PR OPENED: fix(types): handle nil transaction data hash" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-301-9a84e97b7c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3b56a64604bf6730149a26dcd6707d81e1fd3322">
+<a href="https://github.com/FISCO-BCOS/go-sdk/issues/300">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3b56a64-ea88d40ac0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3b56a64-ea88d40ac0-light.svg" />
-    <img alt="COMMIT: fix(plugins): preserve plugin protocol selection" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3b56a64-ea88d40ac0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-300-50e84aedb4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-300-50e84aedb4-light.svg" />
+    <img alt="ISSUE OPENED: Transaction.WriteTo panics when optional DataHash is nil" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-300-50e84aedb4-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/468">
+<a href="https://github.com/wowtrust/trustdb/commit/ea0cfc1147ec97ad8892f7256076c70c7d539ea0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Support FISCO BCOS Guomi networks with SM2 and SM3" src="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-light.svg" />
+    <img alt="COMMIT: feat(fisco-bcos): verify validator-set transitions offline (#589)" src="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/39a1f4fb83d9554dce32fcbc4ee541a755c04a6d">
+<a href="https://github.com/wowtrust/trustdb/issues/469">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-39a1f4f-5092d98f8b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-39a1f4f-5092d98f8b-light.svg" />
-    <img alt="COMMIT: feat(fiscobcos): support Guomi SM2 and SM3 networks (#588)" src="./assets/activity-cards/commit-wowtrust-trustdb-39a1f4f-5092d98f8b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-469-27b4bf9463-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-469-27b4bf9463-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Verify FISCO BCOS validator-set transitions offline" src="./assets/activity-cards/issue-wowtrust-trustdb-469-27b4bf9463-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/588">
+<a href="https://github.com/wowtrust/trustdb/pull/589">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-8c41a797ac-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-588-8c41a797ac-light.svg" />
-    <img alt="PR MERGED: feat(fiscobcos): support Guomi SM2 and SM3 networks" src="./assets/activity-cards/pr-wowtrust-trustdb-588-8c41a797ac-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-589-160c4520a1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-589-160c4520a1-light.svg" />
+    <img alt="PR MERGED: feat(fisco-bcos): verify validator-set transitions offline" src="./assets/activity-cards/pr-wowtrust-trustdb-589-160c4520a1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/c588b08eb91a5bc8dc3ca3331aed27c36f06904e">
+<a href="https://github.com/wowtrust/trustdb/commit/fb54eae2cfc35ea6072ac807e52dc068fbbcbc52">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-light.svg" />
-    <img alt="COMMIT: fix(fiscobcos): reject zoned endpoint aliases" src="./assets/activity-cards/commit-wowtrust-trustdb-c588b08-acda4a2e02-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fb54eae-9c6605e66b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-fb54eae-9c6605e66b-light.svg" />
+    <img alt="COMMIT: docs(fisco-bcos): add checkpoint advancement workflow" src="./assets/activity-cards/commit-wowtrust-trustdb-fb54eae-9c6605e66b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/8060c63a748373a8de6fadeee858dc45c55cea2d">
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/954bbeb41dead29905eeaf12263fa7654029130e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-light.svg" />
-    <img alt="COMMIT: fix(fiscobcos): harden native endpoint parsing" src="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-954bbeb-34f7b49fdc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-954bbeb-34f7b49fdc-light.svg" />
+    <img alt="COMMIT: fix(plugins): cancel connection starts and chunk input" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-954bbeb-34f7b49fdc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/460">
+<a href="https://github.com/wowtrust/trustdb/commit/59088c14ac85548cd6eed809c3a5581b18fbec75">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add cross-component CN_SM_V1 interoperability gates" src="./assets/activity-cards/issue-wowtrust-trustdb-460-c39f544f53-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59088c1-9397e96cf5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59088c1-9397e96cf5-light.svg" />
+    <img alt="COMMIT: fix(ci): tolerate empty FISCO Air readiness logs (#591)" src="./assets/activity-cards/commit-wowtrust-trustdb-59088c1-9397e96cf5-light.svg" width="100%" />
   </picture>
 </a>
 <br />

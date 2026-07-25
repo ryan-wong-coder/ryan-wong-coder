@@ -2,10 +2,18 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 176 commits · 149 pull requests · 175 issues · newest first · maximum 500
+**500 entries** · 175 commits · 150 pull requests · 175 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-25 14:28 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(types): handle nil transaction data hash](https://github.com/FISCO-BCOS/go-sdk/pull/301) |
+| 2026-07-25 14:27 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Transaction.WriteTo panics when optional DataHash is nil](https://github.com/FISCO-BCOS/go-sdk/issues/300) |
+| 2026-07-25 13:16 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS validator-set transitions offline](https://github.com/wowtrust/trustdb/issues/469) |
+| 2026-07-25 13:16 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fisco-bcos): verify validator-set transitions offline](https://github.com/wowtrust/trustdb/pull/589) |
+| 2026-07-25 13:16 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fisco-bcos): verify validator-set transitions offline (#589)](https://github.com/wowtrust/trustdb/commit/ea0cfc1147ec97ad8892f7256076c70c7d539ea0) |
+| 2026-07-25 13:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Handle empty FISCO Air readiness logs without crashing](https://github.com/wowtrust/trustdb/issues/590) |
+| 2026-07-25 13:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): tolerate empty FISCO Air readiness logs](https://github.com/wowtrust/trustdb/pull/591) |
+| 2026-07-25 13:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): tolerate empty FISCO Air readiness logs (#591)](https://github.com/wowtrust/trustdb/commit/59088c14ac85548cd6eed809c3a5581b18fbec75) |
 | 2026-07-25 07:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
 | 2026-07-25 07:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks (#588)](https://github.com/wowtrust/trustdb/commit/39a1f4fb83d9554dce32fcbc4ee541a755c04a6d) |
 | 2026-07-25 07:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks](https://github.com/wowtrust/trustdb/pull/588) |
@@ -240,7 +248,6 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add standard and Guomi four-node BCOS integration gates](https://github.com/wowtrust/trustdb/issues/471) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Verify FISCO BCOS validator-set transitions offline](https://github.com/wowtrust/trustdb/issues/469) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -499,12 +506,5 @@
 | 2026-07-20 18:51 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce SHA-256 byte hashing allocations](https://github.com/wowtrust/trustdb/issues/251) |
 | 2026-07-20 18:51 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(crypto): reduce byte hashing allocations (#252)](https://github.com/wowtrust/trustdb/commit/b61170f064e78ce416ea4a4ed910e138bfc910b7) |
 | 2026-07-20 18:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(crypto): reduce byte hashing allocations](https://github.com/wowtrust/trustdb/pull/252) |
-| 2026-07-20 18:38 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Native Go SDK log streams ignore signing concurrency](https://github.com/wowtrust/trustdb/issues/249) |
-| 2026-07-20 18:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): honor native stream concurrency (#250)](https://github.com/wowtrust/trustdb/commit/dd9d89928c23b493b10b7dfff1bd8c17eb58f1bf) |
-| 2026-07-20 18:38 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): honor native stream concurrency](https://github.com/wowtrust/trustdb/pull/250) |
-| 2026-07-20 18:25 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Avoid duplicate Go SDK record page copies](https://github.com/wowtrust/trustdb/issues/247) |
-| 2026-07-20 18:25 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): avoid record page copies (#248)](https://github.com/wowtrust/trustdb/commit/485fd79fe3df801b15cf7cd1781421ab1bf2126c) |
-| 2026-07-20 18:25 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): avoid record page copies](https://github.com/wowtrust/trustdb/pull/248) |
-| 2026-07-20 18:19 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden terminal provider rendering](https://github.com/binaricat/Netcatty/commit/3ff40b4d2ed3e7372f838d06326740c130705a29) |
 
-_Latest indexed activity: 2026-07-24 23:49 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 06:28 UTC · checked automatically every 10 minutes_
