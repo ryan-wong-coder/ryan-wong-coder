@@ -21,11 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/1c09bd96696890248258ee2cae5903e219904536">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1c09bd9-8e46245647-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1c09bd9-8e46245647-light.svg" />
+    <img alt="COMMIT: fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates (#592)" src="./assets/activity-cards/commit-wowtrust-trustdb-1c09bd9-8e46245647-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/471">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-471-55016b9eb7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-471-55016b9eb7-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Add standard and Guomi four-node BCOS integration gates" src="./assets/activity-cards/issue-wowtrust-trustdb-471-55016b9eb7-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/pull/592">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-f5c5214470-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-f5c5214470-light.svg" />
-    <img alt="PR OPENED: fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates" src="./assets/activity-cards/pr-wowtrust-trustdb-592-f5c5214470-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-525dff4777-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-592-525dff4777-light.svg" />
+    <img alt="PR MERGED: fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates" src="./assets/activity-cards/pr-wowtrust-trustdb-592-525dff4777-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/d761ac8d04471d73fefdb3deb737bf80a322c6be">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d761ac8-5c547e1e90-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d761ac8-5c547e1e90-light.svg" />
+    <img alt="COMMIT: test(fisco-bcos): make unknown-outcome injection deterministic in live qualification" src="./assets/activity-cards/commit-wowtrust-trustdb-d761ac8-5c547e1e90-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/d39b052d2fee68c8a435f3bb3c5af9a66468a891">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d39b052-585ca4e2e1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d39b052-585ca4e2e1-light.svg" />
+    <img alt="COMMIT: chore(desktop): tidy module sums for native BCOS test dependencies" src="./assets/activity-cards/commit-wowtrust-trustdb-d39b052-585ca4e2e1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-light.svg" />
     <img alt="PR OPENED: fix(ci): externally link legacy macOS binaries" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-305-dc5581718a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/FISCO-BCOS/go-sdk/issues/304">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-304-e2eddc177d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-304-e2eddc177d-light.svg" />
-    <img alt="ISSUE OPENED: macOS 26 CI aborts Go 1.21 and 1.22 binaries without LC_UUID" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-304-e2eddc177d-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/FISCO-BCOS/go-sdk/pull/303">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-303-5be3764091-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-fisco-bcos-go-sdk-303-5be3764091-light.svg" />
-    <img alt="PR OPENED: fix(ci): update coverage chain toolchain" src="./assets/activity-cards/pr-fisco-bcos-go-sdk-303-5be3764091-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/FISCO-BCOS/go-sdk/issues/302">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-light.svg" />
-    <img alt="ISSUE OPENED: Coverage workflow cannot provision tools from expired COS endpoints" src="./assets/activity-cards/issue-fisco-bcos-go-sdk-302-f58c378d7c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/ea0cfc1147ec97ad8892f7256076c70c7d539ea0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-light.svg" />
-    <img alt="COMMIT: feat(fisco-bcos): verify validator-set transitions offline (#589)" src="./assets/activity-cards/commit-wowtrust-trustdb-ea0cfc1-fe42cb9784-light.svg" width="100%" />
   </picture>
 </a>
 <br />

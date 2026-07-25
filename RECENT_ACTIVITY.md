@@ -2,11 +2,13 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 171 commits · 152 pull requests · 177 issues · newest first · maximum 500
+**500 entries** · 172 commits · 152 pull requests · 176 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-25 17:29 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates](https://github.com/wowtrust/trustdb/pull/592) |
+| 2026-07-25 19:19 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add standard and Guomi four-node BCOS integration gates](https://github.com/wowtrust/trustdb/issues/471) |
+| 2026-07-25 19:19 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates](https://github.com/wowtrust/trustdb/pull/592) |
+| 2026-07-25 19:19 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(fisco-bcos): bind genesis checkpoint by chain identity and add four-node offline qualification gates (#592)](https://github.com/wowtrust/trustdb/commit/1c09bd96696890248258ee2cae5903e219904536) |
 | 2026-07-25 15:52 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(test): advance block before checking account status](https://github.com/FISCO-BCOS/go-sdk/pull/307) |
 | 2026-07-25 15:29 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Auth integration test reads account status before the next block](https://github.com/FISCO-BCOS/go-sdk/issues/306) |
 | 2026-07-25 15:25 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(ci): externally link legacy macOS binaries](https://github.com/FISCO-BCOS/go-sdk/pull/305) |
@@ -254,7 +256,6 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add optional SM4 protection for WAL, object, and proofstore payloads](https://github.com/wowtrust/trustdb/issues/474) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
 | 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
-| 2026-07-22 18:40 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add standard and Guomi four-node BCOS integration gates](https://github.com/wowtrust/trustdb/issues/471) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
@@ -505,6 +506,5 @@
 | 2026-07-20 19:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Encode claims directly into signing buffers](https://github.com/wowtrust/trustdb/issues/255) |
 | 2026-07-20 19:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers (#256)](https://github.com/wowtrust/trustdb/commit/4dc5c541f1d49c0da85182b394621781d963259c) |
 | 2026-07-20 19:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers](https://github.com/wowtrust/trustdb/pull/256) |
-| 2026-07-20 19:01 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reuse claim signing input buffers](https://github.com/wowtrust/trustdb/issues/253) |
 
-_Latest indexed activity: 2026-07-25 09:29 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 11:19 UTC · checked automatically every 10 minutes_
