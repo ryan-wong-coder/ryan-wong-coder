@@ -2,15 +2,19 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 169 commits · 153 pull requests · 178 issues · newest first · maximum 500
+**500 entries** · 170 commits · 153 pull requests · 177 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-25 21:22 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(config): expose WAL segment policy in YAML](https://github.com/wowtrust/trustdb/pull/598) |
-| 2026-07-25 21:13 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Allow WAL segment rotation and retention in YAML configuration](https://github.com/wowtrust/trustdb/issues/597) |
-| 2026-07-25 20:53 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation](https://github.com/wowtrust/trustdb/issues/596) |
-| 2026-07-25 20:53 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): cover durable BCOS changes in qualification gate](https://github.com/wowtrust/trustdb/pull/595) |
-| 2026-07-25 20:51 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix FISCO BCOS qualification workflow path coverage](https://github.com/wowtrust/trustdb/issues/594) |
+| 2026-07-25 22:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix FISCO BCOS qualification workflow path coverage](https://github.com/wowtrust/trustdb/issues/594) |
+| 2026-07-25 22:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): cover durable BCOS changes in qualification gate](https://github.com/wowtrust/trustdb/pull/595) |
+| 2026-07-25 22:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): cover durable BCOS changes in qualification gate (#595)](https://github.com/wowtrust/trustdb/commit/0ee73d6626ae6b94e7a48ea3eb2a7ef04c898d03) |
+| 2026-07-25 22:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Allow WAL segment rotation and retention in YAML configuration](https://github.com/wowtrust/trustdb/issues/597) |
+| 2026-07-25 22:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(config): expose WAL segment policy in YAML (#598)](https://github.com/wowtrust/trustdb/commit/811d97d8c682131a2540c80951104297ef8a1b90) |
+| 2026-07-25 22:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(config): expose WAL segment policy in YAML](https://github.com/wowtrust/trustdb/pull/598) |
+| 2026-07-25 22:42 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation](https://github.com/wowtrust/trustdb/issues/596) |
+| 2026-07-25 22:42 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation](https://github.com/wowtrust/trustdb/pull/599) |
+| 2026-07-25 22:42 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation (#599)](https://github.com/wowtrust/trustdb/commit/48317bedf9b46526d65bddbf93071aa8dc2906d0) |
 | 2026-07-25 20:32 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
 | 2026-07-25 20:32 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(fisco-bcos): add operator runbook for deployment, custody, and recovery (#593)](https://github.com/wowtrust/trustdb/commit/1a994a426295d38064cc0d0c0c547a3ee2bafc54) |
 | 2026-07-25 20:32 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(fisco-bcos): add operator runbook for deployment, custody, and recovery](https://github.com/wowtrust/trustdb/pull/593) |
@@ -502,9 +506,5 @@
 | 2026-07-20 19:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): allow async immediate bench query](https://github.com/wowtrust/trustdb/pull/262) |
 | 2026-07-20 19:50 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Encode deterministic CBOR directly into caller buffers](https://github.com/wowtrust/trustdb/issues/259) |
 | 2026-07-20 19:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(cbor): encode directly into caller buffers (#260)](https://github.com/wowtrust/trustdb/commit/abb455612797b1a1a1569969854aeb6d2f81a936) |
-| 2026-07-20 19:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(cbor): encode directly into caller buffers](https://github.com/wowtrust/trustdb/pull/260) |
-| 2026-07-20 19:47 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve terminal transport identity](https://github.com/binaricat/Netcatty/commit/8d364abe046b714c288bac5eb9db30b3c427530e) |
-| 2026-07-20 19:47 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve terminal transport identity](https://github.com/DrOlu/Sensor/commit/8d364abe046b714c288bac5eb9db30b3c427530e) |
-| 2026-07-20 19:39 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Eliminate per-append WAL record allocation](https://github.com/wowtrust/trustdb/issues/257) |
 
-_Latest indexed activity: 2026-07-25 13:22 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-25 14:49 UTC · checked automatically every 10 minutes_

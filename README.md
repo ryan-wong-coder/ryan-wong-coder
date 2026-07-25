@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/53b47eec51bf5aff547d7e4ae6763325c51c6d56">
+<a href="https://github.com/wowtrust/trustdb/commit/0ee73d6626ae6b94e7a48ea3eb2a7ef04c898d03">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-53b47ee-79430bf241-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-53b47ee-79430bf241-light.svg" />
-    <img alt="COMMIT: fix(plugins): close provider review gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-53b47ee-79430bf241-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/598">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-598-40784d0c23-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-598-40784d0c23-light.svg" />
-    <img alt="PR OPENED: fix(config): expose WAL segment policy in YAML" src="./assets/activity-cards/pr-wowtrust-trustdb-598-40784d0c23-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/597">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-597-f9f7196217-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-597-f9f7196217-light.svg" />
-    <img alt="ISSUE OPENED: Allow WAL segment rotation and retention in YAML configuration" src="./assets/activity-cards/issue-wowtrust-trustdb-597-f9f7196217-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/596">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-596-1a16ad685d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-596-1a16ad685d-light.svg" />
-    <img alt="ISSUE OPENED: Refresh comprehensive Chinese user and operations documentation" src="./assets/activity-cards/issue-wowtrust-trustdb-596-1a16ad685d-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/595">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-14c6252ab8-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-14c6252ab8-light.svg" />
-    <img alt="PR OPENED: fix(ci): cover durable BCOS changes in qualification gate" src="./assets/activity-cards/pr-wowtrust-trustdb-595-14c6252ab8-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ee73d6-0a9964de83-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0ee73d6-0a9964de83-light.svg" />
+    <img alt="COMMIT: fix(ci): cover durable BCOS changes in qualification gate (#595)" src="./assets/activity-cards/commit-wowtrust-trustdb-0ee73d6-0a9964de83-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/issues/594">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-9d005e048a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-9d005e048a-light.svg" />
-    <img alt="ISSUE OPENED: Fix FISCO BCOS qualification workflow path coverage" src="./assets/activity-cards/issue-wowtrust-trustdb-594-9d005e048a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-82e2b804fd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-594-82e2b804fd-light.svg" />
+    <img alt="ISSUE CLOSED: Fix FISCO BCOS qualification workflow path coverage" src="./assets/activity-cards/issue-wowtrust-trustdb-594-82e2b804fd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/1a994a426295d38064cc0d0c0c547a3ee2bafc54">
+<a href="https://github.com/wowtrust/trustdb/pull/595">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1a994a4-fb710004e7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-1a994a4-fb710004e7-light.svg" />
-    <img alt="COMMIT: docs(fisco-bcos): add operator runbook for deployment, custody, and recovery (#593)" src="./assets/activity-cards/commit-wowtrust-trustdb-1a994a4-fb710004e7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-771cb397ce-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-595-771cb397ce-light.svg" />
+    <img alt="PR MERGED: fix(ci): cover durable BCOS changes in qualification gate" src="./assets/activity-cards/pr-wowtrust-trustdb-595-771cb397ce-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/593">
+<a href="https://github.com/wowtrust/trustdb/commit/811d97d8c682131a2540c80951104297ef8a1b90">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-593-a7fcb4f6c5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-593-a7fcb4f6c5-light.svg" />
-    <img alt="PR MERGED: docs(fisco-bcos): add operator runbook for deployment, custody, and recovery" src="./assets/activity-cards/pr-wowtrust-trustdb-593-a7fcb4f6c5-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-811d97d-4adb3315d0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-811d97d-4adb3315d0-light.svg" />
+    <img alt="COMMIT: fix(config): expose WAL segment policy in YAML (#598)" src="./assets/activity-cards/commit-wowtrust-trustdb-811d97d-4adb3315d0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/597">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-597-2a8ffaadeb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-597-2a8ffaadeb-light.svg" />
+    <img alt="ISSUE CLOSED: Allow WAL segment rotation and retention in YAML configuration" src="./assets/activity-cards/issue-wowtrust-trustdb-597-2a8ffaadeb-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/598">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-598-26cabea13a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-598-26cabea13a-light.svg" />
+    <img alt="PR MERGED: fix(config): expose WAL segment policy in YAML" src="./assets/activity-cards/pr-wowtrust-trustdb-598-26cabea13a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/48317bedf9b46526d65bddbf93071aa8dc2906d0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-48317be-785c2b0955-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-48317be-785c2b0955-light.svg" />
+    <img alt="COMMIT: Refresh comprehensive Chinese user and operations documentation (#599)" src="./assets/activity-cards/commit-wowtrust-trustdb-48317be-785c2b0955-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/596">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-596-bf4559d16b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-596-bf4559d16b-light.svg" />
+    <img alt="ISSUE CLOSED: Refresh comprehensive Chinese user and operations documentation" src="./assets/activity-cards/issue-wowtrust-trustdb-596-bf4559d16b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
