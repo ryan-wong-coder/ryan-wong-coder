@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-6c57e02d7e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-6c57e02d7e-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden importer and auth provider refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-6c57e02d7e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/28ff42ea9098631e3e7d1399a2bc6a58380d9c49">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-28ff42e-4f9d08bfe3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-28ff42e-4f9d08bfe3-light.svg" />
+    <img alt="COMMIT: feat(admin): add compliance-grade RBAC separation (#601)" src="./assets/activity-cards/commit-wowtrust-trustdb-28ff42e-4f9d08bfe3-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/475">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-475-0836486436-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-475-0836486436-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add compliance-grade RBAC and administrative separation controls" src="./assets/activity-cards/issue-wowtrust-trustdb-475-0836486436-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/601">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-153bb919b9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-153bb919b9-light.svg" />
+    <img alt="PR MERGED: feat(admin): add compliance-grade RBAC separation" src="./assets/activity-cards/pr-wowtrust-trustdb-601-153bb919b9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/f7c1e4311beff42c1aeaca02c07917cd0b01f1c4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-dark.svg" />
@@ -30,47 +66,20 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/601">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-c90f57f3b7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-c90f57f3b7-light.svg" />
-    <img alt="PR OPENED: feat(admin): add compliance-grade RBAC separation" src="./assets/activity-cards/pr-wowtrust-trustdb-601-c90f57f3b7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/874fb255cce217fb1f21655de45d2f435908a596">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-d98706ec1e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-d98706ec1e-light.svg" />
-    <img alt="COMMIT: fix(plugins): bind connection providers by operation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-d98706ec1e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-bfa1908826-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-bfa1908826-light.svg" />
+    <img alt="COMMIT: fix(plugins): bind connection providers by operation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-bfa1908826-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/60368b014776876ffdf623b8a7b819fcb5ff459b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-9e3a379c67-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-9e3a379c67-light.svg" />
-    <img alt="COMMIT: fix(plugins): wait for provider readiness before connected state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-9e3a379c67-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/f78ff1250c63c5d9bab3d63f8e05b6675dec259e">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f78ff12-9ad85376d3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f78ff12-9ad85376d3-light.svg" />
-    <img alt="COMMIT: fix(plugins): mount auth host in terminal popups" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f78ff12-9ad85376d3-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/b9fc1dfb7f8ea6600b49f1c0de401d0e8a218b8b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b9fc1df-1497bfe02d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b9fc1df-1497bfe02d-light.svg" />
-    <img alt="COMMIT: fix(plugins): address provider review gaps" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-b9fc1df-1497bfe02d-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-0de092f2d3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-0de092f2d3-light.svg" />
+    <img alt="COMMIT: fix(plugins): wait for provider readiness before connected state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-0de092f2d3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -80,15 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-light.svg" />
     <img alt="ISSUE CLOSED: [Feature] Add an SM4-encrypted logical backup format v5" src="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/600">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-600-a79fadc66f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-600-a79fadc66f-light.svg" />
-    <img alt="PR MERGED: feat(backup): add authenticated logical backup v5" src="./assets/activity-cards/pr-wowtrust-trustdb-600-a79fadc66f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
