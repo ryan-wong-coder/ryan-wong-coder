@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/a08e7c6af3a4235d11c7a7d5b1d33d2dc7eba4d9">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-a08e7c6-e4d614eb1b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-a08e7c6-e4d614eb1b-light.svg" />
+    <img alt="COMMIT: fix(plugins): type streamed provider registrations" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-a08e7c6-e4d614eb1b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/Netcatty/commit/3b56a64604bf6730149a26dcd6707d81e1fd3322">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3b56a64-ea88d40ac0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3b56a64-ea88d40ac0-light.svg" />
+    <img alt="COMMIT: fix(plugins): preserve plugin protocol selection" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-3b56a64-ea88d40ac0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/468">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-468-d022d0a323-dark.svg" />
@@ -62,24 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-light.svg" />
     <img alt="COMMIT: fix(fiscobcos): harden native endpoint parsing" src="./assets/activity-cards/commit-wowtrust-trustdb-8060c63-3d5571f7ae-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/d3286ad88a5efbcab36ec3639632d94ddeb803a5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d3286ad-5214b51d85-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-d3286ad-5214b51d85-light.svg" />
-    <img alt="COMMIT: fix(fiscobcos): reject legacy IP aliases" src="./assets/activity-cards/commit-wowtrust-trustdb-d3286ad-5214b51d85-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/7d04182c6f7527c7e13110c18665b1bf2309945b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7d04182-7d31b1176f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-7d04182-7d31b1176f-light.svg" />
-    <img alt="COMMIT: test(fiscobcos): verify production smoke anchors" src="./assets/activity-cards/commit-wowtrust-trustdb-7d04182-7d31b1176f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
