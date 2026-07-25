@@ -21,11 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/commit/3a88d8f18dadd6fe1af82c3ed070d166b38e2747">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3a88d8f-9bfefeb9f2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3a88d8f-9bfefeb9f2-light.svg" />
+    <img alt="COMMIT: feat(audit): add immutable security audit and trusted-time evidence (#602)" src="./assets/activity-cards/commit-wowtrust-trustdb-3a88d8f-9bfefeb9f2-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/476">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-476-8eca304407-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-476-8eca304407-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add immutable security audit events and trusted-time evidence" src="./assets/activity-cards/issue-wowtrust-trustdb-476-8eca304407-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/602">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-602-97b375072c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-602-97b375072c-light.svg" />
+    <img alt="PR MERGED: feat(audit): add immutable security audit and trusted-time evidence" src="./assets/activity-cards/pr-wowtrust-trustdb-602-97b375072c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/28326188b504a1ef57eb15a7ec37e8e9798e4606">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-2832618-6a162e2dde-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-2832618-6a162e2dde-light.svg" />
+    <img alt="COMMIT: test(audit): quote Windows YAML paths safely" src="./assets/activity-cards/commit-wowtrust-trustdb-2832618-6a162e2dde-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-6c57e02d7e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-6c57e02d7e-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden importer and auth provider refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-6c57e02d7e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-7704406b7f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-7704406b7f-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden importer and auth provider refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-7704406b7f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-153bb919b9-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-601-153bb919b9-light.svg" />
     <img alt="PR MERGED: feat(admin): add compliance-grade RBAC separation" src="./assets/activity-cards/pr-wowtrust-trustdb-601-153bb919b9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/f7c1e4311beff42c1aeaca02c07917cd0b01f1c4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-light.svg" />
-    <img alt="COMMIT: fix(ci): scope cross-platform admin authorization tests" src="./assets/activity-cards/commit-wowtrust-trustdb-f7c1e43-7c97a356e9-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/874fb255cce217fb1f21655de45d2f435908a596">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-bfa1908826-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-bfa1908826-light.svg" />
-    <img alt="COMMIT: fix(plugins): bind connection providers by operation" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-874fb25-bfa1908826-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/Netcatty/commit/60368b014776876ffdf623b8a7b819fcb5ff459b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-0de092f2d3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-0de092f2d3-light.svg" />
-    <img alt="COMMIT: fix(plugins): wait for provider readiness before connected state" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-60368b0-0de092f2d3-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/473">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add an SM4-encrypted logical backup format v5" src="./assets/activity-cards/issue-wowtrust-trustdb-473-5d83bb91bd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
