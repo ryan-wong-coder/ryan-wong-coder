@@ -59,9 +59,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/Netcatty/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-d4d5139d02-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-d4d5139d02-light.svg" />
-    <img alt="COMMIT: fix(plugins): harden importer and auth provider refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-d4d5139d02-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-3baec30107-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-3baec30107-light.svg" />
+    <img alt="COMMIT: fix(plugins): harden importer and auth provider refresh" src="./assets/activity-cards/commit-ryan-wong-coder-netcatty-f7b5f9b-3baec30107-light.svg" width="100%" />
   </picture>
 </a>
 <br />
