@@ -238,9 +238,9 @@
 | 2026-07-23 11:40 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): make request ID helpers typed-nil safe (#18)](https://github.com/wowtrust/final-weave/commit/0b49f42d2345f56a5752985d6c8672ca15ca46a5) |
 | 2026-07-23 11:40 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [fix(api): make request ID helpers typed-nil safe](https://github.com/wowtrust/final-weave/pull/18) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a PowerShell tamper-detection demo for Windows](https://github.com/wowtrust/trustdb/issues/503) |
-| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a concise cryptographic and storage glossary](https://github.com/wowtrust/trustdb/issues/500) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a community-tested platform matrix](https://github.com/wowtrust/trustdb/issues/502) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add an integration request Discussion template](https://github.com/wowtrust/trustdb/issues/501) |
+| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a concise cryptographic and storage glossary](https://github.com/wowtrust/trustdb/issues/500) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a GitHub Actions release-artifact proof example](https://github.com/wowtrust/trustdb/issues/496) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a neutral TrustDB, immudb, Rekor, and Trillian comparison](https://github.com/wowtrust/trustdb/issues/498) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add automated Markdown link checking](https://github.com/wowtrust/trustdb/issues/497) |
