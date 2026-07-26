@@ -2,10 +2,16 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 170 commits · 155 pull requests · 175 issues · newest first · maximum 500
+**500 entries** · 170 commits · 156 pull requests · 174 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-26 12:29 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): add offline-verifiable supply-chain gates](https://github.com/wowtrust/trustdb/pull/604) |
+| 2026-07-26 12:29 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add supply-chain, signed-artifact, SBOM, and domestic-mirror gates](https://github.com/wowtrust/trustdb/issues/478) |
+| 2026-07-26 12:29 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): add offline-verifiable supply-chain gates (#604)](https://github.com/wowtrust/trustdb/commit/552fba1e8acd0edb202d9b2b6c028388b4a5726f) |
+| 2026-07-26 09:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add China production profiles, egress controls, and startup policy checks](https://github.com/wowtrust/trustdb/issues/477) |
+| 2026-07-26 09:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(config): enforce China deployment profiles (#603)](https://github.com/wowtrust/trustdb/commit/0671a46f6ff373be283a982da18424ced23db0fe) |
+| 2026-07-26 09:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(config): enforce China deployment profiles](https://github.com/wowtrust/trustdb/pull/603) |
 | 2026-07-26 03:54 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable security audit events and trusted-time evidence](https://github.com/wowtrust/trustdb/issues/476) |
 | 2026-07-26 03:54 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(audit): add immutable security audit and trusted-time evidence (#602)](https://github.com/wowtrust/trustdb/commit/3a88d8f18dadd6fe1af82c3ed070d166b38e2747) |
 | 2026-07-26 03:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(audit): add immutable security audit and trusted-time evidence](https://github.com/wowtrust/trustdb/pull/602) |
@@ -270,8 +276,6 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add fuzzing, tamper, and disaster-recovery acceptance gates](https://github.com/wowtrust/trustdb/issues/481) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Benchmark SM cryptography and FISCO BCOS anchoring at production scale](https://github.com/wowtrust/trustdb/issues/480) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Qualify domestic OS, CPU, database, HSM, KMS, and BCOS combinations](https://github.com/wowtrust/trustdb/issues/479) |
-| 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add supply-chain, signed-artifact, SBOM, and domestic-mirror gates](https://github.com/wowtrust/trustdb/issues/478) |
-| 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add China production profiles, egress controls, and startup policy checks](https://github.com/wowtrust/trustdb/issues/477) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add optional SM4 protection for WAL, object, and proofstore payloads](https://github.com/wowtrust/trustdb/issues/474) |
 | 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
@@ -502,9 +506,5 @@
 | 2026-07-20 20:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Encode Pebble artifacts without value boxing](https://github.com/wowtrust/trustdb/issues/265) |
 | 2026-07-20 20:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid artifact value boxing](https://github.com/wowtrust/trustdb/pull/266) |
 | 2026-07-20 20:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid artifact value boxing (#266)](https://github.com/wowtrust/trustdb/commit/55d3227d8a204992117a1e76a70f9bb5398e0304) |
-| 2026-07-20 20:01 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Stage Pebble record keys without temporary allocations](https://github.com/wowtrust/trustdb/issues/263) |
-| 2026-07-20 20:01 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): stage record keys directly (#264)](https://github.com/wowtrust/trustdb/commit/12f1f9645b6570d93e17a84749fead484f94f489) |
-| 2026-07-20 20:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): stage record keys directly](https://github.com/wowtrust/trustdb/pull/264) |
-| 2026-07-20 20:01 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): publish terminal command completion](https://github.com/binaricat/Netcatty/commit/f4de781ef03b94d62e82b81901d0c98aee5a7066) |
 
-_Latest indexed activity: 2026-07-25 19:54 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-26 04:29 UTC · checked automatically every 10 minutes_
