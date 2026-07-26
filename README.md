@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/issues/612">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-612-13d1390a85-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-612-13d1390a85-light.svg" />
+    <img alt="ISSUE CLOSED: Prepare and publish v2.0.0-rc.2" src="./assets/activity-cards/issue-wowtrust-trustdb-612-13d1390a85-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/0e95cf3c8d13f858fba127525254fce00a2911f9">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0e95cf3-3d0c37196f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0e95cf3-3d0c37196f-light.svg" />
+    <img alt="COMMIT: fix(docker): correct the container baseline (#615)" src="./assets/activity-cards/commit-wowtrust-trustdb-0e95cf3-3d0c37196f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/614">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-614-242d36e977-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-614-242d36e977-light.svg" />
+    <img alt="ISSUE CLOSED: Fix the invalid Docker baseline configuration" src="./assets/activity-cards/issue-wowtrust-trustdb-614-242d36e977-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/615">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-615-aeef36d247-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-615-aeef36d247-light.svg" />
+    <img alt="PR MERGED: fix(docker): correct the container baseline" src="./assets/activity-cards/pr-wowtrust-trustdb-615-aeef36d247-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/891ef32dc8cb899ee17daa17b1ec3b75b8ce3106">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-891ef32-bbb0c7bb72-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-891ef32-bbb0c7bb72-light.svg" />
+    <img alt="COMMIT: fix(release): prepare v2.0.0-rc.2 (#613)" src="./assets/activity-cards/commit-wowtrust-trustdb-891ef32-bbb0c7bb72-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/613">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-613-0503171f4c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-613-0503171f4c-light.svg" />
+    <img alt="PR MERGED: fix(release): prepare v2.0.0-rc.2" src="./assets/activity-cards/pr-wowtrust-trustdb-613-0503171f4c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/b6bf39811333ae16cecc495f9973f688a1fb1175">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-b6bf398-46ff1d843b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-b6bf398-46ff1d843b-light.svg" />
+    <img alt="COMMIT: fix(docs): consume published artifacts by default (#611)" src="./assets/activity-cards/commit-wowtrust-trustdb-b6bf398-46ff1d843b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/issues/610">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-610-1330b8504c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-610-1330b8504c-light.svg" />
-    <img alt="ISSUE OPENED: Fix website guides to consume published release artifacts" src="./assets/activity-cards/issue-wowtrust-trustdb-610-1330b8504c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/e78cf30ae535ae1201b821ac88f30eba39a02b7b">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e78cf30-af75b2c2bc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e78cf30-af75b2c2bc-light.svg" />
-    <img alt="COMMIT: docs(release): disclose v2.0.0-rc.1 verifier limitation (#609)" src="./assets/activity-cards/commit-wowtrust-trustdb-e78cf30-af75b2c2bc-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/609">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-609-b2793201ba-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-609-b2793201ba-light.svg" />
-    <img alt="PR MERGED: docs(release): disclose v2.0.0-rc.1 verifier limitation" src="./assets/activity-cards/pr-wowtrust-trustdb-609-b2793201ba-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/59596ccdd5e3c312a111ed32f1b8236a466d7bb4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59596cc-5c410dd7c1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59596cc-5c410dd7c1-light.svg" />
-    <img alt="COMMIT: fix(release): make manifest media types deterministic (#608)" src="./assets/activity-cards/commit-wowtrust-trustdb-59596cc-5c410dd7c1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/607">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-607-bb19c0b09c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-607-bb19c0b09c-light.svg" />
-    <img alt="ISSUE CLOSED: Fix cross-platform release manifest media type validation" src="./assets/activity-cards/issue-wowtrust-trustdb-607-bb19c0b09c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/608">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-608-2031e02499-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-608-2031e02499-light.svg" />
-    <img alt="PR MERGED: fix(release): make manifest media types deterministic" src="./assets/activity-cards/pr-wowtrust-trustdb-608-2031e02499-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/9cb0b5d37e4198b17ee727b9f6f765796f1e4b87">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9cb0b5d-1967520d82-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9cb0b5d-1967520d82-light.svg" />
-    <img alt="COMMIT: fix(release): prepare v2.0.0-rc.1 (#606)" src="./assets/activity-cards/commit-wowtrust-trustdb-9cb0b5d-1967520d82-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/606">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-606-e425ec1d9b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-606-e425ec1d9b-light.svg" />
-    <img alt="PR MERGED: fix(release): prepare v2.0.0-rc.1" src="./assets/activity-cards/pr-wowtrust-trustdb-606-e425ec1d9b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-610-a5e656194b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-610-a5e656194b-light.svg" />
+    <img alt="ISSUE CLOSED: Fix website guides to consume published release artifacts" src="./assets/activity-cards/issue-wowtrust-trustdb-610-a5e656194b-light.svg" width="100%" />
   </picture>
 </a>
 <br />

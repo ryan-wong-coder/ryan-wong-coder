@@ -2,11 +2,19 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 168 commits · 157 pull requests · 175 issues · newest first · maximum 500
+**500 entries** · 169 commits · 157 pull requests · 174 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-07-26 15:19 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix website guides to consume published release artifacts](https://github.com/wowtrust/trustdb/issues/610) |
+| 2026-07-26 16:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Prepare and publish v2.0.0-rc.2](https://github.com/wowtrust/trustdb/issues/612) |
+| 2026-07-26 16:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix the invalid Docker baseline configuration](https://github.com/wowtrust/trustdb/issues/614) |
+| 2026-07-26 16:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docker): correct the container baseline](https://github.com/wowtrust/trustdb/pull/615) |
+| 2026-07-26 16:45 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docker): correct the container baseline (#615)](https://github.com/wowtrust/trustdb/commit/0e95cf3c8d13f858fba127525254fce00a2911f9) |
+| 2026-07-26 15:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0-rc.2](https://github.com/wowtrust/trustdb/pull/613) |
+| 2026-07-26 15:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0-rc.2 (#613)](https://github.com/wowtrust/trustdb/commit/891ef32dc8cb899ee17daa17b1ec3b75b8ce3106) |
+| 2026-07-26 15:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix website guides to consume published release artifacts](https://github.com/wowtrust/trustdb/issues/610) |
+| 2026-07-26 15:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): consume published artifacts by default (#611)](https://github.com/wowtrust/trustdb/commit/b6bf39811333ae16cecc495f9973f688a1fb1175) |
+| 2026-07-26 15:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): consume published artifacts by default](https://github.com/wowtrust/trustdb/pull/611) |
 | 2026-07-26 14:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(release): disclose v2.0.0-rc.1 verifier limitation](https://github.com/wowtrust/trustdb/pull/609) |
 | 2026-07-26 14:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(release): disclose v2.0.0-rc.1 verifier limitation (#609)](https://github.com/wowtrust/trustdb/commit/e78cf30ae535ae1201b821ac88f30eba39a02b7b) |
 | 2026-07-26 14:16 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix cross-platform release manifest media type validation](https://github.com/wowtrust/trustdb/issues/607) |
@@ -498,13 +506,5 @@
 | 2026-07-20 21:00 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): bound numeric page scans (#276)](https://github.com/wowtrust/trustdb/commit/b93b8f4213a000e9c2727577ede1b1732e297886) |
 | 2026-07-20 20:55 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): complete ordinary terminal providers](https://github.com/binaricat/Netcatty/commit/10737bd6558ddd43829f72952ff57e67ab321a81) |
 | 2026-07-20 20:55 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): complete ordinary terminal providers](https://github.com/DrOlu/Sensor/commit/10737bd6558ddd43829f72952ff57e67ab321a81) |
-| 2026-07-20 20:51 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Avoid redundant LocalStore directory sorting](https://github.com/wowtrust/trustdb/issues/273) |
-| 2026-07-20 20:51 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid redundant directory sorting (#274)](https://github.com/wowtrust/trustdb/commit/12c18ca0270ebccbf16c77ee852adc3811353290) |
-| 2026-07-20 20:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid redundant directory sorting](https://github.com/wowtrust/trustdb/pull/274) |
-| 2026-07-20 20:40 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce WAL recovery scan allocations](https://github.com/wowtrust/trustdb/issues/271) |
-| 2026-07-20 20:40 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse recovery scan framing buffers (#272)](https://github.com/wowtrust/trustdb/commit/283f323a70fd69fd1bdaab17b8676c06edc59209) |
-| 2026-07-20 20:40 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse recovery scan framing buffers](https://github.com/wowtrust/trustdb/pull/272) |
-| 2026-07-20 20:28 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reuse local object copy buffers](https://github.com/wowtrust/trustdb/issues/269) |
-| 2026-07-20 20:27 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(objectstore): reuse copy buffers](https://github.com/wowtrust/trustdb/pull/270) |
 
-_Latest indexed activity: 2026-07-26 07:19 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-26 08:53 UTC · checked automatically every 10 minutes_
