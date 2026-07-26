@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/wowtrust/trustdb/issues/478">
+<a href="https://github.com/wowtrust/trustdb/issues/610">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-478-bdd62b497a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-478-bdd62b497a-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add supply-chain, signed-artifact, SBOM, and domestic-mirror gates" src="./assets/activity-cards/issue-wowtrust-trustdb-478-bdd62b497a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-610-1330b8504c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-610-1330b8504c-light.svg" />
+    <img alt="ISSUE OPENED: Fix website guides to consume published release artifacts" src="./assets/activity-cards/issue-wowtrust-trustdb-610-1330b8504c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/604">
+<a href="https://github.com/wowtrust/trustdb/commit/e78cf30ae535ae1201b821ac88f30eba39a02b7b">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-604-268741b316-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-604-268741b316-light.svg" />
-    <img alt="PR MERGED: fix(release): add offline-verifiable supply-chain gates" src="./assets/activity-cards/pr-wowtrust-trustdb-604-268741b316-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e78cf30-af75b2c2bc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-e78cf30-af75b2c2bc-light.svg" />
+    <img alt="COMMIT: docs(release): disclose v2.0.0-rc.1 verifier limitation (#609)" src="./assets/activity-cards/commit-wowtrust-trustdb-e78cf30-af75b2c2bc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/552fba1e8acd0edb202d9b2b6c028388b4a5726f">
+<a href="https://github.com/wowtrust/trustdb/pull/609">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-552fba1-4b75b5eb10-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-552fba1-4b75b5eb10-light.svg" />
-    <img alt="COMMIT: fix(release): add offline-verifiable supply-chain gates (#604)" src="./assets/activity-cards/commit-wowtrust-trustdb-552fba1-4b75b5eb10-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-609-b2793201ba-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-609-b2793201ba-light.svg" />
+    <img alt="PR MERGED: docs(release): disclose v2.0.0-rc.1 verifier limitation" src="./assets/activity-cards/pr-wowtrust-trustdb-609-b2793201ba-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/477">
+<a href="https://github.com/wowtrust/trustdb/commit/59596ccdd5e3c312a111ed32f1b8236a466d7bb4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-477-753e5962c0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-477-753e5962c0-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add China production profiles, egress controls, and startup policy checks" src="./assets/activity-cards/issue-wowtrust-trustdb-477-753e5962c0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59596cc-5c410dd7c1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-59596cc-5c410dd7c1-light.svg" />
+    <img alt="COMMIT: fix(release): make manifest media types deterministic (#608)" src="./assets/activity-cards/commit-wowtrust-trustdb-59596cc-5c410dd7c1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/0671a46f6ff373be283a982da18424ced23db0fe">
+<a href="https://github.com/wowtrust/trustdb/issues/607">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0671a46-cb5747866d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0671a46-cb5747866d-light.svg" />
-    <img alt="COMMIT: feat(config): enforce China deployment profiles (#603)" src="./assets/activity-cards/commit-wowtrust-trustdb-0671a46-cb5747866d-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-607-bb19c0b09c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-607-bb19c0b09c-light.svg" />
+    <img alt="ISSUE CLOSED: Fix cross-platform release manifest media type validation" src="./assets/activity-cards/issue-wowtrust-trustdb-607-bb19c0b09c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/pull/603">
+<a href="https://github.com/wowtrust/trustdb/pull/608">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-603-e79127c4b3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-603-e79127c4b3-light.svg" />
-    <img alt="PR MERGED: feat(config): enforce China deployment profiles" src="./assets/activity-cards/pr-wowtrust-trustdb-603-e79127c4b3-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-608-2031e02499-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-608-2031e02499-light.svg" />
+    <img alt="PR MERGED: fix(release): make manifest media types deterministic" src="./assets/activity-cards/pr-wowtrust-trustdb-608-2031e02499-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/commit/3a88d8f18dadd6fe1af82c3ed070d166b38e2747">
+<a href="https://github.com/wowtrust/trustdb/commit/9cb0b5d37e4198b17ee727b9f6f765796f1e4b87">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3a88d8f-9bfefeb9f2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3a88d8f-9bfefeb9f2-light.svg" />
-    <img alt="COMMIT: feat(audit): add immutable security audit and trusted-time evidence (#602)" src="./assets/activity-cards/commit-wowtrust-trustdb-3a88d8f-9bfefeb9f2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9cb0b5d-1967520d82-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9cb0b5d-1967520d82-light.svg" />
+    <img alt="COMMIT: fix(release): prepare v2.0.0-rc.1 (#606)" src="./assets/activity-cards/commit-wowtrust-trustdb-9cb0b5d-1967520d82-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/wowtrust/trustdb/issues/476">
+<a href="https://github.com/wowtrust/trustdb/pull/606">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-476-8eca304407-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-476-8eca304407-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add immutable security audit events and trusted-time evidence" src="./assets/activity-cards/issue-wowtrust-trustdb-476-8eca304407-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-606-e425ec1d9b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-606-e425ec1d9b-light.svg" />
+    <img alt="PR MERGED: fix(release): prepare v2.0.0-rc.1" src="./assets/activity-cards/pr-wowtrust-trustdb-606-e425ec1d9b-light.svg" width="100%" />
   </picture>
 </a>
 <br />

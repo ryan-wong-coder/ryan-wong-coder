@@ -2,10 +2,19 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 170 commits · 156 pull requests · 174 issues · newest first · maximum 500
+**500 entries** · 168 commits · 157 pull requests · 175 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-26 15:19 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix website guides to consume published release artifacts](https://github.com/wowtrust/trustdb/issues/610) |
+| 2026-07-26 14:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(release): disclose v2.0.0-rc.1 verifier limitation](https://github.com/wowtrust/trustdb/pull/609) |
+| 2026-07-26 14:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(release): disclose v2.0.0-rc.1 verifier limitation (#609)](https://github.com/wowtrust/trustdb/commit/e78cf30ae535ae1201b821ac88f30eba39a02b7b) |
+| 2026-07-26 14:16 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix cross-platform release manifest media type validation](https://github.com/wowtrust/trustdb/issues/607) |
+| 2026-07-26 14:16 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): make manifest media types deterministic](https://github.com/wowtrust/trustdb/pull/608) |
+| 2026-07-26 14:16 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): make manifest media types deterministic (#608)](https://github.com/wowtrust/trustdb/commit/59596ccdd5e3c312a111ed32f1b8236a466d7bb4) |
+| 2026-07-26 13:20 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0-rc.1](https://github.com/wowtrust/trustdb/pull/606) |
+| 2026-07-26 13:20 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0-rc.1 (#606)](https://github.com/wowtrust/trustdb/commit/9cb0b5d37e4198b17ee727b9f6f765796f1e4b87) |
+| 2026-07-26 12:44 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Prepare and publish v2.0.0-rc.1](https://github.com/wowtrust/trustdb/issues/605) |
 | 2026-07-26 12:29 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): add offline-verifiable supply-chain gates](https://github.com/wowtrust/trustdb/pull/604) |
 | 2026-07-26 12:29 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add supply-chain, signed-artifact, SBOM, and domestic-mirror gates](https://github.com/wowtrust/trustdb/issues/478) |
 | 2026-07-26 12:29 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): add offline-verifiable supply-chain gates (#604)](https://github.com/wowtrust/trustdb/commit/552fba1e8acd0edb202d9b2b6c028388b4a5726f) |
@@ -497,14 +506,5 @@
 | 2026-07-20 20:40 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse recovery scan framing buffers](https://github.com/wowtrust/trustdb/pull/272) |
 | 2026-07-20 20:28 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reuse local object copy buffers](https://github.com/wowtrust/trustdb/issues/269) |
 | 2026-07-20 20:27 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(objectstore): reuse copy buffers](https://github.com/wowtrust/trustdb/pull/270) |
-| 2026-07-20 20:27 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(objectstore): reuse copy buffers (#270)](https://github.com/wowtrust/trustdb/commit/d6bbff8ce4914a74ac7cbbec0eac02f9d15c01f5) |
-| 2026-07-20 20:27 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve terminal provider host state](https://github.com/binaricat/Netcatty/commit/2f366712276bf736fe4cdf9bc3f8d8403c12c536) |
-| 2026-07-20 20:27 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve terminal provider host state](https://github.com/DrOlu/Sensor/commit/2f366712276bf736fe4cdf9bc3f8d8403c12c536) |
-| 2026-07-20 20:21 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reduce TiKV artifact staging allocations](https://github.com/wowtrust/trustdb/issues/267) |
-| 2026-07-20 20:21 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): reduce artifact staging allocations (#268)](https://github.com/wowtrust/trustdb/commit/907bd1f71706538dd717936f36ef6feb0ab53895) |
-| 2026-07-20 20:21 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): reduce artifact staging allocations](https://github.com/wowtrust/trustdb/pull/268) |
-| 2026-07-20 20:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Encode Pebble artifacts without value boxing](https://github.com/wowtrust/trustdb/issues/265) |
-| 2026-07-20 20:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid artifact value boxing](https://github.com/wowtrust/trustdb/pull/266) |
-| 2026-07-20 20:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid artifact value boxing (#266)](https://github.com/wowtrust/trustdb/commit/55d3227d8a204992117a1e76a70f9bb5398e0304) |
 
-_Latest indexed activity: 2026-07-26 04:29 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-26 07:19 UTC · checked automatically every 10 minutes_
