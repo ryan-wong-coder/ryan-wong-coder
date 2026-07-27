@@ -23,9 +23,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/binaricat/Netcatty/pull/2413">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8be38c8152-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8be38c8152-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-8be38c8152-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-e8a541a7fd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-e8a541a7fd-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-e8a541a7fd-light.svg" width="100%" />
   </picture>
 </a>
 <br />

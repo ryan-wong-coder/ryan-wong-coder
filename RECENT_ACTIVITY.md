@@ -2,7 +2,7 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 177 commits · 153 pull requests · 170 issues · newest first · maximum 500
+**500 entries** · 186 commits · 148 pull requests · 166 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
@@ -41,13 +41,18 @@
 | 2026-07-26 03:54 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(audit): add immutable security audit and trusted-time evidence (#602)](https://github.com/wowtrust/trustdb/commit/3a88d8f18dadd6fe1af82c3ed070d166b38e2747) |
 | 2026-07-26 03:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(audit): add immutable security audit and trusted-time evidence](https://github.com/wowtrust/trustdb/pull/602) |
 | 2026-07-26 02:10 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden importer and auth provider refresh](https://github.com/binaricat/Netcatty/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302) |
+| 2026-07-26 02:10 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden importer and auth provider refresh](https://github.com/DrOlu/Sensor/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302) |
 | 2026-07-26 02:10 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add compliance-grade RBAC and administrative separation controls](https://github.com/wowtrust/trustdb/issues/475) |
 | 2026-07-26 02:10 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(admin): add compliance-grade RBAC separation](https://github.com/wowtrust/trustdb/pull/601) |
 | 2026-07-26 02:10 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(admin): add compliance-grade RBAC separation (#601)](https://github.com/wowtrust/trustdb/commit/28ff42ea9098631e3e7d1399a2bc6a58380d9c49) |
 | 2026-07-26 01:51 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bind connection providers by operation](https://github.com/binaricat/Netcatty/commit/874fb255cce217fb1f21655de45d2f435908a596) |
+| 2026-07-26 01:51 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): bind connection providers by operation](https://github.com/DrOlu/Sensor/commit/874fb255cce217fb1f21655de45d2f435908a596) |
 | 2026-07-26 01:26 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): wait for provider readiness before connected state](https://github.com/binaricat/Netcatty/commit/60368b014776876ffdf623b8a7b819fcb5ff459b) |
+| 2026-07-26 01:26 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): wait for provider readiness before connected state](https://github.com/DrOlu/Sensor/commit/60368b014776876ffdf623b8a7b819fcb5ff459b) |
 | 2026-07-26 01:11 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): mount auth host in terminal popups](https://github.com/binaricat/Netcatty/commit/f78ff1250c63c5d9bab3d63f8e05b6675dec259e) |
+| 2026-07-26 01:11 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): mount auth host in terminal popups](https://github.com/DrOlu/Sensor/commit/f78ff1250c63c5d9bab3d63f8e05b6675dec259e) |
 | 2026-07-26 00:44 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): address provider review gaps](https://github.com/binaricat/Netcatty/commit/b9fc1dfb7f8ea6600b49f1c0de401d0e8a218b8b) |
+| 2026-07-26 00:44 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): address provider review gaps](https://github.com/DrOlu/Sensor/commit/b9fc1dfb7f8ea6600b49f1c0de401d0e8a218b8b) |
 | 2026-07-26 00:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an SM4-encrypted logical backup format v5](https://github.com/wowtrust/trustdb/issues/473) |
 | 2026-07-26 00:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(backup): add authenticated logical backup v5](https://github.com/wowtrust/trustdb/pull/600) |
 | 2026-07-26 00:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(backup): add authenticated logical backup v5 (#600)](https://github.com/wowtrust/trustdb/commit/7be883600bc5dec4d6315c4f18515f0586371ee4) |
@@ -61,6 +66,7 @@
 | 2026-07-25 22:42 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation](https://github.com/wowtrust/trustdb/pull/599) |
 | 2026-07-25 22:42 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh comprehensive Chinese user and operations documentation (#599)](https://github.com/wowtrust/trustdb/commit/48317bedf9b46526d65bddbf93071aa8dc2906d0) |
 | 2026-07-25 21:25 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close provider review gaps](https://github.com/binaricat/Netcatty/commit/94c9052e0e32d50a90d5583482d4b95d1715073c) |
+| 2026-07-25 21:25 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close provider review gaps](https://github.com/DrOlu/Sensor/commit/94c9052e0e32d50a90d5583482d4b95d1715073c) |
 | 2026-07-25 20:32 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document BCOS deployment, key custody, trust roots, backup, and disaster recovery](https://github.com/wowtrust/trustdb/issues/472) |
 | 2026-07-25 20:32 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(fisco-bcos): add operator runbook for deployment, custody, and recovery (#593)](https://github.com/wowtrust/trustdb/commit/1a994a426295d38064cc0d0c0c547a3ee2bafc54) |
 | 2026-07-25 20:32 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(fisco-bcos): add operator runbook for deployment, custody, and recovery](https://github.com/wowtrust/trustdb/pull/593) |
@@ -79,12 +85,16 @@
 | 2026-07-25 13:16 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fisco-bcos): verify validator-set transitions offline](https://github.com/wowtrust/trustdb/pull/589) |
 | 2026-07-25 13:16 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fisco-bcos): verify validator-set transitions offline (#589)](https://github.com/wowtrust/trustdb/commit/ea0cfc1147ec97ad8892f7256076c70c7d539ea0) |
 | 2026-07-25 13:08 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): cancel connection starts and chunk input](https://github.com/binaricat/Netcatty/commit/d667766aa18a46a9acd395892a08d69005ca1a12) |
+| 2026-07-25 13:08 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): cancel connection starts and chunk input](https://github.com/DrOlu/Sensor/commit/d667766aa18a46a9acd395892a08d69005ca1a12) |
 | 2026-07-25 13:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Handle empty FISCO Air readiness logs without crashing](https://github.com/wowtrust/trustdb/issues/590) |
 | 2026-07-25 13:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): tolerate empty FISCO Air readiness logs](https://github.com/wowtrust/trustdb/pull/591) |
 | 2026-07-25 13:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): tolerate empty FISCO Air readiness logs (#591)](https://github.com/wowtrust/trustdb/commit/59088c14ac85548cd6eed809c3a5581b18fbec75) |
 | 2026-07-25 12:37 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden connection provider review paths](https://github.com/binaricat/Netcatty/commit/6468295dc17392a4daebc47a7d88990ab478f1c0) |
+| 2026-07-25 12:37 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden connection provider review paths](https://github.com/DrOlu/Sensor/commit/6468295dc17392a4daebc47a7d88990ab478f1c0) |
 | 2026-07-25 11:44 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): type streamed provider registrations](https://github.com/binaricat/Netcatty/commit/348176eca8281c67d387ca0f1fa9aa8fec4f34f3) |
+| 2026-07-25 11:44 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): type streamed provider registrations](https://github.com/DrOlu/Sensor/commit/348176eca8281c67d387ca0f1fa9aa8fec4f34f3) |
 | 2026-07-25 11:24 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve plugin protocol selection](https://github.com/binaricat/Netcatty/commit/6a960d9d1aa0c02fdacc9cac1ba7746ed735fd37) |
+| 2026-07-25 11:24 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve plugin protocol selection](https://github.com/DrOlu/Sensor/commit/6a960d9d1aa0c02fdacc9cac1ba7746ed735fd37) |
 | 2026-07-25 07:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Support FISCO BCOS Guomi networks with SM2 and SM3](https://github.com/wowtrust/trustdb/issues/468) |
 | 2026-07-25 07:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks (#588)](https://github.com/wowtrust/trustdb/commit/39a1f4fb83d9554dce32fcbc4ee541a755c04a6d) |
 | 2026-07-25 07:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): support Guomi SM2 and SM3 networks](https://github.com/wowtrust/trustdb/pull/588) |
@@ -113,11 +123,14 @@
 | 2026-07-25 01:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client](https://github.com/wowtrust/trustdb/pull/579) |
 | 2026-07-25 01:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(fiscobcos): add standard-crypto anchor client (#579)](https://github.com/wowtrust/trustdb/commit/b0d50176305ec670076d74713c6f8071b24ef0ec) |
 | 2026-07-24 22:03 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve plugin session auto logs](https://github.com/binaricat/Netcatty/commit/7b844c834b6cf7f906989b0072207266aec567e6) |
+| 2026-07-24 22:03 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve plugin session auto logs](https://github.com/DrOlu/Sensor/commit/7b844c834b6cf7f906989b0072207266aec567e6) |
 | 2026-07-24 21:33 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 and SM3 support to the Go SDK](https://github.com/wowtrust/trustdb/issues/456) |
 | 2026-07-24 21:33 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add SM2 and SM3 support (#578)](https://github.com/wowtrust/trustdb/commit/e96a7bba183f3c4bfc85ac12d331c0267040c0a3) |
 | 2026-07-24 21:33 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add SM2 and SM3 support](https://github.com/wowtrust/trustdb/pull/578) |
 | 2026-07-24 21:27 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): fail closed without secure host services](https://github.com/binaricat/Netcatty/commit/3a9e2c1f8057a8c493670ec81ec1b0884f629a95) |
+| 2026-07-24 21:27 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): fail closed without secure host services](https://github.com/DrOlu/Sensor/commit/3a9e2c1f8057a8c493670ec81ec1b0884f629a95) |
 | 2026-07-24 20:40 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve provider request semantics](https://github.com/binaricat/Netcatty/commit/87ba52dd555b0b881af055bf11147b9cb9474c90) |
+| 2026-07-24 20:40 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve provider request semantics](https://github.com/DrOlu/Sensor/commit/87ba52dd555b0b881af055bf11147b9cb9474c90) |
 | 2026-07-24 20:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add .sproof v2 national-cryptography evidence and offline verification](https://github.com/wowtrust/trustdb/issues/455) |
 | 2026-07-24 20:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sproof): add national-cryptography offline evidence v2 (#577)](https://github.com/wowtrust/trustdb/commit/bc614a49bcabbda7c7bfbb14394db8d4dee176c5) |
 | 2026-07-24 20:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sproof): add national-cryptography offline evidence v2](https://github.com/wowtrust/trustdb/pull/577) |
@@ -148,6 +161,7 @@
 | 2026-07-24 11:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add authenticated SM4 software key envelopes](https://github.com/wowtrust/trustdb/pull/567) |
 | 2026-07-24 11:18 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add authenticated SM4 software key envelopes (#567)](https://github.com/wowtrust/trustdb/commit/e43504c865a5cfc82037d471b66d1d14a72561cb) |
 | 2026-07-24 10:49 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve plugin host boundaries](https://github.com/binaricat/Netcatty/commit/f024b3e7719896d30916abc03ee79447a7b877f4) |
+| 2026-07-24 10:49 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve plugin host boundaries](https://github.com/DrOlu/Sensor/commit/f024b3e7719896d30916abc03ee79447a7b877f4) |
 | 2026-07-24 10:49 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add TLS and mutual TLS configuration to HTTP and gRPC](https://github.com/wowtrust/trustdb/issues/458) |
 | 2026-07-24 10:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(transport): add TLS and mutual TLS support](https://github.com/wowtrust/trustdb/pull/565) |
 | 2026-07-24 10:49 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(transport): add TLS and mutual TLS support (#565)](https://github.com/wowtrust/trustdb/commit/6b3f67a479b323c6b636fd43ec951353fe75408e) |
@@ -162,6 +176,7 @@
 | 2026-07-24 09:17 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(website): add NATS ingress onboarding (#558)](https://github.com/wowtrust/trustdb/commit/5993f39648cbd0f3fc3c4e0f772e2d48f650e5a1) |
 | 2026-07-24 09:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(website): add NATS ingress onboarding](https://github.com/wowtrust/trustdb/pull/558) |
 | 2026-07-24 09:04 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [test(plugins): retain zero-delay status polling](https://github.com/binaricat/Netcatty/commit/307cf186be6f3c1c7157962d9ce21d49a7833f1b) |
+| 2026-07-24 09:04 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [test(plugins): retain zero-delay status polling](https://github.com/DrOlu/Sensor/commit/307cf186be6f3c1c7157962d9ce21d49a7833f1b) |
 | 2026-07-24 08:58 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 key lifecycle support to the registry and CLI](https://github.com/wowtrust/trustdb/issues/450) |
 | 2026-07-24 08:58 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(keystore): add SM2 key lifecycle support](https://github.com/wowtrust/trustdb/pull/556) |
 | 2026-07-24 08:58 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(keystore): add SM2 key lifecycle support (#556)](https://github.com/wowtrust/trustdb/commit/f596ffbedb6b6ee7d2558b9ab0f6c34635d20c75) |
@@ -169,6 +184,7 @@
 | 2026-07-24 08:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(nats): publish ingress operations guide (#555)](https://github.com/wowtrust/trustdb/commit/128b0a2ec6feb126dbd7968fb81e812acd91c9f3) |
 | 2026-07-24 08:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(nats): publish ingress operations guide](https://github.com/wowtrust/trustdb/pull/555) |
 | 2026-07-24 08:53 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close provider integration gaps](https://github.com/binaricat/Netcatty/commit/2770b8289bd42559893b8404cff0dc3df735f124) |
+| 2026-07-24 08:53 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close provider integration gaps](https://github.com/DrOlu/Sensor/commit/2770b8289bd42559893b8404cff0dc3df735f124) |
 | 2026-07-24 08:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a Go SDK client for optional NATS ingress](https://github.com/wowtrust/trustdb/issues/551) |
 | 2026-07-24 08:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add optional NATS ingress client](https://github.com/wowtrust/trustdb/pull/553) |
 | 2026-07-24 08:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add optional NATS ingress client (#553)](https://github.com/wowtrust/trustdb/commit/b828b8cda62bb40b8bc6479db37f285cb6600dbe) |
@@ -228,7 +244,9 @@
 | 2026-07-23 22:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry (#525)](https://github.com/wowtrust/trustdb/commit/30448810a960b43366b4d0dae4c197d5ab5cb78d) |
 | 2026-07-23 22:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Wait for the benchmark server before collecting metrics](https://github.com/wowtrust/trustdb/issues/523) |
 | 2026-07-23 20:11 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): bound importer streaming lifetime](https://github.com/binaricat/Netcatty/commit/9bc740647d1fbfe386edc396a0c300747d90ecd2) |
+| 2026-07-23 20:11 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): bound importer streaming lifetime](https://github.com/DrOlu/Sensor/commit/9bc740647d1fbfe386edc396a0c300747d90ecd2) |
 | 2026-07-23 19:52 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add connection authentication and importer providers](https://github.com/binaricat/Netcatty/commit/04a1c0c45e7a9bca268d71f150a9a5ea33735b48) |
+| 2026-07-23 19:52 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add connection authentication and importer providers](https://github.com/DrOlu/Sensor/commit/04a1c0c45e7a9bca268d71f150a9a5ea33735b48) |
 | 2026-07-23 18:19 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish 2026-07-23 dual-host performance assessment](https://github.com/wowtrust/trustdb/issues/521) |
 | 2026-07-23 18:19 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(performance): publish current assessment (#522)](https://github.com/wowtrust/trustdb/commit/7271d49f83354a9cbdf833bb2be415f497687a87) |
 | 2026-07-23 18:19 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(performance): publish current assessment](https://github.com/wowtrust/trustdb/pull/522) |
@@ -488,23 +506,5 @@
 | 2026-07-21 01:52 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close terminal provider lifecycle gaps](https://github.com/binaricat/Netcatty/commit/2a31e7c409da35bdf11315d60baf545b6d6636d1) |
 | 2026-07-21 01:52 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close terminal provider lifecycle gaps](https://github.com/DrOlu/Sensor/commit/2a31e7c409da35bdf11315d60baf545b6d6636d1) |
 | 2026-07-21 01:43 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Batch TiKV promotion record reads](https://github.com/wowtrust/trustdb/issues/295) |
-| 2026-07-21 01:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): batch TiKV promotion reads](https://github.com/wowtrust/trustdb/pull/296) |
-| 2026-07-21 01:43 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): batch TiKV promotion reads (#296)](https://github.com/wowtrust/trustdb/commit/6b96e81a798261a57fbe0874004e2526af144f9b) |
-| 2026-07-21 01:06 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugin): close terminal provider lifecycle gaps](https://github.com/binaricat/Netcatty/commit/fec92520190b2ce4b1417f16c05028b6307c8bd4) |
-| 2026-07-21 01:06 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugin): close terminal provider lifecycle gaps](https://github.com/DrOlu/Sensor/commit/fec92520190b2ce4b1417f16c05028b6307c8bd4) |
-| 2026-07-21 00:54 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Minimize proof-level promotion index writes](https://github.com/wowtrust/trustdb/issues/293) |
-| 2026-07-21 00:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reduce promotion index writes](https://github.com/wowtrust/trustdb/pull/294) |
-| 2026-07-21 00:54 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reduce promotion index writes (#294)](https://github.com/wowtrust/trustdb/commit/44971c8f712a94212672d00b8890a30d9a9adba6) |
-| 2026-07-21 00:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Batch TiKV record-index reference reads](https://github.com/wowtrust/trustdb/issues/291) |
-| 2026-07-21 00:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): batch record-index reference reads](https://github.com/wowtrust/trustdb/pull/292) |
-| 2026-07-21 00:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): batch record-index reference reads (#292)](https://github.com/wowtrust/trustdb/commit/d01be957cd7be08425bf35cfe0197ece8616d41c) |
-| 2026-07-21 00:04 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden terminal provider lifecycle](https://github.com/binaricat/Netcatty/commit/7b8256155f7d2e945a1eb987f601be42820a908a) |
-| 2026-07-21 00:04 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden terminal provider lifecycle](https://github.com/DrOlu/Sensor/commit/7b8256155f7d2e945a1eb987f601be42820a908a) |
-| 2026-07-20 23:43 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Reuse TiKV reverse scan batches](https://github.com/wowtrust/trustdb/issues/289) |
-| 2026-07-20 23:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): reuse reverse scan batches](https://github.com/wowtrust/trustdb/pull/290) |
-| 2026-07-20 23:43 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): reuse reverse scan batches (#290)](https://github.com/wowtrust/trustdb/commit/f5cf98c47203c5113fc3e1c42dde6e681478d589) |
-| 2026-07-20 23:19 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Propagate native gRPC stream termination](https://github.com/wowtrust/trustdb/issues/287) |
-| 2026-07-20 23:19 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): propagate native gRPC stream termination](https://github.com/wowtrust/trustdb/pull/288) |
-| 2026-07-20 23:19 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): propagate native gRPC stream termination (#288)](https://github.com/wowtrust/trustdb/commit/52c9968f8ef10f49088cceda37fb133e7d6de6af) |
 
 _Latest indexed activity: 2026-07-27 08:30 UTC · checked automatically every 10 minutes_
