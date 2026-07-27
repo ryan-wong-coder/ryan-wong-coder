@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/issues/605">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-605-506ff40b47-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-605-506ff40b47-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Prepare and publish v2.0.0-rc.1" src="./assets/activity-cards/issue-wowtrust-trustdb-605-506ff40b47-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/617">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-617-25b4a12dfb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-617-25b4a12dfb-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Review and publish v2.0.0" src="./assets/activity-cards/issue-wowtrust-trustdb-617-25b4a12dfb-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/commit/5d34644a8db369a98a87ea6f90e4a55fd718e2c4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5d34644-cc5808e22a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-5d34644-cc5808e22a-light.svg" />
+    <img alt="COMMIT: fix(release): prepare v2.0.0 stable (#620)" src="./assets/activity-cards/commit-wowtrust-trustdb-5d34644-cc5808e22a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/620">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-620-e698dbc0ba-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-620-e698dbc0ba-light.svg" />
+    <img alt="PR MERGED: fix(release): prepare v2.0.0 stable" src="./assets/activity-cards/pr-wowtrust-trustdb-620-e698dbc0ba-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/ad05e42702ad53894a494105e301db980193311d">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ad05e42-96b0105685-dark.svg" />
@@ -53,42 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9dc9890-26c0a814d8-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-9dc9890-26c0a814d8-light.svg" />
     <img alt="COMMIT: docs: add proof and storage glossary (#616)" src="./assets/activity-cards/commit-wowtrust-trustdb-9dc9890-26c0a814d8-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/500">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-500-344aa78257-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-500-344aa78257-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Add a concise cryptographic and storage glossary" src="./assets/activity-cards/issue-wowtrust-trustdb-500-344aa78257-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/617">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-617-0351ff30ad-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-617-0351ff30ad-light.svg" />
-    <img alt="ISSUE OPENED: [Task] Review and publish v2.0.0" src="./assets/activity-cards/issue-wowtrust-trustdb-617-0351ff30ad-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/0e95cf3c8d13f858fba127525254fce00a2911f9">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0e95cf3-a58f4c4bce-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0e95cf3-a58f4c4bce-light.svg" />
-    <img alt="COMMIT: fix(docker): correct the container baseline (#615)" src="./assets/activity-cards/commit-wowtrust-trustdb-0e95cf3-a58f4c4bce-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/615">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-615-51367a2fa9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-615-51367a2fa9-light.svg" />
-    <img alt="PR MERGED: fix(docker): correct the container baseline" src="./assets/activity-cards/pr-wowtrust-trustdb-615-51367a2fa9-light.svg" width="100%" />
   </picture>
 </a>
 <br />

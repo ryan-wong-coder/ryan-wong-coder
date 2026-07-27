@@ -2,15 +2,18 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 167 commits · 157 pull requests · 176 issues · newest first · maximum 500
+**500 entries** · 167 commits · 158 pull requests · 175 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-27 12:24 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Prepare and publish v2.0.0-rc.1](https://github.com/wowtrust/trustdb/issues/605) |
+| 2026-07-27 12:17 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Review and publish v2.0.0](https://github.com/wowtrust/trustdb/issues/617) |
+| 2026-07-27 09:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0 stable](https://github.com/wowtrust/trustdb/pull/620) |
+| 2026-07-27 09:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0 stable (#620)](https://github.com/wowtrust/trustdb/commit/5d34644a8db369a98a87ea6f90e4a55fd718e2c4) |
 | 2026-07-27 08:27 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Pin GitHub Actions to immutable commits](https://github.com/wowtrust/trustdb/issues/618) |
 | 2026-07-27 08:27 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): pin external actions to immutable commits (#619)](https://github.com/wowtrust/trustdb/commit/ad05e42702ad53894a494105e301db980193311d) |
 | 2026-07-27 08:27 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): pin external actions to immutable commits](https://github.com/wowtrust/trustdb/pull/619) |
 | 2026-07-27 08:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a concise cryptographic and storage glossary](https://github.com/wowtrust/trustdb/issues/500) |
-| 2026-07-27 07:59 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Review and publish v2.0.0](https://github.com/wowtrust/trustdb/issues/617) |
 | 2026-07-26 16:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Prepare and publish v2.0.0-rc.2](https://github.com/wowtrust/trustdb/issues/612) |
 | 2026-07-26 16:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix the invalid Docker baseline configuration](https://github.com/wowtrust/trustdb/issues/614) |
 | 2026-07-26 16:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docker): correct the container baseline](https://github.com/wowtrust/trustdb/pull/615) |
@@ -27,7 +30,6 @@
 | 2026-07-26 14:16 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): make manifest media types deterministic (#608)](https://github.com/wowtrust/trustdb/commit/59596ccdd5e3c312a111ed32f1b8236a466d7bb4) |
 | 2026-07-26 13:20 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0-rc.1](https://github.com/wowtrust/trustdb/pull/606) |
 | 2026-07-26 13:20 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): prepare v2.0.0-rc.1 (#606)](https://github.com/wowtrust/trustdb/commit/9cb0b5d37e4198b17ee727b9f6f765796f1e4b87) |
-| 2026-07-26 12:44 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Prepare and publish v2.0.0-rc.1](https://github.com/wowtrust/trustdb/issues/605) |
 | 2026-07-26 12:29 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): add offline-verifiable supply-chain gates](https://github.com/wowtrust/trustdb/pull/604) |
 | 2026-07-26 12:29 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add supply-chain, signed-artifact, SBOM, and domestic-mirror gates](https://github.com/wowtrust/trustdb/issues/478) |
 | 2026-07-26 12:29 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(release): add offline-verifiable supply-chain gates (#604)](https://github.com/wowtrust/trustdb/commit/552fba1e8acd0edb202d9b2b6c028388b4a5726f) |
@@ -504,7 +506,5 @@
 | 2026-07-20 21:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reuse bundle decode buffers](https://github.com/wowtrust/trustdb/pull/278) |
 | 2026-07-20 21:56 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reuse bundle decode buffers (#278)](https://github.com/wowtrust/trustdb/commit/31f9b2648ac0a9a1504850e30673fb8e9fc8e9a1) |
 | 2026-07-20 21:48 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close ordinary provider lifecycle gaps](https://github.com/binaricat/Netcatty/commit/d358c2fce959b47f303906f98b4b2f72b3aedac9) |
-| 2026-07-20 21:48 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close ordinary provider lifecycle gaps](https://github.com/DrOlu/Sensor/commit/d358c2fce959b47f303906f98b4b2f72b3aedac9) |
-| 2026-07-20 21:00 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Bound LocalStore numeric page scans](https://github.com/wowtrust/trustdb/issues/275) |
 
-_Latest indexed activity: 2026-07-27 00:27 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-27 04:24 UTC · checked automatically every 10 minutes_
