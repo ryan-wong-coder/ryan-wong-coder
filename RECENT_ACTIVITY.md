@@ -2,10 +2,15 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 169 commits · 157 pull requests · 174 issues · newest first · maximum 500
+**500 entries** · 167 commits · 157 pull requests · 176 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-27 08:27 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Pin GitHub Actions to immutable commits](https://github.com/wowtrust/trustdb/issues/618) |
+| 2026-07-27 08:27 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): pin external actions to immutable commits (#619)](https://github.com/wowtrust/trustdb/commit/ad05e42702ad53894a494105e301db980193311d) |
+| 2026-07-27 08:27 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): pin external actions to immutable commits](https://github.com/wowtrust/trustdb/pull/619) |
+| 2026-07-27 08:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a concise cryptographic and storage glossary](https://github.com/wowtrust/trustdb/issues/500) |
+| 2026-07-27 07:59 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Review and publish v2.0.0](https://github.com/wowtrust/trustdb/issues/617) |
 | 2026-07-26 16:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Prepare and publish v2.0.0-rc.2](https://github.com/wowtrust/trustdb/issues/612) |
 | 2026-07-26 16:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Fix the invalid Docker baseline configuration](https://github.com/wowtrust/trustdb/issues/614) |
 | 2026-07-26 16:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docker): correct the container baseline](https://github.com/wowtrust/trustdb/pull/615) |
@@ -240,7 +245,6 @@
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a PowerShell tamper-detection demo for Windows](https://github.com/wowtrust/trustdb/issues/503) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a community-tested platform matrix](https://github.com/wowtrust/trustdb/issues/502) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add an integration request Discussion template](https://github.com/wowtrust/trustdb/issues/501) |
-| 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a concise cryptographic and storage glossary](https://github.com/wowtrust/trustdb/issues/500) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a GitHub Actions release-artifact proof example](https://github.com/wowtrust/trustdb/issues/496) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add a neutral TrustDB, immudb, Rekor, and Trillian comparison](https://github.com/wowtrust/trustdb/issues/498) |
 | 2026-07-23 11:37 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add automated Markdown link checking](https://github.com/wowtrust/trustdb/issues/497) |
@@ -502,9 +506,5 @@
 | 2026-07-20 21:48 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close ordinary provider lifecycle gaps](https://github.com/binaricat/Netcatty/commit/d358c2fce959b47f303906f98b4b2f72b3aedac9) |
 | 2026-07-20 21:48 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close ordinary provider lifecycle gaps](https://github.com/DrOlu/Sensor/commit/d358c2fce959b47f303906f98b4b2f72b3aedac9) |
 | 2026-07-20 21:00 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Bound LocalStore numeric page scans](https://github.com/wowtrust/trustdb/issues/275) |
-| 2026-07-20 21:00 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): bound numeric page scans](https://github.com/wowtrust/trustdb/pull/276) |
-| 2026-07-20 21:00 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): bound numeric page scans (#276)](https://github.com/wowtrust/trustdb/commit/b93b8f4213a000e9c2727577ede1b1732e297886) |
-| 2026-07-20 20:55 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): complete ordinary terminal providers](https://github.com/binaricat/Netcatty/commit/10737bd6558ddd43829f72952ff57e67ab321a81) |
-| 2026-07-20 20:55 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): complete ordinary terminal providers](https://github.com/DrOlu/Sensor/commit/10737bd6558ddd43829f72952ff57e67ab321a81) |
 
-_Latest indexed activity: 2026-07-26 08:53 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-27 00:27 UTC · checked automatically every 10 minutes_
