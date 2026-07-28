@@ -21,11 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/SoarCollab/RecordPlatform/issues/323">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" />
+    <img alt="ISSUE OPENED: [合作邀请] 探索使用 TrustDB 构建高性能、可离线验证的存证链路" src="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-942ea27d45-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-942ea27d45-light.svg" />
+    <img alt="ISSUE OPENED: Question: Go SDK maintenance status and recommended support path" src="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-942ea27d45-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/binaricat/Netcatty/pull/2413">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-e2984f3a0c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-e2984f3a0c-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-e2984f3a0c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-817915a855-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-817915a855-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-817915a855-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -35,15 +53,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-605-506ff40b47-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-605-506ff40b47-light.svg" />
     <img alt="ISSUE CLOSED: [Task] Prepare and publish v2.0.0-rc.1" src="./assets/activity-cards/issue-wowtrust-trustdb-605-506ff40b47-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/617">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-617-25b4a12dfb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-617-25b4a12dfb-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Review and publish v2.0.0" src="./assets/activity-cards/issue-wowtrust-trustdb-617-25b4a12dfb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -71,15 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ad05e42-96b0105685-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ad05e42-96b0105685-light.svg" />
     <img alt="COMMIT: fix(ci): pin external actions to immutable commits (#619)" src="./assets/activity-cards/commit-wowtrust-trustdb-ad05e42-96b0105685-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/618">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-618-7ab091c90d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-618-7ab091c90d-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Pin GitHub Actions to immutable commits" src="./assets/activity-cards/issue-wowtrust-trustdb-618-7ab091c90d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
