@@ -2,10 +2,11 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 185 commits · 148 pull requests · 167 issues · newest first · maximum 500
+**500 entries** · 184 commits · 148 pull requests · 168 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-07-29 11:03 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add authenticated online client key lifecycle API](https://github.com/wowtrust/trustdb/issues/621) |
 | 2026-07-28 18:01 | `ISSUE OPEN` | [SoarCollab/RecordPlatform](https://github.com/SoarCollab/RecordPlatform) | [\[合作邀请\] 探索使用 TrustDB 构建高性能、可离线验证的存证链路](https://github.com/SoarCollab/RecordPlatform/issues/323) |
 | 2026-07-28 17:20 | `ISSUE OPEN` | [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | [Question: Go SDK maintenance status and recommended support path](https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370) |
 | 2026-07-27 16:30 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add connection, authentication, and importer providers](https://github.com/binaricat/Netcatty/pull/2413) |
@@ -505,6 +506,5 @@
 | 2026-07-21 02:16 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): batch TiKV global outbox reads (#298)](https://github.com/wowtrust/trustdb/commit/a53907e807b824d66dea1fea1f3fc5d38cfd49e1) |
 | 2026-07-21 02:05 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): avoid duplicate terminal submission callbacks](https://github.com/binaricat/Netcatty/commit/2911b5c4c7a0791f61d9d13adc0c64887ed62cb9) |
 | 2026-07-21 02:05 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): avoid duplicate terminal submission callbacks](https://github.com/DrOlu/Sensor/commit/2911b5c4c7a0791f61d9d13adc0c64887ed62cb9) |
-| 2026-07-21 01:52 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): close terminal provider lifecycle gaps](https://github.com/binaricat/Netcatty/commit/2a31e7c409da35bdf11315d60baf545b6d6636d1) |
 
-_Latest indexed activity: 2026-07-28 10:01 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-07-29 03:03 UTC · checked automatically every 10 minutes_
