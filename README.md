@@ -23,54 +23,54 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/wowtrust/trustdb/commit/0473ec73a8fb4f314c1ad7c15cf95d1d81209aed">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-5a5be90726-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-5a5be90726-light.svg" />
-    <img alt="COMMIT: chore(release): prepare v2.0.1 (#624)" src="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-5a5be90726-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-eded754a2d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-eded754a2d-light.svg" />
+    <img alt="COMMIT: chore(release): prepare v2.0.1 (#624)" src="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-eded754a2d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/issues/623">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-623-2bfb7fa2d2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-623-2bfb7fa2d2-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Prepare and publish v2.0.1" src="./assets/activity-cards/issue-wowtrust-trustdb-623-2bfb7fa2d2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-623-b462408374-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-623-b462408374-light.svg" />
+    <img alt="ISSUE CLOSED: [Task] Prepare and publish v2.0.1" src="./assets/activity-cards/issue-wowtrust-trustdb-623-b462408374-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/pull/624">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-624-a8977310e7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-624-a8977310e7-light.svg" />
-    <img alt="PR MERGED: chore(release): prepare v2.0.1" src="./assets/activity-cards/pr-wowtrust-trustdb-624-a8977310e7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-624-0ed99960ac-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-624-0ed99960ac-light.svg" />
+    <img alt="PR MERGED: chore(release): prepare v2.0.1" src="./assets/activity-cards/pr-wowtrust-trustdb-624-0ed99960ac-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/commit/ddbba27641d1db656437b34aeb5fa72a240337a9">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ddbba27-38f4faeff1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ddbba27-38f4faeff1-light.svg" />
-    <img alt="COMMIT: feat(admin): add online client key lifecycle API (#622)" src="./assets/activity-cards/commit-wowtrust-trustdb-ddbba27-38f4faeff1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ddbba27-34274dbe09-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-ddbba27-34274dbe09-light.svg" />
+    <img alt="COMMIT: feat(admin): add online client key lifecycle API (#622)" src="./assets/activity-cards/commit-wowtrust-trustdb-ddbba27-34274dbe09-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/issues/621">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-621-d9f1ca62aa-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-621-d9f1ca62aa-light.svg" />
-    <img alt="ISSUE CLOSED: [Feature] Add authenticated online client key lifecycle API" src="./assets/activity-cards/issue-wowtrust-trustdb-621-d9f1ca62aa-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-621-a2f5b4c74c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-621-a2f5b4c74c-light.svg" />
+    <img alt="ISSUE CLOSED: [Feature] Add authenticated online client key lifecycle API" src="./assets/activity-cards/issue-wowtrust-trustdb-621-a2f5b4c74c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/pull/622">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-622-895483896b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-622-895483896b-light.svg" />
-    <img alt="PR MERGED: feat(admin): add online client key lifecycle API" src="./assets/activity-cards/pr-wowtrust-trustdb-622-895483896b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-622-4e921282b1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-622-4e921282b1-light.svg" />
+    <img alt="PR MERGED: feat(admin): add online client key lifecycle API" src="./assets/activity-cards/pr-wowtrust-trustdb-622-4e921282b1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -86,9 +86,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/binaricat/Netcatty/pull/2413">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-d989d2c4b6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-d989d2c4b6-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-d989d2c4b6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-0462001df7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-0462001df7-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-0462001df7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
