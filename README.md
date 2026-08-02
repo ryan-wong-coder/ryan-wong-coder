@@ -21,6 +21,33 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/5ae142ec5af66d92619c873f3c1884af97f4ac52">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-46323dbbeb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-46323dbbeb-light.svg" />
+    <img alt="COMMIT: fix(desktop): bind local FISCO BCOS trust config" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-46323dbbeb-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/pull/627">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-627-8d6c34c18c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-627-8d6c34c18c-light.svg" />
+    <img alt="PR OPENED: fix(desktop): bind local FISCO BCOS trust config" src="./assets/activity-cards/pr-wowtrust-trustdb-627-8d6c34c18c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/issues/626">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-626-2bc37e31de-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-626-2bc37e31de-light.svg" />
+    <img alt="ISSUE OPENED: Desktop verifier: add local FISCO BCOS TrustConfig binding" src="./assets/activity-cards/issue-wowtrust-trustdb-626-2bc37e31de-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/0473ec73a8fb4f314c1ad7c15cf95d1d81209aed">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-bf898f8126-dark.svg" />
@@ -62,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-621-2eca7cfe68-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-621-2eca7cfe68-light.svg" />
     <img alt="ISSUE CLOSED: [Feature] Add authenticated online client key lifecycle API" src="./assets/activity-cards/issue-wowtrust-trustdb-621-2eca7cfe68-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/pull/622">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-622-a2999d5b49-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-622-a2999d5b49-light.svg" />
-    <img alt="PR MERGED: feat(admin): add online client key lifecycle API" src="./assets/activity-cards/pr-wowtrust-trustdb-622-a2999d5b49-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/SoarCollab/RecordPlatform/issues/323">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" />
-    <img alt="ISSUE OPENED: [合作邀请] 探索使用 TrustDB 构建高性能、可离线验证的存证链路" src="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/binaricat/Netcatty/pull/2413">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-53db83cda6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-53db83cda6-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-53db83cda6-light.svg" width="100%" />
   </picture>
 </a>
 <br />

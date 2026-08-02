@@ -2,10 +2,12 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 183 commits · 149 pull requests · 168 issues · newest first · maximum 500
+**500 entries** · 181 commits · 150 pull requests · 169 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-08-02 21:16 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(desktop): bind local FISCO BCOS trust config](https://github.com/wowtrust/trustdb/pull/627) |
+| 2026-08-02 21:03 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Desktop verifier: add local FISCO BCOS TrustConfig binding](https://github.com/wowtrust/trustdb/issues/626) |
 | 2026-07-29 14:11 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Prepare and publish v2.0.1](https://github.com/wowtrust/trustdb/issues/623) |
 | 2026-07-29 14:11 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v2.0.1](https://github.com/wowtrust/trustdb/pull/624) |
 | 2026-07-29 14:11 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v2.0.1 (#624)](https://github.com/wowtrust/trustdb/commit/0473ec73a8fb4f314c1ad7c15cf95d1d81209aed) |
@@ -504,7 +506,5 @@
 | 2026-07-21 03:10 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Bound idle WAL group fsync latency](https://github.com/wowtrust/trustdb/issues/299) |
 | 2026-07-21 03:10 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): bound idle group fsync latency](https://github.com/wowtrust/trustdb/pull/300) |
 | 2026-07-21 03:10 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): bound idle group fsync latency (#300)](https://github.com/wowtrust/trustdb/commit/92399ad2b4fe80fd235721a8132f7bc83e18d621) |
-| 2026-07-21 02:22 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): invalidate stale terminal provider results](https://github.com/binaricat/Netcatty/commit/38bda088894fc090be540bd60dc0acc30b4b7580) |
-| 2026-07-21 02:22 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): invalidate stale terminal provider results](https://github.com/DrOlu/Sensor/commit/38bda088894fc090be540bd60dc0acc30b4b7580) |
 
-_Latest indexed activity: 2026-07-29 06:11 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-08-02 13:16 UTC · checked automatically every 10 minutes_
