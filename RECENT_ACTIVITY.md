@@ -6,8 +6,9 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-08-02 21:16 | `PR OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(desktop): bind local FISCO BCOS trust config](https://github.com/wowtrust/trustdb/pull/627) |
-| 2026-08-02 21:03 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Desktop verifier: add local FISCO BCOS TrustConfig binding](https://github.com/wowtrust/trustdb/issues/626) |
+| 2026-08-03 12:43 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Desktop verifier: add local FISCO BCOS TrustConfig binding](https://github.com/wowtrust/trustdb/issues/626) |
+| 2026-08-03 12:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(desktop): bind local FISCO BCOS trust config](https://github.com/wowtrust/trustdb/pull/627) |
+| 2026-08-03 12:43 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(desktop): bind local FISCO BCOS trust config (#627)](https://github.com/wowtrust/trustdb/commit/3313c68787a35b636db5c67064283d37d40e5b9a) |
 | 2026-07-29 14:11 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Prepare and publish v2.0.1](https://github.com/wowtrust/trustdb/issues/623) |
 | 2026-07-29 14:11 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v2.0.1](https://github.com/wowtrust/trustdb/pull/624) |
 | 2026-07-29 14:11 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v2.0.1 (#624)](https://github.com/wowtrust/trustdb/commit/0473ec73a8fb4f314c1ad7c15cf95d1d81209aed) |
@@ -505,6 +506,5 @@
 | 2026-07-21 04:33 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): make namespace and recovery durable (#302)](https://github.com/wowtrust/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752) |
 | 2026-07-21 03:10 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Bound idle WAL group fsync latency](https://github.com/wowtrust/trustdb/issues/299) |
 | 2026-07-21 03:10 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): bound idle group fsync latency](https://github.com/wowtrust/trustdb/pull/300) |
-| 2026-07-21 03:10 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): bound idle group fsync latency (#300)](https://github.com/wowtrust/trustdb/commit/92399ad2b4fe80fd235721a8132f7bc83e18d621) |
 
-_Latest indexed activity: 2026-08-02 13:16 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-08-03 04:43 UTC · checked automatically every 10 minutes_
