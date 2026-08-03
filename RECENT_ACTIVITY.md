@@ -6,6 +6,7 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-08-03 13:23 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(verify): support client key rotation in offline verification](https://github.com/ryan-wong-coder/trustdb/pull/1) |
 | 2026-08-03 12:43 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Desktop verifier: add local FISCO BCOS TrustConfig binding](https://github.com/wowtrust/trustdb/issues/626) |
 | 2026-08-03 12:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(desktop): bind local FISCO BCOS trust config](https://github.com/wowtrust/trustdb/pull/627) |
 | 2026-08-03 12:43 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(desktop): bind local FISCO BCOS trust config (#627)](https://github.com/wowtrust/trustdb/commit/3313c68787a35b636db5c67064283d37d40e5b9a) |
@@ -505,6 +506,5 @@
 | 2026-07-21 04:33 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): make namespace and recovery durable](https://github.com/wowtrust/trustdb/pull/302) |
 | 2026-07-21 04:33 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): make namespace and recovery durable (#302)](https://github.com/wowtrust/trustdb/commit/b5bf59faa69eec2b62a9257444ef7ad2c0954752) |
 | 2026-07-21 03:10 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Bound idle WAL group fsync latency](https://github.com/wowtrust/trustdb/issues/299) |
-| 2026-07-21 03:10 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): bound idle group fsync latency](https://github.com/wowtrust/trustdb/pull/300) |
 
-_Latest indexed activity: 2026-08-03 04:43 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-08-03 05:23 UTC · checked automatically every 10 minutes_

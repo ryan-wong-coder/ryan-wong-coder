@@ -21,6 +21,33 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/trustdb/pull/1">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-eee1aec341-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-eee1aec341-light.svg" />
+    <img alt="PR MERGED: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-eee1aec341-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/96043497c9b35a8cf9de897ee993eba45b3906e3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-cdf0e698da-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-cdf0e698da-light.svg" />
+    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-cdf0e698da-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/trustdb/commit/be774b3f7d7b74aacdeffa9c378cbfeb6e1c3e26">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-a7b9dbd41f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-a7b9dbd41f-light.svg" />
+    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-a7b9dbd41f-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/wowtrust/trustdb/commit/3313c68787a35b636db5c67064283d37d40e5b9a">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-e6577c73d4-dark.svg" />
@@ -50,9 +77,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/6b35a9f3a309f1fcaef556911f549defdff9766e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-d9fb50e6f6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-d9fb50e6f6-light.svg" />
-    <img alt="COMMIT: Merge branch &#x27;main&#x27; into agent/fisco-bcos-desktop-binding" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-d9fb50e6f6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2a7732ced2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2a7732ced2-light.svg" />
+    <img alt="COMMIT: Merge branch &#x27;main&#x27; into agent/fisco-bcos-desktop-binding" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2a7732ced2-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -62,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-4cb1b3708a-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-4cb1b3708a-light.svg" />
     <img alt="COMMIT: fix(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4 in /scripts/fisco-bcos/contract-test (#625)" src="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-4cb1b3708a-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/5ae142ec5af66d92619c873f3c1884af97f4ac52">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-46323dbbeb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-46323dbbeb-light.svg" />
-    <img alt="COMMIT: fix(desktop): bind local FISCO BCOS trust config" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-46323dbbeb-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/commit/0473ec73a8fb4f314c1ad7c15cf95d1d81209aed">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-bf898f8126-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-bf898f8126-light.svg" />
-    <img alt="COMMIT: chore(release): prepare v2.0.1 (#624)" src="./assets/activity-cards/commit-wowtrust-trustdb-0473ec7-bf898f8126-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/wowtrust/trustdb/issues/623">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-623-f2457083dc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-623-f2457083dc-light.svg" />
-    <img alt="ISSUE CLOSED: [Task] Prepare and publish v2.0.1" src="./assets/activity-cards/issue-wowtrust-trustdb-623-f2457083dc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
