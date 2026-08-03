@@ -23,72 +23,72 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/trustdb/pull/1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-eee1aec341-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-eee1aec341-light.svg" />
-    <img alt="PR MERGED: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-eee1aec341-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-c25f7e1a3d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-c25f7e1a3d-light.svg" />
+    <img alt="PR MERGED: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-c25f7e1a3d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/96043497c9b35a8cf9de897ee993eba45b3906e3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-cdf0e698da-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-cdf0e698da-light.svg" />
-    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-cdf0e698da-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-a59e32f48f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-a59e32f48f-light.svg" />
+    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-a59e32f48f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/be774b3f7d7b74aacdeffa9c378cbfeb6e1c3e26">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-a7b9dbd41f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-a7b9dbd41f-light.svg" />
-    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-a7b9dbd41f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-e0195f99f3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-e0195f99f3-light.svg" />
+    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-e0195f99f3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/commit/3313c68787a35b636db5c67064283d37d40e5b9a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-e6577c73d4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-e6577c73d4-light.svg" />
-    <img alt="COMMIT: fix(desktop): bind local FISCO BCOS trust config (#627)" src="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-e6577c73d4-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-150e3b0d9d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-150e3b0d9d-light.svg" />
+    <img alt="COMMIT: fix(desktop): bind local FISCO BCOS trust config (#627)" src="./assets/activity-cards/commit-wowtrust-trustdb-3313c68-150e3b0d9d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/issues/626">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-626-d8fde4d2ff-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-626-d8fde4d2ff-light.svg" />
-    <img alt="ISSUE CLOSED: Desktop verifier: add local FISCO BCOS TrustConfig binding" src="./assets/activity-cards/issue-wowtrust-trustdb-626-d8fde4d2ff-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-626-859b9b0545-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-wowtrust-trustdb-626-859b9b0545-light.svg" />
+    <img alt="ISSUE CLOSED: Desktop verifier: add local FISCO BCOS TrustConfig binding" src="./assets/activity-cards/issue-wowtrust-trustdb-626-859b9b0545-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/pull/627">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-627-a284c5d546-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-627-a284c5d546-light.svg" />
-    <img alt="PR MERGED: fix(desktop): bind local FISCO BCOS trust config" src="./assets/activity-cards/pr-wowtrust-trustdb-627-a284c5d546-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-627-70c79b33f4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-wowtrust-trustdb-627-70c79b33f4-light.svg" />
+    <img alt="PR MERGED: fix(desktop): bind local FISCO BCOS trust config" src="./assets/activity-cards/pr-wowtrust-trustdb-627-70c79b33f4-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/trustdb/commit/6b35a9f3a309f1fcaef556911f549defdff9766e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2a7732ced2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2a7732ced2-light.svg" />
-    <img alt="COMMIT: Merge branch &#x27;main&#x27; into agent/fisco-bcos-desktop-binding" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2a7732ced2-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2cac781752-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2cac781752-light.svg" />
+    <img alt="COMMIT: Merge branch &#x27;main&#x27; into agent/fisco-bcos-desktop-binding" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-2cac781752-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/wowtrust/trustdb/commit/baeb4e9692a7264dbe187494bdbce012122f1068">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-4cb1b3708a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-4cb1b3708a-light.svg" />
-    <img alt="COMMIT: fix(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4 in /scripts/fisco-bcos/contract-test (#625)" src="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-4cb1b3708a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-6f3bdabc5d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-6f3bdabc5d-light.svg" />
+    <img alt="COMMIT: fix(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4 in /scripts/fisco-bcos/contract-test (#625)" src="./assets/activity-cards/commit-wowtrust-trustdb-baeb4e9-6f3bdabc5d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
