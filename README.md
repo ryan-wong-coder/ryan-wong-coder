@@ -77,18 +77,18 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-1e80f302fd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-1e80f302fd-light.svg" />
-    <img alt="ISSUE OPENED: Question: Go SDK maintenance status and recommended support path" src="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-1e80f302fd-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-09c24fd8c2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-09c24fd8c2-light.svg" />
+    <img alt="ISSUE OPENED: Question: Go SDK maintenance status and recommended support path" src="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-09c24fd8c2-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/binaricat/Netcatty/pull/2413">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-14a34e3d7c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-14a34e3d7c-light.svg" />
-    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-14a34e3d7c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8492b60693-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-binaricat-netcatty-2413-8492b60693-light.svg" />
+    <img alt="PR MERGED: feat(plugins): add connection, authentication, and importer providers" src="./assets/activity-cards/pr-binaricat-netcatty-2413-8492b60693-light.svg" width="100%" />
   </picture>
 </a>
 <br />
