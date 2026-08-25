@@ -77,9 +77,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-680a67192a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-680a67192a-light.svg" />
-    <img alt="ISSUE OPENED: Question: Go SDK maintenance status and recommended support path" src="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-680a67192a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-1e80f302fd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-1e80f302fd-light.svg" />
+    <img alt="ISSUE OPENED: Question: Go SDK maintenance status and recommended support path" src="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-1e80f302fd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
