@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/d10e0318f6e0d6f7afc17121c68e19945ecd50cc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-01648f4e46-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-01648f4e46-light.svg" />
+    <img alt="COMMIT: feat(experience): use MFA error details for trusted device opt-in (#9519)" src="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-01648f4e46-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/trustdb/pull/1">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-dark.svg" />
@@ -71,15 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" />
     <img alt="ISSUE OPENED: [合作邀请] 探索使用 TrustDB 构建高性能、可离线验证的存证链路" src="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-f50b4b76da-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-f50b4b76da-light.svg" />
-    <img alt="ISSUE OPENED: Question: Go SDK maintenance status and recommended support path" src="./assets/activity-cards/issue-fisco-bcos-fisco-bcos-5370-f50b4b76da-light.svg" width="100%" />
   </picture>
 </a>
 <br />
