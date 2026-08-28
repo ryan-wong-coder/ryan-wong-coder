@@ -21,6 +21,42 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/f85533ffa9ebb550bbe4cc6104365643ece4f4ea">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-8fa9896b7d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-8fa9896b7d-light.svg" />
+    <img alt="COMMIT: ci: automate direct IP Swarm releases" src="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-8fa9896b7d-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/logto/commit/4f32958d792100d3207d4f586cdc05a0e5b966f4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-3cbe5dc6d9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-3cbe5dc6d9-light.svg" />
+    <img alt="COMMIT: ci: use stable Swarm deployment domains" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-3cbe5dc6d9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/logto/commit/c99c1edfa30d754538d8f1bad7e26b8dcb00dafd">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-1c20e2aea0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-1c20e2aea0-light.svg" />
+    <img alt="COMMIT: ci: deploy personal builds to Docker Swarm" src="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-1c20e2aea0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/logto/commit/ed10ffad9a2464649fb131d530941c194f365b55">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-ed10ffa-d8f2b1545c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-ed10ffa-d8f2b1545c-light.svg" />
+    <img alt="COMMIT: ci: build core test artifacts before release" src="./assets/activity-cards/commit-ryan-wong-coder-logto-ed10ffa-d8f2b1545c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/162fd6dc7545369a32304bbb89e1d2d20c5d9c29">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-dark.svg" />
@@ -30,47 +66,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/a036abd88e00365b4f6a1cb07ddd1104b7f31bc2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-a036abd-25b0866229-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-a036abd-25b0866229-light.svg" />
-    <img alt="COMMIT: feat: add self-hosted feature parity" src="./assets/activity-cards/commit-ryan-wong-coder-logto-a036abd-25b0866229-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/d10e0318f6e0d6f7afc17121c68e19945ecd50cc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-81d49e16a3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-81d49e16a3-light.svg" />
-    <img alt="COMMIT: feat(experience): use MFA error details for trusted device opt-in (#9519)" src="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-81d49e16a3-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-wong-coder/trustdb/pull/1">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-light.svg" />
     <img alt="PR MERGED: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/96043497c9b35a8cf9de897ee993eba45b3906e3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-97d3ff8bcf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-97d3ff8bcf-light.svg" />
-    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-9604349-97d3ff8bcf-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/be774b3f7d7b74aacdeffa9c378cbfeb6e1c3e26">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-48f65dbedb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-48f65dbedb-light.svg" />
-    <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-48f65dbedb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
