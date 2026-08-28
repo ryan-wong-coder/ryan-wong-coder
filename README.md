@@ -21,11 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/162fd6dc7545369a32304bbb89e1d2d20c5d9c29">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-light.svg" />
+    <img alt="COMMIT: fix: remove remaining self-hosted cloud prompts" src="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/logto/commit/a036abd88e00365b4f6a1cb07ddd1104b7f31bc2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-a036abd-25b0866229-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-a036abd-25b0866229-light.svg" />
+    <img alt="COMMIT: feat: add self-hosted feature parity" src="./assets/activity-cards/commit-ryan-wong-coder-logto-a036abd-25b0866229-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/d10e0318f6e0d6f7afc17121c68e19945ecd50cc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-01648f4e46-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-01648f4e46-light.svg" />
-    <img alt="COMMIT: feat(experience): use MFA error details for trusted device opt-in (#9519)" src="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-01648f4e46-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-81d49e16a3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-81d49e16a3-light.svg" />
+    <img alt="COMMIT: feat(experience): use MFA error details for trusted device opt-in (#9519)" src="./assets/activity-cards/commit-ryan-wong-coder-logto-d10e031-81d49e16a3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -53,33 +71,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-48f65dbedb-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-48f65dbedb-light.svg" />
     <img alt="COMMIT: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-be774b3-48f65dbedb-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/6b35a9f3a309f1fcaef556911f549defdff9766e">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-631907a4d6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-631907a4d6-light.svg" />
-    <img alt="COMMIT: Merge branch &#x27;main&#x27; into agent/fisco-bcos-desktop-binding" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-6b35a9f-631907a4d6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/commit/5ae142ec5af66d92619c873f3c1884af97f4ac52">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-55e670cc92-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-55e670cc92-light.svg" />
-    <img alt="COMMIT: fix(desktop): bind local FISCO BCOS trust config" src="./assets/activity-cards/commit-ryan-wong-coder-trustdb-5ae142e-55e670cc92-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/SoarCollab/RecordPlatform/issues/323">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" />
-    <img alt="ISSUE OPENED: [合作邀请] 探索使用 TrustDB 构建高性能、可离线验证的存证链路" src="./assets/activity-cards/issue-soarcollab-recordplatform-323-8d4ed3e509-light.svg" width="100%" />
   </picture>
 </a>
 <br />

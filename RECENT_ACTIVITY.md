@@ -2,10 +2,12 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**467 entries** · 412 commits · 32 pull requests · 23 issues · newest first · maximum 500
+**469 entries** · 414 commits · 32 pull requests · 23 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-08-28 08:56 | `COMMIT` | [ryan-wong-coder/argo-config](https://github.com/ryan-wong-coder/argo-config) | [fix(logto): start protected app gateway from image build](https://github.com/ryan-wong-coder/argo-config/commit/aa827ca006a7755c64ebfe73d8cd36046b8e4d0f) |
+| 2026-08-28 07:37 | `COMMIT` | [ryan-wong-coder/argo-config](https://github.com/ryan-wong-coder/argo-config) | [feat: add Logto GitOps deployment](https://github.com/ryan-wong-coder/argo-config/commit/55b2d1a1ac5be84e24fa45894ecd8ae19a214eb3) |
 | 2026-08-03 13:23 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(verify): support client key rotation in offline verification](https://github.com/ryan-wong-coder/trustdb/pull/1) |
 | 2026-07-28 18:01 | `ISSUE OPEN` | [SoarCollab/RecordPlatform](https://github.com/SoarCollab/RecordPlatform) | [\[合作邀请\] 探索使用 TrustDB 构建高性能、可离线验证的存证链路](https://github.com/SoarCollab/RecordPlatform/issues/323) |
 | 2026-07-28 17:20 | `ISSUE OPEN` | [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | [Question: Go SDK maintenance status and recommended support path](https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370) |
@@ -474,4 +476,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-08-03 05:23 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-08-28 00:56 UTC · checked automatically every 10 minutes_
