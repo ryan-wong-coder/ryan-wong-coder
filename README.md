@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/7bd74504deb14b4c9b60b6147688e910684cb175">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-7bd7450-d0799c4f43-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-7bd7450-d0799c4f43-light.svg" />
+    <img alt="COMMIT: fix: query tenant state through management pool" src="./assets/activity-cards/commit-ryan-wong-coder-logto-7bd7450-d0799c4f43-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/logto/commit/1054485827abc476e5fb13dc4eaa38a1bef9896a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-1054485-aa88256b03-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-1054485-aa88256b03-light.svg" />
+    <img alt="COMMIT: fix: preserve console tenant route redirects" src="./assets/activity-cards/commit-ryan-wong-coder-logto-1054485-aa88256b03-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/f85533ffa9ebb550bbe4cc6104365643ece4f4ea">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-8fa9896b7d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-8fa9896b7d-light.svg" />
-    <img alt="COMMIT: ci: automate direct IP Swarm releases" src="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-8fa9896b7d-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-a04f2149c7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-a04f2149c7-light.svg" />
+    <img alt="COMMIT: ci: automate direct IP Swarm releases" src="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-a04f2149c7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/4f32958d792100d3207d4f586cdc05a0e5b966f4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-3cbe5dc6d9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-3cbe5dc6d9-light.svg" />
-    <img alt="COMMIT: ci: use stable Swarm deployment domains" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-3cbe5dc6d9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-light.svg" />
+    <img alt="COMMIT: ci: use stable Swarm deployment domains" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/c99c1edfa30d754538d8f1bad7e26b8dcb00dafd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-1c20e2aea0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-1c20e2aea0-light.svg" />
-    <img alt="COMMIT: ci: deploy personal builds to Docker Swarm" src="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-1c20e2aea0-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/ed10ffad9a2464649fb131d530941c194f365b55">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-ed10ffa-d8f2b1545c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-ed10ffa-d8f2b1545c-light.svg" />
-    <img alt="COMMIT: ci: build core test artifacts before release" src="./assets/activity-cards/commit-ryan-wong-coder-logto-ed10ffa-d8f2b1545c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/162fd6dc7545369a32304bbb89e1d2d20c5d9c29">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-light.svg" />
-    <img alt="COMMIT: fix: remove remaining self-hosted cloud prompts" src="./assets/activity-cards/commit-ryan-wong-coder-logto-162fd6d-1af80c0a85-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-47a42e0e62-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-47a42e0e62-light.svg" />
+    <img alt="COMMIT: ci: deploy personal builds to Docker Swarm" src="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-47a42e0e62-light.svg" width="100%" />
   </picture>
 </a>
 <br />
