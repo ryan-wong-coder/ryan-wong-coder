@@ -23,45 +23,45 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/logto/commit/0f1836956e7a92da88416a277091b9002ef809bd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0f18369-738e6dd6bd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0f18369-738e6dd6bd-light.svg" />
-    <img alt="COMMIT: fix: map legacy self-hosted logos to iden" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0f18369-738e6dd6bd-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0f18369-80046af209-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0f18369-80046af209-light.svg" />
+    <img alt="COMMIT: fix: map legacy self-hosted logos to iden" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0f18369-80046af209-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/4dfbf969996932a36fe367bb1e52348c710e42b6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-303be4d0d6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-303be4d0d6-light.svg" />
-    <img alt="COMMIT: test: update generated avatar expectations" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-303be4d0d6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-d086252bcd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-d086252bcd-light.svg" />
+    <img alt="COMMIT: test: update generated avatar expectations" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-d086252bcd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/3de02952bb0e08193c84133957edc3b46d626635">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-00aedd6fb7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-00aedd6fb7-light.svg" />
-    <img alt="COMMIT: feat: add generated avatars and neutral product icons" src="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-00aedd6fb7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-611faa1ebc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-611faa1ebc-light.svg" />
+    <img alt="COMMIT: feat: add generated avatars and neutral product icons" src="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-611faa1ebc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/2b43aa925676f92accd59a6c4d1317d7de3d221e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2b43aa9-c265172e30-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2b43aa9-c265172e30-light.svg" />
-    <img alt="COMMIT: ci: install chromium for component tests" src="./assets/activity-cards/commit-ryan-wong-coder-logto-2b43aa9-c265172e30-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2b43aa9-1fb276359a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2b43aa9-1fb276359a-light.svg" />
+    <img alt="COMMIT: ci: install chromium for component tests" src="./assets/activity-cards/commit-ryan-wong-coder-logto-2b43aa9-1fb276359a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/66dcf2311ee669cfa55dcc5897a64ec4118feecd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-66dcf23-3eba2893b6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-66dcf23-3eba2893b6-light.svg" />
-    <img alt="COMMIT: fix: stabilize self-hosted console sign-in" src="./assets/activity-cards/commit-ryan-wong-coder-logto-66dcf23-3eba2893b6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-66dcf23-9ca0e56549-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-66dcf23-9ca0e56549-light.svg" />
+    <img alt="COMMIT: fix: stabilize self-hosted console sign-in" src="./assets/activity-cards/commit-ryan-wong-coder-logto-66dcf23-9ca0e56549-light.svg" width="100%" />
   </picture>
 </a>
 <br />
