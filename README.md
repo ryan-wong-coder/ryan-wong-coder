@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/4dfbf969996932a36fe367bb1e52348c710e42b6">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-a05ecdcf60-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-a05ecdcf60-light.svg" />
+    <img alt="COMMIT: test: update generated avatar expectations" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4dfbf96-a05ecdcf60-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/logto/commit/200f9f4e1b09ab57c8e30247c6935f0a0f20797f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-200f9f4-a2b07ed5d0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-200f9f4-a2b07ed5d0-light.svg" />
+    <img alt="COMMIT: fix: finish self-hosted console rebranding" src="./assets/activity-cards/commit-ryan-wong-coder-logto-200f9f4-a2b07ed5d0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/37fa6399063dab6c2718ce2c50493bbf0d928abe">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37fa639-115272a998-dark.svg" />
@@ -39,29 +57,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/1054485827abc476e5fb13dc4eaa38a1bef9896a">
+<a href="https://github.com/ryan-wong-coder/logto/commit/3b402cb678a716b510968ee095300bce6678038c">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-1054485-aa88256b03-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-1054485-aa88256b03-light.svg" />
-    <img alt="COMMIT: fix: preserve console tenant route redirects" src="./assets/activity-cards/commit-ryan-wong-coder-logto-1054485-aa88256b03-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/f85533ffa9ebb550bbe4cc6104365643ece4f4ea">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-a04f2149c7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-a04f2149c7-light.svg" />
-    <img alt="COMMIT: ci: automate direct IP Swarm releases" src="./assets/activity-cards/commit-ryan-wong-coder-logto-f85533f-a04f2149c7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/4f32958d792100d3207d4f586cdc05a0e5b966f4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-light.svg" />
-    <img alt="COMMIT: ci: use stable Swarm deployment domains" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3b402cb-288791d66a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3b402cb-288791d66a-light.svg" />
+    <img alt="COMMIT: ci: deploy self-hosted releases through GitOps" src="./assets/activity-cards/commit-ryan-wong-coder-logto-3b402cb-288791d66a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
