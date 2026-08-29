@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/37fa6399063dab6c2718ce2c50493bbf0d928abe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37fa639-115272a998-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37fa639-115272a998-light.svg" />
+    <img alt="COMMIT: fix: normalize proxied response headers" src="./assets/activity-cards/commit-ryan-wong-coder-logto-37fa639-115272a998-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/7bd74504deb14b4c9b60b6147688e910684cb175">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-7bd7450-d0799c4f43-dark.svg" />
@@ -53,15 +62,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-light.svg" />
     <img alt="COMMIT: ci: use stable Swarm deployment domains" src="./assets/activity-cards/commit-ryan-wong-coder-logto-4f32958-7ea2207415-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/c99c1edfa30d754538d8f1bad7e26b8dcb00dafd">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-47a42e0e62-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-47a42e0e62-light.svg" />
-    <img alt="COMMIT: ci: deploy personal builds to Docker Swarm" src="./assets/activity-cards/commit-ryan-wong-coder-logto-c99c1ed-47a42e0e62-light.svg" width="100%" />
   </picture>
 </a>
 <br />
