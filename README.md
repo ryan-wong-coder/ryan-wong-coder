@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/873860659d1527782ee1769c3bc5da368c458b4d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-a5ac6bd069-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-a5ac6bd069-light.svg" />
+    <img alt="COMMIT: test: cover organization audit filters" src="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-a5ac6bd069-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/0bbabc7cfb9889867cd358e5c50d893f8024c6cb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-b55b4ababf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-b55b4ababf-light.svg" />
-    <img alt="COMMIT: feat: add theme-aware iden art assets" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-b55b4ababf-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-614e5197f5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-614e5197f5-light.svg" />
+    <img alt="COMMIT: feat: add theme-aware iden art assets" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-614e5197f5-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/613c164b117c0a9727fa3ff6ef48390aabd33a93">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-597878ee35-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-597878ee35-light.svg" />
-    <img alt="COMMIT: fix: keep default user avatars consistent" src="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-597878ee35-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/3de02952bb0e08193c84133957edc3b46d626635">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-611faa1ebc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-611faa1ebc-light.svg" />
-    <img alt="COMMIT: feat: add generated avatars and neutral product icons" src="./assets/activity-cards/commit-ryan-wong-coder-logto-3de0295-611faa1ebc-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-baf27fec5d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-baf27fec5d-light.svg" />
+    <img alt="COMMIT: fix: keep default user avatars consistent" src="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-baf27fec5d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/71a959da741ebf6d94f8e81acff300c73e1c1f57">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-71a959d-b8bf94854f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-71a959d-b8bf94854f-light.svg" />
-    <img alt="COMMIT: fix: keep brand selection compatible with jest" src="./assets/activity-cards/commit-ryan-wong-coder-logto-71a959d-b8bf94854f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-71a959d-a18c66b0e6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-71a959d-a18c66b0e6-light.svg" />
+    <img alt="COMMIT: fix: keep brand selection compatible with jest" src="./assets/activity-cards/commit-ryan-wong-coder-logto-71a959d-a18c66b0e6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/2edd070440589403408abe5228cf2c10049599ae">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2edd070-3d92c50ab9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2edd070-3d92c50ab9-light.svg" />
-    <img alt="COMMIT: feat: rebrand self-hosted product as iden" src="./assets/activity-cards/commit-ryan-wong-coder-logto-2edd070-3d92c50ab9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2edd070-15a5197406-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-2edd070-15a5197406-light.svg" />
+    <img alt="COMMIT: feat: rebrand self-hosted product as iden" src="./assets/activity-cards/commit-ryan-wong-coder-logto-2edd070-15a5197406-light.svg" width="100%" />
   </picture>
 </a>
 <br />
