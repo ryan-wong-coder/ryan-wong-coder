@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-wong-coder/logto/commit/37133e684db01230688acf46d5e8f1bebf64eadb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37133e6-2f8650f9a3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37133e6-2f8650f9a3-light.svg" />
+    <img alt="COMMIT: fix: improve organization avatar and console layout" src="./assets/activity-cards/commit-ryan-wong-coder-logto-37133e6-2f8650f9a3-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/logto/commit/e5832b8a0f058a5d395b151f1ed646bcc8c9be1d">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-e5832b8-87e8f45827-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-e5832b8-87e8f45827-light.svg" />
-    <img alt="COMMIT: fix: localize organization center preview" src="./assets/activity-cards/commit-ryan-wong-coder-logto-e5832b8-87e8f45827-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-e5832b8-9dd0d07656-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-e5832b8-9dd0d07656-light.svg" />
+    <img alt="COMMIT: fix: localize organization center preview" src="./assets/activity-cards/commit-ryan-wong-coder-logto-e5832b8-9dd0d07656-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/873860659d1527782ee1769c3bc5da368c458b4d">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-087cc31b8b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-087cc31b8b-light.svg" />
-    <img alt="COMMIT: test: cover organization audit filters" src="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-087cc31b8b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-346a1dce77-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-346a1dce77-light.svg" />
+    <img alt="COMMIT: test: cover organization audit filters" src="./assets/activity-cards/commit-ryan-wong-coder-logto-8738606-346a1dce77-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/logto/commit/0a1d7255e0745b43c5c00dd443880b216b283eb7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0a1d725-0fc10ca442-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0a1d725-0fc10ca442-light.svg" />
-    <img alt="COMMIT: feat: add self-hosted organization center" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0a1d725-0fc10ca442-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0a1d725-70636b587b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0a1d725-70636b587b-light.svg" />
+    <img alt="COMMIT: feat: add self-hosted organization center" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0a1d725-70636b587b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/0bbabc7cfb9889867cd358e5c50d893f8024c6cb">
+<a href="https://github.com/ryan-wong-coder/logto/commit/97b6d50d188611b121e0edc8633a80a61af209ff">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-4216bf2866-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-4216bf2866-light.svg" />
-    <img alt="COMMIT: feat: add theme-aware iden art assets" src="./assets/activity-cards/commit-ryan-wong-coder-logto-0bbabc7-4216bf2866-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/logto/commit/613c164b117c0a9727fa3ff6ef48390aabd33a93">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-3c5b4492fe-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-3c5b4492fe-light.svg" />
-    <img alt="COMMIT: fix: keep default user avatars consistent" src="./assets/activity-cards/commit-ryan-wong-coder-logto-613c164-3c5b4492fe-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-97b6d50-5af847a815-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-97b6d50-5af847a815-light.svg" />
+    <img alt="COMMIT: fix: resolve help center in core tests" src="./assets/activity-cards/commit-ryan-wong-coder-logto-97b6d50-5af847a815-light.svg" width="100%" />
   </picture>
 </a>
 <br />
