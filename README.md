@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/logto/commit/37133e684db01230688acf46d5e8f1bebf64eadb">
+<a href="https://github.com/ryan-iden/iden/commit/190d1decf3416f694b065b675c783204f2400efb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37133e6-12f1007925-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-37133e6-12f1007925-light.svg" />
-    <img alt="COMMIT: fix: improve organization avatar and console layout" src="./assets/activity-cards/commit-ryan-wong-coder-logto-37133e6-12f1007925-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-light.svg" />
+    <img alt="COMMIT: docs: update iden SDK coordinates" src="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/6f023e48d56d53cccd429843088275d930b809c6">
+<a href="https://github.com/ryan-iden/kotlin/commit/224b22dfd4ace34c95c5973b4c9fd3c5787b88b4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-6f023e4-f30f28bdd1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-6f023e4-f30f28bdd1-light.svg" />
-    <img alt="COMMIT: fix: create organization owner assignment" src="./assets/activity-cards/commit-ryan-wong-coder-logto-6f023e4-f30f28bdd1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-kotlin-224b22d-761a2d8c3e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-kotlin-224b22d-761a2d8c3e-light.svg" />
+    <img alt="COMMIT: ci: make iden publishing retryable" src="./assets/activity-cards/commit-ryan-iden-kotlin-224b22d-761a2d8c3e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/abd3de10ff4f1473dcf6dd8ac2bf5c7179cd76da">
+<a href="https://github.com/ryan-iden/csharp/commit/5a50fab23cbead83c3950e1a8cb2a0d4211fbfdd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-abd3de1-a4ac9efe0e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-abd3de1-a4ac9efe0e-light.svg" />
-    <img alt="COMMIT: docs: record production design QA [skip ci]" src="./assets/activity-cards/commit-ryan-wong-coder-logto-abd3de1-a4ac9efe0e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-light.svg" />
+    <img alt="COMMIT: ci: make iden publishing retryable" src="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/c87661b02a31233bac2c1b0c45fc056165a0fcdc">
+<a href="https://github.com/ryan-iden/python/commit/f433c4b0621d57a7b22eb7483893bc6f4a51a91a">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c87661b-6838b44151-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-c87661b-6838b44151-light.svg" />
-    <img alt="COMMIT: fix: preserve self-hosted control API resource" src="./assets/activity-cards/commit-ryan-wong-coder-logto-c87661b-6838b44151-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-python-f433c4b-c8e472454c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-python-f433c4b-c8e472454c-light.svg" />
+    <img alt="COMMIT: ci: fix Python SDK test environment" src="./assets/activity-cards/commit-ryan-iden-python-f433c4b-c8e472454c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/logto/commit/97b6d50d188611b121e0edc8633a80a61af209ff">
+<a href="https://github.com/ryan-iden/iden/commit/7aeff7dc1a71d3622aaefeb46ebcd50b8fcb4467">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-97b6d50-2e83308f1e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-logto-97b6d50-2e83308f1e-light.svg" />
-    <img alt="COMMIT: fix: resolve help center in core tests" src="./assets/activity-cards/commit-ryan-wong-coder-logto-97b6d50-2e83308f1e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-e144d122fb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-e144d122fb-light.svg" />
+    <img alt="COMMIT: chore: establish iden 0.0.1 release line" src="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-e144d122fb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
