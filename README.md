@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-iden/csharp/commit/85da94746d786924d167a7f75f0c2c0305818f6f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-85da947-152ab03677-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-85da947-152ab03677-light.svg" />
+    <img alt="COMMIT: ci: tolerate existing NuGet versions" src="./assets/activity-cards/commit-ryan-iden-csharp-85da947-152ab03677-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-iden/iden/commit/190d1decf3416f694b065b675c783204f2400efb">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-dark.svg" />
@@ -44,15 +53,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-light.svg" />
     <img alt="COMMIT: ci: make iden publishing retryable" src="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/python/commit/f433c4b0621d57a7b22eb7483893bc6f4a51a91a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-python-f433c4b-c8e472454c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-python-f433c4b-c8e472454c-light.svg" />
-    <img alt="COMMIT: ci: fix Python SDK test environment" src="./assets/activity-cards/commit-ryan-iden-python-f433c4b-c8e472454c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
