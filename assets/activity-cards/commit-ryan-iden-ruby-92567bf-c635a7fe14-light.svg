@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" role="img" aria-labelledby="title desc">
-<title id="title">COMMIT: docs: update iden SDK coordinates</title>
-<desc id="desc">ryan-iden/iden; UPSTREAM STARS 14.5K  ·  FORKS 1.2K  ·  TYPESCRIPT; FORK  ·  UPSTREAM // logto-io/logto</desc>
+<title id="title">COMMIT: fix: prepare iden gem publishing</title>
+<desc id="desc">ryan-iden/ruby; UPSTREAM STARS 9  ·  FORKS 2  ·  RUBY; FORK  ·  UPSTREAM // logto-io/ruby</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eff6ff"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0284c7"/><stop offset="1" stop-color="#db2777"/></linearGradient>
@@ -14,12 +14,12 @@
 <circle cx="55" cy="82" r="10" fill="#0284c7"/>
 <rect x="88" y="18" width="92.0" height="25" rx="12.5" fill="#0284c7" opacity=".16"/>
 <text x="134.0" y="35" fill="#0284c7" font-size="11" font-weight="700" text-anchor="middle">COMMIT</text>
-<text x="1162" y="34" fill="#60708a" font-size="11" text-anchor="end">2026-09-01 · 22:13 UTC+8</text>
-<text x="88" y="76" fill="#172033" font-size="23" font-weight="700">ryan-iden/iden</text>
-<text x="1162" y="72" fill="#0284c7" font-size="12" font-weight="700" text-anchor="end">UPSTREAM STARS 14.5K  ·  FORKS 1.2K  ·  TYPESCRIPT</text>
-<text x="88" y="108" fill="#60708a" font-size="15">docs: update iden SDK coordinates</text>
-<text x="88" y="139" fill="#0284c7" font-size="11" font-weight="700">FORK  ·  UPSTREAM // logto-io/logto</text>
-<text x="958" y="139" fill="#60708a" font-size="11" text-anchor="end">190d1de  ·  ryan-wong-coder-personal</text>
+<text x="1162" y="34" fill="#60708a" font-size="11" text-anchor="end">2026-09-01 · 21:14 UTC+8</text>
+<text x="88" y="76" fill="#172033" font-size="23" font-weight="700">ryan-iden/ruby</text>
+<text x="1162" y="72" fill="#0284c7" font-size="12" font-weight="700" text-anchor="end">UPSTREAM STARS 9  ·  FORKS 2  ·  RUBY</text>
+<text x="88" y="108" fill="#60708a" font-size="15">fix: prepare iden gem publishing</text>
+<text x="88" y="139" fill="#0284c7" font-size="11" font-weight="700">FORK  ·  UPSTREAM // logto-io/ruby</text>
+<text x="958" y="139" fill="#60708a" font-size="11" text-anchor="end">92567bf  ·  ryan-wong-coder-personal</text>
 <text x="1137" y="139" fill="#0284c7" font-size="12" font-weight="700" text-anchor="end">OPEN ACTIVITY</text>
 <path d="M1148 132h12v12M1148 144l12-12" fill="none" stroke="#0284c7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

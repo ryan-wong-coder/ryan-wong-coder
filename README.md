@@ -21,56 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-iden/csharp/commit/85da94746d786924d167a7f75f0c2c0305818f6f">
+<a href="https://github.com/ryan-iden/csharp/commit/0510c8d9cd637430285d40de60ffece2c524afb9">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-85da947-152ab03677-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-85da947-152ab03677-light.svg" />
-    <img alt="COMMIT: ci: tolerate existing NuGet versions" src="./assets/activity-cards/commit-ryan-iden-csharp-85da947-152ab03677-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-light.svg" />
+    <img alt="COMMIT: ci: refresh GitHub Actions runtimes" src="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/iden/commit/190d1decf3416f694b065b675c783204f2400efb">
+<a href="https://github.com/ryan-iden/csharp/commit/91092432fd7a9dd3b4d2b891e086df3dabcfb3f2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-79844a6cd7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-79844a6cd7-light.svg" />
-    <img alt="COMMIT: docs: update iden SDK coordinates" src="./assets/activity-cards/commit-ryan-iden-iden-190d1de-79844a6cd7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-9109243-9f7882e17b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-9109243-9f7882e17b-light.svg" />
+    <img alt="COMMIT: fix: use an available NuGet package ID" src="./assets/activity-cards/commit-ryan-iden-csharp-9109243-9f7882e17b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/kotlin/commit/224b22dfd4ace34c95c5973b4c9fd3c5787b88b4">
+<a href="https://github.com/ryan-iden/csharp/commit/3ae63dc88cb651357340345fb6aa47f456bd1ddd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-kotlin-224b22d-761a2d8c3e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-kotlin-224b22d-761a2d8c3e-light.svg" />
-    <img alt="COMMIT: ci: make iden publishing retryable" src="./assets/activity-cards/commit-ryan-iden-kotlin-224b22d-761a2d8c3e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-3ae63dc-1d6d34e442-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-3ae63dc-1d6d34e442-light.svg" />
+    <img alt="COMMIT: ci: retain NuGet release artifacts" src="./assets/activity-cards/commit-ryan-iden-csharp-3ae63dc-1d6d34e442-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/csharp/commit/5a50fab23cbead83c3950e1a8cb2a0d4211fbfdd">
+<a href="https://github.com/ryan-iden/go-sdk/commit/43612cb570a41dd555ec52a2f45a81d1e86ffcb9">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-light.svg" />
-    <img alt="COMMIT: ci: make iden publishing retryable" src="./assets/activity-cards/commit-ryan-iden-csharp-5a50fab-041893f408-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-light.svg" />
+    <img alt="COMMIT: fix: publish Go SDK from a clean module path" src="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/iden/commit/7aeff7dc1a71d3622aaefeb46ebcd50b8fcb4467">
+<a href="https://github.com/ryan-iden/ruby/commit/92567bfaf499389051b2d5d17754a73e7cf0187f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-f8ad6d8f53-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-f8ad6d8f53-light.svg" />
-    <img alt="COMMIT: chore: establish iden 0.0.1 release line" src="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-f8ad6d8f53-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/trustdb/pull/1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-light.svg" />
-    <img alt="PR MERGED: fix(verify): support client key rotation in offline verification" src="./assets/activity-cards/pr-ryan-wong-coder-trustdb-1-f75deaa031-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-ruby-92567bf-c635a7fe14-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-ruby-92567bf-c635a7fe14-light.svg" />
+    <img alt="COMMIT: fix: prepare iden gem publishing" src="./assets/activity-cards/commit-ryan-iden-ruby-92567bf-c635a7fe14-light.svg" width="100%" />
   </picture>
 </a>
 <br />
