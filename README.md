@@ -32,9 +32,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-iden/iden/commit/190d1decf3416f694b065b675c783204f2400efb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-light.svg" />
-    <img alt="COMMIT: docs: update iden SDK coordinates" src="./assets/activity-cards/commit-ryan-iden-iden-190d1de-f4918b3877-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-79844a6cd7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-190d1de-79844a6cd7-light.svg" />
+    <img alt="COMMIT: docs: update iden SDK coordinates" src="./assets/activity-cards/commit-ryan-iden-iden-190d1de-79844a6cd7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -59,9 +59,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 
 <a href="https://github.com/ryan-iden/iden/commit/7aeff7dc1a71d3622aaefeb46ebcd50b8fcb4467">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-e144d122fb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-e144d122fb-light.svg" />
-    <img alt="COMMIT: chore: establish iden 0.0.1 release line" src="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-e144d122fb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-f8ad6d8f53-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-f8ad6d8f53-light.svg" />
+    <img alt="COMMIT: chore: establish iden 0.0.1 release line" src="./assets/activity-cards/commit-ryan-iden-iden-7aeff7d-f8ad6d8f53-light.svg" width="100%" />
   </picture>
 </a>
 <br />
