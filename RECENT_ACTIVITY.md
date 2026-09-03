@@ -2,7 +2,7 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**467 entries** · 412 commits · 32 pull requests · 23 issues · newest first · maximum 500
+**433 entries** · 378 commits · 32 pull requests · 23 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
@@ -321,40 +321,6 @@
 | 2026-04-07 19:01 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [添加手表端圆屏适配+功能迁移实施计划](https://github.com/JunZ-0122/help-project/commit/7c3e35f8ab673e34fbc8f27a5a4802d09eac0030) |
 | 2026-04-07 18:47 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [添加手表端圆屏适配+功能迁移设计文档](https://github.com/JunZ-0122/help-project/commit/28a749653a9311b2e226974a0bc62ef279add45c) |
 | 2026-03-09 14:17 | `COMMIT` | [ryan-wong-coder/majiang](https://github.com/ryan-wong-coder/majiang) | [Initial commit for the Mahjong client and server.](https://github.com/ryan-wong-coder/majiang/commit/f331f37c043f55e000d750365347aec828d4a49e) |
-| 2025-12-09 17:40 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复 group_member_manage_page 中的类型错误](https://github.com/beingakashyadav/didi/commit/3228f6d864f31be65af7820475d98468554d54ca) |
-| 2025-12-09 17:37 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 创建选择好友页面并修复创建群组选择成员功能](https://github.com/beingakashyadav/didi/commit/feea123d4ca780448ceb7854cb5055955a958d73) |
-| 2025-12-09 17:33 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 在应用启动时初始化 Isar 数据库](https://github.com/beingakashyadav/didi/commit/a458d446ac76438e66c3a86658443a36d4d422e9) |
-| 2025-12-09 17:29 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复群聊页面 null check 错误和会话列表页面](https://github.com/beingakashyadav/didi/commit/7b05a5d046fc662e469cdf5b30c55ccaea315119) |
-| 2025-12-09 17:22 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复 logger 方法冲突，使用 LoggerStatic 类](https://github.com/beingakashyadav/didi/commit/e92cc0a43e247dcea108fbf18200abfbe5623bed) |
-| 2025-12-09 17:10 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复 logger 方法冲突](https://github.com/beingakashyadav/didi/commit/61d76d395a9cddcc3a3e5a8920b0d5fd6411097a) |
-| 2025-12-09 17:00 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复剩余的 logger 调用错误](https://github.com/beingakashyadav/didi/commit/92b24bed57b52cbbee5ca7eb81f985ca6e1b6c75) |
-| 2025-12-09 16:43 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复所有编译错误](https://github.com/beingakashyadav/didi/commit/0efce9447360a5941b9b8adaa7a52c5491f9e789) |
-| 2025-12-09 16:37 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修正群聊列表入口位置](https://github.com/beingakashyadav/didi/commit/ae3442e23949ede87a242b518aabb543f1556eea) |
-| 2025-12-09 16:34 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 在会话列表页面添加群聊列表入口](https://github.com/beingakashyadav/didi/commit/415d8aa36934a8a07037b3ec071c024c898e909e) |
-| 2025-12-09 14:58 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复剩余的 logger 使用错误](https://github.com/beingakashyadav/didi/commit/3f1cab0daf0f8720960ee8ecf92d12819d64e30e) |
-| 2025-12-09 14:43 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: 修复群组管理功能的编译错误](https://github.com/beingakashyadav/didi/commit/a475f3c35b9ef5e636ae736d368ec0266f5d63cd) |
-| 2025-12-09 12:10 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 完善群组管理功能](https://github.com/beingakashyadav/didi/commit/5a4a5042595e4b919a3a5ccbfc8d771b19ac6ec3) |
-| 2025-12-09 11:36 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: auto-set namespace for Flutter plugins in build.gradle.kts](https://github.com/beingakashyadav/didi/commit/677a2b34c68a9d9dbd84d63c4e56f6fd3994e648) |
-| 2025-12-09 11:17 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: auto-set namespace for Flutter plugins (isar_flutter_libs)](https://github.com/beingakashyadav/didi/commit/91820e8e99f3e7ee9b92fce9401d59fff4050f1b) |
-| 2025-12-09 11:02 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: ensure listeners receive disconnected event in dispose()](https://github.com/beingakashyadav/didi/commit/a128e26464c9cacdd73e38bce1ccab0ee8207ced) |
-| 2025-12-09 10:54 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: prevent race condition - callbacks after controller closed](https://github.com/beingakashyadav/didi/commit/6dc13b691b30de5399c7e65300945bc57ec36fdc) |
-| 2025-12-09 10:50 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: ensure listeners receive disconnection event in dispose()](https://github.com/beingakashyadav/didi/commit/95721d0a7f43572b99d14176ec083838fd67aa4e) |
-| 2025-12-09 10:48 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: resolve race condition in WebSocketManager disposal](https://github.com/beingakashyadav/didi/commit/2f68629f2bbffe5271c8489d26504ff0289f3656) |
-| 2025-12-09 10:45 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: ensure ConnectionStatus.disconnected event in dispose](https://github.com/beingakashyadav/didi/commit/8d86d3318adece3088b4dc5408483b0bc2cf97d4) |
-| 2025-12-09 10:43 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: prevent resource leak in WebSocketManager dispose](https://github.com/beingakashyadav/didi/commit/25ca01d10af9d9baab43a06a41515e371a6f472d) |
-| 2025-12-09 10:41 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: complete remaining features - group list page, WebSocket reconnect sync, unread count manager](https://github.com/beingakashyadav/didi/commit/fc376212ec49a5d51a5c8dd1b0ed3afaf9ee28f8) |
-| 2025-12-09 10:37 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: add emoji favorites and notification sync services](https://github.com/beingakashyadav/didi/commit/b290155b477ccc5bf8729d25c853d497d4860a57) |
-| 2025-12-09 10:36 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: implement mobile sync services and resource caching](https://github.com/beingakashyadav/didi/commit/a3b64cbb8bd33b01f5d1386d5e13825a5a34fdb0) |
-| 2025-12-09 10:25 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: complete message sync API implementation](https://github.com/beingakashyadav/didi/commit/b80686fd76c01d38c1ecc12f4df22397f7879ac0) |
-| 2025-12-09 10:23 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [wip: add message sync API structure](https://github.com/beingakashyadav/didi/commit/8ec58485481bb33760ff28bcbc810a135d6715ec) |
-| 2025-12-09 09:58 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [test: add conversation sync tests and fix all unit tests](https://github.com/beingakashyadav/didi/commit/595f7fffe060e770630ad46d203dc14d190158c5) |
-| 2025-12-09 09:52 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [fix: update test mocks to match interface changes](https://github.com/beingakashyadav/didi/commit/8afb275137ade5f8b362a69743562c576d3320b2) |
-| 2025-12-09 09:46 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: implement incremental sync for conversations and add Isar database](https://github.com/beingakashyadav/didi/commit/4fd7b79e1a87518fc9454a6d2f7436ba82e4686e) |
-| 2025-12-09 09:11 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: upgrade email templates to iOS 26 glass style and fix email sending port](https://github.com/beingakashyadav/didi/commit/2abfb53c9c0c6dec04d488cba4d292a2b75b3976) |
-| 2025-12-08 16:52 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [feat: 完善用户注册流程和邮件发送功能](https://github.com/beingakashyadav/didi/commit/54bffaf3d7eb158cf259df7e5e8ac0b184eff945) |
-| 2025-12-08 14:21 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [1](https://github.com/beingakashyadav/didi/commit/97a02e5702a375c0002f76c50f8e040a10040b15) |
-| 2025-12-05 09:31 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [Docs: Remove redundant process documentation](https://github.com/beingakashyadav/didi/commit/70b393cc5ec1c17f4c15b60bc98582b692dcc505) |
-| 2025-12-05 09:28 | `COMMIT` | [beingakashyadav/didi](https://github.com/beingakashyadav/didi) | [Initial commit: Clean up project structure and remove redundant scripts](https://github.com/beingakashyadav/didi/commit/5013109553b7cc9d8df561662e166d94f5d02b0d) |
 | 2025-10-21 09:15 | `ISSUE OPEN` | [taosdata/driver-go](https://github.com/taosdata/driver-go) | [程序出现1547 success报错](https://github.com/taosdata/driver-go/issues/348) |
 | 2025-09-26 14:24 | `ISSUE CLOSED` | [taosdata/driver-go](https://github.com/taosdata/driver-go) | [使用原生连接stmt2进行参数绑定时，空字符串会导致byte数组越界](https://github.com/taosdata/driver-go/issues/344) |
 | 2025-03-31 22:37 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Merge remote-tracking branch 'origin/main'](https://github.com/Siyuan-Wong/msgcenter/commit/cf6bec1442c86ba9b5d6ccabfb4fff51394f159a) |
