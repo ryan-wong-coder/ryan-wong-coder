@@ -21,6 +21,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-iden/iden/pull/1">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-9aa2a5f73c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-9aa2a5f73c-light.svg" />
+    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-9aa2a5f73c-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-iden/csharp/commit/0510c8d9cd637430285d40de60ffece2c524afb9">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-dark.svg" />
