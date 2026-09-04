@@ -23,9 +23,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/pull/1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-45b18c0518-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-45b18c0518-light.svg" />
-    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-45b18c0518-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-b446928d45-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-b446928d45-light.svg" />
+    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-b446928d45-light.svg" width="100%" />
   </picture>
 </a>
 <br />
