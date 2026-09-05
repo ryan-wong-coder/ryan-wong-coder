@@ -23,27 +23,27 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/pull/1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-b60a6449fb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-b60a6449fb-light.svg" />
-    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-b60a6449fb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-c56f264bbb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-c56f264bbb-light.svg" />
+    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-c56f264bbb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/482f2b1ecb90831228b1b0437760e9318c6d5cc4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-49a7efd8f4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-49a7efd8f4-light.svg" />
-    <img alt="COMMIT: test: verify assembled docs and responsive navigation" src="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-49a7efd8f4-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-f48697d019-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-f48697d019-light.svg" />
+    <img alt="COMMIT: test: verify assembled docs and responsive navigation" src="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-f48697d019-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/3535d27e122d375b5801f27d598fd9a84b043ab4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-eafe603972-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-eafe603972-light.svg" />
-    <img alt="COMMIT: fix(core): keep OpenAPI valid for unavailable features" src="./assets/activity-cards/commit-ryan-iden-iden-3535d27-eafe603972-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-39f5f6511e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-39f5f6511e-light.svg" />
+    <img alt="COMMIT: fix(core): keep OpenAPI valid for unavailable features" src="./assets/activity-cards/commit-ryan-iden-iden-3535d27-39f5f6511e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
