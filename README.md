@@ -23,9 +23,27 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/pull/1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-45b18c0518-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-45b18c0518-light.svg" />
-    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-45b18c0518-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-b446928d45-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-b446928d45-light.svg" />
+    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-b446928d45-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/482f2b1ecb90831228b1b0437760e9318c6d5cc4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-af97bcc3c0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-af97bcc3c0-light.svg" />
+    <img alt="COMMIT: test: verify assembled docs and responsive navigation" src="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-af97bcc3c0-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/3535d27e122d375b5801f27d598fd9a84b043ab4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-7713f9844e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-7713f9844e-light.svg" />
+    <img alt="COMMIT: fix(core): keep OpenAPI valid for unavailable features" src="./assets/activity-cards/commit-ryan-iden-iden-3535d27-7713f9844e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -48,29 +66,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/csharp/commit/3ae63dc88cb651357340345fb6aa47f456bd1ddd">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-3ae63dc-1d6d34e442-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-3ae63dc-1d6d34e442-light.svg" />
-    <img alt="COMMIT: ci: retain NuGet release artifacts" src="./assets/activity-cards/commit-ryan-iden-csharp-3ae63dc-1d6d34e442-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-iden/go-sdk/commit/43612cb570a41dd555ec52a2f45a81d1e86ffcb9">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-light.svg" />
     <img alt="COMMIT: fix: publish Go SDK from a clean module path" src="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/ruby/commit/92567bfaf499389051b2d5d17754a73e7cf0187f">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-ruby-92567bf-c635a7fe14-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-ruby-92567bf-c635a7fe14-light.svg" />
-    <img alt="COMMIT: fix: prepare iden gem publishing" src="./assets/activity-cards/commit-ryan-iden-ruby-92567bf-c635a7fe14-light.svg" width="100%" />
   </picture>
 </a>
 <br />
