@@ -21,6 +21,51 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-iden/iden/commit/32e340794ba4899936b8da66be32c8767cd50336">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-32e3407-4c996f3d1a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-32e3407-4c996f3d1a-light.svg" />
+    <img alt="COMMIT: Merge pull request #4 from ryan-iden/ryan-wong-coder-fix-localization-integration" src="./assets/activity-cards/commit-ryan-iden-iden-32e3407-4c996f3d1a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/pull/4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-4-565a22c691-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-4-565a22c691-light.svg" />
+    <img alt="PR MERGED: test: align localized audit log expectation" src="./assets/activity-cards/pr-ryan-iden-iden-4-565a22c691-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/pull/3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-64c64b0615-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-64c64b0615-light.svg" />
+    <img alt="PR MERGED: fix: stabilize localized integration flows" src="./assets/activity-cards/pr-ryan-iden-iden-3-64c64b0615-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/c47d26966703fb247a5e0c416c851df26e1bdb14">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-c47d269-ec877224ea-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-c47d269-ec877224ea-light.svg" />
+    <img alt="COMMIT: Merge pull request #2 from ryan-iden/ryan-wong-coder-fix-system-localization" src="./assets/activity-cards/commit-ryan-iden-iden-c47d269-ec877224ea-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/pull/2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-223320110b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-223320110b-light.svg" />
+    <img alt="PR MERGED: fix: localize remaining product surfaces" src="./assets/activity-cards/pr-ryan-iden-iden-2-223320110b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-iden/iden/pull/1">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-c56f264bbb-dark.svg" />
@@ -44,33 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-39f5f6511e-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-39f5f6511e-light.svg" />
     <img alt="COMMIT: fix(core): keep OpenAPI valid for unavailable features" src="./assets/activity-cards/commit-ryan-iden-iden-3535d27-39f5f6511e-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/csharp/commit/0510c8d9cd637430285d40de60ffece2c524afb9">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-light.svg" />
-    <img alt="COMMIT: ci: refresh GitHub Actions runtimes" src="./assets/activity-cards/commit-ryan-iden-csharp-0510c8d-8905908f55-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/csharp/commit/91092432fd7a9dd3b4d2b891e086df3dabcfb3f2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-9109243-9f7882e17b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-csharp-9109243-9f7882e17b-light.svg" />
-    <img alt="COMMIT: fix: use an available NuGet package ID" src="./assets/activity-cards/commit-ryan-iden-csharp-9109243-9f7882e17b-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/go-sdk/commit/43612cb570a41dd555ec52a2f45a81d1e86ffcb9">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-light.svg" />
-    <img alt="COMMIT: fix: publish Go SDK from a clean module path" src="./assets/activity-cards/commit-ryan-iden-go-sdk-43612cb-05d280c2b1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
