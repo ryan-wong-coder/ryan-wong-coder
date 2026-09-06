@@ -21,74 +21,74 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-iden/iden/commit/32e340794ba4899936b8da66be32c8767cd50336">
+<a href="https://github.com/ryan-iden/iden/pull/5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-32e3407-567e7d9e44-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-32e3407-567e7d9e44-light.svg" />
-    <img alt="COMMIT: Merge pull request #4 from ryan-iden/ryan-wong-coder-fix-localization-integration" src="./assets/activity-cards/commit-ryan-iden-iden-32e3407-567e7d9e44-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-5-7574ba6c5e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-5-7574ba6c5e-light.svg" />
+    <img alt="PR MERGED: feat: add platform administration and runtime branding" src="./assets/activity-cards/pr-ryan-iden-iden-5-7574ba6c5e-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/47fef8e6a7301e97ea8a95de93cbd6ded221e26d">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-47fef8e-b90f40aeba-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-47fef8e-b90f40aeba-light.svg" />
+    <img alt="COMMIT: fix: preserve visible swagger supplement tags" src="./assets/activity-cards/commit-ryan-iden-iden-47fef8e-b90f40aeba-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/9a344de6cc9c06e5168846d5fdd58df3e0af001a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-9a344de-17fd10d151-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-9a344de-17fd10d151-light.svg" />
+    <img alt="COMMIT: test: cover platform administrator provisioning" src="./assets/activity-cards/commit-ryan-iden-iden-9a344de-17fd10d151-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/e397a7ca694c5391f43686a648f27823b87986f3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-e397a7c-8d98819680-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-e397a7c-8d98819680-light.svg" />
+    <img alt="COMMIT: fix: resolve console brand icon in tests" src="./assets/activity-cards/commit-ryan-iden-iden-e397a7c-8d98819680-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/b559bcadeafb6197dab3cc63768981ba9fe15fc5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-b559bca-dcaead24f5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-b559bca-dcaead24f5-light.svg" />
+    <img alt="COMMIT: fix: align platform administrator seed data" src="./assets/activity-cards/commit-ryan-iden-iden-b559bca-dcaead24f5-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/30a488152e2bf1c6ea393339d57eb73d9f187e4f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-30a4881-1bae0b7bfc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-30a4881-1bae0b7bfc-light.svg" />
+    <img alt="COMMIT: fix: deploy platform administrator migration statements separately" src="./assets/activity-cards/commit-ryan-iden-iden-30a4881-1bae0b7bfc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-4-9784fd6cb3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-4-9784fd6cb3-light.svg" />
-    <img alt="PR MERGED: test: align localized audit log expectation" src="./assets/activity-cards/pr-ryan-iden-iden-4-9784fd6cb3-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/8dbb5b4ae8d2fccb894905d66f63fe8aff63213e">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-8dbb5b4-8747a707ec-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-8dbb5b4-8747a707ec-light.svg" />
-    <img alt="COMMIT: Merge pull request #3 from ryan-iden/ryan-wong-coder-fix-localization-ci" src="./assets/activity-cards/commit-ryan-iden-iden-8dbb5b4-8747a707ec-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-4-b0ac2d2ffe-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-4-b0ac2d2ffe-light.svg" />
+    <img alt="PR MERGED: test: align localized audit log expectation" src="./assets/activity-cards/pr-ryan-iden-iden-4-b0ac2d2ffe-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-65dac406bc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-65dac406bc-light.svg" />
-    <img alt="PR MERGED: fix: stabilize localized integration flows" src="./assets/activity-cards/pr-ryan-iden-iden-3-65dac406bc-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/c47d26966703fb247a5e0c416c851df26e1bdb14">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-c47d269-c74ef9a865-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-c47d269-c74ef9a865-light.svg" />
-    <img alt="COMMIT: Merge pull request #2 from ryan-iden/ryan-wong-coder-fix-system-localization" src="./assets/activity-cards/commit-ryan-iden-iden-c47d269-c74ef9a865-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/pull/2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-0cf43db209-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-0cf43db209-light.svg" />
-    <img alt="PR MERGED: fix: localize remaining product surfaces" src="./assets/activity-cards/pr-ryan-iden-iden-2-0cf43db209-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/pull/1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-5d4eadd6cc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-1-5d4eadd6cc-light.svg" />
-    <img alt="PR MERGED: fix(account): correct organization member labels and role editor" src="./assets/activity-cards/pr-ryan-iden-iden-1-5d4eadd6cc-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/482f2b1ecb90831228b1b0437760e9318c6d5cc4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-1c17aa48e6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-1c17aa48e6-light.svg" />
-    <img alt="COMMIT: test: verify assembled docs and responsive navigation" src="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-1c17aa48e6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-f2c4339156-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-f2c4339156-light.svg" />
+    <img alt="PR MERGED: fix: stabilize localized integration flows" src="./assets/activity-cards/pr-ryan-iden-iden-3-f2c4339156-light.svg" width="100%" />
   </picture>
 </a>
 <br />
