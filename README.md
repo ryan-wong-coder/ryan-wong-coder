@@ -39,6 +39,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
+<a href="https://github.com/ryan-iden/iden/commit/8dbb5b4ae8d2fccb894905d66f63fe8aff63213e">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-8dbb5b4-8747a707ec-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-8dbb5b4-8747a707ec-light.svg" />
+    <img alt="COMMIT: Merge pull request #3 from ryan-iden/ryan-wong-coder-fix-localization-ci" src="./assets/activity-cards/commit-ryan-iden-iden-8dbb5b4-8747a707ec-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-iden/iden/pull/3">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-65dac406bc-dark.svg" />
@@ -80,15 +89,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-1c17aa48e6-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-1c17aa48e6-light.svg" />
     <img alt="COMMIT: test: verify assembled docs and responsive navigation" src="./assets/activity-cards/commit-ryan-iden-iden-482f2b1-1c17aa48e6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/3535d27e122d375b5801f27d598fd9a84b043ab4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-668be6952c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3535d27-668be6952c-light.svg" />
-    <img alt="COMMIT: fix(core): keep OpenAPI valid for unavailable features" src="./assets/activity-cards/commit-ryan-iden-iden-3535d27-668be6952c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
