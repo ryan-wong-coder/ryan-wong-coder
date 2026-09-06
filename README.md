@@ -48,24 +48,6 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/iden/commit/e397a7ca694c5391f43686a648f27823b87986f3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-e397a7c-8d98819680-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-e397a7c-8d98819680-light.svg" />
-    <img alt="COMMIT: fix: resolve console brand icon in tests" src="./assets/activity-cards/commit-ryan-iden-iden-e397a7c-8d98819680-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/b559bcadeafb6197dab3cc63768981ba9fe15fc5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-b559bca-dcaead24f5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-b559bca-dcaead24f5-light.svg" />
-    <img alt="COMMIT: fix: align platform administrator seed data" src="./assets/activity-cards/commit-ryan-iden-iden-b559bca-dcaead24f5-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
 <a href="https://github.com/ryan-iden/iden/commit/30a488152e2bf1c6ea393339d57eb73d9f187e4f">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-30a4881-1bae0b7bfc-dark.svg" />
@@ -89,6 +71,24 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-f2c4339156-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-f2c4339156-light.svg" />
     <img alt="PR MERGED: fix: stabilize localized integration flows" src="./assets/activity-cards/pr-ryan-iden-iden-3-f2c4339156-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/pull/2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-c6b39a0ab8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-c6b39a0ab8-light.svg" />
+    <img alt="PR MERGED: fix: localize remaining product surfaces" src="./assets/activity-cards/pr-ryan-iden-iden-2-c6b39a0ab8-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/c124a969ab88897df4e11cc6c83a5ada57d100eb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-c124a96-8484673f16-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-c124a96-8484673f16-light.svg" />
+    <img alt="COMMIT: Merge pull request #1 from ryan-iden/ryan-wong-coder-fix-organization-center" src="./assets/activity-cards/commit-ryan-iden-iden-c124a96-8484673f16-light.svg" width="100%" />
   </picture>
 </a>
 <br />
