@@ -21,20 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-iden/iden/commit/767e046af74d6b4b4099fed5b9c506c0e09e40f3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-d714771a79-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-d714771a79-light.svg" />
+    <img alt="COMMIT: Merge pull request #6 from ryan-iden/ryan-wong-coder-fix-local-brand-assets" src="./assets/activity-cards/commit-ryan-iden-iden-767e046-d714771a79-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/pull/6">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-d03d505a72-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-d03d505a72-light.svg" />
+    <img alt="PR MERGED: fix(core): serve self-hosted branding uploads" src="./assets/activity-cards/pr-ryan-iden-iden-6-d03d505a72-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-iden/iden/pull/5">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-5-35de9a25cf-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-5-35de9a25cf-light.svg" />
     <img alt="PR MERGED: feat: add platform administration and runtime branding" src="./assets/activity-cards/pr-ryan-iden-iden-5-35de9a25cf-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/47fef8e6a7301e97ea8a95de93cbd6ded221e26d">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-47fef8e-da217ed8e7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-47fef8e-da217ed8e7-light.svg" />
-    <img alt="COMMIT: fix: preserve visible swagger supplement tags" src="./assets/activity-cards/commit-ryan-iden-iden-47fef8e-da217ed8e7-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -71,15 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-992fb66c58-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-3-992fb66c58-light.svg" />
     <img alt="PR MERGED: fix: stabilize localized integration flows" src="./assets/activity-cards/pr-ryan-iden-iden-3-992fb66c58-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/pull/2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-cf4544f917-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-2-cf4544f917-light.svg" />
-    <img alt="PR MERGED: fix: localize remaining product surfaces" src="./assets/activity-cards/pr-ryan-iden-iden-2-cf4544f917-light.svg" width="100%" />
   </picture>
 </a>
 <br />
