@@ -2,10 +2,11 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**441 entries** · 378 commits · 40 pull requests · 23 issues · newest first · maximum 500
+**442 entries** · 378 commits · 41 pull requests · 23 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-09-07 16:31 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add Alibaba Cloud Captcha 2.0](https://github.com/ryan-iden/iden/pull/9) |
 | 2026-09-07 13:55 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: route self-hosted tenant management requests](https://github.com/ryan-iden/iden/pull/8) |
 | 2026-09-07 12:09 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: render uploaded user assets across origins](https://github.com/ryan-iden/iden/pull/7) |
 | 2026-09-07 09:23 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(core): serve self-hosted branding uploads](https://github.com/ryan-iden/iden/pull/6) |
@@ -448,4 +449,4 @@
 | 2020-11-20 11:22 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [更新用户操作接口](https://github.com/wang-si-yuan/dhxt/commit/644af739f1cd028a11965f860223efba0e532b33) |
 | 2020-11-19 21:51 | `COMMIT` | [wang-si-yuan/dhxt](https://github.com/wang-si-yuan/dhxt) | [Initial commit](https://github.com/wang-si-yuan/dhxt/commit/3b18332d4c43843a21a0bd6ab1a2a9e186c2b144) |
 
-_Latest indexed activity: 2026-09-07 05:55 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-09-07 08:31 UTC · checked automatically every 10 minutes_
