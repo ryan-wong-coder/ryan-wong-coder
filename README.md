@@ -21,6 +21,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
+<a href="https://github.com/ryan-iden/iden/pull/10">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-10-df48e325cb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-10-df48e325cb-light.svg" />
+    <img alt="PR MERGED: refactor: unify iden workspace design and motion" src="./assets/activity-cards/pr-ryan-iden-iden-10-df48e325cb-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-iden/iden/commit/2025c06caae54cd82731644a5b5fa39f4f60c2c5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2025c06-cdb0456d0b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2025c06-cdb0456d0b-light.svg" />
+    <img alt="COMMIT: fix: support consistent keyboard table scrolling" src="./assets/activity-cards/commit-ryan-iden-iden-2025c06-cdb0456d0b-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-iden/iden/pull/9">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-9-78de890b0d-dark.svg" />
@@ -62,24 +80,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-7-890b9f2d19-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-7-890b9f2d19-light.svg" />
     <img alt="PR MERGED: fix: render uploaded user assets across origins" src="./assets/activity-cards/pr-ryan-iden-iden-7-890b9f2d19-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/commit/767e046af74d6b4b4099fed5b9c506c0e09e40f3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-8a49fd76d6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-8a49fd76d6-light.svg" />
-    <img alt="COMMIT: Merge pull request #6 from ryan-iden/ryan-wong-coder-fix-local-brand-assets" src="./assets/activity-cards/commit-ryan-iden-iden-767e046-8a49fd76d6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-iden/iden/pull/6">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-d7b4120817-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-d7b4120817-light.svg" />
-    <img alt="PR MERGED: fix(core): serve self-hosted branding uploads" src="./assets/activity-cards/pr-ryan-iden-iden-6-d7b4120817-light.svg" width="100%" />
   </picture>
 </a>
 <br />
