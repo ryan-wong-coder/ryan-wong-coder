@@ -23,72 +23,72 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/pull/9">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-9-a802f8ff50-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-9-a802f8ff50-light.svg" />
-    <img alt="PR MERGED: feat: add Alibaba Cloud Captcha 2.0" src="./assets/activity-cards/pr-ryan-iden-iden-9-a802f8ff50-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-9-78de890b0d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-9-78de890b0d-light.svg" />
+    <img alt="PR MERGED: feat: add Alibaba Cloud Captcha 2.0" src="./assets/activity-cards/pr-ryan-iden-iden-9-78de890b0d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/03cf3e83f597bccb910926ef7c7c4162bcca9fa6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-03cf3e8-4af0818a4e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-03cf3e8-4af0818a4e-light.svg" />
-    <img alt="COMMIT: fix: support trimmed strings in OpenAPI generation" src="./assets/activity-cards/commit-ryan-iden-iden-03cf3e8-4af0818a4e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-03cf3e8-cbb372ecec-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-03cf3e8-cbb372ecec-light.svg" />
+    <img alt="COMMIT: fix: support trimmed strings in OpenAPI generation" src="./assets/activity-cards/commit-ryan-iden-iden-03cf3e8-cbb372ecec-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/8">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-8-94430584b6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-8-94430584b6-light.svg" />
-    <img alt="PR MERGED: fix: route self-hosted tenant management requests" src="./assets/activity-cards/pr-ryan-iden-iden-8-94430584b6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-8-b1028f53d0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-8-b1028f53d0-light.svg" />
+    <img alt="PR MERGED: fix: route self-hosted tenant management requests" src="./assets/activity-cards/pr-ryan-iden-iden-8-b1028f53d0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/25efe9c351fdca4d9183aa145f5f83e9f1d238d7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-25efe9c-c35010609e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-25efe9c-c35010609e-light.svg" />
-    <img alt="COMMIT: Merge pull request #7 from ryan-iden/ryan-wong-coder-fix-user-asset-preview" src="./assets/activity-cards/commit-ryan-iden-iden-25efe9c-c35010609e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-25efe9c-a378497f50-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-25efe9c-a378497f50-light.svg" />
+    <img alt="COMMIT: Merge pull request #7 from ryan-iden/ryan-wong-coder-fix-user-asset-preview" src="./assets/activity-cards/commit-ryan-iden-iden-25efe9c-a378497f50-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-7-1ceab3fb99-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-7-1ceab3fb99-light.svg" />
-    <img alt="PR MERGED: fix: render uploaded user assets across origins" src="./assets/activity-cards/pr-ryan-iden-iden-7-1ceab3fb99-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-7-890b9f2d19-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-7-890b9f2d19-light.svg" />
+    <img alt="PR MERGED: fix: render uploaded user assets across origins" src="./assets/activity-cards/pr-ryan-iden-iden-7-890b9f2d19-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/767e046af74d6b4b4099fed5b9c506c0e09e40f3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-c10fd16ab5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-c10fd16ab5-light.svg" />
-    <img alt="COMMIT: Merge pull request #6 from ryan-iden/ryan-wong-coder-fix-local-brand-assets" src="./assets/activity-cards/commit-ryan-iden-iden-767e046-c10fd16ab5-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-8a49fd76d6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-767e046-8a49fd76d6-light.svg" />
+    <img alt="COMMIT: Merge pull request #6 from ryan-iden/ryan-wong-coder-fix-local-brand-assets" src="./assets/activity-cards/commit-ryan-iden-iden-767e046-8a49fd76d6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-9a77fd955c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-9a77fd955c-light.svg" />
-    <img alt="PR MERGED: fix(core): serve self-hosted branding uploads" src="./assets/activity-cards/pr-ryan-iden-iden-6-9a77fd955c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-d7b4120817-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-6-d7b4120817-light.svg" />
+    <img alt="PR MERGED: fix(core): serve self-hosted branding uploads" src="./assets/activity-cards/pr-ryan-iden-iden-6-d7b4120817-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-iden/iden/commit/aebc4bbd8cd72b6fc643f6462f7fd036984dcbe3">
+<a href="https://github.com/ryan-iden/iden/commit/19d84f60e94c5079f21c2afdf95df3066f184bcc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-aebc4bb-892008081d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-aebc4bb-892008081d-light.svg" />
-    <img alt="COMMIT: fix: prune unavailable platform branding docs" src="./assets/activity-cards/commit-ryan-iden-iden-aebc4bb-892008081d-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-19d84f6-832b320a0d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-19d84f6-832b320a0d-light.svg" />
+    <img alt="COMMIT: Merge pull request #5 from ryan-iden/ryan-wong-coder-platform-admin-branding" src="./assets/activity-cards/commit-ryan-iden-iden-19d84f6-832b320a0d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
