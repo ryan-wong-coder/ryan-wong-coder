@@ -6,7 +6,7 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-09-11 16:19 | `PR OPEN` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
+| 2026-09-11 17:44 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
 | 2026-09-11 15:40 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: refine identity navigation header](https://github.com/ryan-iden/iden/pull/11) |
 | 2026-09-08 17:48 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [refactor: unify iden workspace design and motion](https://github.com/ryan-iden/iden/pull/10) |
 | 2026-09-07 16:31 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add Alibaba Cloud Captcha 2.0](https://github.com/ryan-iden/iden/pull/9) |
@@ -507,4 +507,4 @@
 | 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 求助详情页圆屏适配 + 一键拨打志愿者电话](https://github.com/JunZ-0122/help-project/commit/5df770db2cab29cb038531ac055dcc51624f4b02) |
 | 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchMyRequestsPage 圆屏 padding + 字号缩小](https://github.com/JunZ-0122/help-project/commit/095c402d16d852dcdef1448c036dbcc9ba9b4b4a) |
 
-_Latest indexed activity: 2026-09-11 08:19 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-09-11 09:44 UTC · checked automatically every 10 minutes_

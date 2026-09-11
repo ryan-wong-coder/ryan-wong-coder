@@ -23,9 +23,9 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/pull/12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-048ae3704f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-048ae3704f-light.svg" />
-    <img alt="PR OPENED: fix(experience): repair captcha profile completion and retries" src="./assets/activity-cards/pr-ryan-iden-iden-12-048ae3704f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-5919326b43-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-5919326b43-light.svg" />
+    <img alt="PR MERGED: fix(experience): repair captcha profile completion and retries" src="./assets/activity-cards/pr-ryan-iden-iden-12-5919326b43-light.svg" width="100%" />
   </picture>
 </a>
 <br />
