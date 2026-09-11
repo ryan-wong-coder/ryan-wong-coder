@@ -2,10 +2,12 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 437 commits · 42 pull requests · 21 issues · newest first · maximum 500
+**500 entries** · 435 commits · 44 pull requests · 21 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-09-11 16:19 | `PR OPEN` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
+| 2026-09-11 15:40 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: refine identity navigation header](https://github.com/ryan-iden/iden/pull/11) |
 | 2026-09-08 17:48 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [refactor: unify iden workspace design and motion](https://github.com/ryan-iden/iden/pull/10) |
 | 2026-09-07 16:31 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add Alibaba Cloud Captcha 2.0](https://github.com/ryan-iden/iden/pull/9) |
 | 2026-09-07 13:55 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: route self-hosted tenant management requests](https://github.com/ryan-iden/iden/pull/8) |
@@ -504,7 +506,5 @@
 | 2026-04-07 19:18 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 志愿者首页重构为按钮导航 + 统计 + 在线状态](https://github.com/JunZ-0122/help-project/commit/4cac644354beb4c24684e06ef6602790c70da605) |
 | 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 求助详情页圆屏适配 + 一键拨打志愿者电话](https://github.com/JunZ-0122/help-project/commit/5df770db2cab29cb038531ac055dcc51624f4b02) |
 | 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchMyRequestsPage 圆屏 padding + 字号缩小](https://github.com/JunZ-0122/help-project/commit/095c402d16d852dcdef1448c036dbcc9ba9b4b4a) |
-| 2026-04-07 19:12 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchSeekerEmergencyPage 圆屏 padding + WatchButton](https://github.com/JunZ-0122/help-project/commit/040e7660043f254419d877565acddaaafe609227) |
-| 2026-04-07 19:10 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchSeekerHomePage WatchButton + 分类求助/设置入口](https://github.com/JunZ-0122/help-project/commit/85438a7f6c9b3fc8773a8a3fe1c2257d0c3f7779) |
 
-_Latest indexed activity: 2026-09-08 09:48 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-09-11 08:19 UTC · checked automatically every 10 minutes_
