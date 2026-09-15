@@ -2,27 +2,13 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 434 commits · 45 pull requests · 21 issues · newest first · maximum 500
+**500 entries** · 469 commits · 14 pull requests · 17 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
-| 2026-09-14 10:11 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(console): expose saved connector configuration](https://github.com/ryan-iden/iden/pull/13) |
-| 2026-09-11 17:44 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
-| 2026-09-11 15:40 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: refine identity navigation header](https://github.com/ryan-iden/iden/pull/11) |
-| 2026-09-08 17:48 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [refactor: unify iden workspace design and motion](https://github.com/ryan-iden/iden/pull/10) |
-| 2026-09-07 16:31 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add Alibaba Cloud Captcha 2.0](https://github.com/ryan-iden/iden/pull/9) |
-| 2026-09-07 13:55 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: route self-hosted tenant management requests](https://github.com/ryan-iden/iden/pull/8) |
-| 2026-09-07 12:09 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: render uploaded user assets across origins](https://github.com/ryan-iden/iden/pull/7) |
-| 2026-09-07 09:23 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(core): serve self-hosted branding uploads](https://github.com/ryan-iden/iden/pull/6) |
-| 2026-09-06 13:33 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add platform administration and runtime branding](https://github.com/ryan-iden/iden/pull/5) |
-| 2026-09-06 01:30 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [test: align localized audit log expectation](https://github.com/ryan-iden/iden/pull/4) |
-| 2026-09-06 01:12 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: stabilize localized integration flows](https://github.com/ryan-iden/iden/pull/3) |
-| 2026-09-06 00:50 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: localize remaining product surfaces](https://github.com/ryan-iden/iden/pull/2) |
-| 2026-09-04 15:48 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(account): correct organization member labels and role editor](https://github.com/ryan-iden/iden/pull/1) |
 | 2026-08-03 13:23 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(verify): support client key rotation in offline verification](https://github.com/ryan-wong-coder/trustdb/pull/1) |
 | 2026-07-28 18:01 | `ISSUE OPEN` | [SoarCollab/RecordPlatform](https://github.com/SoarCollab/RecordPlatform) | [\[合作邀请\] 探索使用 TrustDB 构建高性能、可离线验证的存证链路](https://github.com/SoarCollab/RecordPlatform/issues/323) |
 | 2026-07-28 17:20 | `ISSUE OPEN` | [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | [Question: Go SDK maintenance status and recommended support path](https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370) |
-| 2026-07-27 16:30 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add connection, authentication, and importer providers](https://github.com/binaricat/Netcatty/pull/2413) |
 | 2026-07-26 02:10 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): harden importer and auth provider refresh](https://github.com/binaricat/Netcatty/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302) |
 | 2026-07-26 02:10 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): harden importer and auth provider refresh](https://github.com/lemon-casino/LemonSSH/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302) |
 | 2026-07-26 02:10 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): harden importer and auth provider refresh](https://github.com/wukongtime/Netcatty-backup/commit/f7b5f9b8529cb8ad66146fd8e48c202e068d6302) |
@@ -47,14 +33,6 @@
 | 2026-07-25 21:25 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): close provider review gaps](https://github.com/lemon-casino/LemonSSH/commit/94c9052e0e32d50a90d5583482d4b95d1715073c) |
 | 2026-07-25 21:25 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): close provider review gaps](https://github.com/wukongtime/Netcatty-backup/commit/94c9052e0e32d50a90d5583482d4b95d1715073c) |
 | 2026-07-25 21:25 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): close provider review gaps](https://github.com/DrOlu/Sensor/commit/94c9052e0e32d50a90d5583482d4b95d1715073c) |
-| 2026-07-25 15:52 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(test): advance block before checking account status](https://github.com/FISCO-BCOS/go-sdk/pull/307) |
-| 2026-07-25 15:29 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Auth integration test reads account status before the next block](https://github.com/FISCO-BCOS/go-sdk/issues/306) |
-| 2026-07-25 15:25 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(ci): externally link legacy macOS binaries](https://github.com/FISCO-BCOS/go-sdk/pull/305) |
-| 2026-07-25 15:22 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [macOS 26 CI aborts Go 1.21 and 1.22 binaries without LC_UUID](https://github.com/FISCO-BCOS/go-sdk/issues/304) |
-| 2026-07-25 15:16 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(ci): update coverage chain toolchain](https://github.com/FISCO-BCOS/go-sdk/pull/303) |
-| 2026-07-25 14:52 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Coverage workflow cannot provision tools from expired COS endpoints](https://github.com/FISCO-BCOS/go-sdk/issues/302) |
-| 2026-07-25 14:28 | `PR OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [fix(types): handle nil transaction data hash](https://github.com/FISCO-BCOS/go-sdk/pull/301) |
-| 2026-07-25 14:27 | `ISSUE OPEN` | [FISCO-BCOS/go-sdk](https://github.com/FISCO-BCOS/go-sdk) | [Transaction.WriteTo panics when optional DataHash is nil](https://github.com/FISCO-BCOS/go-sdk/issues/300) |
 | 2026-07-25 13:08 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): cancel connection starts and chunk input](https://github.com/binaricat/Netcatty/commit/d667766aa18a46a9acd395892a08d69005ca1a12) |
 | 2026-07-25 13:08 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): cancel connection starts and chunk input](https://github.com/lemon-casino/LemonSSH/commit/d667766aa18a46a9acd395892a08d69005ca1a12) |
 | 2026-07-25 13:08 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): cancel connection starts and chunk input](https://github.com/wukongtime/Netcatty-backup/commit/d667766aa18a46a9acd395892a08d69005ca1a12) |
@@ -126,7 +104,6 @@
 | 2026-07-23 10:09 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Add the Fiber operational HTTP adapter](https://github.com/wowtrust/final-weave/issues/7) |
 | 2026-07-23 10:09 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(api): add Fiber operational HTTP adapter](https://github.com/wowtrust/final-weave/pull/8) |
 | 2026-07-23 10:09 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(api): add Fiber operational HTTP adapter (#8)](https://github.com/wowtrust/final-weave/commit/0bef52e8ba9f369e0ebcb4812c847966688ae1e8) |
-| 2026-07-23 09:43 | `PR CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add privileged terminal data pipeline](https://github.com/binaricat/Netcatty/pull/2357) |
 | 2026-07-23 09:41 | `ISSUE CLOSED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [\[Feature\] Add the structured logging foundation](https://github.com/wowtrust/final-weave/issues/5) |
 | 2026-07-23 09:41 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(observability): add structured logging foundation](https://github.com/wowtrust/final-weave/pull/6) |
 | 2026-07-23 09:41 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [feat(observability): add structured logging foundation (#6)](https://github.com/wowtrust/final-weave/commit/fa121fbae7e69231846e16d8801625df3f281452) |
@@ -137,7 +114,6 @@
 | 2026-07-23 08:26 | `PR MERGED` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [docs(project): establish the FinalWeave repository](https://github.com/wowtrust/final-weave/pull/2) |
 | 2026-07-23 08:26 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [docs(project): establish the FinalWeave repository (#2)](https://github.com/wowtrust/final-weave/commit/58384cddb86b6bf4517128ade28a6f3edfa39d34) |
 | 2026-07-23 08:01 | `COMMIT` | [wowtrust/final-weave](https://github.com/wowtrust/final-weave) | [chore: initialize repository](https://github.com/wowtrust/final-weave/commit/190d9327c8ae0c864b0708f0a9ebd8be44a5d0fe) |
-| 2026-07-21 11:25 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add terminal provider API](https://github.com/binaricat/Netcatty/pull/2338) |
 | 2026-07-21 02:22 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): invalidate stale terminal provider results](https://github.com/binaricat/Netcatty/commit/38bda088894fc090be540bd60dc0acc30b4b7580) |
 | 2026-07-21 02:22 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): invalidate stale terminal provider results](https://github.com/lemon-casino/LemonSSH/commit/38bda088894fc090be540bd60dc0acc30b4b7580) |
 | 2026-07-21 02:22 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): invalidate stale terminal provider results](https://github.com/wukongtime/Netcatty-backup/commit/38bda088894fc090be540bd60dc0acc30b4b7580) |
@@ -206,7 +182,6 @@
 | 2026-07-20 16:12 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [feat(plugins): add terminal provider API](https://github.com/lemon-casino/LemonSSH/commit/86df60f6d1668d7f29100fb3f8eff164f44feb44) |
 | 2026-07-20 16:12 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(plugins): add terminal provider API](https://github.com/wukongtime/Netcatty-backup/commit/86df60f6d1668d7f29100fb3f8eff164f44feb44) |
 | 2026-07-20 16:12 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add terminal provider API](https://github.com/DrOlu/Sensor/commit/86df60f6d1668d7f29100fb3f8eff164f44feb44) |
-| 2026-07-20 15:02 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add native UI contributions](https://github.com/binaricat/Netcatty/pull/2324) |
 | 2026-07-20 14:54 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve tabs during context refresh](https://github.com/binaricat/Netcatty/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
 | 2026-07-20 14:54 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): preserve tabs during context refresh](https://github.com/lemon-casino/LemonSSH/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
 | 2026-07-20 14:54 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): preserve tabs during context refresh](https://github.com/wukongtime/Netcatty-backup/commit/cd5a15938d657e25a9814dfdb41fc3d9f922cff5) |
@@ -239,7 +214,6 @@
 | 2026-07-19 22:11 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): harden contribution lifecycle and activation](https://github.com/lemon-casino/LemonSSH/commit/6d0475bf3e9bbee107d78fcdcfa374e814d662f5) |
 | 2026-07-19 22:11 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): harden contribution lifecycle and activation](https://github.com/wukongtime/Netcatty-backup/commit/6d0475bf3e9bbee107d78fcdcfa374e814d662f5) |
 | 2026-07-19 22:11 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): harden contribution lifecycle and activation](https://github.com/DrOlu/Sensor/commit/6d0475bf3e9bbee107d78fcdcfa374e814d662f5) |
-| 2026-07-19 21:59 | `PR CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/binaricat/Netcatty/pull/2325) |
 | 2026-07-19 21:27 | `PR CLOSED` | [ryan-wong-coder/Netcatty](https://github.com/ryan-wong-coder/Netcatty) | [Clarify pending CRDT replica setup](https://github.com/ryan-wong-coder/Netcatty/pull/1) |
 | 2026-07-19 21:02 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): complete UI contribution lifecycle](https://github.com/binaricat/Netcatty/commit/71a12f2786bdd47be87f5406f20e13e0c16fcf52) |
 | 2026-07-19 21:02 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(plugins): complete UI contribution lifecycle](https://github.com/lemon-casino/LemonSSH/commit/71a12f2786bdd47be87f5406f20e13e0c16fcf52) |
@@ -249,7 +223,6 @@
 | 2026-07-19 19:57 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [feat(plugins): add native UI contributions](https://github.com/lemon-casino/LemonSSH/commit/e6e9ffdd7a385a554d7cad3ba0617884e2b1cd72) |
 | 2026-07-19 19:57 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(plugins): add native UI contributions](https://github.com/wukongtime/Netcatty-backup/commit/e6e9ffdd7a385a554d7cad3ba0617884e2b1cd72) |
 | 2026-07-19 19:57 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add native UI contributions](https://github.com/DrOlu/Sensor/commit/e6e9ffdd7a385a554d7cad3ba0617884e2b1cd72) |
-| 2026-07-19 18:31 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add permission and security boundary](https://github.com/binaricat/Netcatty/pull/2315) |
 | 2026-07-19 18:07 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [docs(plugins): align companion runtime selection](https://github.com/binaricat/Netcatty/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
 | 2026-07-19 18:07 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [docs(plugins): align companion runtime selection](https://github.com/lemon-casino/LemonSSH/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
 | 2026-07-19 18:07 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [docs(plugins): align companion runtime selection](https://github.com/wukongtime/Netcatty-backup/commit/fbe3d50e3943f8719a5eaa5e2a8165c1b690d306) |
@@ -298,9 +271,6 @@
 | 2026-07-19 08:22 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [feat(plugins): add isolated plugin host runtime (#2303)](https://github.com/lemon-casino/LemonSSH/commit/7a47187e37fd28d155c0a643fcc4e2cc9176b7c0) |
 | 2026-07-19 08:22 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(plugins): add isolated plugin host runtime (#2303)](https://github.com/wukongtime/Netcatty-backup/commit/7a47187e37fd28d155c0a643fcc4e2cc9176b7c0) |
 | 2026-07-19 08:22 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add isolated plugin host runtime (#2303)](https://github.com/DrOlu/Sensor/commit/7a47187e37fd28d155c0a643fcc4e2cc9176b7c0) |
-| 2026-07-19 08:22 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add isolated plugin host runtime](https://github.com/binaricat/Netcatty/pull/2303) |
-| 2026-07-18 10:43 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add plugin contract and SDK](https://github.com/binaricat/Netcatty/pull/2276) |
-| 2026-07-18 10:43 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(sync): apply cloud settings on initial merge](https://github.com/binaricat/Netcatty/pull/2298) |
 | 2026-07-18 10:32 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(sync): honor cloud setting map resets](https://github.com/binaricat/Netcatty/commit/4a2ff2e728ef23ce78432e06192e71df06296459) |
 | 2026-07-18 10:32 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(sync): honor cloud setting map resets](https://github.com/lemon-casino/LemonSSH/commit/4a2ff2e728ef23ce78432e06192e71df06296459) |
 | 2026-07-18 10:32 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(sync): honor cloud setting map resets](https://github.com/wukongtime/Netcatty-backup/commit/4a2ff2e728ef23ce78432e06192e71df06296459) |
@@ -432,21 +402,17 @@
 | 2026-07-17 09:41 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/lemon-casino/LemonSSH/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
 | 2026-07-17 09:41 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/wukongtime/Netcatty-backup/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
 | 2026-07-17 09:41 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/DrOlu/Sensor/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
-| 2026-07-17 09:41 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): integrate convergent multi-device sync](https://github.com/binaricat/Netcatty/pull/2259) |
-| 2026-07-16 20:03 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): add convergent sync migration](https://github.com/binaricat/Netcatty/pull/2254) |
 | 2026-07-16 20:03 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): add convergent sync migration (#2254)](https://github.com/binaricat/Netcatty/commit/6e55d2d498332bba8d31c94ef2e35c1df1c197ce) |
 | 2026-07-16 20:03 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [feat(sync): add convergent sync migration (#2254)](https://github.com/lemon-casino/LemonSSH/commit/6e55d2d498332bba8d31c94ef2e35c1df1c197ce) |
 | 2026-07-16 20:03 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(sync): add convergent sync migration (#2254)](https://github.com/wukongtime/Netcatty-backup/commit/6e55d2d498332bba8d31c94ef2e35c1df1c197ce) |
 | 2026-07-16 20:03 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(sync): add convergent sync migration (#2254)](https://github.com/DrOlu/Sensor/commit/6e55d2d498332bba8d31c94ef2e35c1df1c197ce) |
 | 2026-07-16 16:55 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Redesign profile as live telemetry dashboard](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/4221ae28b643ebfba603ea5d4aab55f20f1f8d3f) |
-| 2026-07-16 16:01 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): add convergent CRDT core](https://github.com/binaricat/Netcatty/pull/2247) |
 | 2026-07-16 16:01 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): add convergent CRDT core (#2247)](https://github.com/binaricat/Netcatty/commit/3af90b6e8f47c898a964fbeaf3e275fad76f4ea2) |
 | 2026-07-16 16:01 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [feat(sync): add convergent CRDT core (#2247)](https://github.com/lemon-casino/LemonSSH/commit/3af90b6e8f47c898a964fbeaf3e275fad76f4ea2) |
 | 2026-07-16 16:01 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(sync): add convergent CRDT core (#2247)](https://github.com/wukongtime/Netcatty-backup/commit/3af90b6e8f47c898a964fbeaf3e275fad76f4ea2) |
 | 2026-07-16 16:01 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(sync): add convergent CRDT core (#2247)](https://github.com/DrOlu/Sensor/commit/3af90b6e8f47c898a964fbeaf3e275fad76f4ea2) |
 | 2026-07-16 15:07 | `COMMIT` | [ryan-wong-coder/ryan-go-backend](https://github.com/ryan-wong-coder/ryan-go-backend) | [Close GitHub publishing task](https://github.com/ryan-wong-coder/ryan-go-backend/commit/6c2d7a4fcfb8df79aad29a3faf35d64a808d4ebc) |
 | 2026-07-16 15:06 | `COMMIT` | [ryan-wong-coder/ryan-go-backend](https://github.com/ryan-wong-coder/ryan-go-backend) | [Add Go backend scaffold generator](https://github.com/ryan-wong-coder/ryan-go-backend/commit/4127d229c5aa938bf00ba7566137a2659e33a442) |
-| 2026-07-16 01:19 | `PR MERGED` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(editor): add selection formatting toolbar](https://github.com/text2future/flowix/pull/14) |
 | 2026-07-16 00:51 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(ai): preserve tool result ownership during steering](https://github.com/binaricat/Netcatty/commit/9bd41fdcbe252f85d3eeb9ea91d59c7f4edaa3e8) |
 | 2026-07-16 00:51 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(ai): preserve tool result ownership during steering](https://github.com/lemon-casino/LemonSSH/commit/9bd41fdcbe252f85d3eeb9ea91d59c7f4edaa3e8) |
 | 2026-07-16 00:51 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(ai): preserve tool result ownership during steering](https://github.com/wukongtime/Netcatty-backup/commit/9bd41fdcbe252f85d3eeb9ea91d59c7f4edaa3e8) |
@@ -454,7 +420,6 @@
 | 2026-07-15 21:04 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Create GitHub profile README](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/5489843b7987f0fa896420d87df124fcd6b560f4) |
 | 2026-07-15 13:32 | `COMMIT` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(editor): add selection formatting toolbar](https://github.com/text2future/flowix/commit/55f52874195dcaba57f3cdb4c77e54da21eb7e99) |
 | 2026-07-15 13:32 | `COMMIT` | [guail/tank](https://github.com/guail/tank) | [feat(editor): add selection formatting toolbar](https://github.com/guail/tank/commit/55f52874195dcaba57f3cdb4c77e54da21eb7e99) |
-| 2026-07-15 02:14 | `PR CLOSED` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(agent): support custom executable locations](https://github.com/text2future/flowix/pull/6) |
 | 2026-07-14 18:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(ai): detect macOS desktop-managed agents](https://github.com/binaricat/Netcatty/commit/095213dd42b9057fdc5dcded431b11456db0519f) |
 | 2026-07-14 18:45 | `COMMIT` | [lemon-casino/LemonSSH](https://github.com/lemon-casino/LemonSSH) | [fix(ai): detect macOS desktop-managed agents](https://github.com/lemon-casino/LemonSSH/commit/095213dd42b9057fdc5dcded431b11456db0519f) |
 | 2026-07-14 18:45 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(ai): detect macOS desktop-managed agents](https://github.com/wukongtime/Netcatty-backup/commit/095213dd42b9057fdc5dcded431b11456db0519f) |
@@ -506,5 +471,40 @@
 | 2026-04-07 19:19 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 新增志愿者订单列表页](https://github.com/JunZ-0122/help-project/commit/4b1f586bcf777c7535211832c1220d7039a0bdcf) |
 | 2026-04-07 19:18 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 志愿者首页重构为按钮导航 + 统计 + 在线状态](https://github.com/JunZ-0122/help-project/commit/4cac644354beb4c24684e06ef6602790c70da605) |
 | 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 求助详情页圆屏适配 + 一键拨打志愿者电话](https://github.com/JunZ-0122/help-project/commit/5df770db2cab29cb038531ac055dcc51624f4b02) |
+| 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchMyRequestsPage 圆屏 padding + 字号缩小](https://github.com/JunZ-0122/help-project/commit/095c402d16d852dcdef1448c036dbcc9ba9b4b4a) |
+| 2026-04-07 19:12 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchSeekerEmergencyPage 圆屏 padding + WatchButton](https://github.com/JunZ-0122/help-project/commit/040e7660043f254419d877565acddaaafe609227) |
+| 2026-04-07 19:10 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchSeekerHomePage WatchButton + 分类求助/设置入口](https://github.com/JunZ-0122/help-project/commit/85438a7f6c9b3fc8773a8a3fe1c2257d0c3f7779) |
+| 2026-04-07 19:09 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchLoginPage 圆屏 padding + 键盘缩小 + WatchButton](https://github.com/JunZ-0122/help-project/commit/5f7bb8de8ad163ee21f390aa76239c6359a85b47) |
+| 2026-04-07 19:08 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchSplashPage 圆屏适配 + WatchButton](https://github.com/JunZ-0122/help-project/commit/857127ba1b11de435dea6e317bfea4e4f7d1dfc3) |
+| 2026-04-07 19:07 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): WatchAccountUnsupportedPage 圆屏适配 + WatchButton](https://github.com/JunZ-0122/help-project/commit/e5c423ae38b5125a9f5b65dec826cc1fbd9cadb9) |
+| 2026-04-07 19:06 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 导出 WatchButton 组件供所有手表页面使用](https://github.com/JunZ-0122/help-project/commit/d8b36af97d805e7fa7d2510743fe1b47a76a539e) |
+| 2026-04-07 19:01 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [添加手表端圆屏适配+功能迁移实施计划](https://github.com/JunZ-0122/help-project/commit/7c3e35f8ab673e34fbc8f27a5a4802d09eac0030) |
+| 2026-04-07 18:47 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [添加手表端圆屏适配+功能迁移设计文档](https://github.com/JunZ-0122/help-project/commit/28a749653a9311b2e226974a0bc62ef279add45c) |
+| 2026-03-09 14:17 | `COMMIT` | [ryan-wong-coder/majiang](https://github.com/ryan-wong-coder/majiang) | [Initial commit for the Mahjong client and server.](https://github.com/ryan-wong-coder/majiang/commit/f331f37c043f55e000d750365347aec828d4a49e) |
+| 2025-03-31 22:37 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Merge remote-tracking branch 'origin/main'](https://github.com/Siyuan-Wong/msgcenter/commit/cf6bec1442c86ba9b5d6ccabfb4fff51394f159a) |
+| 2025-03-31 22:36 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [init](https://github.com/Siyuan-Wong/msgcenter/commit/cd0508164fb6ba73fd60f3c7ec839d4f84c66d43) |
+| 2025-03-30 00:04 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [init](https://github.com/Siyuan-Wong/msgcenter/commit/8c50b3f2791fbe8f4443458c34f3d43a74024a83) |
+| 2025-03-29 18:49 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Delete .idea directory](https://github.com/Siyuan-Wong/msgcenter/commit/dab72f2f6620b5e9fc55de8bda97775e0ee02627) |
+| 2025-03-29 18:12 | `COMMIT` | [Siyuan-Wong/msgcenter](https://github.com/Siyuan-Wong/msgcenter) | [Initial commit](https://github.com/Siyuan-Wong/msgcenter/commit/acc480d8a62e15f8f9d38c06eac42be817e5b28c) |
+| 2021-06-15 12:11 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d7e003fc1a516598a74356c3d4c11268e053d2c7) |
+| 2021-06-15 11:45 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4462882793ed3783fdbf8d1543f33e9e16ccf951) |
+| 2021-06-15 11:28 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/b6c3e914988e3f4448ddec792540f28177393a37) |
+| 2021-06-15 06:31 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/51245f649990468d9bd9074a944a21c44740f893) |
+| 2021-06-15 05:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/6de23d1abd4023cb0c700339421955524f3f2cea) |
+| 2021-06-15 05:24 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/73d566f0b10b151fc0442eeda3544606080908c2) |
+| 2021-06-15 04:55 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/4b932e2969122beef2eba6804928eaa8d5b530e1) |
+| 2021-06-15 04:30 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/b3cdf40003057dc40f594f1bfc68b0afc7d9a301) |
+| 2021-06-15 04:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/7ea1aa3428becb0fc9342569d12deddb25ebb9d9) |
+| 2021-06-15 04:14 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/f6624790d6ef58825035c298a9e553c1a5996ef8) |
+| 2021-06-15 04:10 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/8a9fd2198fcd60c1c61f61f9b51fda32db90aaed) |
+| 2021-06-15 04:08 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/c1d9c1591d22b470687906e3b9a3f5b0da12bc92) |
+| 2021-06-15 03:52 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/65881e46116712993dc0c754364f9a5213de51d5) |
+| 2021-06-15 03:09 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/1fc66005ede0c28c3cb5b635db3d943e6e76006d) |
+| 2021-06-09 13:19 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/db7be30c6e3d5bc60d992872200d5b003d019dcc) |
+| 2021-06-08 19:51 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d764511fbbbdae459d2a6388c6c4e3abb5f058ec) |
+| 2021-06-08 18:27 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/6bf03da45d29cf4ecb6f5e70132b99c3c3c7a449) |
+| 2021-06-08 18:14 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/36a60e07367fdcdcc4b644b69fabcc4e1578d1c1) |
+| 2021-06-08 18:08 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/576db9100c9847c4b6624af4d6871e849df4dd86) |
+| 2021-06-08 18:01 | `COMMIT` | [wang-si-yuan/ncov](https://github.com/wang-si-yuan/ncov) | [feat(获取7天内到访城市): 获取7天内到访城市](https://github.com/wang-si-yuan/ncov/commit/d6369a3016785f2999add7824914bff0cf231864) |
 
-_Latest indexed activity: 2026-09-14 02:11 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-08-03 05:23 UTC · checked automatically every 10 minutes_
