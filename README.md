@@ -23,72 +23,72 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/commit/da0a65f5c2140c164861aa15cafbd75e643aa578">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-b36b25a367-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-b36b25a367-light.svg" />
-    <img alt="COMMIT: fix(console): expose saved connector configuration (#13)" src="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-b36b25a367-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-596df97c27-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-596df97c27-light.svg" />
+    <img alt="COMMIT: fix(console): expose saved connector configuration (#13)" src="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-596df97c27-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/13">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-417af65c7f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-417af65c7f-light.svg" />
-    <img alt="PR MERGED: fix(console): expose saved connector configuration" src="./assets/activity-cards/pr-ryan-iden-iden-13-417af65c7f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-abd2f94d2f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-abd2f94d2f-light.svg" />
+    <img alt="PR MERGED: fix(console): expose saved connector configuration" src="./assets/activity-cards/pr-ryan-iden-iden-13-abd2f94d2f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/3d6d0dc51a0ce047c4beb4b7f33e836cdb245314">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-661958184e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-661958184e-light.svg" />
-    <img alt="COMMIT: fix(experience): repair captcha profile completion and retries (#12)" src="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-661958184e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-423bcad896-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-423bcad896-light.svg" />
+    <img alt="COMMIT: fix(experience): repair captcha profile completion and retries (#12)" src="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-423bcad896-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-46f93aa888-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-46f93aa888-light.svg" />
-    <img alt="PR MERGED: fix(experience): repair captcha profile completion and retries" src="./assets/activity-cards/pr-ryan-iden-iden-12-46f93aa888-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-262251c52e-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-12-262251c52e-light.svg" />
+    <img alt="PR MERGED: fix(experience): repair captcha profile completion and retries" src="./assets/activity-cards/pr-ryan-iden-iden-12-262251c52e-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/722631b9db16bf6d028777459d7785982f5a6270">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-722631b-dcf709a718-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-722631b-dcf709a718-light.svg" />
-    <img alt="COMMIT: fix: refine identity navigation header (#11)" src="./assets/activity-cards/commit-ryan-iden-iden-722631b-dcf709a718-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-722631b-dd42824ae9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-722631b-dd42824ae9-light.svg" />
+    <img alt="COMMIT: fix: refine identity navigation header (#11)" src="./assets/activity-cards/commit-ryan-iden-iden-722631b-dd42824ae9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/11">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-11-9c70a43376-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-11-9c70a43376-light.svg" />
-    <img alt="PR MERGED: fix: refine identity navigation header" src="./assets/activity-cards/pr-ryan-iden-iden-11-9c70a43376-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-11-322cc69247-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-11-322cc69247-light.svg" />
+    <img alt="PR MERGED: fix: refine identity navigation header" src="./assets/activity-cards/pr-ryan-iden-iden-11-322cc69247-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/2dfc82398271648a3c452c00266862a5b8143aa2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-5130a19796-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-5130a19796-light.svg" />
-    <img alt="COMMIT: fix: refine identity navigation header" src="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-5130a19796-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-c17d525641-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-c17d525641-light.svg" />
+    <img alt="COMMIT: fix: refine identity navigation header" src="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-c17d525641-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/6b2540cb2c4b434b6da8e58a6249074a5187dcac">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-6b2540c-ab3e4a7bdb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-6b2540c-ab3e4a7bdb-light.svg" />
-    <img alt="COMMIT: fix: refine identity navigation header" src="./assets/activity-cards/commit-ryan-iden-iden-6b2540c-ab3e4a7bdb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-6b2540c-50111377a3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-6b2540c-50111377a3-light.svg" />
+    <img alt="COMMIT: fix: refine identity navigation header" src="./assets/activity-cards/commit-ryan-iden-iden-6b2540c-50111377a3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
