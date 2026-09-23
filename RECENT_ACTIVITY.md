@@ -453,6 +453,7 @@
 | 2026-07-16 00:51 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(ai): preserve tool result ownership during steering](https://github.com/DrOlu/Sensor/commit/9bd41fdcbe252f85d3eeb9ea91d59c7f4edaa3e8) |
 | 2026-07-15 21:04 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Create GitHub profile README](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/5489843b7987f0fa896420d87df124fcd6b560f4) |
 | 2026-07-15 13:32 | `COMMIT` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(editor): add selection formatting toolbar](https://github.com/text2future/flowix/commit/55f52874195dcaba57f3cdb4c77e54da21eb7e99) |
+| 2026-07-15 13:32 | `COMMIT` | [neko233-com/mdx](https://github.com/neko233-com/mdx) | [feat(editor): add selection formatting toolbar](https://github.com/neko233-com/mdx/commit/55f52874195dcaba57f3cdb4c77e54da21eb7e99) |
 | 2026-07-15 13:32 | `COMMIT` | [guail/tank](https://github.com/guail/tank) | [feat(editor): add selection formatting toolbar](https://github.com/guail/tank/commit/55f52874195dcaba57f3cdb4c77e54da21eb7e99) |
 | 2026-07-15 02:14 | `PR CLOSED` | [text2future/flowix](https://github.com/text2future/flowix) | [feat(agent): support custom executable locations](https://github.com/text2future/flowix/pull/6) |
 | 2026-07-14 18:45 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(ai): detect macOS desktop-managed agents](https://github.com/binaricat/Netcatty/commit/095213dd42b9057fdc5dcded431b11456db0519f) |
@@ -505,6 +506,5 @@
 | 2026-04-07 19:19 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 新增志愿者附近求助列表页](https://github.com/JunZ-0122/help-project/commit/984df0df6166c680e51d5e2bdb64d62924bf3cf4) |
 | 2026-04-07 19:19 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 新增志愿者订单列表页](https://github.com/JunZ-0122/help-project/commit/4b1f586bcf777c7535211832c1220d7039a0bdcf) |
 | 2026-04-07 19:18 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 志愿者首页重构为按钮导航 + 统计 + 在线状态](https://github.com/JunZ-0122/help-project/commit/4cac644354beb4c24684e06ef6602790c70da605) |
-| 2026-04-07 19:13 | `COMMIT` | [JunZ-0122/help-project](https://github.com/JunZ-0122/help-project) | [feat(watch): 求助详情页圆屏适配 + 一键拨打志愿者电话](https://github.com/JunZ-0122/help-project/commit/5df770db2cab29cb038531ac055dcc51624f4b02) |
 
 _Latest indexed activity: 2026-09-14 02:11 UTC · checked automatically every 10 minutes_
