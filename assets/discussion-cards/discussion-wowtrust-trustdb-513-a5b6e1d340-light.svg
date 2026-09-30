@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<title id="title">Integration requests: what should TrustDB connect with?</title>
+<desc id="desc">Use this discussion when you want TrustDB to connect with another open-source project, business system, storage platform, CI pipeline, or evidence workflow. Please include: External system or project User and business w…</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eff6ff"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#db2777"/></linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8eef7" stroke-width="1"/></pattern>
+  <style>text{font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+</defs>
+<rect width="1200" height="210" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="210" rx="20" fill="url(#grid)" opacity=".48"/>
+<rect x="1" y="1" width="1198" height="208" rx="19" fill="none" stroke="#d8e2f1"/>
+<rect width="8" height="210" rx="4" fill="url(#accent)"/>
+<rect x="38" y="26" width="102.0" height="28" rx="14" fill="#7c3aed" opacity=".16"/>
+<text x="89.0" y="45" fill="#7c3aed" font-size="11" font-weight="700" text-anchor="middle">IDEAS</text>
+<text x="1162" y="44" fill="#60708a" font-size="11" text-anchor="end">PUBLISHED 2026-07-23</text>
+<text x="38" y="92" fill="#172033" font-size="20" font-weight="700">Integration requests: what should TrustDB connect with?</text>
+<text x="38" y="126" fill="#60708a" font-size="13">Use this discussion when you want TrustDB to connect with another open-source project,</text>
+<text x="38" y="149" fill="#60708a" font-size="13">business system, storage platform, CI pipeline, or evidence workflow. Please include:…</text>
+<text x="38" y="184" fill="#0284c7" font-size="12" font-weight="700">wowtrust/trustdb</text>
+<text x="920" y="184" fill="#60708a" font-size="12" text-anchor="end">UPVOTES 1  /  COMMENTS 0</text>
+<text x="1137" y="184" fill="#7c3aed" font-size="12" font-weight="700" text-anchor="end">READ ARTICLE</text>
+<path d="M1148 177h12v12M1148 189l12-12" fill="none" stroke="#7c3aed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

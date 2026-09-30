@@ -102,6 +102,24 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `02 // FIELD NOTES`
 
 <!-- DISCUSSIONS_FEED:START -->
+<a href="https://github.com/wowtrust/trustdb/discussions/513">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-513-a5b6e1d340-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-513-a5b6e1d340-light.svg" />
+    <img alt="Discussion: Integration requests: what should TrustDB connect with?" src="./assets/discussion-cards/discussion-wowtrust-trustdb-513-a5b6e1d340-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/wowtrust/trustdb/discussions/512">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-512-8757c8ed53-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/discussion-cards/discussion-wowtrust-trustdb-512-8757c8ed53-light.svg" />
+    <img alt="Discussion: Welcome to the TrustDB community" src="./assets/discussion-cards/discussion-wowtrust-trustdb-512-8757c8ed53-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/binaricat/Netcatty/discussions/2261">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/discussion-cards/discussion-binaricat-netcatty-2261-334203b2e3-dark.svg" />

@@ -2,6 +2,18 @@
 
 > Automatically generated from public Discussions authored by `ryan-wong-coder` across repositories.
 
+## [Integration requests: what should TrustDB connect with?](https://github.com/wowtrust/trustdb/discussions/513)
+
+`wowtrust/trustdb` · Ideas · 2026-07-23 · ▲ 1 · 0 comments
+
+Use this discussion when you want TrustDB to connect with another open-source project, business system, storage platform, CI pipeline, or evidence workflow. Please include: External system or project User and business workflow What content stays in the source system What should be signed or proved Expected proof level…
+
+## [Welcome to the TrustDB community](https://github.com/wowtrust/trustdb/discussions/512)
+
+`wowtrust/trustdb` · Announcements · 2026-07-23 · ▲ 1 · 0 comments
+
+TrustDB is a self-hosted tamper-evident evidence database for files, audit events, and data handoffs. It produces portable evidence that another party can verify offline without receiving the original content or trusting the source database administrator. Start here Read the quick start. Run the one-command local tamp…
+
 ## [Netcatty 多设备 CRDT 同步：从“为什么会丢数据”到“怎样证明一定收敛”](https://github.com/binaricat/Netcatty/discussions/2261)
 
 `binaricat/Netcatty` · Show and tell · 2026-07-17 · ▲ 2 · 1 comments
@@ -10,4 +22,4 @@
 
 ---
 
-_Latest publication: 2026-07-17 00:55 UTC · checked automatically every 10 minutes_
+_Latest publication: 2026-07-23 04:44 UTC · checked automatically every 10 minutes_
