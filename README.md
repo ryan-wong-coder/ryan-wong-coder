@@ -23,36 +23,36 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-iden/iden/commit/da0a65f5c2140c164861aa15cafbd75e643aa578">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-5a8d9183fd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-5a8d9183fd-light.svg" />
-    <img alt="COMMIT: fix(console): expose saved connector configuration (#13)" src="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-5a8d9183fd-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-5dc98121bd-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-5dc98121bd-light.svg" />
+    <img alt="COMMIT: fix(console): expose saved connector configuration (#13)" src="./assets/activity-cards/commit-ryan-iden-iden-da0a65f-5dc98121bd-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/pull/13">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-341ad6c99b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-341ad6c99b-light.svg" />
-    <img alt="PR MERGED: fix(console): expose saved connector configuration" src="./assets/activity-cards/pr-ryan-iden-iden-13-341ad6c99b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-4f803bdbf8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/pr-ryan-iden-iden-13-4f803bdbf8-light.svg" />
+    <img alt="PR MERGED: fix(console): expose saved connector configuration" src="./assets/activity-cards/pr-ryan-iden-iden-13-4f803bdbf8-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/3d6d0dc51a0ce047c4beb4b7f33e836cdb245314">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-bcc02b3032-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-bcc02b3032-light.svg" />
-    <img alt="COMMIT: fix(experience): repair captcha profile completion and retries (#12)" src="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-bcc02b3032-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-cfd7cde0e1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-cfd7cde0e1-light.svg" />
+    <img alt="COMMIT: fix(experience): repair captcha profile completion and retries (#12)" src="./assets/activity-cards/commit-ryan-iden-iden-3d6d0dc-cfd7cde0e1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-iden/iden/commit/2dfc82398271648a3c452c00266862a5b8143aa2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-183ebf3875-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-183ebf3875-light.svg" />
-    <img alt="COMMIT: fix: refine identity navigation header" src="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-183ebf3875-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-0194698b4d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-0194698b4d-light.svg" />
+    <img alt="COMMIT: fix: refine identity navigation header" src="./assets/activity-cards/commit-ryan-iden-iden-2dfc823-0194698b4d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
