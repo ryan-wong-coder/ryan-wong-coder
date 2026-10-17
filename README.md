@@ -39,6 +39,15 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
+<a href="https://github.com/ryan-wong-coder/openwork/commit/3d0093b0e0d8d97e4f6608e3ec033e9946e91e9f">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-a90222440a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-a90222440a-light.svg" />
+    <img alt="COMMIT: docs(zeno): record verified native 1.0.0 updates" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-a90222440a-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 <a href="https://github.com/ryan-wong-coder/openwork/commit/c38d3aa401c75b6c0905ac39eb6f4b3be71e8df6">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-4767eb90bc-dark.svg" />
@@ -53,15 +62,6 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-fe47dc03c6-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-fe47dc03c6-light.svg" />
     <img alt="COMMIT: ci(zeno): validate all release architectures on native runners" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-fe47dc03c6-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/openwork/commit/85bddb483c9e28b92305c3295349f4e5a8b3fa87">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-85bddb4-c319b6fa77-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-85bddb4-c319b6fa77-light.svg" />
-    <img alt="COMMIT: feat: apply Zeno visuals and independent self-hosted defaults" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-85bddb4-c319b6fa77-light.svg" width="100%" />
   </picture>
 </a>
 <br />
