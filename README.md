@@ -30,11 +30,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/865c1558852abe41a65623e746783eb510c54e09">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/a17c73925c86dd9ea46e2337ce86f4463649e3eb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-865c155-b3c296d808-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-865c155-b3c296d808-light.svg" />
-    <img alt="COMMIT: docs(zeno): record the published 1.0.2 packages and native upgrades" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-865c155-b3c296d808-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-21349c5e33-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-21349c5e33-light.svg" />
+    <img alt="COMMIT: test(zeno-site): verify the fullscreen film on the public website" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-21349c5e33-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -57,11 +57,11 @@ models into reliable products — from wire format and SDK to desktop interface.
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/56b3ea3fc986b3e4af153302dae19d147682e95e">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/5ddbcd4c0118b7a9fb52c9b99bc63c2ed5b6135f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-4430a40a9f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-4430a40a9f-light.svg" />
-    <img alt="COMMIT: feat: add Chinese local gateway client and visual configuration" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-4430a40a9f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ddbcd4-707aab0d34-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ddbcd4-707aab0d34-light.svg" />
+    <img alt="COMMIT: feat: add gateway onboarding and a birthday about page" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ddbcd4-707aab0d34-light.svg" width="100%" />
   </picture>
 </a>
 <br />
