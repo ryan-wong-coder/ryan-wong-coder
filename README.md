@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/5cbcc11f8d37b88e5e6772869bcfd1d974632dd2">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/e5aa5726919c319a6e25a080ec92034c8ef8dbe6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5cbcc11-761f605080-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5cbcc11-761f605080-light.svg" />
-    <img alt="COMMIT: fix(zeno): enable verified GPT-6.1 and native Claude reasoning" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5cbcc11-761f605080-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e5aa572-1ba1d8e2eb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e5aa572-1ba1d8e2eb-light.svg" />
+    <img alt="COMMIT: docs: record verified Zeno 1.0.3 publication and upgrades" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-e5aa572-1ba1d8e2eb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/a17c73925c86dd9ea46e2337ce86f4463649e3eb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-21349c5e33-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-21349c5e33-light.svg" />
-    <img alt="COMMIT: test(zeno-site): verify the fullscreen film on the public website" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-21349c5e33-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-221f984e82-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-221f984e82-light.svg" />
+    <img alt="COMMIT: test(zeno-site): verify the fullscreen film on the public website" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-a17c739-221f984e82-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/44e9e712be4cf84d7a84ff0be1206bba6f1d41cb">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/4e47a9e08f3afc9dc0e1b7c397bbe509e4125c70">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-44e9e71-147c7620e7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-44e9e71-147c7620e7-light.svg" />
-    <img alt="COMMIT: docs(zeno-site): record the deployed visual refresh" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-44e9e71-147c7620e7-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e47a9e-b0dff5b60d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e47a9e-b0dff5b60d-light.svg" />
+    <img alt="COMMIT: feat(zeno-site): refine downloads and add brand motion" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e47a9e-b0dff5b60d-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/92688046400df5d1e2807d63dce986431bc7623a">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/5a136ec6b4ba02336e81070046304a9db0cf05a2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-9268804-5b2e3e67ec-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-9268804-5b2e3e67ec-light.svg" />
-    <img alt="COMMIT: fix(zeno): harden native release packaging and update restarts" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-9268804-5b2e3e67ec-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-193c87fa68-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-193c87fa68-light.svg" />
+    <img alt="COMMIT: ci(zeno): validate all release architectures on native runners" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-193c87fa68-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/5ddbcd4c0118b7a9fb52c9b99bc63c2ed5b6135f">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/85bddb483c9e28b92305c3295349f4e5a8b3fa87">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ddbcd4-707aab0d34-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ddbcd4-707aab0d34-light.svg" />
-    <img alt="COMMIT: feat: add gateway onboarding and a birthday about page" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ddbcd4-707aab0d34-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-85bddb4-4467e252af-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-85bddb4-4467e252af-light.svg" />
+    <img alt="COMMIT: feat: apply Zeno visuals and independent self-hosted defaults" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-85bddb4-4467e252af-light.svg" width="100%" />
   </picture>
 </a>
 <br />
