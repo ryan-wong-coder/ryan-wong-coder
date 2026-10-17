@@ -21,7 +21,33 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-> No recent public activity found.
+<a href="https://github.com/ryan-wong-coder/openwork/commit/c82447d134494f5099324673f6f884fa27d1fd40">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-322ed355cf-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-322ed355cf-light.svg" />
+    <img alt="COMMIT: fix(zeno): select the actual private packaged renderer in smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-322ed355cf-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/ff939ceeabdf96c565fd0abd784f0750ad3a0445">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-c6c1d6fd74-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-c6c1d6fd74-light.svg" />
+    <img alt="COMMIT: docs(zeno): verify live website and release downloads" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-c6c1d6fd74-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/277033078b0dc0ce03c3930a3fc234175153ff16">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-9d233bbf28-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-9d233bbf28-light.svg" />
+    <img alt="COMMIT: fix(den): manage feature overrides inside each organization (#6075)" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-9d233bbf28-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
 
 <p align="center"><sub>Public activity · newest first · refreshed every six hours</sub><br />
   <a href="./RECENT_ACTIVITY.md">Open the complete activity log →</a>
