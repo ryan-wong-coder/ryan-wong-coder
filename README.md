@@ -23,27 +23,36 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/openwork/commit/c82447d134494f5099324673f6f884fa27d1fd40">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-322ed355cf-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-322ed355cf-light.svg" />
-    <img alt="COMMIT: fix(zeno): select the actual private packaged renderer in smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-322ed355cf-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-cb6eedf2fa-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-cb6eedf2fa-light.svg" />
+    <img alt="COMMIT: fix(zeno): select the actual private packaged renderer in smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-cb6eedf2fa-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/ff939ceeabdf96c565fd0abd784f0750ad3a0445">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-c6c1d6fd74-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-c6c1d6fd74-light.svg" />
-    <img alt="COMMIT: docs(zeno): verify live website and release downloads" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-c6c1d6fd74-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-98d73e0b01-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-98d73e0b01-light.svg" />
+    <img alt="COMMIT: docs(zeno): verify live website and release downloads" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-98d73e0b01-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/277033078b0dc0ce03c3930a3fc234175153ff16">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-9d233bbf28-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-9d233bbf28-light.svg" />
-    <img alt="COMMIT: fix(den): manage feature overrides inside each organization (#6075)" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-9d233bbf28-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-8b6215a839-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-8b6215a839-light.svg" />
+    <img alt="COMMIT: fix(den): manage feature overrides inside each organization (#6075)" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-8b6215a839-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/46fd7b3f6c36b9d032b8cb64ad66c8e238ef8f11">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-2813f4537f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-2813f4537f-light.svg" />
+    <img alt="COMMIT: i18n: complete desktop Chinese translations and default to Chinese" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-2813f4537f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
