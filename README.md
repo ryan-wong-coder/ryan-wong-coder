@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/3428b40975ed5939574cd937a105b6c644ead4e8">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/5cbcc11f8d37b88e5e6772869bcfd1d974632dd2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3428b40-9ffa2256eb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3428b40-9ffa2256eb-light.svg" />
-    <img alt="COMMIT: docs(zeno): record thinking control interface checks" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3428b40-9ffa2256eb-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5cbcc11-761f605080-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5cbcc11-761f605080-light.svg" />
+    <img alt="COMMIT: fix(zeno): enable verified GPT-6.1 and native Claude reasoning" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5cbcc11-761f605080-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/056aa227321e02c18dd8346566b4d1a0c32355d3">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/865c1558852abe41a65623e746783eb510c54e09">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-056aa22-fb59f9c26f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-056aa22-fb59f9c26f-light.svg" />
-    <img alt="COMMIT: fix(zeno): keep automatic titles on the active provider" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-056aa22-fb59f9c26f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-865c155-b3c296d808-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-865c155-b3c296d808-light.svg" />
+    <img alt="COMMIT: docs(zeno): record the published 1.0.2 packages and native upgrades" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-865c155-b3c296d808-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/1497a6f696a71bff1a7b2697fe30e632677d2ae5">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/44e9e712be4cf84d7a84ff0be1206bba6f1d41cb">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-1497a6f-7e067245ba-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-1497a6f-7e067245ba-light.svg" />
-    <img alt="COMMIT: fix(zeno): accept packaged updater cache directory in smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-1497a6f-7e067245ba-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-44e9e71-147c7620e7-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-44e9e71-147c7620e7-light.svg" />
+    <img alt="COMMIT: docs(zeno-site): record the deployed visual refresh" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-44e9e71-147c7620e7-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/92688046400df5d1e2807d63dce986431bc7623a">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-9268804-5b2e3e67ec-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-9268804-5b2e3e67ec-light.svg" />
+    <img alt="COMMIT: fix(zeno): harden native release packaging and update restarts" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-9268804-5b2e3e67ec-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/56b3ea3fc986b3e4af153302dae19d147682e95e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-eb4e7888e1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-eb4e7888e1-light.svg" />
-    <img alt="COMMIT: feat: add Chinese local gateway client and visual configuration" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-eb4e7888e1-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/openwork/commit/46fd7b3f6c36b9d032b8cb64ad66c8e238ef8f11">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-633dd504f5-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-633dd504f5-light.svg" />
-    <img alt="COMMIT: i18n: complete desktop Chinese translations and default to Chinese" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-633dd504f5-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-4430a40a9f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-4430a40a9f-light.svg" />
+    <img alt="COMMIT: feat: add Chinese local gateway client and visual configuration" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-4430a40a9f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
