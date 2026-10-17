@@ -21,38 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/c82447d134494f5099324673f6f884fa27d1fd40">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/3428b40975ed5939574cd937a105b6c644ead4e8">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-cb6eedf2fa-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-cb6eedf2fa-light.svg" />
-    <img alt="COMMIT: fix(zeno): select the actual private packaged renderer in smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c82447d-cb6eedf2fa-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3428b40-9ffa2256eb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3428b40-9ffa2256eb-light.svg" />
+    <img alt="COMMIT: docs(zeno): record thinking control interface checks" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3428b40-9ffa2256eb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/ff939ceeabdf96c565fd0abd784f0750ad3a0445">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/056aa227321e02c18dd8346566b4d1a0c32355d3">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-98d73e0b01-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-98d73e0b01-light.svg" />
-    <img alt="COMMIT: docs(zeno): verify live website and release downloads" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-ff939ce-98d73e0b01-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-056aa22-fb59f9c26f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-056aa22-fb59f9c26f-light.svg" />
+    <img alt="COMMIT: fix(zeno): keep automatic titles on the active provider" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-056aa22-fb59f9c26f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/277033078b0dc0ce03c3930a3fc234175153ff16">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/1497a6f696a71bff1a7b2697fe30e632677d2ae5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-8b6215a839-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-8b6215a839-light.svg" />
-    <img alt="COMMIT: fix(den): manage feature overrides inside each organization (#6075)" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-2770330-8b6215a839-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-1497a6f-7e067245ba-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-1497a6f-7e067245ba-light.svg" />
+    <img alt="COMMIT: fix(zeno): accept packaged updater cache directory in smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-1497a6f-7e067245ba-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/56b3ea3fc986b3e4af153302dae19d147682e95e">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-eb4e7888e1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-eb4e7888e1-light.svg" />
+    <img alt="COMMIT: feat: add Chinese local gateway client and visual configuration" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-56b3ea3-eb4e7888e1-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/46fd7b3f6c36b9d032b8cb64ad66c8e238ef8f11">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-2813f4537f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-2813f4537f-light.svg" />
-    <img alt="COMMIT: i18n: complete desktop Chinese translations and default to Chinese" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-2813f4537f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-633dd504f5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-633dd504f5-light.svg" />
+    <img alt="COMMIT: i18n: complete desktop Chinese translations and default to Chinese" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-46fd7b3-633dd504f5-light.svg" width="100%" />
   </picture>
 </a>
 <br />
