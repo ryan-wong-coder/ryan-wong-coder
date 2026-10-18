@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/4e47a9e08f3afc9dc0e1b7c397bbe509e4125c70">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/672ec6556b46d288cf07a4f71c9645e6f6411035">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e47a9e-741a0e0f2c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e47a9e-741a0e0f2c-light.svg" />
-    <img alt="COMMIT: feat(zeno-site): refine downloads and add brand motion" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e47a9e-741a0e0f2c-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-672ec65-23bb0cbd48-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-672ec65-23bb0cbd48-light.svg" />
+    <img alt="COMMIT: fix(zeno): restore model-specific thinking controls" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-672ec65-23bb0cbd48-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/36ec2d360bc969c7b62fd23ce71a9adda3f69c18">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-36ec2d3-49574eb6fc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-36ec2d3-49574eb6fc-light.svg" />
-    <img alt="COMMIT: test(zeno): verify upgrades from the original 1.0.0 release" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-36ec2d3-49574eb6fc-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-36ec2d3-abd8a69dc4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-36ec2d3-abd8a69dc4-light.svg" />
+    <img alt="COMMIT: test(zeno): verify upgrades from the original 1.0.0 release" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-36ec2d3-abd8a69dc4-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/3d0093b0e0d8d97e4f6608e3ec033e9946e91e9f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-a90222440a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-a90222440a-light.svg" />
-    <img alt="COMMIT: docs(zeno): record verified native 1.0.0 updates" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-a90222440a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-d93ef735fe-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-d93ef735fe-light.svg" />
+    <img alt="COMMIT: docs(zeno): record verified native 1.0.0 updates" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3d0093b-d93ef735fe-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/c38d3aa401c75b6c0905ac39eb6f4b3be71e8df6">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-4767eb90bc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-4767eb90bc-light.svg" />
-    <img alt="COMMIT: ci(zeno): wait for verified deployment before native update smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-4767eb90bc-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-53e590a3e9-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-53e590a3e9-light.svg" />
+    <img alt="COMMIT: ci(zeno): wait for verified deployment before native update smoke" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c38d3aa-53e590a3e9-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/5a136ec6b4ba02336e81070046304a9db0cf05a2">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-fe47dc03c6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-fe47dc03c6-light.svg" />
-    <img alt="COMMIT: ci(zeno): validate all release architectures on native runners" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-fe47dc03c6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-6bbec9fe01-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-6bbec9fe01-light.svg" />
+    <img alt="COMMIT: ci(zeno): validate all release architectures on native runners" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5a136ec-6bbec9fe01-light.svg" width="100%" />
   </picture>
 </a>
 <br />
