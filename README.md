@@ -23,45 +23,45 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/openwork/commit/e1cb9f414bab849658e6bdf889c2017dd27e2717">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e1cb9f4-b26b353946-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e1cb9f4-b26b353946-light.svg" />
-    <img alt="COMMIT: test: isolate Mac update retries and retain safe failure signals" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-e1cb9f4-b26b353946-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e1cb9f4-48617524dc-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e1cb9f4-48617524dc-light.svg" />
+    <img alt="COMMIT: test: isolate Mac update retries and retain safe failure signals" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-e1cb9f4-48617524dc-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/87ad6877b778cb9e69493f61b6915e688bcbd6b5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-c81e167dca-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-c81e167dca-light.svg" />
-    <img alt="COMMIT: fix: preserve multimodal image inputs across gateway engines" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-c81e167dca-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-d52f882aae-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-d52f882aae-light.svg" />
+    <img alt="COMMIT: fix: preserve multimodal image inputs across gateway engines" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-d52f882aae-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/3e74875ff48c6c44cb1a5f61bfc02ff73c6f1fd4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3e74875-d48a84c942-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3e74875-d48a84c942-light.svg" />
-    <img alt="COMMIT: fix(zeno-site): reselect the scene film across viewport sizes" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3e74875-d48a84c942-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3e74875-8a27670856-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3e74875-8a27670856-light.svg" />
+    <img alt="COMMIT: fix(zeno-site): reselect the scene film across viewport sizes" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3e74875-8a27670856-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/8ccf2cfca5d0356f5588e22d1a6d16a5bfc219d5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8ccf2cf-28bb3e8652-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8ccf2cf-28bb3e8652-light.svg" />
-    <img alt="COMMIT: feat(zeno-site): immerse the homepage in mascot work and life scenes" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-8ccf2cf-28bb3e8652-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8ccf2cf-97b99d35bb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8ccf2cf-97b99d35bb-light.svg" />
+    <img alt="COMMIT: feat(zeno-site): immerse the homepage in mascot work and life scenes" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-8ccf2cf-97b99d35bb-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/68bd82d5c047ee24a3f975bd7d00ab1f055922c1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-68bd82d-5a72fc3a6f-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-68bd82d-5a72fc3a6f-light.svg" />
-    <img alt="COMMIT: docs(zeno): qualify the live gateway response evidence" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-68bd82d-5a72fc3a6f-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-68bd82d-080b9e31ed-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-68bd82d-080b9e31ed-light.svg" />
+    <img alt="COMMIT: docs(zeno): qualify the live gateway response evidence" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-68bd82d-080b9e31ed-light.svg" width="100%" />
   </picture>
 </a>
 <br />
