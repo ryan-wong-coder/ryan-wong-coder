@@ -23,45 +23,45 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/openwork/commit/292d5d469cbccc00ed4a7e50db8e0d18af986c20">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-292d5d4-9c07aa7359-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-292d5d4-9c07aa7359-light.svg" />
-    <img alt="COMMIT: docs: record Zeno 1.0.5 release verification" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-292d5d4-9c07aa7359-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-292d5d4-0c44d14483-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-292d5d4-0c44d14483-light.svg" />
+    <img alt="COMMIT: docs: record Zeno 1.0.5 release verification" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-292d5d4-0c44d14483-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/39d54d6087108f35d46174e02b52d2b0b3551168">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-39d54d6-fab1516e9a-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-39d54d6-fab1516e9a-light.svg" />
-    <img alt="COMMIT: test: verify installed Zeno canvas after native update" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-39d54d6-fab1516e9a-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-39d54d6-355ac8f0be-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-39d54d6-355ac8f0be-light.svg" />
+    <img alt="COMMIT: test: verify installed Zeno canvas after native update" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-39d54d6-355ac8f0be-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/51310c0200874451e07b46e3c9345d63b681e527">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-51310c0-be59034da3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-51310c0-be59034da3-light.svg" />
-    <img alt="COMMIT: release: prepare Zeno 1.0.5 conversation canvases" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-51310c0-be59034da3-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-51310c0-dccf51ba8c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-51310c0-dccf51ba8c-light.svg" />
+    <img alt="COMMIT: release: prepare Zeno 1.0.5 conversation canvases" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-51310c0-dccf51ba8c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/8915870c72fb297f3c2fe224a1a6bde69560d6ed">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8915870-36ed43ea80-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8915870-36ed43ea80-light.svg" />
-    <img alt="COMMIT: docs: record verified Zeno 1.0.4 image fix release" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-8915870-36ed43ea80-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8915870-fed312eed6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-8915870-fed312eed6-light.svg" />
+    <img alt="COMMIT: docs: record verified Zeno 1.0.4 image fix release" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-8915870-fed312eed6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/87ad6877b778cb9e69493f61b6915e688bcbd6b5">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-d36ebf35e1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-d36ebf35e1-light.svg" />
-    <img alt="COMMIT: fix: preserve multimodal image inputs across gateway engines" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-d36ebf35e1-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-b5e47845d5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-b5e47845d5-light.svg" />
+    <img alt="COMMIT: fix: preserve multimodal image inputs across gateway engines" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-87ad687-b5e47845d5-light.svg" width="100%" />
   </picture>
 </a>
 <br />
