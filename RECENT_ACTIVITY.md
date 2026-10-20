@@ -6,6 +6,7 @@
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-10-20 12:12 | `ISSUE CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Make the main process authoritative for port forwarding runtime state](https://github.com/binaricat/Netcatty/issues/2288) |
 | 2026-09-14 10:11 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(console): expose saved connector configuration](https://github.com/ryan-iden/iden/pull/13) |
 | 2026-09-11 17:44 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
 | 2026-09-11 15:40 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: refine identity navigation header](https://github.com/ryan-iden/iden/pull/11) |
@@ -505,6 +506,5 @@
 | 2026-07-21 15:48 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Make file proofstore publication crash-durable before WAL pruning](https://github.com/wowtrust/trustdb/issues/305) |
 | 2026-07-21 15:48 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): make local publication crash durable](https://github.com/wowtrust/trustdb/pull/335) |
 | 2026-07-21 15:48 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): make local publication crash durable (#335)](https://github.com/wowtrust/trustdb/commit/37ddb23d2a26ede1cc6d11b9f282d094a69ec65d) |
-| 2026-07-21 15:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Reduce TiKV batch-tree persistence write amplification](https://github.com/wowtrust/trustdb/issues/311) |
 
-_Latest indexed activity: 2026-09-14 02:11 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-10-20 04:12 UTC · checked automatically every 10 minutes_
