@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/583e4b1c758f36b0c1ece80e75184efc03a4d71f">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/f46024a09870071dcd182ca7c41731925ceb7c2e">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-583e4b1-32fbeffaa0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-583e4b1-32fbeffaa0-light.svg" />
-    <img alt="COMMIT: Add reviewed exercise media and preserve production plan" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-583e4b1-32fbeffaa0-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f46024a-34d10a7f5c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f46024a-34d10a7f5c-light.svg" />
+    <img alt="COMMIT: fix(zeno): complete personal agent queries and catalogue access" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-f46024a-34d10a7f5c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/e3d1e9bdd7907041f6ec365174229ff8de44a8f7">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/3b6faba0166354042929d901181f007cf01f8896">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e3d1e9b-97f58727d6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e3d1e9b-97f58727d6-light.svg" />
-    <img alt="COMMIT: ci: use the current native Mac ARM test image" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-e3d1e9b-97f58727d6-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-adb338e725-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-adb338e725-light.svg" />
+    <img alt="COMMIT: test: verify personal sidebar after native upgrades" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-adb338e725-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/f9f74cce5c4f2e9cfaa5b3f6ef4e542bdc99b129">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/afb3ca5b629c5b219fd6ed942fd32811ca671532">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f9f74cc-24bbab832b-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f9f74cc-24bbab832b-light.svg" />
-    <img alt="COMMIT: docs: verify 1.1.2 release files and public downloads" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-f9f74cc-24bbab832b-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-afb3ca5-5c673596e3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-afb3ca5-5c673596e3-light.svg" />
+    <img alt="COMMIT: fix: preserve personal pages during workspace initialization" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-afb3ca5-5c673596e3-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/695a4114397395dd2e6bfcdf4e2ab1f12d617b92">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/c775b85bf3d91ae36cd882984625fda2d4213c47">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-695a411-ca030cded9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-695a411-ca030cded9-light.svg" />
-    <img alt="COMMIT: ci: bound the personal native preflight and expose progress" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-695a411-ca030cded9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c775b85-37d3ef14ab-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c775b85-37d3ef14ab-light.svg" />
+    <img alt="COMMIT: ci: register personal native validation workflows" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c775b85-37d3ef14ab-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/7a57e25be7ad8558daa237e52b6e07e77ff071c5">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/b101bdbf599b76af898a7c7cfc3c49d8cb742277">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-7a57e25-2cc1ef8f36-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-7a57e25-2cc1ef8f36-light.svg" />
-    <img alt="COMMIT: feat: add isolated interactive conversation canvases" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-7a57e25-2cc1ef8f36-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-b101bdb-09936a60e0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-b101bdb-09936a60e0-light.svg" />
+    <img alt="COMMIT: feat: add personal calendar, fitness and local AI tasks" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-b101bdb-09936a60e0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
