@@ -21,38 +21,29 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/af720167ea02af6257bf80c754e2c7a1bb52c06b">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/583e4b1c758f36b0c1ece80e75184efc03a4d71f">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-af72016-6492cf3ddc-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-af72016-6492cf3ddc-light.svg" />
-    <img alt="COMMIT: docs: record public 1.1.2 release acceptance" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-af72016-6492cf3ddc-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-583e4b1-32fbeffaa0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-583e4b1-32fbeffaa0-light.svg" />
+    <img alt="COMMIT: Add reviewed exercise media and preserve production plan" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-583e4b1-32fbeffaa0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/01864d8027776775c36659d3492407a82284059e">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/e3d1e9bdd7907041f6ec365174229ff8de44a8f7">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-01864d8-1763391e9e-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-01864d8-1763391e9e-light.svg" />
-    <img alt="COMMIT: test: bound Windows update download retries to fresh resets" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-01864d8-1763391e9e-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e3d1e9b-97f58727d6-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-e3d1e9b-97f58727d6-light.svg" />
+    <img alt="COMMIT: ci: use the current native Mac ARM test image" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-e3d1e9b-97f58727d6-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
-<a href="https://github.com/ryan-wong-coder/openwork/commit/46e5e38a5d7c4a147b0888d3a50e4788f045385e">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/f9f74cce5c4f2e9cfaa5b3f6ef4e542bdc99b129">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46e5e38-004c7c1a3c-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-46e5e38-004c7c1a3c-light.svg" />
-    <img alt="COMMIT: feat: complete original artwork and videos for 32 common exercises" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-46e5e38-004c7c1a3c-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/openwork/commit/5ede5581fecea4780c8153aa9fd4fc3570898b67">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ede558-ce24809793-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ede558-ce24809793-light.svg" />
-    <img alt="COMMIT: test: verify and deploy browser device approval across two tabs" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-5ede558-ce24809793-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f9f74cc-24bbab832b-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f9f74cc-24bbab832b-light.svg" />
+    <img alt="COMMIT: docs: verify 1.1.2 release files and public downloads" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-f9f74cc-24bbab832b-light.svg" width="100%" />
   </picture>
 </a>
 <br />
@@ -62,6 +53,15 @@ models into reliable products — from wire format and SDK to desktop interface.
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-695a411-ca030cded9-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-695a411-ca030cded9-light.svg" />
     <img alt="COMMIT: ci: bound the personal native preflight and expose progress" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-695a411-ca030cded9-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/7a57e25be7ad8558daa237e52b6e07e77ff071c5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-7a57e25-2cc1ef8f36-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-7a57e25-2cc1ef8f36-light.svg" />
+    <img alt="COMMIT: feat: add isolated interactive conversation canvases" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-7a57e25-2cc1ef8f36-light.svg" width="100%" />
   </picture>
 </a>
 <br />
