@@ -2,10 +2,11 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 200 commits · 200 pull requests · 100 issues · newest first · maximum 500
+**500 entries** · 201 commits · 146 pull requests · 153 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
+| 2026-10-20 12:12 | `ISSUE CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Make the main process authoritative for port forwarding runtime state](https://github.com/binaricat/Netcatty/issues/2288) |
 | 2026-09-14 10:11 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(console): expose saved connector configuration](https://github.com/ryan-iden/iden/pull/13) |
 | 2026-09-11 17:44 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
 | 2026-09-11 15:40 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: refine identity navigation header](https://github.com/ryan-iden/iden/pull/11) |
@@ -182,12 +183,16 @@
 | 2026-07-24 20:40 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [fix(plugins): preserve provider request semantics](https://github.com/binaricat/Netcatty/commit/87ba52dd555b0b881af055bf11147b9cb9474c90) |
 | 2026-07-24 20:40 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [fix(plugins): preserve provider request semantics](https://github.com/wukongtime/Netcatty-backup/commit/87ba52dd555b0b881af055bf11147b9cb9474c90) |
 | 2026-07-24 20:40 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [fix(plugins): preserve provider request semantics](https://github.com/DrOlu/Sensor/commit/87ba52dd555b0b881af055bf11147b9cb9474c90) |
+| 2026-07-24 20:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add .sproof v2 national-cryptography evidence and offline verification](https://github.com/wowtrust/trustdb/issues/455) |
 | 2026-07-24 20:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sproof): add national-cryptography offline evidence v2 (#577)](https://github.com/wowtrust/trustdb/commit/bc614a49bcabbda7c7bfbb14394db8d4dee176c5) |
 | 2026-07-24 20:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sproof): add national-cryptography offline evidence v2](https://github.com/wowtrust/trustdb/pull/577) |
+| 2026-07-24 19:08 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Enable CN_SM_V1 claim, receipt, batch, and STH generation on the server](https://github.com/wowtrust/trustdb/issues/454) |
 | 2026-07-24 19:08 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(server): enable CN_SM_V1 evidence generation](https://github.com/wowtrust/trustdb/pull/576) |
 | 2026-07-24 19:08 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(server): enable CN_SM_V1 evidence generation (#576)](https://github.com/wowtrust/trustdb/commit/088ccedea4d60821a3c383086d43161676bae843) |
+| 2026-07-24 17:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add an optional SDF hardware signing provider](https://github.com/wowtrust/trustdb/issues/453) |
 | 2026-07-24 17:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdf): add optional hardware signing provider](https://github.com/wowtrust/trustdb/pull/575) |
 | 2026-07-24 17:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdf): add optional hardware signing provider (#575)](https://github.com/wowtrust/trustdb/commit/6f14b427133644db508da996d999923506d04eb3) |
+| 2026-07-24 15:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a PKCS#11 signing provider](https://github.com/wowtrust/trustdb/issues/452) |
 | 2026-07-24 15:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(pkcs11): add isolated signing provider](https://github.com/wowtrust/trustdb/pull/574) |
 | 2026-07-24 15:18 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(pkcs11): add isolated signing provider (#574)](https://github.com/wowtrust/trustdb/commit/434c3a3e2887eac0cbd05deb775a121892a01fad) |
 | 2026-07-24 15:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add the immutable TrustDBAnchorV1 contract](https://github.com/wowtrust/trustdb/issues/463) |
@@ -204,6 +209,7 @@
 | 2026-07-24 11:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add supervised signer plugins (#566)](https://github.com/wowtrust/trustdb/commit/1037efaaa7e78313a8cecd1113f8fe1ab3c0cee0) |
 | 2026-07-24 11:23 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): add anchor-system semantic facade](https://github.com/wowtrust/trustdb/pull/564) |
 | 2026-07-24 11:23 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(anchor): add anchor-system semantic facade (#564)](https://github.com/wowtrust/trustdb/commit/93a2c85f2b7e82d1da54303fabba0c9603a3856f) |
+| 2026-07-24 11:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Protect software-managed private keys with SM4 envelope encryption](https://github.com/wowtrust/trustdb/issues/451) |
 | 2026-07-24 11:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add authenticated SM4 software key envelopes](https://github.com/wowtrust/trustdb/pull/567) |
 | 2026-07-24 11:18 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add authenticated SM4 software key envelopes (#567)](https://github.com/wowtrust/trustdb/commit/e43504c865a5cfc82037d471b66d1d14a72561cb) |
 | 2026-07-24 10:49 | `COMMIT` | [szeiyou/Netcatty](https://github.com/szeiyou/Netcatty) | [fix(plugins): preserve plugin host boundaries](https://github.com/szeiyou/Netcatty/commit/9d1811aaa3088a5460869b5a51a2cc318c435441) |
@@ -227,6 +233,7 @@
 | 2026-07-24 09:04 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [test(plugins): retain zero-delay status polling](https://github.com/binaricat/Netcatty/commit/307cf186be6f3c1c7157962d9ce21d49a7833f1b) |
 | 2026-07-24 09:04 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [test(plugins): retain zero-delay status polling](https://github.com/wukongtime/Netcatty-backup/commit/307cf186be6f3c1c7157962d9ce21d49a7833f1b) |
 | 2026-07-24 09:04 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [test(plugins): retain zero-delay status polling](https://github.com/DrOlu/Sensor/commit/307cf186be6f3c1c7157962d9ce21d49a7833f1b) |
+| 2026-07-24 08:58 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM2 key lifecycle support to the registry and CLI](https://github.com/wowtrust/trustdb/issues/450) |
 | 2026-07-24 08:58 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(keystore): add SM2 key lifecycle support](https://github.com/wowtrust/trustdb/pull/556) |
 | 2026-07-24 08:58 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(keystore): add SM2 key lifecycle support (#556)](https://github.com/wowtrust/trustdb/commit/f596ffbedb6b6ee7d2558b9ab0f6c34635d20c75) |
 | 2026-07-24 08:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document optional NATS ingress operations and Go SDK usage](https://github.com/wowtrust/trustdb/issues/554) |
@@ -239,20 +246,25 @@
 | 2026-07-24 08:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add a Go SDK client for optional NATS ingress](https://github.com/wowtrust/trustdb/issues/551) |
 | 2026-07-24 08:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add optional NATS ingress client](https://github.com/wowtrust/trustdb/pull/553) |
 | 2026-07-24 08:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(sdk): add optional NATS ingress client (#553)](https://github.com/wowtrust/trustdb/commit/b828b8cda62bb40b8bc6479db37f285cb6600dbe) |
+| 2026-07-24 04:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Introduce versioned software and hardware key descriptors](https://github.com/wowtrust/trustdb/issues/449) |
 | 2026-07-24 04:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add versioned key descriptors](https://github.com/wowtrust/trustdb/pull/550) |
 | 2026-07-24 04:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add versioned key descriptors (#550)](https://github.com/wowtrust/trustdb/commit/9de68de462965333108f58b124fe60f27fc58515) |
+| 2026-07-24 03:56 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add canonical SM2-SM3 signing and verification](https://github.com/wowtrust/trustdb/issues/448) |
 | 2026-07-24 03:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add canonical SM2-SM3 signatures](https://github.com/wowtrust/trustdb/pull/549) |
 | 2026-07-24 03:56 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add canonical SM2-SM3 signatures (#549)](https://github.com/wowtrust/trustdb/commit/affbac7f31c1bbd902eab26ee00e77d81a3be334) |
+| 2026-07-24 03:03 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add SM3 hashing and RFC6962-SM3 Merkle trees](https://github.com/wowtrust/trustdb/issues/447) |
 | 2026-07-24 03:03 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add SM3 and RFC6962 Merkle profiles](https://github.com/wowtrust/trustdb/pull/548) |
 | 2026-07-24 03:03 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): add SM3 and RFC6962 Merkle profiles (#548)](https://github.com/wowtrust/trustdb/commit/93645507d9c5722c56a783d23ddacbc979010927) |
 | 2026-07-24 02:22 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Wire optional NATS ingress into trustdb serve](https://github.com/wowtrust/trustdb/issues/545) |
 | 2026-07-24 02:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): wire optional ingress into serve](https://github.com/wowtrust/trustdb/pull/547) |
 | 2026-07-24 02:22 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): wire optional ingress into serve (#547)](https://github.com/wowtrust/trustdb/commit/76a942aa4ee767719f700a685dd04be08ea953fb) |
+| 2026-07-24 02:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add immutable crypto-suite markers to every proofstore backend](https://github.com/wowtrust/trustdb/issues/446) |
 | 2026-07-24 02:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(proofstore): bind namespaces to immutable crypto suites (#546)](https://github.com/wowtrust/trustdb/commit/40576837914ec633652474a03d4e9e00ea37ee20) |
 | 2026-07-24 02:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(proofstore): bind namespaces to immutable crypto suites](https://github.com/wowtrust/trustdb/pull/546) |
 | 2026-07-24 01:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Persist NATS outcomes in bounded JetStream streams](https://github.com/wowtrust/trustdb/issues/542) |
 | 2026-07-24 01:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): persist bounded immutable outcomes](https://github.com/wowtrust/trustdb/pull/544) |
 | 2026-07-24 01:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): persist bounded immutable outcomes (#544)](https://github.com/wowtrust/trustdb/commit/78a1d81876ae92972d684e3803231eaf39de274c) |
+| 2026-07-24 01:08 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Refactor signing and verification behind provider-neutral crypto interfaces](https://github.com/wowtrust/trustdb/issues/445) |
 | 2026-07-24 01:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(crypto): add provider-neutral signing contracts](https://github.com/wowtrust/trustdb/pull/543) |
 | 2026-07-24 01:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(crypto): add provider-neutral signing contracts (#543)](https://github.com/wowtrust/trustdb/commit/ee538f8218b39d4073ed2e5ff9f6d8a1df21e135) |
 | 2026-07-24 00:46 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Process JetStream ingress deliveries safely](https://github.com/wowtrust/trustdb/issues/539) |
@@ -264,8 +276,10 @@
 | 2026-07-24 00:14 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Bootstrap optional JetStream ingress resources](https://github.com/wowtrust/trustdb/issues/535) |
 | 2026-07-24 00:14 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): bootstrap optional JetStream ingress](https://github.com/wowtrust/trustdb/pull/538) |
 | 2026-07-24 00:14 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(nats): bootstrap optional JetStream ingress (#538)](https://github.com/wowtrust/trustdb/commit/c6dcfb974480a7c727c2c2f670f29f3336adffa7) |
+| 2026-07-24 00:03 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish the national-cryptography threat model and compliance evidence map](https://github.com/wowtrust/trustdb/issues/444) |
 | 2026-07-24 00:03 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): publish national crypto threat model (#537)](https://github.com/wowtrust/trustdb/commit/474e2b3e1830f6c25db640ab3108beff3c5b6b2c) |
 | 2026-07-24 00:03 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): publish national crypto threat model](https://github.com/wowtrust/trustdb/pull/537) |
+| 2026-07-23 23:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Select SM cryptography dependencies and publish conformance vectors](https://github.com/wowtrust/trustdb/issues/443) |
 | 2026-07-23 23:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): publish SM conformance baseline](https://github.com/wowtrust/trustdb/pull/534) |
 | 2026-07-23 23:45 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [test(crypto): publish SM conformance baseline (#534)](https://github.com/wowtrust/trustdb/commit/4d2e3a86306073bbd367e29bb95fe002b2cb10fe) |
 | 2026-07-23 23:23 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Define versioned NATS ingress message contracts](https://github.com/wowtrust/trustdb/issues/532) |
@@ -277,11 +291,13 @@
 | 2026-07-23 23:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add opt-in NATS ingress configuration](https://github.com/wowtrust/trustdb/issues/528) |
 | 2026-07-23 23:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(config): add opt-in NATS ingress settings](https://github.com/wowtrust/trustdb/pull/530) |
 | 2026-07-23 23:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(config): add opt-in NATS ingress settings (#530)](https://github.com/wowtrust/trustdb/commit/93573d5791097dc5bef73b7431faa1deef41b9e4) |
+| 2026-07-23 23:02 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Version evidence, storage, backup, and API formats for cryptographic agility](https://github.com/wowtrust/trustdb/issues/442) |
 | 2026-07-23 23:02 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): define crypto agility boundaries](https://github.com/wowtrust/trustdb/pull/527) |
 | 2026-07-23 23:02 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(formats): define crypto agility boundaries (#527)](https://github.com/wowtrust/trustdb/commit/9c60e8143318fef7bb73b4a3792837e3f7b86023) |
 | 2026-07-23 22:56 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add shared submission orchestration for all transports](https://github.com/wowtrust/trustdb/issues/524) |
 | 2026-07-23 22:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(submission): share transport orchestration](https://github.com/wowtrust/trustdb/pull/526) |
 | 2026-07-23 22:56 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [refactor(submission): share transport orchestration (#526)](https://github.com/wowtrust/trustdb/commit/f9dda32764d4ede8d61397e7483a1761b6815845) |
+| 2026-07-23 22:38 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define TrustDB cryptographic suite identifiers and algorithm registry](https://github.com/wowtrust/trustdb/issues/441) |
 | 2026-07-23 22:38 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry](https://github.com/wowtrust/trustdb/pull/525) |
 | 2026-07-23 22:38 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [feat(crypto): define immutable suite registry (#525)](https://github.com/wowtrust/trustdb/commit/30448810a960b43366b4d0dae4c197d5ab5cb78d) |
 | 2026-07-23 22:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Wait for the benchmark server before collecting metrics](https://github.com/wowtrust/trustdb/issues/523) |
@@ -368,6 +384,7 @@
 | 2026-07-23 01:23 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/issues/490) |
 | 2026-07-23 01:23 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative](https://github.com/wowtrust/trustdb/pull/491) |
 | 2026-07-23 01:23 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [Refresh the website with a capability-first product narrative (#491)](https://github.com/wowtrust/trustdb/commit/4ed7a689d935f6fb1d866806a0f5947e23d40e3d) |
+| 2026-07-22 22:12 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Define the China compliance scope and control matrix](https://github.com/wowtrust/trustdb/issues/440) |
 | 2026-07-22 22:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): define China control matrix](https://github.com/wowtrust/trustdb/pull/489) |
 | 2026-07-22 22:12 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(compliance): define China control matrix (#489)](https://github.com/wowtrust/trustdb/commit/a884d23b006ae88286ae8f290dd5a27885baae7f) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Complete required product certification and domestic vendor qualification](https://github.com/wowtrust/trustdb/issues/488) |
@@ -381,130 +398,113 @@
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Benchmark SM cryptography and FISCO BCOS anchoring at production scale](https://github.com/wowtrust/trustdb/issues/480) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Qualify domestic OS, CPU, database, HSM, KMS, and BCOS combinations](https://github.com/wowtrust/trustdb/issues/479) |
 | 2026-07-22 18:42 | `ISSUE OPEN` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Feature\] Add optional SM4 protection for WAL, object, and proofstore payloads](https://github.com/wowtrust/trustdb/issues/474) |
+| 2026-07-22 17:13 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Resolve desktop brace-expansion security alert](https://github.com/wowtrust/trustdb/issues/438) |
 | 2026-07-22 17:13 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion (#439)](https://github.com/wowtrust/trustdb/commit/a9e2c482b67619be216f39a322e45526cc5f15b6) |
 | 2026-07-22 17:13 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(deps): patch desktop brace-expansion](https://github.com/wowtrust/trustdb/pull/439) |
+| 2026-07-22 17:06 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Routine Dependabot scans flood security remediation CI](https://github.com/wowtrust/trustdb/issues/432) |
 | 2026-07-22 17:06 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): prioritize security updates](https://github.com/wowtrust/trustdb/pull/434) |
 | 2026-07-22 17:06 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): prioritize security updates (#434)](https://github.com/wowtrust/trustdb/commit/f4093653e29963624983bafff54e19247f8226e8) |
+| 2026-07-22 16:59 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Grouped security updates skip Dependabot auto-merge](https://github.com/wowtrust/trustdb/issues/417) |
 | 2026-07-22 16:59 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): validate grouped security versions](https://github.com/wowtrust/trustdb/pull/425) |
 | 2026-07-22 16:59 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): validate grouped security versions (#425)](https://github.com/wowtrust/trustdb/commit/81c18527eb49938c8555d14d49c9663b72dbd408) |
 | 2026-07-22 16:52 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): queue grouped security updates](https://github.com/wowtrust/trustdb/pull/418) |
 | 2026-07-22 16:52 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): queue grouped security updates (#418)](https://github.com/wowtrust/trustdb/commit/dfaec60cb90341e11b2414065b6d5ab526097798) |
+| 2026-07-22 16:47 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Branch ruleset blocks generated Dependabot pull requests](https://github.com/wowtrust/trustdb/issues/396) |
 | 2026-07-22 16:47 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): allow generated update branches (#403)](https://github.com/wowtrust/trustdb/commit/5e1de55e28fa3bcd05770d1083016d1057a42646) |
 | 2026-07-22 16:47 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): allow generated update branches](https://github.com/wowtrust/trustdb/pull/403) |
+| 2026-07-22 16:37 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Dependabot Go scans fail on TiKV PD pseudo-version](https://github.com/wowtrust/trustdb/issues/394) |
 | 2026-07-22 16:37 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): ignore invalid TiKV PD major update](https://github.com/wowtrust/trustdb/pull/395) |
 | 2026-07-22 16:37 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): ignore invalid TiKV PD major update (#395)](https://github.com/wowtrust/trustdb/commit/28ec4782ed059fab8f71de5c26409af862ec0000) |
+| 2026-07-22 16:24 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Dependabot security updates do not materialize fixes](https://github.com/wowtrust/trustdb/issues/392) |
 | 2026-07-22 16:24 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): automate security update pull requests](https://github.com/wowtrust/trustdb/pull/393) |
 | 2026-07-22 16:24 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(dependabot): automate security update pull requests (#393)](https://github.com/wowtrust/trustdb/commit/575e2610c25118ef8b7414c821cb81871ed70e04) |
+| 2026-07-22 15:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Publish TrustDB v1.0.0 stable](https://github.com/wowtrust/trustdb/issues/390) |
 | 2026-07-22 15:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v1.0.0](https://github.com/wowtrust/trustdb/pull/391) |
 | 2026-07-22 15:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [chore(release): prepare v1.0.0 (#391)](https://github.com/wowtrust/trustdb/commit/bcecbe361cb07e78051d93d5cda48f9fd85493f2) |
+| 2026-07-22 15:02 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Strengthen TrustDB positioning on the website](https://github.com/wowtrust/trustdb/issues/388) |
 | 2026-07-22 15:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): emphasize TrustDB evidence advantage](https://github.com/wowtrust/trustdb/pull/389) |
 | 2026-07-22 15:01 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): emphasize TrustDB evidence advantage (#389)](https://github.com/wowtrust/trustdb/commit/5abb84a57f6f4ba0fd6d83e000c54beb21cfe708) |
+| 2026-07-22 14:44 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Make the website explain TrustDB and compare adjacent systems](https://github.com/wowtrust/trustdb/issues/386) |
 | 2026-07-22 14:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): explain TrustDB and adjacent systems](https://github.com/wowtrust/trustdb/pull/387) |
 | 2026-07-22 14:43 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): explain TrustDB and adjacent systems (#387)](https://github.com/wowtrust/trustdb/commit/bda1895b6f359347b69b50ca7eeb3f2bab9a3055) |
+| 2026-07-22 14:11 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Document the TrustDB and SDK architecture](https://github.com/wowtrust/trustdb/issues/384) |
 | 2026-07-22 14:11 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): document TrustDB and SDK architecture](https://github.com/wowtrust/trustdb/pull/385) |
 | 2026-07-22 14:11 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): document TrustDB and SDK architecture (#385)](https://github.com/wowtrust/trustdb/commit/f8e3f853aafa3b2ed221545a852835e93597ab61) |
+| 2026-07-22 13:50 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Deploy the official website automatically from main](https://github.com/wowtrust/trustdb/issues/382) |
 | 2026-07-22 13:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): automate production deployment (#383)](https://github.com/wowtrust/trustdb/commit/14f15a133e141fe2068167833ecc9d9f43a7949a) |
 | 2026-07-22 13:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): automate production deployment](https://github.com/wowtrust/trustdb/pull/383) |
+| 2026-07-22 13:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Pin the post-migration SDK pseudo-version in install docs](https://github.com/wowtrust/trustdb/issues/380) |
 | 2026-07-22 13:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): pin post-migration SDK version (#381)](https://github.com/wowtrust/trustdb/commit/d8404efc7ef388393e1ab992110b9c334ba97fbf) |
 | 2026-07-22 13:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): pin post-migration SDK version](https://github.com/wowtrust/trustdb/pull/381) |
+| 2026-07-22 13:14 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Migrate repository and module references to wowtrust/trustdb](https://github.com/wowtrust/trustdb/issues/378) |
 | 2026-07-22 13:14 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(repo): migrate TrustDB to wowtrust organization](https://github.com/wowtrust/trustdb/pull/379) |
 | 2026-07-22 13:14 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(repo): migrate TrustDB to wowtrust organization (#379)](https://github.com/wowtrust/trustdb/commit/c91313f7f40eba046ed9183443c30385219e34a6) |
+| 2026-07-22 12:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Enable STH anchor coalescing and remove the legacy queue](https://github.com/wowtrust/trustdb/issues/376) |
 | 2026-07-22 12:36 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): enable durable STH anchor coalescing (#377)](https://github.com/wowtrust/trustdb/commit/490106e897ac46ab5fbce760953fba7dac6954fc) |
 | 2026-07-22 12:36 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): enable durable STH anchor coalescing](https://github.com/wowtrust/trustdb/pull/377) |
+| 2026-07-21 23:56 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Materialize L5 coverage for sparse STH anchors](https://github.com/wowtrust/trustdb/issues/374) |
 | 2026-07-21 23:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): materialize sparse anchor L5 coverage](https://github.com/wowtrust/trustdb/pull/375) |
 | 2026-07-21 23:55 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): materialize sparse anchor L5 coverage (#375)](https://github.com/wowtrust/trustdb/commit/0d178a7003d1e32b8d5fb684f647fa9fd78fa1c7) |
+| 2026-07-21 23:25 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Add durable coalescing state for STH anchoring](https://github.com/wowtrust/trustdb/issues/372) |
 | 2026-07-21 23:25 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): add durable coalescing scheduler state](https://github.com/wowtrust/trustdb/pull/373) |
 | 2026-07-21 23:25 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(anchor): add durable coalescing scheduler state (#373)](https://github.com/wowtrust/trustdb/commit/99f6cb500aa363d94661a503d7ee7cd460f133d4) |
+| 2026-07-21 21:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Fix offline proof export to use a covering anchored STH](https://github.com/wowtrust/trustdb/issues/370) |
 | 2026-07-21 21:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proof): export evidence from a covering anchored STH (#371)](https://github.com/wowtrust/trustdb/commit/1928389fd45ed9e90196165c84c0048b17831df9) |
 | 2026-07-21 21:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proof): export evidence from a covering anchored STH](https://github.com/wowtrust/trustdb/pull/371) |
+| 2026-07-21 20:36 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Coalesce batched Global Log STH anchors](https://github.com/wowtrust/trustdb/issues/369) |
+| 2026-07-21 20:24 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Fail logical backups on missing proof bundles](https://github.com/wowtrust/trustdb/issues/367) |
 | 2026-07-21 20:24 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(backup): reject missing manifest bundles (#368)](https://github.com/wowtrust/trustdb/commit/15576b38d1a79324b5caa68bf91bc3450d8f6405) |
 | 2026-07-21 20:24 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(backup): reject missing manifest bundles](https://github.com/wowtrust/trustdb/pull/368) |
+| 2026-07-21 20:11 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Preserve same-timestamp roots in logical backups](https://github.com/wowtrust/trustdb/issues/365) |
 | 2026-07-21 20:11 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(backup): preserve root cursor ties](https://github.com/wowtrust/trustdb/pull/366) |
 | 2026-07-21 20:11 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(backup): preserve root cursor ties (#366)](https://github.com/wowtrust/trustdb/commit/1a44459a4821b3d5fe41d30b7a449467ee951177) |
+| 2026-07-21 19:53 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Close the LocalStore global-to-anchor publication gap](https://github.com/wowtrust/trustdb/issues/363) |
 | 2026-07-21 19:53 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): close local anchor publication gap](https://github.com/wowtrust/trustdb/pull/364) |
 | 2026-07-21 19:53 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): close local anchor publication gap (#364)](https://github.com/wowtrust/trustdb/commit/8e9c012ac949b8cf2ca3d481c5c74eca82607071) |
+| 2026-07-21 19:26 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Avoid full-directory LocalStore global leaf page scans](https://github.com/wowtrust/trustdb/issues/361) |
 | 2026-07-21 19:26 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local global leaf pages](https://github.com/wowtrust/trustdb/pull/362) |
 | 2026-07-21 19:26 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local global leaf pages (#362)](https://github.com/wowtrust/trustdb/commit/e2159079b3db855f279fdf820fb313efa7cc9abb) |
+| 2026-07-21 19:09 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Avoid full-history LocalStore latest root scans](https://github.com/wowtrust/trustdb/issues/359) |
 | 2026-07-21 19:09 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): index latest local batch root (#360)](https://github.com/wowtrust/trustdb/commit/b67d4d42cc80b7e6e2504e9978366d6c1c952c7f) |
 | 2026-07-21 19:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): index latest local batch root](https://github.com/wowtrust/trustdb/pull/360) |
+| 2026-07-21 18:50 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Recognize the LINUX DO community](https://github.com/wowtrust/trustdb/issues/357) |
 | 2026-07-21 18:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): recognize the LINUX DO community](https://github.com/wowtrust/trustdb/pull/358) |
 | 2026-07-21 18:50 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(docs): recognize the LINUX DO community (#358)](https://github.com/wowtrust/trustdb/commit/9fc19430fba9de04a3e4b0d0cb90483ca47b53b7) |
+| 2026-07-21 18:40 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Avoid full-history LocalStore latest STH scans](https://github.com/wowtrust/trustdb/issues/355) |
 | 2026-07-21 18:40 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): index latest local tree head](https://github.com/wowtrust/trustdb/pull/356) |
 | 2026-07-21 18:40 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): index latest local tree head (#356)](https://github.com/wowtrust/trustdb/commit/e95c1510315b013565c90d228d84be8f434262e2) |
+| 2026-07-21 18:18 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Isolate LocalStore pending STH anchor scans](https://github.com/wowtrust/trustdb/issues/353) |
 | 2026-07-21 18:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): isolate pending anchor outbox files](https://github.com/wowtrust/trustdb/pull/354) |
 | 2026-07-21 18:18 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): isolate pending anchor outbox files (#354)](https://github.com/wowtrust/trustdb/commit/784e82f07192f8ba646ad25ac6bc6b5061925f20) |
+| 2026-07-21 18:04 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Isolate LocalStore pending Global Log outbox scans](https://github.com/wowtrust/trustdb/issues/351) |
 | 2026-07-21 18:04 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): isolate pending global outbox files (#352)](https://github.com/wowtrust/trustdb/commit/c32306b40a6e4b49e1a9000ce312247978967fbf) |
 | 2026-07-21 18:04 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): isolate pending global outbox files](https://github.com/wowtrust/trustdb/pull/352) |
+| 2026-07-21 17:45 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Honor SDK native batch signing concurrency](https://github.com/wowtrust/trustdb/issues/349) |
 | 2026-07-21 17:45 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): honor native batch signing concurrency (#350)](https://github.com/wowtrust/trustdb/commit/6c5869010b7ebc68f8f58269036cf8fbab84b5c0) |
 | 2026-07-21 17:45 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): honor native batch signing concurrency](https://github.com/wowtrust/trustdb/pull/350) |
+| 2026-07-21 17:20 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Preserve native SDK batches through load balancing](https://github.com/wowtrust/trustdb/issues/347) |
 | 2026-07-21 17:20 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): preserve native load-balanced batches (#348)](https://github.com/wowtrust/trustdb/commit/2b4402c23cf6c789ec0cd49101894da10e9851ed) |
 | 2026-07-21 17:20 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): preserve native load-balanced batches](https://github.com/wowtrust/trustdb/pull/348) |
+| 2026-07-21 17:07 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Stop SDK failover after terminal endpoint errors](https://github.com/wowtrust/trustdb/issues/345) |
 | 2026-07-21 17:07 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): stop failover on terminal errors (#346)](https://github.com/wowtrust/trustdb/commit/d256d607b7ce13e872a6fb8da57d2b0e3b549d69) |
 | 2026-07-21 17:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): stop failover on terminal errors](https://github.com/wowtrust/trustdb/pull/346) |
+| 2026-07-21 16:54 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Make segmented WAL the only server startup layout](https://github.com/wowtrust/trustdb/issues/343) |
 | 2026-07-21 16:54 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): require segmented writer layout (#344)](https://github.com/wowtrust/trustdb/commit/200cf4167233365d41611c0722fe63a8917c71d4) |
 | 2026-07-21 16:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): require segmented writer layout](https://github.com/wowtrust/trustdb/pull/344) |
+| 2026-07-21 16:44 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Fence TiKV idempotency readiness against generic commits](https://github.com/wowtrust/trustdb/issues/341) |
 | 2026-07-21 16:44 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): fence idempotency projection readiness](https://github.com/wowtrust/trustdb/pull/342) |
 | 2026-07-21 16:44 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): fence idempotency projection readiness (#342)](https://github.com/wowtrust/trustdb/commit/a07932c78ae55ea32a67fe0e0d51786ccf275f7a) |
+| 2026-07-21 16:31 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Task\] Remove unused TiKV legacy-key migration](https://github.com/wowtrust/trustdb/issues/339) |
 | 2026-07-21 16:31 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): remove legacy key migration](https://github.com/wowtrust/trustdb/pull/340) |
 | 2026-07-21 16:31 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): remove legacy key migration (#340)](https://github.com/wowtrust/trustdb/commit/18f9a557b05bf8b7af20f2d36fb68103ef808370) |
+| 2026-07-21 16:20 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Keep file WAL pruning disabled without restart idempotency](https://github.com/wowtrust/trustdb/issues/337) |
 | 2026-07-21 16:20 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): keep file WAL pruning disabled](https://github.com/wowtrust/trustdb/pull/338) |
 | 2026-07-21 16:20 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): keep file WAL pruning disabled (#338)](https://github.com/wowtrust/trustdb/commit/39b8ad30dc4e5fcc6e5d3ea43c92aa7bfafd9140) |
+| 2026-07-21 16:11 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Scope TiKV WAL checkpoints by compute node](https://github.com/wowtrust/trustdb/issues/306) |
 | 2026-07-21 16:11 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): scope durable WAL checkpoints](https://github.com/wowtrust/trustdb/pull/336) |
 | 2026-07-21 16:11 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): scope durable WAL checkpoints (#336)](https://github.com/wowtrust/trustdb/commit/89a2491c36ed97781295f5f1f5d1377b0f28f83b) |
+| 2026-07-21 15:48 | `ISSUE CLOSED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [\[Bug\] Make file proofstore publication crash-durable before WAL pruning](https://github.com/wowtrust/trustdb/issues/305) |
 | 2026-07-21 15:48 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): make local publication crash durable](https://github.com/wowtrust/trustdb/pull/335) |
-| 2026-07-21 15:18 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): tile TiKV batch trees](https://github.com/wowtrust/trustdb/pull/333) |
-| 2026-07-21 15:14 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(globallog): retry pending append conflicts](https://github.com/wowtrust/trustdb/pull/334) |
-| 2026-07-21 14:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(globallog): retry fenced append conflicts](https://github.com/wowtrust/trustdb/pull/332) |
-| 2026-07-21 14:35 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): index tikv prepared manifests](https://github.com/wowtrust/trustdb/pull/331) |
-| 2026-07-21 14:23 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ingest): dedupe unkeyed exact retries](https://github.com/wowtrust/trustdb/pull/330) |
-| 2026-07-21 14:06 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local global node cursor reads](https://github.com/wowtrust/trustdb/pull/329) |
-| 2026-07-21 13:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local manifest cursor reads](https://github.com/wowtrust/trustdb/pull/327) |
-| 2026-07-21 13:42 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local root page reads](https://github.com/wowtrust/trustdb/pull/325) |
-| 2026-07-21 13:29 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): bound local record page reads](https://github.com/wowtrust/trustdb/pull/323) |
-| 2026-07-21 13:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): remove bundle fallback reads](https://github.com/wowtrust/trustdb/pull/320) |
-| 2026-07-21 13:05 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): remove local path fallbacks](https://github.com/wowtrust/trustdb/pull/318) |
-| 2026-07-21 12:57 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(tikv): fence concurrent global log appends](https://github.com/wowtrust/trustdb/pull/316) |
-| 2026-07-21 12:47 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(persistence): preserve idempotency across checkpoints](https://github.com/wowtrust/trustdb/pull/314) |
-| 2026-07-21 11:25 | `PR MERGED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(plugins): add terminal provider API](https://github.com/binaricat/Netcatty/pull/2338) |
-| 2026-07-21 11:05 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [docs(github): standardize fix branch prefix](https://github.com/wowtrust/trustdb/pull/313) |
-| 2026-07-21 06:42 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): preserve contiguous checkpoint frontier](https://github.com/wowtrust/trustdb/pull/308) |
-| 2026-07-21 04:33 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): make namespace and recovery durable](https://github.com/wowtrust/trustdb/pull/302) |
-| 2026-07-21 03:10 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(wal): bound idle group fsync latency](https://github.com/wowtrust/trustdb/pull/300) |
-| 2026-07-21 02:16 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): batch TiKV global outbox reads](https://github.com/wowtrust/trustdb/pull/298) |
-| 2026-07-21 01:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): batch TiKV promotion reads](https://github.com/wowtrust/trustdb/pull/296) |
-| 2026-07-21 00:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reduce promotion index writes](https://github.com/wowtrust/trustdb/pull/294) |
-| 2026-07-21 00:12 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): batch record-index reference reads](https://github.com/wowtrust/trustdb/pull/292) |
-| 2026-07-20 23:43 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): reuse reverse scan batches](https://github.com/wowtrust/trustdb/pull/290) |
-| 2026-07-20 23:19 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): propagate native gRPC stream termination](https://github.com/wowtrust/trustdb/pull/288) |
-| 2026-07-20 23:06 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): defer outbox poll allocations](https://github.com/wowtrust/trustdb/pull/286) |
-| 2026-07-20 22:49 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(merkle): avoid per-leaf record boxing](https://github.com/wowtrust/trustdb/pull/284) |
-| 2026-07-20 22:41 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): avoid redundant native batch results](https://github.com/wowtrust/trustdb/pull/282) |
-| 2026-07-20 22:32 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(httpapi): reuse bounded request buffers](https://github.com/wowtrust/trustdb/pull/280) |
-| 2026-07-20 21:56 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reuse bundle decode buffers](https://github.com/wowtrust/trustdb/pull/278) |
-| 2026-07-20 21:00 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): bound numeric page scans](https://github.com/wowtrust/trustdb/pull/276) |
-| 2026-07-20 20:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid redundant directory sorting](https://github.com/wowtrust/trustdb/pull/274) |
-| 2026-07-20 20:40 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse recovery scan framing buffers](https://github.com/wowtrust/trustdb/pull/272) |
-| 2026-07-20 20:27 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(objectstore): reuse copy buffers](https://github.com/wowtrust/trustdb/pull/270) |
-| 2026-07-20 20:21 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(tikv): reduce artifact staging allocations](https://github.com/wowtrust/trustdb/pull/268) |
-| 2026-07-20 20:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): avoid artifact value boxing](https://github.com/wowtrust/trustdb/pull/266) |
-| 2026-07-20 20:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): stage record keys directly](https://github.com/wowtrust/trustdb/pull/264) |
-| 2026-07-20 19:54 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(ci): allow async immediate bench query](https://github.com/wowtrust/trustdb/pull/262) |
-| 2026-07-20 19:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(cbor): encode directly into caller buffers](https://github.com/wowtrust/trustdb/pull/260) |
-| 2026-07-20 19:39 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(wal): reuse record encoding buffer](https://github.com/wowtrust/trustdb/pull/258) |
-| 2026-07-20 19:09 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): encode directly into signing buffers](https://github.com/wowtrust/trustdb/pull/256) |
-| 2026-07-20 19:01 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(claim): reuse signing input buffers](https://github.com/wowtrust/trustdb/pull/254) |
-| 2026-07-20 18:51 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(crypto): reduce byte hashing allocations](https://github.com/wowtrust/trustdb/pull/252) |
-| 2026-07-20 18:38 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(sdk): honor native stream concurrency](https://github.com/wowtrust/trustdb/pull/250) |
-| 2026-07-20 18:25 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): avoid record page copies](https://github.com/wowtrust/trustdb/pull/248) |
-| 2026-07-20 18:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): eliminate load balancer dispatch allocations](https://github.com/wowtrust/trustdb/pull/246) |
-| 2026-07-20 18:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(sdk): reduce log claim allocations](https://github.com/wowtrust/trustdb/pull/244) |
-| 2026-07-20 17:55 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(http): reduce claim body allocations](https://github.com/wowtrust/trustdb/pull/242) |
-| 2026-07-20 17:31 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): optimize homepage artwork](https://github.com/wowtrust/trustdb/pull/240) |
-| 2026-07-20 17:22 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(website): restore green check favicon](https://github.com/wowtrust/trustdb/pull/238) |
-| 2026-07-20 17:17 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(website): load translations per locale](https://github.com/wowtrust/trustdb/pull/236) |
-| 2026-07-20 17:07 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(merkle): reject truncated audit paths](https://github.com/wowtrust/trustdb/pull/234) |
-| 2026-07-20 17:00 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(merkle): eliminate verify allocations](https://github.com/wowtrust/trustdb/pull/233) |
-| 2026-07-20 16:50 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [perf(proofstore): reduce record index allocations](https://github.com/wowtrust/trustdb/pull/230) |
-| 2026-07-20 16:28 | `PR MERGED` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(build): require Go 1.26.5](https://github.com/wowtrust/trustdb/pull/228) |
+| 2026-07-21 15:48 | `COMMIT` | [wowtrust/trustdb](https://github.com/wowtrust/trustdb) | [fix(proofstore): make local publication crash durable (#335)](https://github.com/wowtrust/trustdb/commit/37ddb23d2a26ede1cc6d11b9f282d094a69ec65d) |
 
-_Latest indexed activity: 2026-09-14 02:11 UTC · checked automatically every 10 minutes_
+_Latest indexed activity: 2026-10-20 04:12 UTC · checked automatically every 10 minutes_
