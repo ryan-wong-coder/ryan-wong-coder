@@ -21,47 +21,47 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/f46024a09870071dcd182ca7c41731925ceb7c2e">
+<a href="https://github.com/ryan-wong-coder/openwork/commit/ec55654e5b6d78deebeca35bb4c4e133a91ea1ac">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f46024a-5c92d3cee9-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-f46024a-5c92d3cee9-light.svg" />
-    <img alt="COMMIT: fix(zeno): complete personal agent queries and catalogue access" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-f46024a-5c92d3cee9-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ec55654-ea732d3022-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-ec55654-ea732d3022-light.svg" />
+    <img alt="COMMIT: chore(zeno): prepare 1.1.4 client release" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-ec55654-ea732d3022-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/9604ab7d74fbbf2551586dc96ebd4ee401bb13cf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-9604ab7-69d9d1cdc8-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-9604ab7-69d9d1cdc8-light.svg" />
+    <img alt="COMMIT: docs: retain Windows target-disk and CDP attachment evidence" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-9604ab7-69d9d1cdc8-light.svg" width="100%" />
+  </picture>
+</a>
+<br />
+
+<a href="https://github.com/ryan-wong-coder/openwork/commit/4e2adbb95c4a313555488bbdb11e920b30d0f678">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e2adbb-c1f12af357-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e2adbb-c1f12af357-light.svg" />
+    <img alt="COMMIT: docs: verify the live 32-exercise collection and preserve native receipts" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-4e2adbb-c1f12af357-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/cbd102362255e03462c1e9775cf0705f262dfc66">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-cbd1023-dc09f752ba-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-cbd1023-dc09f752ba-light.svg" />
-    <img alt="COMMIT: docs: verify live exercise media and renderer build" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-cbd1023-dc09f752ba-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-cbd1023-0b681e236f-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-cbd1023-0b681e236f-light.svg" />
+    <img alt="COMMIT: docs: verify live exercise media and renderer build" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-cbd1023-0b681e236f-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/3b6faba0166354042929d901181f007cf01f8896">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-ff3c184fb7-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-ff3c184fb7-light.svg" />
-    <img alt="COMMIT: test: verify personal sidebar after native upgrades" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-ff3c184fb7-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/openwork/commit/afb3ca5b629c5b219fd6ed942fd32811ca671532">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-afb3ca5-15b16eb158-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-afb3ca5-15b16eb158-light.svg" />
-    <img alt="COMMIT: fix: preserve personal pages during workspace initialization" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-afb3ca5-15b16eb158-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
-<a href="https://github.com/ryan-wong-coder/openwork/commit/c775b85bf3d91ae36cd882984625fda2d4213c47">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c775b85-10bcb67769-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-c775b85-10bcb67769-light.svg" />
-    <img alt="COMMIT: ci: register personal native validation workflows" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-c775b85-10bcb67769-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-443913008a-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-443913008a-light.svg" />
+    <img alt="COMMIT: test: verify personal sidebar after native upgrades" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-3b6faba-443913008a-light.svg" width="100%" />
   </picture>
 </a>
 <br />
