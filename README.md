@@ -23,45 +23,45 @@ models into reliable products — from wire format and SDK to desktop interface.
 <!-- ACTIVITY_FEED:START -->
 <a href="https://github.com/ryan-wong-coder/openwork/commit/098c41f35d659100a8a58a9f0a1085bf6a8787df">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-098c41f-07564e67db-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-098c41f-07564e67db-light.svg" />
-    <img alt="COMMIT: chore(zeno): record 1.1.3 publication and upgrade acceptance" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-098c41f-07564e67db-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-098c41f-90b0e94110-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-098c41f-90b0e94110-light.svg" />
+    <img alt="COMMIT: chore(zeno): record 1.1.3 publication and upgrade acceptance" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-098c41f-90b0e94110-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/34947d7eafbbee81845cc7117cd6e7a401c0f96c">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-2ab34cac20-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-2ab34cac20-light.svg" />
-    <img alt="COMMIT: Expand original exercise demonstrations and production catalog" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-2ab34cac20-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-5527d00c99-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-5527d00c99-light.svg" />
+    <img alt="COMMIT: Expand original exercise demonstrations and production catalog" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-5527d00c99-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/84c7f5a80488b355ab679c128da8dcd1094859a4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-84c7f5a-d59815bf62-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-84c7f5a-d59815bf62-light.svg" />
-    <img alt="COMMIT: test: fix native Windows folder predicate escaping" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-84c7f5a-d59815bf62-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-84c7f5a-fa677b3da0-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-84c7f5a-fa677b3da0-light.svg" />
+    <img alt="COMMIT: test: fix native Windows folder predicate escaping" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-84c7f5a-fa677b3da0-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/28dc7536567aeeef544c8990954d937964fbe423">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-28dc753-48ee38c896-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-28dc753-48ee38c896-light.svg" />
-    <img alt="COMMIT: test: retain sanitized native prerequisite failure facts" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-28dc753-48ee38c896-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-28dc753-e561917614-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-28dc753-e561917614-light.svg" />
+    <img alt="COMMIT: test: retain sanitized native prerequisite failure facts" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-28dc753-e561917614-light.svg" width="100%" />
   </picture>
 </a>
 <br />
 
 <a href="https://github.com/ryan-wong-coder/openwork/commit/826805aa097fa4f7d86f7d98decbad3889037b32">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-826805a-39fc97d061-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-826805a-39fc97d061-light.svg" />
-    <img alt="COMMIT: test: validate Windows updates with native default paths" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-826805a-39fc97d061-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-826805a-cabded8d0c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-826805a-cabded8d0c-light.svg" />
+    <img alt="COMMIT: test: validate Windows updates with native default paths" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-826805a-cabded8d0c-light.svg" width="100%" />
   </picture>
 </a>
 <br />
