@@ -2,24 +2,11 @@
 
 > Automatically generated from GitHub search results across public repositories. Times use Asia/Shanghai (UTC+8).
 
-**500 entries** · 444 commits · 38 pull requests · 18 issues · newest first · maximum 500
+**500 entries** · 454 commits · 27 pull requests · 19 issues · newest first · maximum 500
 
 | Time | Type | Repository | Activity |
 | --- | --- | --- | --- |
 | 2026-10-20 12:12 | `ISSUE CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Make the main process authoritative for port forwarding runtime state](https://github.com/binaricat/Netcatty/issues/2288) |
-| 2026-09-14 10:11 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(console): expose saved connector configuration](https://github.com/ryan-iden/iden/pull/13) |
-| 2026-09-11 17:44 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(experience): repair captcha profile completion and retries](https://github.com/ryan-iden/iden/pull/12) |
-| 2026-09-11 15:40 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: refine identity navigation header](https://github.com/ryan-iden/iden/pull/11) |
-| 2026-09-08 17:48 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [refactor: unify iden workspace design and motion](https://github.com/ryan-iden/iden/pull/10) |
-| 2026-09-07 16:31 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add Alibaba Cloud Captcha 2.0](https://github.com/ryan-iden/iden/pull/9) |
-| 2026-09-07 13:55 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: route self-hosted tenant management requests](https://github.com/ryan-iden/iden/pull/8) |
-| 2026-09-07 12:09 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: render uploaded user assets across origins](https://github.com/ryan-iden/iden/pull/7) |
-| 2026-09-07 09:23 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(core): serve self-hosted branding uploads](https://github.com/ryan-iden/iden/pull/6) |
-| 2026-09-06 13:33 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [feat: add platform administration and runtime branding](https://github.com/ryan-iden/iden/pull/5) |
-| 2026-09-06 01:30 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [test: align localized audit log expectation](https://github.com/ryan-iden/iden/pull/4) |
-| 2026-09-06 01:12 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: stabilize localized integration flows](https://github.com/ryan-iden/iden/pull/3) |
-| 2026-09-06 00:50 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix: localize remaining product surfaces](https://github.com/ryan-iden/iden/pull/2) |
-| 2026-09-04 15:48 | `PR MERGED` | [ryan-iden/iden](https://github.com/ryan-iden/iden) | [fix(account): correct organization member labels and role editor](https://github.com/ryan-iden/iden/pull/1) |
 | 2026-08-03 13:23 | `PR MERGED` | [ryan-wong-coder/trustdb](https://github.com/ryan-wong-coder/trustdb) | [fix(verify): support client key rotation in offline verification](https://github.com/ryan-wong-coder/trustdb/pull/1) |
 | 2026-07-28 18:01 | `ISSUE OPEN` | [SoarCollab/RecordPlatform](https://github.com/SoarCollab/RecordPlatform) | [\[合作邀请\] 探索使用 TrustDB 构建高性能、可离线验证的存证链路](https://github.com/SoarCollab/RecordPlatform/issues/323) |
 | 2026-07-28 17:20 | `ISSUE OPEN` | [FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | [Question: Go SDK maintenance status and recommended support path](https://github.com/FISCO-BCOS/FISCO-BCOS/issues/5370) |
@@ -506,5 +493,18 @@
 | 2026-07-17 13:31 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(plugins): add plugin contract and SDK](https://github.com/wukongtime/Netcatty-backup/commit/2a8dba481818fefb4a77de752c9c554124c187cc) |
 | 2026-07-17 13:31 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(plugins): add plugin contract and SDK](https://github.com/DrOlu/Sensor/commit/2a8dba481818fefb4a77de752c9c554124c187cc) |
 | 2026-07-17 11:39 | `ISSUE OPEN` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Add a secure, production-grade plugin platform](https://github.com/binaricat/Netcatty/issues/2269) |
+| 2026-07-17 10:35 | `PR MERGED` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Refresh generated cards with cache-safe URLs](https://github.com/ryan-wong-coder/ryan-wong-coder/pull/6) |
+| 2026-07-17 10:34 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Bust caches for generated profile cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/960b3ef32fccd1cd2e3fe5641a77e1f662be055e) |
+| 2026-07-17 10:30 | `PR MERGED` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Expand activity archive and enrich project cards](https://github.com/ryan-wong-coder/ryan-wong-coder/pull/5) |
+| 2026-07-17 10:28 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Expand activity archive and enrich project cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/015b42ecb96684d78a2ab050df728e6c03398155) |
+| 2026-07-17 10:11 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Replace feed tables with clickable modern cards](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/b64d8e67712dfbb3130be6d7f870e060b95c4fdb) |
+| 2026-07-17 10:00 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Add clickable PR and discussion feeds](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/50efa5857ceb63cafccbb02379724607decf31fa) |
+| 2026-07-17 09:48 | `COMMIT` | [ryan-wong-coder/ryan-wong-coder](https://github.com/ryan-wong-coder/ryan-wong-coder) | [Add auto-updating recent activity timeline](https://github.com/ryan-wong-coder/ryan-wong-coder/commit/aaa258ca59fe8afab0c91f782b21693e475b4148) |
+| 2026-07-17 09:41 | `ISSUE CLOSED` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [\[Feature\] Add convergent multi-device sync with CRDT](https://github.com/binaricat/Netcatty/issues/2245) |
+| 2026-07-17 09:41 | `COMMIT` | [StartHex/netcatty-ci](https://github.com/StartHex/netcatty-ci) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/StartHex/netcatty-ci/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
+| 2026-07-17 09:41 | `COMMIT` | [szeiyou/Netcatty](https://github.com/szeiyou/Netcatty) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/szeiyou/Netcatty/commit/148ce75bdd4658c6f3fae896a976103c7adfc787) |
+| 2026-07-17 09:41 | `COMMIT` | [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/binaricat/Netcatty/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
+| 2026-07-17 09:41 | `COMMIT` | [wukongtime/Netcatty-backup](https://github.com/wukongtime/Netcatty-backup) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/wukongtime/Netcatty-backup/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
+| 2026-07-17 09:41 | `COMMIT` | [DrOlu/Sensor](https://github.com/DrOlu/Sensor) | [feat(sync): integrate convergent multi-device sync (#2259)](https://github.com/DrOlu/Sensor/commit/e6ffbd3f6894c810d148002670f5187bf654a345) |
 
 _Latest indexed activity: 2026-10-20 04:12 UTC · checked automatically every 10 minutes_
