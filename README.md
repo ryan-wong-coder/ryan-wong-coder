@@ -21,15 +21,7 @@ models into reliable products — from wire format and SDK to desktop interface.
 ## `01 // RECENT WORK STREAM`
 
 <!-- ACTIVITY_FEED:START -->
-<a href="https://github.com/ryan-wong-coder/openwork/commit/34947d7eafbbee81845cc7117cd6e7a401c0f96c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-9ceb969648-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-9ceb969648-light.svg" />
-    <img alt="COMMIT: Expand original exercise demonstrations and production catalog" src="./assets/activity-cards/commit-ryan-wong-coder-openwork-34947d7-9ceb969648-light.svg" width="100%" />
-  </picture>
-</a>
-<br />
-
+> No recent public activity found.
 
 <p align="center"><sub>Public activity · newest first · refreshed every six hours</sub><br />
   <a href="./RECENT_ACTIVITY.md">Open the complete activity log →</a>
